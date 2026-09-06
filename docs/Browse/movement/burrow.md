@@ -38,6 +38,7 @@ If a creature who can't [burrow](burrow.md) wants to dig into the ground, they c
 
 ## Claw Dirt {data-scc="mcdm.heroes.v1/feature.ability.common/claw-dirt"}
 
+<address class="sc-embed" data-search-exclude="">
 <article class="sc-ability sc-fil" data-action="maneuver" data-conditions="slowed weakened">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Claw Dirt</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header>
 <div class="sc-ability__rail">
@@ -53,6 +54,7 @@ If a creature who can't [burrow](burrow.md) wants to dig into the ground, they c
 </div>
 </div>
 </article>
+</address>
 
 ## Burrowing Forced Movement
 

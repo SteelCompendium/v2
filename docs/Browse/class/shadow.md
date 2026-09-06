@@ -76,6 +76,7 @@ As a 1st-level [shadow](shadow.md), you gain the following features.
 
 ### Shadow College {data-scc="mcdm.heroes.v1/feature.shadow.level-1/shadow-college"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Shadow College</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Shadow</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
@@ -86,9 +87,11 @@ As a 1st-level [shadow](shadow.md), you gain the following features.
 <p>Your <a href="../../feature/shadow/level-1/shadow-college/">shadow college</a> is your <a href="../../rule/general/subclass/">subclass</a>, and your choice of college determines many of the features you&#39;ll gain as you gain new levels.</p>
 </div>
 </section>
+</address>
 
 ### Insight {data-scc="mcdm.heroes.v1/feature.shadow.level-1/insight"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="2">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Insight</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Shadow</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
@@ -114,9 +117,11 @@ As a 1st-level [shadow](shadow.md), you gain the following features.
 </div>
 </div>
 </section>
+</address>
 
 ### 1st-Level College Features {data-scc="mcdm.heroes.v1/feature.shadow.level-1/1st-level-college-features"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="5">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">1st-Level College Features</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Shadow</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
@@ -203,9 +208,11 @@ As a 1st-level [shadow](shadow.md), you gain the following features.
 </div>
 </div>
 </section>
+</address>
 
 ### College Triggered Action {data-scc="mcdm.heroes.v1/feature.shadow.level-1/college-triggered-action"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="4">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">College Triggered Action</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Shadow</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
@@ -273,9 +280,11 @@ As a 1st-level [shadow](shadow.md), you gain the following features.
 </div>
 </div>
 </section>
+</address>
 
 ### Hesitation Is Weakness {data-scc="mcdm.heroes.v1/feature.shadow.level-1/hesitation-is-weakness"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="1" data-grant="the Hesitation Is Weakness free triggered action">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Hesitation Is Weakness</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Shadow</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
@@ -301,9 +310,11 @@ As a 1st-level [shadow](shadow.md), you gain the following features.
 </div>
 </div>
 </section>
+</address>
 
 ### Kit {data-scc="mcdm.heroes.v1/feature.shadow.level-1/kit"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Kit</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Shadow</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
@@ -311,9 +322,11 @@ As a 1st-level [shadow](shadow.md), you gain the following features.
 <p>You can use and gain the benefits of a kit. See Chapter 6: <a href="../../../Read/heroes/kits/">Kits</a> for more information. (<em>Quick Build:</em> <a href="../../kit/cloak-and-dagger/">Cloak and Dagger</a>.)</p>
 </div>
 </section>
+</address>
 
 ### Shadow Abilities {data-scc="mcdm.heroes.v1/feature.shadow.level-1/shadow-abilities"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="3">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Shadow Abilities</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Shadow</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
@@ -581,6 +594,7 @@ As a 1st-level [shadow](shadow.md), you gain the following features.
 </div>
 </div>
 </section>
+</address>
 
 ## 2nd-Level Features
 
@@ -588,6 +602,7 @@ As a 2nd-level [shadow](shadow.md), you gain the following features.
 
 ### Perk {data-scc="mcdm.heroes.v1/feature.shadow.level-2/perk"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Perk</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Shadow</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 2</div></div></header>
@@ -595,9 +610,11 @@ As a 2nd-level [shadow](shadow.md), you gain the following features.
 <p>You gain one exploration, interpersonal, or intrigue perk of your choice. See Chapter 7: <a href="../../../Read/heroes/perks/">Perks</a>.</p>
 </div>
 </section>
+</address>
 
 ### 2nd-Level College Feature {data-scc="mcdm.heroes.v1/feature.shadow.level-2/2nd-level-college-feature"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="4">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">2nd-Level College Feature</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Shadow</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 2</div></div></header>
@@ -632,9 +649,11 @@ As a 2nd-level [shadow](shadow.md), you gain the following features.
 </div>
 </div>
 </section>
+</address>
 
 ### 2nd-Level College Ability {data-scc="mcdm.heroes.v1/feature.shadow.level-2/2nd-level-college-ability"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="3">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">2nd-Level College Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Shadow</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 2</div></div></header>
@@ -781,6 +800,7 @@ As a 2nd-level [shadow](shadow.md), you gain the following features.
 </div>
 </div>
 </section>
+</address>
 
 ## 3rd-Level Features
 
@@ -788,6 +808,7 @@ As a 3rd-level [shadow](shadow.md), you gain the following features.
 
 ### Careful Observation {data-scc="mcdm.heroes.v1/feature.shadow.level-3/careful-observation"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="1" data-grant="the Careful Observation maneuver">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Careful Observation</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Shadow</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 3</div></div></header>
@@ -810,9 +831,11 @@ As a 3rd-level [shadow](shadow.md), you gain the following features.
 </div>
 </div>
 </section>
+</address>
 
 ### 7-Insight Ability {data-scc="mcdm.heroes.v1/feature.shadow.level-3/7-insight-ability"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">7-Insight Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Shadow</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 3</div></div></header>
@@ -889,6 +912,7 @@ As a 3rd-level [shadow](shadow.md), you gain the following features.
 </div>
 </div>
 </section>
+</address>
 
 ## 4th-Level Features
 
@@ -896,6 +920,7 @@ As a 4th-level [shadow](shadow.md), you gain the following features.
 
 ### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.shadow.level-4/characteristic-increase"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Characteristic Increase</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Shadow</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 4</div></div></header>
@@ -903,9 +928,11 @@ As a 4th-level [shadow](shadow.md), you gain the following features.
 <p>Your <a href="../../rule/character/agility/">Agility</a> score increases to 3. Additionally, you can increase one of your <a href="../../rule/character/characteristic/">characteristic</a> scores by 1, to a maximum of 3.</p>
 </div>
 </section>
+</address>
 
 ### Keep It Down {data-scc="mcdm.heroes.v1/feature.shadow.level-4/keep-it-down"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Keep It Down</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Shadow</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 4</div></div></header>
@@ -913,9 +940,11 @@ As a 4th-level [shadow](shadow.md), you gain the following features.
 <p>While conversing with any creature you share a language with, you can decide whether anyone else can perceive what you&#39;re conveying, even while yelling.</p>
 </div>
 </section>
+</address>
 
 ### Night Watch {data-scc="mcdm.heroes.v1/feature.shadow.level-4/night-watch"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="1" data-grant="the Night Watch triggered action">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Night Watch</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Shadow</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 4</div></div></header>
@@ -943,9 +972,11 @@ As a 4th-level [shadow](shadow.md), you gain the following features.
 </div>
 </div>
 </section>
+</address>
 
 ### Perk {data-scc="mcdm.heroes.v1/feature.shadow.level-4/perk"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Perk</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Shadow</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 4</div></div></header>
@@ -953,9 +984,11 @@ As a 4th-level [shadow](shadow.md), you gain the following features.
 <p>You gain one perk of your choice.</p>
 </div>
 </section>
+</address>
 
 ### Skill {data-scc="mcdm.heroes.v1/feature.shadow.level-4/skill"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Skill</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Shadow</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 4</div></div></header>
@@ -963,9 +996,11 @@ As a 4th-level [shadow](shadow.md), you gain the following features.
 <p>You gain one skill of your choice. See Skills in Chapter 9: <a href="../../../Read/heroes/tests/">Tests</a>.</p>
 </div>
 </section>
+</address>
 
 ### Surge of Insight {data-scc="mcdm.heroes.v1/feature.shadow.level-4/surge-of-insight"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Surge of Insight</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Shadow</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 4</div></div></header>
@@ -973,6 +1008,7 @@ As a 4th-level [shadow](shadow.md), you gain the following features.
 <p>The first time each <a href="../../rule/combat/combat-round/">combat round</a> that you deal damage incorporating 1 or more <a href="../../rule/resource/surge/">surges</a>, you gain 2 insight instead of 1.</p>
 </div>
 </section>
+</address>
 
 ## 5th-Level Features
 
@@ -980,6 +1016,7 @@ As a 5th-level [shadow](shadow.md), you gain the following features.
 
 ### 5th-Level College Feature {data-scc="mcdm.heroes.v1/feature.shadow.level-5/5th-level-college-feature"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="4">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">5th-Level College Feature</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Shadow</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 5</div></div></header>
@@ -1016,9 +1053,11 @@ As a 5th-level [shadow](shadow.md), you gain the following features.
 </div>
 </div>
 </section>
+</address>
 
 ### 9-Insight Ability {data-scc="mcdm.heroes.v1/feature.shadow.level-5/9-insight-ability"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">9-Insight Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Shadow</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 5</div></div></header>
@@ -1104,6 +1143,7 @@ As a 5th-level [shadow](shadow.md), you gain the following features.
 </div>
 </div>
 </section>
+</address>
 
 ## 6th-Level Features
 
@@ -1111,6 +1151,7 @@ As a 6th-level [shadow](shadow.md), you gain the following features.
 
 ### Perk {data-scc="mcdm.heroes.v1/feature.shadow.level-6/perk"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Perk</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Shadow</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 6</div></div></header>
@@ -1118,9 +1159,11 @@ As a 6th-level [shadow](shadow.md), you gain the following features.
 <p>You gain one perk of your choice.</p>
 </div>
 </section>
+</address>
 
 ### Umbral Form {data-scc="mcdm.heroes.v1/feature.shadow.level-6/umbral-form"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Umbral Form</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Shadow</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 6</div></div></header>
@@ -1129,9 +1172,11 @@ As a 6th-level [shadow](shadow.md), you gain the following features.
 <ul><li>You can automatically climb at full <a href="../../rule/character/speed/">speed</a> while moving.</li><li>Enemies&#39; spaces don&#39;t count as <a href="../../movement/difficult-terrain/">difficult terrain</a> for you. An enemy takes corruption damage equal to your <a href="../../rule/character/agility/">Agility</a> score the first time you pass through their space on a <a href="../../rule/combat/turn/">turn</a>.</li><li>If you end your <a href="../../rule/combat/turn/">turn</a> with <a href="../../rule/combat/cover/">cover</a> or <a href="../../rule/combat/concealment/">concealment</a> from another creature, you are automatically hidden from that creature.</li><li>You gain 1 <a href="../../rule/resource/surge/">surge</a> at the start of each of your <a href="../../rule/combat/turn/">turns</a>.</li><li>You have corruption immunity equal to 5 + your level.</li><li>Creatures gain an <a href="../../rule/dice/edge/">edge</a> on <a href="../../rule/combat/strike/">strikes</a> against you.</li><li>You take a <a href="../../rule/dice/bane/">bane</a> on <a href="../../rule/character/presence/">Presence</a> <a href="../../rule/test/test/">tests</a> made to interact with other creatures.</li></ul>
 </div>
 </section>
+</address>
 
 ### 6th-Level College Ability {data-scc="mcdm.heroes.v1/feature.shadow.level-6/6th-level-college-ability"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="3">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">6th-Level College Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Shadow</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 6</div></div></header>
@@ -1267,6 +1312,7 @@ As a 6th-level [shadow](shadow.md), you gain the following features.
 </div>
 </div>
 </section>
+</address>
 
 ## 7th-Level Features
 
@@ -1274,6 +1320,7 @@ As a 7th-level [shadow](shadow.md), you gain the following features.
 
 ### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.shadow.level-7/characteristic-increase"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Characteristic Increase</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Shadow</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 7</div></div></header>
@@ -1281,9 +1328,11 @@ As a 7th-level [shadow](shadow.md), you gain the following features.
 <p>Each of your <a href="../../rule/character/characteristic/">characteristic</a> scores increases by 1, to a maximum of 4.</p>
 </div>
 </section>
+</address>
 
 ### Keen Insight {data-scc="mcdm.heroes.v1/feature.shadow.level-7/keen-insight"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Keen Insight</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Shadow</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 7</div></div></header>
@@ -1291,9 +1340,11 @@ As a 7th-level [shadow](shadow.md), you gain the following features.
 <p>At the start of each of your <a href="../../rule/combat/turn/">turns</a> during combat, you gain 1d3 + 1 insight instead of 1d3.</p>
 </div>
 </section>
+</address>
 
 ### Skill {data-scc="mcdm.heroes.v1/feature.shadow.level-7/skill"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Skill</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Shadow</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 7</div></div></header>
@@ -1301,9 +1352,11 @@ As a 7th-level [shadow](shadow.md), you gain the following features.
 <p>You gain one skill of your choice.</p>
 </div>
 </section>
+</address>
 
 ### Careful Observation Improvement {data-scc="mcdm.heroes.v1/feature.shadow.level-7/careful-observation-improvement"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Careful Observation Improvement</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Shadow</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 7</div></div></header>
@@ -1311,9 +1364,11 @@ As a 7th-level [shadow](shadow.md), you gain the following features.
 <p>You can target two creatures simultaneously with your <a href="../../feature/ability/shadow/level-3/careful-observation/">Careful Observation</a> ability, observing both simultaneously. Making a <a href="../../rule/combat/strike/">strike</a> against one target doesn&#39;t end your observation of the other target.</p>
 </div>
 </section>
+</address>
 
 ### Ventriloquist {data-scc="mcdm.heroes.v1/feature.shadow.level-7/ventriloquist"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Ventriloquist</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Shadow</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 7</div></div></header>
@@ -1321,6 +1376,7 @@ As a 7th-level [shadow](shadow.md), you gain the following features.
 <p>Whenever you communicate, you can throw your voice so that it seems to originate from a creature or object within 10 squares. If you are hidden, talking this way doesn&#39;t cause you to be revealed.</p>
 </div>
 </section>
+</address>
 
 ## 8th-Level Features
 
@@ -1328,6 +1384,7 @@ As an 8th-level [shadow](shadow.md), you gain the following features.
 
 ### Perk {data-scc="mcdm.heroes.v1/feature.shadow.level-8/perk"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Perk</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Shadow</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 8</div></div></header>
@@ -1335,9 +1392,11 @@ As an 8th-level [shadow](shadow.md), you gain the following features.
 <p>You gain one perk of your choice.</p>
 </div>
 </section>
+</address>
 
 ### 8th-Level College Feature {data-scc="mcdm.heroes.v1/feature.shadow.level-8/8th-level-college-feature"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="4">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">8th-Level College Feature</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Shadow</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 8</div></div></header>
@@ -1387,9 +1446,11 @@ As an 8th-level [shadow](shadow.md), you gain the following features.
 </div>
 </div>
 </section>
+</address>
 
 ### 11-Insight Ability {data-scc="mcdm.heroes.v1/feature.shadow.level-8/11-insight-ability"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">11-Insight Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Shadow</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 8</div></div></header>
@@ -1467,6 +1528,7 @@ As an 8th-level [shadow](shadow.md), you gain the following features.
 </div>
 </div>
 </section>
+</address>
 
 ## 9th-Level Features
 
@@ -1474,6 +1536,7 @@ As a 9th-level [shadow](shadow.md), you gain the following features.
 
 ### Gloom Squad {data-scc="mcdm.heroes.v1/feature.shadow.level-9/gloom-squad"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Gloom Squad</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Shadow</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 9</div></div></header>
@@ -1482,9 +1545,11 @@ As a 9th-level [shadow](shadow.md), you gain the following features.
 <p>Outside of combat, you can have one clone active for every 2 <a href="../../rule/resource/victories/">Victories</a> you have. If a clone is destroyed, you must wait 1 hour before creating another one.</p>
 </div>
 </section>
+</address>
 
 ### 9th-Level College Ability {data-scc="mcdm.heroes.v1/feature.shadow.level-9/9th-level-college-ability"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="3">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">9th-Level College Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Shadow</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 9</div></div></header>
@@ -1636,6 +1701,7 @@ As a 9th-level [shadow](shadow.md), you gain the following features.
 </div>
 </div>
 </section>
+</address>
 
 ## 10th-Level Features
 
@@ -1643,6 +1709,7 @@ As a 10th-level [shadow](shadow.md), you gain the following features.
 
 ### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.shadow.level-10/characteristic-increase"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Characteristic Increase</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Shadow</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 10</div></div></header>
@@ -1650,9 +1717,11 @@ As a 10th-level [shadow](shadow.md), you gain the following features.
 <p>Your <a href="../../rule/character/agility/">Agility</a> score increases to 5. Additionally, you can increase one of your <a href="../../rule/character/characteristic/">characteristic</a> scores by 1, to a maximum of 5.</p>
 </div>
 </section>
+</address>
 
 ### Death Pool {data-scc="mcdm.heroes.v1/feature.shadow.level-10/death-pool"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Death Pool</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Shadow</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 10</div></div></header>
@@ -1660,9 +1729,11 @@ As a 10th-level [shadow](shadow.md), you gain the following features.
 <p>The first time each <a href="../../rule/combat/combat-round/">combat round</a> that you deal damage incorporating 1 or more <a href="../../rule/resource/surge/">surges</a>, you gain 3 insight instead of 2.</p>
 </div>
 </section>
+</address>
 
 ### Perk {data-scc="mcdm.heroes.v1/feature.shadow.level-10/perk"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Perk</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Shadow</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 10</div></div></header>
@@ -1670,9 +1741,11 @@ As a 10th-level [shadow](shadow.md), you gain the following features.
 <p>You gain one perk of your choice.</p>
 </div>
 </section>
+</address>
 
 ### Skill {data-scc="mcdm.heroes.v1/feature.shadow.level-10/skill"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Skill</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Shadow</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 10</div></div></header>
@@ -1680,9 +1753,11 @@ As a 10th-level [shadow](shadow.md), you gain the following features.
 <p>You gain one skill of your choice.</p>
 </div>
 </section>
+</address>
 
 ### Careful Observation Improvement {data-scc="mcdm.heroes.v1/feature.shadow.level-10/careful-observation-improvement"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Careful Observation Improvement</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Shadow</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 10</div></div></header>
@@ -1690,9 +1765,11 @@ As a 10th-level [shadow](shadow.md), you gain the following features.
 <p>You can target three creatures simultaneously with your <a href="../../feature/ability/shadow/level-3/careful-observation/">Careful Observation</a> ability.</p>
 </div>
 </section>
+</address>
 
 ### Improved Umbral Form {data-scc="mcdm.heroes.v1/feature.shadow.level-10/improved-umbral-form"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Improved Umbral Form</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Shadow</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 10</div></div></header>
@@ -1701,9 +1778,11 @@ As a 10th-level [shadow](shadow.md), you gain the following features.
 <p>While you are in your <a href="../../feature/shadow/level-6/umbral-form/">umbral form</a>, you can spend 1 uninterrupted minute concentrating on a location where you&#39;ve been before. At the end of that minute, you and each willing creature of your choice within 10 squares of you can <a href="../../movement/teleport/">teleport</a> to unoccupied spaces of your choice within that location. Each creature who <a href="../../movement/teleport/">teleports</a> this way is invisible for 1 hour or until they use an ability.</p>
 </div>
 </section>
+</address>
 
 ### Subterfuge {data-scc="mcdm.heroes.v1/feature.shadow.level-10/subterfuge"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Subterfuge</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Shadow</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 10</div></div></header>
@@ -1713,3 +1792,4 @@ As a 10th-level [shadow](shadow.md), you gain the following features.
 <p><a href="../../feature/shadow/level-10/subterfuge/">Subterfuge</a> remains until you spend it.</p>
 </div>
 </section>
+</address>

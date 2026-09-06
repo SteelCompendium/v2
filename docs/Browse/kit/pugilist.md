@@ -44,6 +44,7 @@ type: kit
 
 ### Let's Dance {data-scc="mcdm.heroes.v1/feature.ability.pugilist/lets-dance"}
 
+<address class="sc-embed" data-search-exclude="">
 <article class="sc-ability sc-fil" data-action="main">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Let&#39;s Dance</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Pugilist</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">Keeping your enemies stumbling around the battlefield is second nature to you.</p>
@@ -65,3 +66,4 @@ type: kit
 <div class="sc-ability__section-body"><p>You can <a href="../../movement/shifting/">shift</a> into any square the target leaves after you <a href="../../movement/forced-movement/">slide</a> them.</p></div>
 </div>
 </article>
+</address>

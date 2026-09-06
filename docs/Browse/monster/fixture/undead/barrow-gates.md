@@ -1,8 +1,6 @@
 ---
 printing: "1.0"
 printing_book: "The Summoner"
-search:
-  boost: 0.6
 features:
     - body: Each enemy that starts their [turn](../../../rule/combat/turn.md) within 3 squares of the gates is I < AVERAGE [frightened](../../../condition/frightened.md) (EoT) by the gates. The [potency](../../../rule/character/potency.md) increases by 1 for [winded](../../../rule/health/winded.md) enemies.
       icon: ⭐️
@@ -35,11 +33,11 @@ type: featureblock
 </div>
 <div class="fb__feats">
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">The Bell Tolls</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
+<div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-the-bell-tolls">The Bell Tolls</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
 <div class="fb__feat-body">Each enemy that starts their <a href="../../../../rule/combat/turn/">turn</a> within 3 squares of the gates is I &lt; AVERAGE <a href="../../../../condition/frightened/">frightened</a> (EoT) by the gates. The <a href="../../../../rule/character/potency/">potency</a> increases by 1 for <a href="../../../../rule/health/winded/">winded</a> enemies.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Undead Dominion</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
+<div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-undead-dominion">Undead Dominion</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
 <div class="fb__feat-body">Each of your undead <a href="../../../../feature/summoner/level-1/minions/">minions</a> has <a href="../../../../rule/damage/damage-immunity/">damage immunity</a> 2 while occupying a space within 3 squares of the gates.</div>
 </article>
 </div>
@@ -49,6 +47,7 @@ type: featureblock
 
 ## Barrow Gates Advancement Features {data-scc="mcdm.summoner.v1/monster.fixture.undead.advancement-features/barrow-gates"}
 
+<address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="feature">
 <article class="fb md-typeset">
 <header class="sc-head fb__head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Barrow Gates Advancement Features</h2></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
@@ -74,3 +73,4 @@ type: featureblock
 </div>
 </article>
 </div>
+</address>

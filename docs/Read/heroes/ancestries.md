@@ -381,6 +381,7 @@ She blushed in spite of herself and raised her own glass in a toast. "You silver
 
 ### Devil Traits {data-scc="mcdm.heroes.v1/feature.trait.devil/devil-traits"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--section" data-action="trait" data-sub="2">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Trait</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Devil Traits</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Devil</div></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
@@ -446,6 +447,7 @@ She blushed in spite of herself and raised her own glass in a toast. "You silver
 </div>
 </div>
 </section>
+</address>
 
 ## Dragon Knight {data-scc="mcdm.heroes.v1/ancestry/dragon-knight"}
 
@@ -535,6 +537,7 @@ The [dragon knight](../../Browse/ancestry/dragon-knight.md) looked at the people
 
 ### Dragon Knight Traits {data-scc="mcdm.heroes.v1/feature.trait.dragon-knight/dragon-knight-traits"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--section" data-action="trait" data-sub="2">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Trait</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Dragon Knight Traits</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Dragon Knight</div></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
@@ -637,6 +640,7 @@ The [dragon knight](../../Browse/ancestry/dragon-knight.md) looked at the people
 </div>
 </div>
 </section>
+</address>
 
 ## Dwarf {data-scc="mcdm.heroes.v1/ancestry/dwarf"}
 
@@ -744,6 +748,7 @@ John was grinning madly at Embers. She held up three fingers.
 
 ### Dwarf Traits {data-scc="mcdm.heroes.v1/feature.trait.dwarf/dwarf-traits"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--section" data-action="trait" data-sub="2">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Trait</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Dwarf Traits</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Dwarf</div></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
@@ -801,6 +806,7 @@ John was grinning madly at Embers. She held up three fingers.
 </div>
 </div>
 </section>
+</address>
 
 ## Wode Elf {data-scc="mcdm.heroes.v1/ancestry/wode-elf"}
 
@@ -888,6 +894,7 @@ Jeremy turned to Dade. "I feel like we're in a dream," he whispered. "You are!" 
 
 ### Wode Elf Traits {data-scc="mcdm.heroes.v1/feature.trait.wode-elf/wode-elf-traits"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--section" data-action="trait" data-sub="2">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Trait</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Wode Elf Traits</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Wode Elf</div></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
@@ -966,6 +973,7 @@ Jeremy turned to Dade. "I feel like we're in a dream," he whispered. "You are!" 
 </div>
 </div>
 </section>
+</address>
 
 ## High Elf {data-scc="mcdm.heroes.v1/ancestry/high-elf"}
 
@@ -1041,6 +1049,7 @@ Llyander put their hands on their hips and regarded the children. "Not bad for y
 
 ### High Elf Traits {data-scc="mcdm.heroes.v1/feature.trait.high-elf/high-elf-traits"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--section" data-action="trait" data-sub="2">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Trait</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">High Elf Traits</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">High Elf</div></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
@@ -1100,6 +1109,7 @@ Llyander put their hands on their hips and regarded the children. "Not bad for y
 </div>
 </div>
 </section>
+</address>
 
 ## Hakaan {data-scc="mcdm.heroes.v1/ancestry/hakaan"}
 
@@ -1201,6 +1211,7 @@ Ardashir grinned. "Strength alone is not enough." He assumed a fighting pose, ha
 
 ### Hakaan Traits {data-scc="mcdm.heroes.v1/feature.trait.hakaan/hakaan-traits"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--section" data-action="trait" data-sub="2">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Trait</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Hakaan Traits</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Hakaan</div></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
@@ -1256,6 +1267,7 @@ Ardashir grinned. "Strength alone is not enough." He assumed a fighting pose, ha
 </div>
 </div>
 </section>
+</address>
 
 ## Human {data-scc="mcdm.heroes.v1/ancestry/human"}
 
@@ -1301,6 +1313,7 @@ Some of your names, I will see written in future textbooks. But some of your nam
 
 ### Human Traits {data-scc="mcdm.heroes.v1/feature.trait.human/human-traits"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--section" data-action="trait" data-sub="2">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Trait</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Human Traits</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Human</div></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
@@ -1354,6 +1367,7 @@ Some of your names, I will see written in future textbooks. But some of your nam
 </div>
 </div>
 </section>
+</address>
 
 ## Memonek {data-scc="mcdm.heroes.v1/ancestry/memonek"}
 
@@ -1447,6 +1461,7 @@ John offered his hand. Revile shook it and then held it.
 
 ### Memonek Traits {data-scc="mcdm.heroes.v1/feature.trait.memonek/memonek-traits"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--section" data-action="trait" data-sub="3">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Trait</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Memonek Traits</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Memonek</div></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
@@ -1518,6 +1533,7 @@ John offered his hand. Revile shook it and then held it.
 </div>
 </div>
 </section>
+</address>
 
 ## Orc {data-scc="mcdm.heroes.v1/ancestry/orc"}
 
@@ -1645,6 +1661,7 @@ Khorva shook her head. "[Orcs](../../Browse/ancestry/orc.md) have no great love 
 
 ### Orc Traits {data-scc="mcdm.heroes.v1/feature.trait.orc/orc-traits"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--section" data-action="trait" data-sub="2">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Trait</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Orc Traits</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Orc</div></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
@@ -1698,6 +1715,7 @@ Khorva shook her head. "[Orcs](../../Browse/ancestry/orc.md) have no great love 
 </div>
 </div>
 </section>
+</address>
 
 ## Polder {data-scc="mcdm.heroes.v1/ancestry/polder"}
 
@@ -1817,6 +1835,7 @@ The [dragon knight](../../Browse/ancestry/dragon-knight.md) stared at them for a
 
 ### Polder Traits {data-scc="mcdm.heroes.v1/feature.trait.polder/polder-traits"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--section" data-action="trait" data-sub="3">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Trait</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Polder Traits</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Polder</div></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
@@ -1897,6 +1916,7 @@ The [dragon knight](../../Browse/ancestry/dragon-knight.md) stared at them for a
 </div>
 </div>
 </section>
+</address>
 
 ## Revenant {data-scc="mcdm.heroes.v1/ancestry/revenant"}
 
@@ -1964,6 +1984,7 @@ Lady Filliamo shrugged. "I'm a knight of the church. Jurisdiction's for the city
 
 ### Revenant Traits {data-scc="mcdm.heroes.v1/feature.trait.revenant/revenant-traits"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--section" data-action="trait" data-sub="2">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Trait</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Revenant Traits</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Revenant</div></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
@@ -2049,6 +2070,7 @@ Lady Filliamo shrugged. "I'm a knight of the church. Jurisdiction's for the city
 </div>
 </div>
 </section>
+</address>
 
 ## Time Raider {data-scc="mcdm.heroes.v1/ancestry/time-raider"}
 
@@ -2148,6 +2170,7 @@ John hadn't hesitated, he'd already drawn his sword and falchion. "All right, yo
 
 ### Time Raider Traits {data-scc="mcdm.heroes.v1/feature.trait.time-raider/time-raider-traits"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--section" data-action="trait" data-sub="2">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Trait</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Time Raider Traits</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Time Raider</div></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
@@ -2256,3 +2279,4 @@ John hadn't hesitated, he'd already drawn his sword and falchion. "All right, yo
 </div>
 </div>
 </section>
+</address>

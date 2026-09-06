@@ -76,6 +76,7 @@ As a [conduit](conduit.md), you gain the following features.
 
 ### Deity and Domains {data-scc="mcdm.heroes.v1/feature.conduit.level-1/deity-and-domains"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Deity and Domains</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Conduit</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
@@ -84,9 +85,11 @@ As a [conduit](conduit.md), you gain the following features.
 <p>After choosing your deity, pick two domains from their portfolio. The two domains you pick make up your <a href="../../rule/general/subclass/">subclass</a>, and your choice of domains determines many of the features you&#39;ll gain as you gain new levels. (<em>Quick Build:</em> <a href="../../religion/god/adun/">Adûn</a> for deity, and Life and Protection as domains.)</p>
 </div>
 </section>
+</address>
 
 ### Piety {data-scc="mcdm.heroes.v1/feature.conduit.level-1/piety"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="3">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Piety</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Conduit</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
@@ -193,9 +196,11 @@ As a [conduit](conduit.md), you gain the following features.
 </div>
 </div>
 </section>
+</address>
 
 ### 1st-Level Domain Feature {data-scc="mcdm.heroes.v1/feature.conduit.level-1/1st-level-domain-feature"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="13">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">1st-Level Domain Feature</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Conduit</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
@@ -333,9 +338,11 @@ As a [conduit](conduit.md), you gain the following features.
 </div>
 </div>
 </section>
+</address>
 
 ### Healing Grace {data-scc="mcdm.heroes.v1/feature.conduit.level-1/healing-grace"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="1" data-grant="the Healing Grace maneuver">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Healing Grace</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Conduit</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
@@ -362,9 +369,11 @@ As a [conduit](conduit.md), you gain the following features.
 </div>
 </div>
 </section>
+</address>
 
 ### Ray of Wrath {data-scc="mcdm.heroes.v1/feature.conduit.level-1/ray-of-wrath"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="1" data-grant="the Ray of Wrath main action">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Ray of Wrath</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Conduit</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
@@ -395,9 +404,11 @@ As a [conduit](conduit.md), you gain the following features.
 </div>
 </div>
 </section>
+</address>
 
 ### Triggered Action {data-scc="mcdm.heroes.v1/feature.conduit.level-1/triggered-action"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="2">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Triggered Action</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Conduit</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
@@ -443,9 +454,11 @@ As a [conduit](conduit.md), you gain the following features.
 </div>
 </div>
 </section>
+</address>
 
 ### Prayer {data-scc="mcdm.heroes.v1/feature.conduit.level-1/prayer"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="5">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Prayer</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Conduit</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
@@ -486,9 +499,11 @@ As a [conduit](conduit.md), you gain the following features.
 </div>
 </div>
 </section>
+</address>
 
 ### Conduit Ward {data-scc="mcdm.heroes.v1/feature.conduit.level-1/conduit-ward"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="4">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Conduit Ward</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Conduit</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
@@ -522,9 +537,11 @@ As a [conduit](conduit.md), you gain the following features.
 </div>
 </div>
 </section>
+</address>
 
 ### Conduit Abilities {data-scc="mcdm.heroes.v1/feature.conduit.level-1/conduit-abilities"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="2">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Conduit Abilities</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Conduit</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
@@ -858,6 +875,7 @@ As a [conduit](conduit.md), you gain the following features.
 </div>
 </div>
 </section>
+</address>
 
 ## 2nd-Level Features
 
@@ -865,6 +883,7 @@ As a 2nd-level [conduit](conduit.md), you gain the following features.
 
 ### The Lists of Heaven {data-scc="mcdm.heroes.v1/feature.conduit.level-2/the-lists-of-heaven"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">The Lists of Heaven</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Conduit</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 2</div></div></header>
@@ -872,9 +891,11 @@ As a 2nd-level [conduit](conduit.md), you gain the following features.
 <p>Your deity is aware of your growing influence, making it easier to draw their attention and power when you heal your allies. Whenever you allow another creature to spend a <a href="../../rule/health/recoveries/">Recovery</a>, you can also spend a <a href="../../rule/health/recoveries/">Recovery</a>.</p>
 </div>
 </section>
+</address>
 
 ### Perk {data-scc="mcdm.heroes.v1/feature.conduit.level-2/perk"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Perk</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Conduit</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 2</div></div></header>
@@ -882,9 +903,11 @@ As a 2nd-level [conduit](conduit.md), you gain the following features.
 <p>You gain one crafting, lore, or <a href="../../rule/general/supernatural/">supernatural</a> perk of your choice. See Chapter 7: <a href="../../../Read/heroes/perks/">Perks</a>.</p>
 </div>
 </section>
+</address>
 
 ### 2nd-Level Domain Feature {data-scc="mcdm.heroes.v1/feature.conduit.level-2/2nd-level-domain-feature"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">2nd-Level Domain Feature</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Conduit</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 2</div></div></header>
@@ -892,9 +915,11 @@ As a 2nd-level [conduit](conduit.md), you gain the following features.
 <p>You gain the 1st-level domain feature and ability to choose a skill for the domain you selected at 1st level but whose domain feature you didn&#39;t take at that level (see 1st-Level Domain Feature).</p>
 </div>
 </section>
+</address>
 
 ### 2nd-Level Domain Ability {data-scc="mcdm.heroes.v1/feature.conduit.level-2/2nd-level-domain-ability"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="13">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">2nd-Level Domain Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Conduit</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 2</div></div></header>
@@ -1086,6 +1111,7 @@ As a 2nd-level [conduit](conduit.md), you gain the following features.
 </div>
 </div>
 </section>
+</address>
 
 ## 3rd-Level Features
 
@@ -1093,6 +1119,7 @@ As a 3rd-level [conduit](conduit.md), you gain the following features.
 
 ### Minor Miracle {data-scc="mcdm.heroes.v1/feature.conduit.level-3/minor-miracle"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Minor Miracle</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Conduit</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 3</div></div></header>
@@ -1101,9 +1128,11 @@ As a 3rd-level [conduit](conduit.md), you gain the following features.
 <p>A creature with a willing soul returns to life at the end of the <a href="../../rule/resource/respite/">respite</a> with full <a href="../../rule/health/stamina/">Stamina</a> and half their <a href="../../rule/health/recoveries/">Recoveries</a>. You regain only half your <a href="../../rule/health/recoveries/">Recoveries</a> at the end of the <a href="../../rule/resource/respite/">respite</a>.</p>
 </div>
 </section>
+</address>
 
 ### 7-Piety Ability {data-scc="mcdm.heroes.v1/feature.conduit.level-3/7-piety-ability"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">7-Piety Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Conduit</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 3</div></div></header>
@@ -1189,6 +1218,7 @@ As a 3rd-level [conduit](conduit.md), you gain the following features.
 </div>
 </div>
 </section>
+</address>
 
 ## 4th-Level Features
 
@@ -1196,6 +1226,7 @@ As a 4th-level [conduit](conduit.md), you gain the following features.
 
 ### Blessed Domain {data-scc="mcdm.heroes.v1/feature.conduit.level-4/blessed-domain"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Blessed Domain</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Conduit</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 4</div></div></header>
@@ -1203,9 +1234,11 @@ As a 4th-level [conduit](conduit.md), you gain the following features.
 <p>Whenever you gain piety from a domain effect, you gain 1 additional piety.</p>
 </div>
 </section>
+</address>
 
 ### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.conduit.level-4/characteristic-increase"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Characteristic Increase</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Conduit</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 4</div></div></header>
@@ -1213,9 +1246,11 @@ As a 4th-level [conduit](conduit.md), you gain the following features.
 <p>Your <a href="../../rule/character/intuition/">Intuition</a> score increases to 3. Additionally, you can increase one of your <a href="../../rule/character/characteristic/">characteristic</a> scores by 1, to a maximum of 3.</p>
 </div>
 </section>
+</address>
 
 ### Perk {data-scc="mcdm.heroes.v1/feature.conduit.level-4/perk"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Perk</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Conduit</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 4</div></div></header>
@@ -1223,9 +1258,11 @@ As a 4th-level [conduit](conduit.md), you gain the following features.
 <p>You gain one perk of your choice.</p>
 </div>
 </section>
+</address>
 
 ### Skill {data-scc="mcdm.heroes.v1/feature.conduit.level-4/skill"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Skill</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Conduit</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 4</div></div></header>
@@ -1233,9 +1270,11 @@ As a 4th-level [conduit](conduit.md), you gain the following features.
 <p>You gain one skill of your choice. See Skills in Chapter 9: <a href="../../../Read/heroes/tests/">Tests</a>.</p>
 </div>
 </section>
+</address>
 
 ### 4th-Level Domain Feature {data-scc="mcdm.heroes.v1/feature.conduit.level-4/4th-level-domain-feature"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="14">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">4th-Level Domain Feature</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Conduit</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 4</div></div></header>
@@ -1337,6 +1376,7 @@ As a 4th-level [conduit](conduit.md), you gain the following features.
 </div>
 </div>
 </section>
+</address>
 
 ## 5th-Level Features
 
@@ -1344,6 +1384,7 @@ As a 5th-level [conduit](conduit.md), you gain the following features.
 
 ### 5th-Level Domain Feature {data-scc="mcdm.heroes.v1/feature.conduit.level-5/5th-level-domain-feature"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">5th-Level Domain Feature</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Conduit</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 5</div></div></header>
@@ -1351,9 +1392,11 @@ As a 5th-level [conduit](conduit.md), you gain the following features.
 <p>You gain the 4th-level domain feature for the domain whose feature you didn&#39;t select at that level (see 4th-Level Domain Feature).</p>
 </div>
 </section>
+</address>
 
 ### 9-Piety Ability {data-scc="mcdm.heroes.v1/feature.conduit.level-5/9-piety-ability"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">9-Piety Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Conduit</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 5</div></div></header>
@@ -1427,6 +1470,7 @@ As a 5th-level [conduit](conduit.md), you gain the following features.
 </div>
 </div>
 </section>
+</address>
 
 ## 6th-Level Features
 
@@ -1434,6 +1478,7 @@ As a 6th-level [conduit](conduit.md), you gain the following features.
 
 ### Burgeoning Saint {data-scc="mcdm.heroes.v1/feature.conduit.level-6/burgeoning-saint"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Burgeoning Saint</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Conduit</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 6</div></div></header>
@@ -1442,9 +1487,11 @@ As a 6th-level [conduit](conduit.md), you gain the following features.
 <ul><li>You gain an <a href="../../rule/dice/edge/">edge</a> on <a href="../../rule/character/presence/">Presence</a> <a href="../../rule/test/test/">tests</a> made to interact with other creatures.</li><li>Whenever you deal damage to an enemy, you can spend a <a href="../../rule/health/recoveries/">Recovery</a>.</li><li>You have corruption immunity 10 or holy immunity 10 (your choice).</li><li>Your clothing and equipment changes in a way that reflects your status as your deity&#39;s chosen champion, such as ordinary robes turning into gold vestments or a simple dagger becoming a wicked blade with intricate etching.</li></ul>
 </div>
 </section>
+</address>
 
 ### Perk {data-scc="mcdm.heroes.v1/feature.conduit.level-6/perk"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Perk</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Conduit</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 6</div></div></header>
@@ -1452,9 +1499,11 @@ As a 6th-level [conduit](conduit.md), you gain the following features.
 <p>You gain one crafting, lore, or <a href="../../rule/general/supernatural/">supernatural</a> perk of your choice.</p>
 </div>
 </section>
+</address>
 
 ### 6th-Level Domain Ability {data-scc="mcdm.heroes.v1/feature.conduit.level-6/6th-level-domain-ability"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="13">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">6th-Level Domain Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Conduit</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 6</div></div></header>
@@ -1669,6 +1718,7 @@ As a 6th-level [conduit](conduit.md), you gain the following features.
 </div>
 </div>
 </section>
+</address>
 
 ## 7th-Level Features
 
@@ -1676,6 +1726,7 @@ As a 7th-level [conduit](conduit.md), you gain the following features.
 
 ### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.conduit.level-7/characteristic-increase"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Characteristic Increase</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Conduit</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 7</div></div></header>
@@ -1683,9 +1734,11 @@ As a 7th-level [conduit](conduit.md), you gain the following features.
 <p>Each of your <a href="../../rule/character/characteristic/">characteristic</a> scores increases by 1, to a maximum of 4.</p>
 </div>
 </section>
+</address>
 
 ### Faithful's Reward {data-scc="mcdm.heroes.v1/feature.conduit.level-7/faithfuls-reward"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Faithful&#39;s Reward</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Conduit</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 7</div></div></header>
@@ -1693,9 +1746,11 @@ As a 7th-level [conduit](conduit.md), you gain the following features.
 <p>When you roll for piety at the start of your <a href="../../rule/combat/turn/">turn</a> in combat, you gain 1d3 + 1 piety.</p>
 </div>
 </section>
+</address>
 
 ### Skill {data-scc="mcdm.heroes.v1/feature.conduit.level-7/skill"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Skill</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Conduit</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 7</div></div></header>
@@ -1703,9 +1758,11 @@ As a 7th-level [conduit](conduit.md), you gain the following features.
 <p>You gain one skill of your choice.</p>
 </div>
 </section>
+</address>
 
 ### 7th-Level Domain Feature {data-scc="mcdm.heroes.v1/feature.conduit.level-7/7th-level-domain-feature"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="13">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">7th-Level Domain Feature</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Conduit</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 7</div></div></header>
@@ -1826,6 +1883,7 @@ As a 7th-level [conduit](conduit.md), you gain the following features.
 </div>
 </div>
 </section>
+</address>
 
 ## 8th-Level Features
 
@@ -1833,6 +1891,7 @@ As an 8th-level [conduit](conduit.md), you gain the following features.
 
 ### Perk {data-scc="mcdm.heroes.v1/feature.conduit.level-8/perk"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Perk</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Conduit</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 8</div></div></header>
@@ -1840,9 +1899,11 @@ As an 8th-level [conduit](conduit.md), you gain the following features.
 <p>You gain one perk of your choice.</p>
 </div>
 </section>
+</address>
 
 ### 8th-Level Domain Feature {data-scc="mcdm.heroes.v1/feature.conduit.level-8/8th-level-domain-feature"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">8th-Level Domain Feature</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Conduit</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 8</div></div></header>
@@ -1850,9 +1911,11 @@ As an 8th-level [conduit](conduit.md), you gain the following features.
 <p>You gain the 7th-level domain feature for the domain whose feature you didn&#39;t select at that level (see 7th-Level Domain Feature).</p>
 </div>
 </section>
+</address>
 
 ### 11-Piety Ability {data-scc="mcdm.heroes.v1/feature.conduit.level-8/11-piety-ability"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">11-Piety Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Conduit</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 8</div></div></header>
@@ -1922,6 +1985,7 @@ As an 8th-level [conduit](conduit.md), you gain the following features.
 </div>
 </div>
 </section>
+</address>
 
 ## 9th-Level Features
 
@@ -1929,6 +1993,7 @@ As a 9th-level [conduit](conduit.md), you gain the following features.
 
 ### Faith's Sword {data-scc="mcdm.heroes.v1/feature.conduit.level-9/faiths-sword"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Faith&#39;s Sword</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Conduit</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 9</div></div></header>
@@ -1936,9 +2001,11 @@ As a 9th-level [conduit](conduit.md), you gain the following features.
 <p>Each time you finish a <a href="../../rule/resource/respite/">respite</a>, you can choose a willing hero ally who finished the <a href="../../rule/resource/respite/">respite</a> with you. That ally gains the benefits of your <a href="../../feature/conduit/level-6/burgeoning-saint/">Burgeoning Saint</a> feature until you finish another <a href="../../rule/resource/respite/">respite</a>. Additionally, you can spend piety as a <a href="../../rule/combat/free-maneuver/">free maneuver</a> to give the hero 1 of their <a href="../../rule/resource/heroic-resource/">Heroic Resource</a> for every 2 piety spent.</p>
 </div>
 </section>
+</address>
 
 ### Ordained {data-scc="mcdm.heroes.v1/feature.conduit.level-9/ordained"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Ordained</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Conduit</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 9</div></div></header>
@@ -1946,9 +2013,11 @@ As a 9th-level [conduit](conduit.md), you gain the following features.
 <p>Your god elevates the power flowing through you. Your <a href="../../rule/character/characteristic/">characteristic</a> scores are treated as 1 higher for the purpose of resisting <a href="../../rule/character/potency/">potencies</a>. Additionally, while you have 5 or more <a href="../../rule/resource/victories/">Victories</a>, you speak with the voice of your deity. You have a double <a href="../../rule/dice/edge/">edge</a> on <a href="../../rule/character/presence/">Presence</a> <a href="../../rule/test/test/">tests</a> made to influence other creatures.</p>
 </div>
 </section>
+</address>
 
 ### 9th-Level Domain Ability {data-scc="mcdm.heroes.v1/feature.conduit.level-9/9th-level-domain-ability"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="13">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">9th-Level Domain Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Conduit</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 9</div></div></header>
@@ -2163,6 +2232,7 @@ As a 9th-level [conduit](conduit.md), you gain the following features.
 </div>
 </div>
 </section>
+</address>
 
 ## 10th-Level Features
 
@@ -2170,6 +2240,7 @@ As a 10th-level [conduit](conduit.md), you gain the following features.
 
 ### Avatar {data-scc="mcdm.heroes.v1/feature.conduit.level-10/avatar"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Avatar</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Conduit</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 10</div></div></header>
@@ -2178,9 +2249,11 @@ As a 10th-level [conduit](conduit.md), you gain the following features.
 <p>Additionally, whenever you take a <a href="../../rule/resource/respite/">respite</a>, you can open a portal to rest in the presence of your deity and bring along any allies. When you do, you can ask your deity three questions, which the Director must answer honestly if your deity knows the answers (though they might answer cryptically or incompletely). When you finish your <a href="../../rule/resource/respite/">respite</a>, you and your allies can appear at any location in the timescape where someone worships your deity.</p>
 </div>
 </section>
+</address>
 
 ### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.conduit.level-10/characteristic-increase"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Characteristic Increase</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Conduit</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 10</div></div></header>
@@ -2188,9 +2261,11 @@ As a 10th-level [conduit](conduit.md), you gain the following features.
 <p>Your <a href="../../rule/character/intuition/">Intuition</a> score increases to 5. Additionally, you can increase one of your <a href="../../rule/character/characteristic/">characteristic</a> scores by 1, to a maximum of 5.</p>
 </div>
 </section>
+</address>
 
 ### Divine Power {data-scc="mcdm.heroes.v1/feature.conduit.level-10/divine-power"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Divine Power</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Conduit</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 10</div></div></header>
@@ -2200,9 +2275,11 @@ As a 10th-level [conduit](conduit.md), you gain the following features.
 <p><a href="../../feature/conduit/level-10/divine-power/">Divine power</a> remains until you spend it.</p>
 </div>
 </section>
+</address>
 
 ### Most Pious {data-scc="mcdm.heroes.v1/feature.conduit.level-10/most-pious"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Most Pious</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Conduit</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 10</div></div></header>
@@ -2210,9 +2287,11 @@ As a 10th-level [conduit](conduit.md), you gain the following features.
 <p>When you roll for piety at the start of your <a href="../../rule/combat/turn/">turn</a> in combat and you pray, you gain 1 additional piety.</p>
 </div>
 </section>
+</address>
 
 ### Perk {data-scc="mcdm.heroes.v1/feature.conduit.level-10/perk"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Perk</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Conduit</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 10</div></div></header>
@@ -2220,9 +2299,11 @@ As a 10th-level [conduit](conduit.md), you gain the following features.
 <p>You gain one crafting, lore, or <a href="../../rule/general/supernatural/">supernatural</a> perk of your choice.</p>
 </div>
 </section>
+</address>
 
 ### Skill {data-scc="mcdm.heroes.v1/feature.conduit.level-10/skill"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Skill</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Conduit</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 10</div></div></header>
@@ -2230,3 +2311,4 @@ As a 10th-level [conduit](conduit.md), you gain the following features.
 <p>You gain one skill of your choice.</p>
 </div>
 </section>
+</address>

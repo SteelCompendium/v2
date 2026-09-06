@@ -43,6 +43,7 @@ type: kit
 
 ### Protective Attack {data-scc="mcdm.heroes.v1/feature.ability.shining-armor/protective-attack"}
 
+<address class="sc-embed" data-search-exclude="">
 <article class="sc-ability sc-fil" data-action="main" data-conditions="taunted">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Protective Attack</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Shining Armor</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">The strength of your assault makes it impossible for your foe to ignore you.</p>
@@ -64,3 +65,4 @@ type: kit
 <div class="sc-ability__section-body"><p>The target is <a href="../../condition/taunted/">taunted</a> until the end of their next <a href="../../rule/combat/turn/">turn</a>.</p></div>
 </div>
 </article>
+</address>

@@ -76,6 +76,7 @@ As a 1st-level [elementalist](elementalist.md), you gain the following features.
 
 ### Elemental Specialization {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/elemental-specialization"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Elemental Specialization</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Elementalist</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
@@ -111,9 +112,11 @@ As a 1st-level [elementalist](elementalist.md), you gain the following features.
 </div>
 </div>
 </section>
+</address>
 
 ### Essence {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/essence"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="2">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Essence</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Elementalist</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
@@ -139,9 +142,11 @@ As a 1st-level [elementalist](elementalist.md), you gain the following features.
 </div>
 </div>
 </section>
+</address>
 
 ### Hurl Element {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/hurl-element"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="1" data-grant="the Hurl Element main action">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Hurl Element</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Elementalist</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
@@ -172,9 +177,11 @@ As a 1st-level [elementalist](elementalist.md), you gain the following features.
 </div>
 </div>
 </section>
+</address>
 
 ### Persistent Magic {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/persistent-magic"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Persistent Magic</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Elementalist</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
@@ -185,9 +192,11 @@ As a 1st-level [elementalist](elementalist.md), you gain the following features.
 <p>If you take damage equal to or greater than 5 times your <a href="../../rule/character/reason/">Reason</a> score in one <a href="../../rule/combat/turn/">turn</a>, you stop maintaining any persistent abilities. For instance, if you have a <a href="../../rule/character/reason/">Reason</a> score of 2 and are maintaining <a href="../../feature/ability/elementalist/level-1/instantaneous-excavation/">Instantaneous Excavation</a>, taking 10 or more damage in one <a href="../../rule/combat/turn/">turn</a> causes you to stop maintaining the ability.</p>
 </div>
 </section>
+</address>
 
 ### Practical Magic {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/practical-magic"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="1" data-grant="the Practical Magic maneuver">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Practical Magic</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Elementalist</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
@@ -210,9 +219,11 @@ As a 1st-level [elementalist](elementalist.md), you gain the following features.
 </div>
 </div>
 </section>
+</address>
 
 ### 1st-Level Specialization Feature {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/1st-level-specialization-feature"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="5">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">1st-Level Specialization Feature</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Elementalist</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
@@ -299,9 +310,11 @@ As a 1st-level [elementalist](elementalist.md), you gain the following features.
 </div>
 </div>
 </section>
+</address>
 
 ### Specialization Triggered Action {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/specialization-triggered-action"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="5">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Specialization Triggered Action</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Elementalist</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
@@ -389,9 +402,11 @@ As a 1st-level [elementalist](elementalist.md), you gain the following features.
 </div>
 </div>
 </section>
+</address>
 
 ### Enchantment {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/enchantment"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="5">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Enchantment</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Elementalist</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
@@ -432,9 +447,11 @@ As a 1st-level [elementalist](elementalist.md), you gain the following features.
 </div>
 </div>
 </section>
+</address>
 
 ### Elementalist Ward {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/elementalist-ward"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="4">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Elementalist Ward</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Elementalist</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
@@ -468,9 +485,11 @@ As a 1st-level [elementalist](elementalist.md), you gain the following features.
 </div>
 </div>
 </section>
+</address>
 
 ### Elementalist Abilities {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/elementalist-abilities"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="2">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Elementalist Abilities</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Elementalist</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
@@ -828,6 +847,7 @@ As a 1st-level [elementalist](elementalist.md), you gain the following features.
 </div>
 </div>
 </section>
+</address>
 
 ## 2nd-Level Features
 
@@ -835,6 +855,7 @@ As a 2nd-level [elementalist](elementalist.md), you gain the following features.
 
 ### Perk {data-scc="mcdm.heroes.v1/feature.elementalist.level-2/perk"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Perk</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Elementalist</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 2</div></div></header>
@@ -842,9 +863,11 @@ As a 2nd-level [elementalist](elementalist.md), you gain the following features.
 <p>You gain one crafting, lore, or <a href="../../rule/general/supernatural/">supernatural</a> perk of your choice. See Chapter 7: <a href="../../../Read/heroes/perks/">Perks</a>.</p>
 </div>
 </section>
+</address>
 
 ### 2nd-Level Specialization Feature {data-scc="mcdm.heroes.v1/feature.elementalist.level-2/2nd-level-specialization-feature"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="5">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">2nd-Level Specialization Feature</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Elementalist</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 2</div></div></header>
@@ -911,9 +934,11 @@ As a 2nd-level [elementalist](elementalist.md), you gain the following features.
 </div>
 </div>
 </section>
+</address>
 
 ### New 5-Essence Ability {data-scc="mcdm.heroes.v1/feature.elementalist.level-2/new-5-essence-ability"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">New 5-Essence Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Elementalist</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 2</div></div></header>
@@ -999,6 +1024,7 @@ As a 2nd-level [elementalist](elementalist.md), you gain the following features.
 </div>
 </div>
 </section>
+</address>
 
 ## 3rd-Level Features
 
@@ -1006,6 +1032,7 @@ As a 3rd-level [elementalist](elementalist.md), you gain the following features.
 
 ### 3rd-Level Specialization Feature {data-scc="mcdm.heroes.v1/feature.elementalist.level-3/3rd-level-specialization-feature"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="5">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">3rd-Level Specialization Feature</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Elementalist</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 3</div></div></header>
@@ -1075,9 +1102,11 @@ As a 3rd-level [elementalist](elementalist.md), you gain the following features.
 </div>
 </div>
 </section>
+</address>
 
 ### 7-Essence Ability {data-scc="mcdm.heroes.v1/feature.elementalist.level-3/7-essence-ability"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">7-Essence Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Elementalist</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 3</div></div></header>
@@ -1175,6 +1204,7 @@ As a 3rd-level [elementalist](elementalist.md), you gain the following features.
 </div>
 </div>
 </section>
+</address>
 
 ## 4th-Level Features
 
@@ -1182,6 +1212,7 @@ As a 4th-level [elementalist](elementalist.md), you gain the following features.
 
 ### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.elementalist.level-4/characteristic-increase"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Characteristic Increase</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Elementalist</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 4</div></div></header>
@@ -1189,9 +1220,11 @@ As a 4th-level [elementalist](elementalist.md), you gain the following features.
 <p>Your <a href="../../rule/character/reason/">Reason</a> score increases to 3. Additionally, you can increase one of your <a href="../../rule/character/characteristic/">characteristic</a> scores by 1, to a maximum of 3.</p>
 </div>
 </section>
+</address>
 
 ### Font of Essence {data-scc="mcdm.heroes.v1/feature.elementalist.level-4/font-of-essence"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Font of Essence</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Elementalist</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 4</div></div></header>
@@ -1199,9 +1232,11 @@ As a 4th-level [elementalist](elementalist.md), you gain the following features.
 <p>The first time each <a href="../../rule/combat/combat-round/">combat round</a> that you or a creature within 10 squares takes damage that isn&#39;t untyped or holy damage, you gain 2 essence instead of 1.</p>
 </div>
 </section>
+</address>
 
 ### Mantle of Essence {data-scc="mcdm.heroes.v1/feature.elementalist.level-4/mantle-of-essence"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="5">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Mantle of Essence</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Elementalist</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 4</div></div></header>
@@ -1241,9 +1276,11 @@ As a 4th-level [elementalist](elementalist.md), you gain the following features.
 </div>
 </div>
 </section>
+</address>
 
 ### Perk {data-scc="mcdm.heroes.v1/feature.elementalist.level-4/perk"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Perk</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Elementalist</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 4</div></div></header>
@@ -1251,9 +1288,11 @@ As a 4th-level [elementalist](elementalist.md), you gain the following features.
 <p>You gain one perk of your choice.</p>
 </div>
 </section>
+</address>
 
 ### Skill {data-scc="mcdm.heroes.v1/feature.elementalist.level-4/skill"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Skill</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Elementalist</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 4</div></div></header>
@@ -1261,6 +1300,7 @@ As a 4th-level [elementalist](elementalist.md), you gain the following features.
 <p>You gain one skill of your choice. See Skills in Chapter 9: <a href="../../../Read/heroes/tests/">Tests</a>.</p>
 </div>
 </section>
+</address>
 
 ## 5th-Level Features
 
@@ -1268,6 +1308,7 @@ As a 5th-level [elementalist](elementalist.md), you gain the following features.
 
 ### 5th-Level Specialization Feature {data-scc="mcdm.heroes.v1/feature.elementalist.level-5/5th-level-specialization-feature"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="5">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">5th-Level Specialization Feature</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Elementalist</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 5</div></div></header>
@@ -1311,9 +1352,11 @@ As a 5th-level [elementalist](elementalist.md), you gain the following features.
 </div>
 </div>
 </section>
+</address>
 
 ### 9-Essence Ability {data-scc="mcdm.heroes.v1/feature.elementalist.level-5/9-essence-ability"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">9-Essence Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Elementalist</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 5</div></div></header>
@@ -1411,6 +1454,7 @@ As a 5th-level [elementalist](elementalist.md), you gain the following features.
 </div>
 </div>
 </section>
+</address>
 
 ## 6th-Level Features
 
@@ -1418,6 +1462,7 @@ As a 6th-level [elementalist](elementalist.md), you gain the following features.
 
 ### Perk {data-scc="mcdm.heroes.v1/feature.elementalist.level-6/perk"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Perk</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Elementalist</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 6</div></div></header>
@@ -1425,9 +1470,11 @@ As a 6th-level [elementalist](elementalist.md), you gain the following features.
 <p>You gain one crafting, lore, or <a href="../../rule/general/supernatural/">supernatural</a> perk of your choice.</p>
 </div>
 </section>
+</address>
 
 ### Wyrding {data-scc="mcdm.heroes.v1/feature.elementalist.level-6/wyrding"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Wyrding</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Elementalist</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 6</div></div></header>
@@ -1436,9 +1483,11 @@ As a 6th-level [elementalist](elementalist.md), you gain the following features.
 <ul><li>You create a mundane object of a <a href="../../rule/character/size/">size</a> equal to your <a href="../../rule/character/reason/">Reason</a> score or smaller.</li><li>You construct a place of shelter suitable for twenty creatures that lasts for 24 hours and can&#39;t be detected by enemies.</li><li>You restore all <a href="../../rule/health/stamina/">Stamina</a> to a mundane object of a <a href="../../rule/character/size/">size</a> equal to your <a href="../../rule/character/reason/">Reason</a> score or smaller.</li><li>Choose a <a href="../../rule/combat/cube/">cube</a> with a <a href="../../rule/character/size/">size</a> up to your <a href="../../rule/character/reason/">Reason</a> score within 5 squares. You can fill that area with <a href="../../movement/difficult-terrain/">difficult terrain</a> or natural phenomena such as fire, water, or plant life, or can clear the area of those things.</li><li>You can preserve a corpse or up to 5 pounds of food for a week, or can cause a corpse or that amount of food to instantly rot.</li><li>You create a seal on a surface that can&#39;t be seen or felt by anyone but you. When a creature comes <a href="../../rule/combat/adjacent/">adjacent</a> to the surface, you can see and hear through the seal for as long as the creature remains <a href="../../rule/combat/adjacent/">adjacent</a> to it. When you create the seal, you can decide to limit the number of creatures who activate it by choosing a creature keyword (such as Undead) or a specific name (such as Ajax the Invincible) or organization (such as the Black Iron Pact). If you do, the seal alerts you only when creatures with the keyword, name, or organizational affiliation you provide pass by it. If you create a second seal, the first one disappears. You can dispel a seal at any time (no action required).</li></ul>
 </div>
 </section>
+</address>
 
 ### New 9-Essence Ability {data-scc="mcdm.heroes.v1/feature.elementalist.level-6/new-9-essence-ability"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">New 9-Essence Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Elementalist</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 6</div></div></header>
@@ -1520,6 +1569,7 @@ As a 6th-level [elementalist](elementalist.md), you gain the following features.
 </div>
 </div>
 </section>
+</address>
 
 ## 7th-Level Features
 
@@ -1527,6 +1577,7 @@ As a 7th-level [elementalist](elementalist.md), you gain the following features.
 
 ### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.elementalist.level-7/characteristic-increase"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Characteristic Increase</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Elementalist</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 7</div></div></header>
@@ -1534,9 +1585,11 @@ As a 7th-level [elementalist](elementalist.md), you gain the following features.
 <p>Each of your <a href="../../rule/character/characteristic/">characteristic</a> scores increases by 1, to a maximum of 4.</p>
 </div>
 </section>
+</address>
 
 ### Mantle of Quintessence {data-scc="mcdm.heroes.v1/feature.elementalist.level-7/mantle-of-quintessence"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Mantle of Quintessence</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Elementalist</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 7</div></div></header>
@@ -1545,9 +1598,11 @@ As a 7th-level [elementalist](elementalist.md), you gain the following features.
 <p>Additionally, your <a href="../../feature/elementalist/level-4/mantle-of-essence/">Mantle of Essence</a> now radiates magic that creates a calming air. Creatures in the area of the mantle&#39;s <a href="../../rule/combat/aura/">aura</a> have their starting patience increased by 1 (to a maximum of 5) during any negotiation. While in the area, you and any ally gain an <a href="../../rule/dice/edge/">edge</a> on <a href="../../rule/test/test/">tests</a> that use the <a href="../../skill/interpersonal/handle-animals/">Handle Animals</a> skill. If you have 5 or more <a href="../../rule/resource/victories/">Victories</a>, the <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> to patience increases to 2 and <a href="../../rule/test/test/">tests</a> that use the <a href="../../skill/interpersonal/handle-animals/">Handle Animals</a> skill have a double <a href="../../rule/dice/edge/">edge</a>.</p>
 </div>
 </section>
+</address>
 
 ### Surging Essence {data-scc="mcdm.heroes.v1/feature.elementalist.level-7/surging-essence"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Surging Essence</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Elementalist</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 7</div></div></header>
@@ -1555,9 +1610,11 @@ As a 7th-level [elementalist](elementalist.md), you gain the following features.
 <p>When you gain essence at the start of each of your <a href="../../rule/combat/turn/">turns</a> during combat, you gain 3 essence instead of 2.</p>
 </div>
 </section>
+</address>
 
 ### Skill {data-scc="mcdm.heroes.v1/feature.elementalist.level-7/skill"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Skill</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Elementalist</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 7</div></div></header>
@@ -1565,6 +1622,7 @@ As a 7th-level [elementalist](elementalist.md), you gain the following features.
 <p>You gain one skill of your choice.</p>
 </div>
 </section>
+</address>
 
 ## 8th-Level Features
 
@@ -1572,6 +1630,7 @@ As an 8th-level [elementalist](elementalist.md), you gain the following features
 
 ### Perk {data-scc="mcdm.heroes.v1/feature.elementalist.level-8/perk"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Perk</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Elementalist</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 8</div></div></header>
@@ -1579,6 +1638,7 @@ As an 8th-level [elementalist](elementalist.md), you gain the following features
 <p>You gain one perk of your choice.</p>
 </div>
 </section>
+</address>
 
 ### 8th-Level Specialization Feature {data-scc="mcdm.heroes.v1/feature.elementalist.level-8/8th-level-specialization-feature"}
 
@@ -1595,6 +1655,7 @@ Your [elemental specialization](../feature/elementalist/level-1/elemental-specia
 
 #### Black Hole Star {data-scc="mcdm.heroes.v1/feature.elementalist.level-8/black-hole-star" data-subclass="void"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Black Hole Star</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Elementalist · Void</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 8</div></div></header>
@@ -1603,9 +1664,11 @@ Your [elemental specialization](../feature/elementalist/level-1/elemental-specia
 <p>Additionally, your <a href="../../feature/elementalist/level-4/mantle-of-essence/">Mantle of Essence</a> improves. While in the area of the <a href="../../rule/combat/aura/">aura</a>, enemies and objects have their <a href="../../rule/character/stability/">stability</a> reduced by an amount equal to your level.</p>
 </div>
 </section>
+</address>
 
 #### Chimeric Manifestation {data-scc="mcdm.heroes.v1/feature.elementalist.level-8/chimeric-manifestation" data-subclass="green"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Chimeric Manifestation</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Elementalist · Green</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 8</div></div></header>
@@ -1615,9 +1678,11 @@ Your [elemental specialization](../feature/elementalist/level-1/elemental-specia
 <p>You can only combine animal forms whose levels add up to 12 or less. For example, you can combine a shark (8th level) with a horse (4th level), but you can&#39;t combine a shark with a bear (5th level).</p>
 </div>
 </section>
+</address>
 
 #### The Flame Primordial {data-scc="mcdm.heroes.v1/feature.elementalist.level-8/the-flame-primordial" data-subclass="fire"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">The Flame Primordial</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Elementalist · Fire</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 8</div></div></header>
@@ -1626,6 +1691,7 @@ Your [elemental specialization](../feature/elementalist/level-1/elemental-specia
 <p>Additionally, any enemy who starts their <a href="../../rule/combat/turn/">turn</a> <a href="../../rule/combat/adjacent/">adjacent</a> to you has fire weakness equal to your <a href="../../rule/character/reason/">Reason</a> score until the start of their next <a href="../../rule/combat/turn/">turn</a>. This increases to twice your <a href="../../rule/character/reason/">Reason</a> score if the enemy is made of or is wearing mostly metal.</p>
 </div>
 </section>
+</address>
 
 #### Summon Source of Earth {data-scc="mcdm.heroes.v1/feature.elementalist.level-8/summon-source-of-earth" data-subclass="earth"}
 
@@ -1633,6 +1699,7 @@ You have the following ability.
 
 ##### Summon Source of Earth {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-8/summon-source-of-earth" data-subclass="earth"}
 
+<address class="sc-embed" data-search-exclude="">
 <article class="sc-ability sc-fil" data-action="main">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Summon Source of Earth</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Elementalist · Earth</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 8</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">The ground rumbles as an elemental <a href="../../rule/combat/burst/">bursts</a> forth, ready to serve.</p>
@@ -1650,13 +1717,17 @@ You have the following ability.
 <div class="sc-ability__section-body"><p>The source takes another <a href="../../rule/combat/turn/">turn</a>. They are dismissed at the start of your next <a href="../../rule/combat/turn/">turn</a>.</p></div>
 </div>
 </article>
+</address>
 
 ##### Source of Earth {data-scc="mcdm.heroes.v1/monster.summon.elementalist.statblock/source-of-earth"}
 
+<address class="sc-embed" data-search-exclude="">
 <div class="sb-wrap" data-role="brute" data-creature="source-of-earth"><div class="sb__sticky" aria-hidden="true"><div class="sb__sticky-inner"><div class="sb__sticky-row1"><span class="sb__sticky-id"><span class="sb__sticky-name">Source of Earth</span><span class="sb__sticky-role" data-role="brute">Brute</span></span><span class="sb__sticky-stats"><span class="sb__sticky-defs"><span class="m"><b>2</b>Size</span><span class="m"><b>6</b>Speed</span><span class="m"><b>45</b>Stamina</span><span class="m"><b>5</b>Stability</span><span class="m"><b>5</b>Free Strike</span></span><span class="sb__sticky-chars"><span class="c"><b>+3</b><i>M</i></span><span class="c"><b>+1</b><i>A</i></span><span class="c"><b>-5</b><i>R</i></span><span class="c"><b>-5</b><i>I</i></span><span class="c"><b>-3</b><i>P</i></span></span></span></div><div class="sb__sticky-row2"><span class="sm"><b>Movement</b>Burrow</span><span class="sm"><b>Immunity</b>—</span><span class="sm"><b>Weakness</b>—</span></div></div></div><article class="sb md-typeset" data-role="brute"><header class="sc-head sb__head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Monster</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Source of Earth</h2><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Elemental</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 8</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini" data-role="brute">Brute</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">EV -</div></div></header><div class="sb__defenses"><div class="sb__stat"><span class="v">2</span><span class="l">Size</span></div><div class="sb__stat"><span class="v">6</span><span class="l">Speed</span></div><div class="sb__stat"><span class="v">45</span><span class="l">Stamina</span></div><div class="sb__stat"><span class="v">5</span><span class="l">Stability</span></div><div class="sb__stat"><span class="v">5</span><span class="l">Free Strike</span></div></div><div class="sb__meta"><div class="sb__field sb__field--meta"><span class="sb__field-l">Immunity</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Weakness</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Movement</span><span class="sb__field-v">Burrow</span></div></div><div class="sb__chars"><div class="sb__char"><span class="sb__char-box">M</span><span class="sb__char-v">+3</span><span class="sb__char-l">Might</span></div><div class="sb__char"><span class="sb__char-box">A</span><span class="sb__char-v">+1</span><span class="sb__char-l">Agility</span></div><div class="sb__char"><span class="sb__char-box">R</span><span class="sb__char-v">-5</span><span class="sb__char-l">Reason</span></div><div class="sb__char"><span class="sb__char-box">I</span><span class="sb__char-v">-5</span><span class="sb__char-l">Intuition</span></div><div class="sb__char"><span class="sb__char-box">P</span><span class="sb__char-v">-3</span><span class="sb__char-l">Presence</span></div></div><div class="sb__features"><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Earthwalk</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div><p class="sb__feat-body"><a class="sb-term" href="../../movement/difficult-terrain/">Difficult terrain</a> composed of earth and stone doesn't cost the source extra movement.</p></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Tunneler</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div><p class="sb__feat-body">When the source burrows, they create a <a class="sb-term" href="../../rule/character/size/">size</a> 2 tunnel.</p></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Earth Harness</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div><p class="sb__feat-body">A creature that has the <a class="sb-term" href="../../feature/ability/elementalist/level-3/earth-accepts-me/">Earth Accepts Me</a> ability can use it as a free action to meld into the source.</p></article><article class="sc-ability sb__feat" data-action="main" data-kind="ability"><div class="sb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="sb__feat-icon"><span class="sb__feat-glyph">l</span></span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Boulder Bash</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Signature</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Melee 2 or ranged 10</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">One creature or object</span></div></div><div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ 3</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 damage; <a class="sb-term" href="../../movement/forced-movement/">push</a> 3</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 damage; <a class="sb-term" href="../../movement/forced-movement/">push</a> 4</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">12 damage; <a class="sb-term" href="../../movement/forced-movement/">push</a> 5</span></div></div></div></article></div></article></div>
+</address>
 
 ### 11-Essence Ability {data-scc="mcdm.heroes.v1/feature.elementalist.level-8/11-essence-ability"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">11-Essence Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Elementalist</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 8</div></div></header>
@@ -1734,6 +1805,7 @@ You have the following ability.
 </div>
 </div>
 </section>
+</address>
 
 ## 9th-Level Features
 
@@ -1741,6 +1813,7 @@ As a 9th-level [elementalist](elementalist.md), you gain the following features.
 
 ### Grand Wyrding {data-scc="mcdm.heroes.v1/feature.elementalist.level-9/grand-wyrding"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Grand Wyrding</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Elementalist</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 9</div></div></header>
@@ -1749,9 +1822,11 @@ As a 9th-level [elementalist](elementalist.md), you gain the following features.
 <p>Additionally, when you have 5 or more <a href="../../rule/resource/victories/">Victories</a>, choose one of the following <a href="../../rule/damage/damage-type/">damage types</a>: acid, cold, corruption, fire, lightning, poison, or sonic. You have immunity all to that type.</p>
 </div>
 </section>
+</address>
 
 ### New 11-Essence Ability {data-scc="mcdm.heroes.v1/feature.elementalist.level-9/new-11-essence-ability"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">New 11-Essence Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Elementalist</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 9</div></div></header>
@@ -1833,6 +1908,7 @@ As a 9th-level [elementalist](elementalist.md), you gain the following features.
 </div>
 </div>
 </section>
+</address>
 
 ## 10th-Level Features
 
@@ -1840,6 +1916,7 @@ As a 10th-level [elementalist](elementalist.md), you gain the following features
 
 ### Breath {data-scc="mcdm.heroes.v1/feature.elementalist.level-10/breath"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Breath</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Elementalist</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 10</div></div></header>
@@ -1848,9 +1925,11 @@ As a 10th-level [elementalist](elementalist.md), you gain the following features
 <p>Breath remains until you convert it to essence.</p>
 </div>
 </section>
+</address>
 
 ### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.elementalist.level-10/characteristic-increase"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Characteristic Increase</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Elementalist</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 10</div></div></header>
@@ -1858,9 +1937,11 @@ As a 10th-level [elementalist](elementalist.md), you gain the following features
 <p>Your <a href="../../rule/character/reason/">Reason</a> score increases to 5. Additionally, you can increase one of your <a href="../../rule/character/characteristic/">characteristic</a> scores by 1, to a maximum of 5.</p>
 </div>
 </section>
+</address>
 
 ### Essential Being {data-scc="mcdm.heroes.v1/feature.elementalist.level-10/essential-being"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Essential Being</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Elementalist</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 10</div></div></header>
@@ -1868,9 +1949,11 @@ As a 10th-level [elementalist](elementalist.md), you gain the following features
 <p>When you gain essence at the start of each of your <a href="../../rule/combat/turn/">turns</a> during combat, you gain 4 essence instead of 3.</p>
 </div>
 </section>
+</address>
 
 ### One {data-scc="mcdm.heroes.v1/feature.elementalist.level-10/one"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="5">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">One</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Elementalist</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 10</div></div></header>
@@ -1915,9 +1998,11 @@ As a 10th-level [elementalist](elementalist.md), you gain the following features
 </div>
 </div>
 </section>
+</address>
 
 ### Perk {data-scc="mcdm.heroes.v1/feature.elementalist.level-10/perk"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Perk</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Elementalist</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 10</div></div></header>
@@ -1925,9 +2010,11 @@ As a 10th-level [elementalist](elementalist.md), you gain the following features
 <p>You gain one crafting, lore, or <a href="../../rule/general/supernatural/">supernatural</a> perk of your choice.</p>
 </div>
 </section>
+</address>
 
 ### Skill {data-scc="mcdm.heroes.v1/feature.elementalist.level-10/skill"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Skill</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Elementalist</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 10</div></div></header>
@@ -1935,3 +2022,4 @@ As a 10th-level [elementalist](elementalist.md), you gain the following features
 <p>You gain one skill of your choice.</p>
 </div>
 </section>
+</address>

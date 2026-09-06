@@ -76,6 +76,7 @@ As a 1st-level [tactician](tactician.md), you gain the following features.
 
 ### Tactical Doctrine {data-scc="mcdm.heroes.v1/feature.tactician.level-1/tactical-doctrine"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Tactical Doctrine</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Tactician</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
@@ -85,9 +86,11 @@ As a 1st-level [tactician](tactician.md), you gain the following features.
 <p>Your <a href="../../feature/tactician/level-1/tactical-doctrine/">tactical doctrine</a> is your <a href="../../rule/general/subclass/">subclass</a>, and your choice of doctrine determines many of the features you&#39;ll gain as you gain new levels.</p>
 </div>
 </section>
+</address>
 
 ### Focus {data-scc="mcdm.heroes.v1/feature.tactician.level-1/focus"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="2">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Focus</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Tactician</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
@@ -113,9 +116,11 @@ As a 1st-level [tactician](tactician.md), you gain the following features.
 </div>
 </div>
 </section>
+</address>
 
 ### 1st-Level Doctrine Feature {data-scc="mcdm.heroes.v1/feature.tactician.level-1/1st-level-doctrine-feature"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="4">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">1st-Level Doctrine Feature</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Tactician</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
@@ -167,9 +172,11 @@ As a 1st-level [tactician](tactician.md), you gain the following features.
 </div>
 </div>
 </section>
+</address>
 
 ### Doctrine Triggered Action {data-scc="mcdm.heroes.v1/feature.tactician.level-1/doctrine-triggered-action"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="4">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Doctrine Triggered Action</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Tactician</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
@@ -239,9 +246,11 @@ As a 1st-level [tactician](tactician.md), you gain the following features.
 </div>
 </div>
 </section>
+</address>
 
 ### Field Arsenal {data-scc="mcdm.heroes.v1/feature.tactician.level-1/field-arsenal"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Field Arsenal</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Tactician</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
@@ -253,9 +262,11 @@ As a 1st-level [tactician](tactician.md), you gain the following features.
 <p>Kit <a href="../../rule/combat/signature-ability/">signature abilities</a> have their kit&#39;s <a href="../../rule/dice/bonuses-and-penalties/">bonus</a>es already applied, which might require you to adjust the <a href="../../rule/dice/bonuses-and-penalties/">bonus</a>es of the <a href="../../rule/combat/signature-ability/">signature abilities</a> you gain from a kit. For example, you might take the <a href="../../kit/martial-artist/">Martial Artist</a> kit, which gives a <a href="../../rule/combat/melee/">melee</a> weapon damage <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> of +2/+2/+2, and the Mountain kit, which gives a <a href="../../rule/combat/melee/">melee</a> weapon damage <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> of +0/+0/+4. If you choose to use the Mountain kit&#39;s damage <a href="../../rule/dice/bonuses-and-penalties/">bonus</a>, then the <a href="../../feature/ability/Kits/martial-artist-battle-grace/">Battle Grace</a> <a href="../../rule/combat/signature-ability/">signature ability</a> from the <a href="../../kit/martial-artist/">Martial Artist</a> kit loses the +2/+2/+2 <a href="../../rule/dice/bonuses-and-penalties/">bonus</a> from that kit, reducing its usual 5/8/11 damage for its tier 1, tier 2, and tier 3 outcomes to 3/6/9. It then gains the +0/+0/+4 of the Mountain kit to deal 3/6/13 damage.</p>
 </div>
 </section>
+</address>
 
 ### Mark {data-scc="mcdm.heroes.v1/feature.tactician.level-1/mark"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="1" data-grant="the Mark maneuver">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Mark</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Tactician</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
@@ -278,9 +289,11 @@ As a 1st-level [tactician](tactician.md), you gain the following features.
 </div>
 </div>
 </section>
+</address>
 
 ### Strike Now {data-scc="mcdm.heroes.v1/feature.tactician.level-1/strike-now"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="1" data-grant="the &#34;Strike Now!&#34; main action">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Strike Now</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Tactician</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
@@ -304,9 +317,11 @@ As a 1st-level [tactician](tactician.md), you gain the following features.
 </div>
 </div>
 </section>
+</address>
 
 ### Tactician Abilities {data-scc="mcdm.heroes.v1/feature.tactician.level-1/tactician-abilities"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="2">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Tactician Abilities</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Tactician</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
@@ -400,9 +415,11 @@ As a 1st-level [tactician](tactician.md), you gain the following features.
 </div>
 </div>
 </section>
+</address>
 
 ### 5-Focus Ability {data-scc="mcdm.heroes.v1/feature.tactician.level-1/5-focus-ability"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">5-Focus Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Tactician</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div></div></header>
@@ -484,6 +501,7 @@ As a 1st-level [tactician](tactician.md), you gain the following features.
 </div>
 </div>
 </section>
+</address>
 
 ## 2nd-Level Features
 
@@ -491,6 +509,7 @@ As a 2nd-level [tactician](tactician.md), you gain the following features.
 
 ### Perk {data-scc="mcdm.heroes.v1/feature.tactician.level-2/perk"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Perk</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Tactician</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 2</div></div></header>
@@ -498,9 +517,11 @@ As a 2nd-level [tactician](tactician.md), you gain the following features.
 <p>You gain one exploration, interpersonal, or intrigue perk of your choice. See Chapter 7: <a href="../../../Read/heroes/perks/">Perks</a>.</p>
 </div>
 </section>
+</address>
 
 ### 2nd-Level Doctrine Feature {data-scc="mcdm.heroes.v1/feature.tactician.level-2/2nd-level-doctrine-feature"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="4">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">2nd-Level Doctrine Feature</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Tactician</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 2</div></div></header>
@@ -535,9 +556,11 @@ As a 2nd-level [tactician](tactician.md), you gain the following features.
 </div>
 </div>
 </section>
+</address>
 
 ### 2nd-Level Doctrine Ability {data-scc="mcdm.heroes.v1/feature.tactician.level-2/2nd-level-doctrine-ability"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="3">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">2nd-Level Doctrine Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Tactician</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 2</div></div></header>
@@ -685,6 +708,7 @@ As a 2nd-level [tactician](tactician.md), you gain the following features.
 </div>
 </div>
 </section>
+</address>
 
 ## 3rd-Level Features
 
@@ -692,6 +716,7 @@ As a 3rd-level [tactician](tactician.md), you gain the following features.
 
 ### Out of Position {data-scc="mcdm.heroes.v1/feature.tactician.level-3/out-of-position"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Out of Position</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Tactician</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 3</div></div></header>
@@ -699,9 +724,11 @@ As a 3rd-level [tactician](tactician.md), you gain the following features.
 <p>Even before battle begins, your enemies struggle to keep up with your tactics. At the start of an encounter, you can use a free <a href="../../rule/combat/triggered-action/">triggered action</a> to use your Mark ability against one enemy you have <a href="../../rule/combat/line-of-effect/">line of effect</a> to, even if you are <a href="../../rule/combat/surprised/">surprised</a>. You can then <a href="../../movement/forced-movement/">slide</a> the marked target up to 3 squares, ignoring <a href="../../rule/character/stability/">stability</a>. The target can&#39;t be moved in a way that would harm them (such as over a cliff), leave them <a href="../../rule/health/dying/">dying</a>, or result in them suffering a <a href="../../rule/combat/condition/">condition</a> or other negative effect.</p>
 </div>
 </section>
+</address>
 
 ### 7-Focus Ability {data-scc="mcdm.heroes.v1/feature.tactician.level-3/7-focus-ability"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">7-Focus Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Tactician</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 3</div></div></header>
@@ -759,6 +786,7 @@ As a 3rd-level [tactician](tactician.md), you gain the following features.
 </div>
 </div>
 </section>
+</address>
 
 ## 4th-Level Features
 
@@ -766,6 +794,7 @@ As a 4th-level [tactician](tactician.md), you gain the following features.
 
 ### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.tactician.level-4/characteristic-increase"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Characteristic Increase</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Tactician</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 4</div></div></header>
@@ -773,9 +802,11 @@ As a 4th-level [tactician](tactician.md), you gain the following features.
 <p>Your <a href="../../rule/character/might/">Might</a> and <a href="../../rule/character/reason/">Reason</a> scores each increase to 3.</p>
 </div>
 </section>
+</address>
 
 ### Focus on Their Weaknesses {data-scc="mcdm.heroes.v1/feature.tactician.level-4/focus-on-their-weaknesses"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Focus on Their Weaknesses</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Tactician</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 4</div></div></header>
@@ -783,9 +814,11 @@ As a 4th-level [tactician](tactician.md), you gain the following features.
 <p>The first time each <a href="../../rule/combat/combat-round/">combat round</a> that you or any ally damages a target marked by you, you gain 2 focus instead of 1.</p>
 </div>
 </section>
+</address>
 
 ### Improved Field Arsenal {data-scc="mcdm.heroes.v1/feature.tactician.level-4/improved-field-arsenal"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Improved Field Arsenal</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Tactician</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 4</div></div></header>
@@ -793,9 +826,11 @@ As a 4th-level [tactician](tactician.md), you gain the following features.
 <p>Your expertise with weapons has grown. Whenever you use a <a href="../../rule/combat/signature-ability/">signature ability</a> from one of your equipped kits or make a <a href="../../feature/common/main-actions/free-strike/">free strike</a> using a weapon from one of your equipped kits, you gain an <a href="../../rule/dice/edge/">edge</a>.</p>
 </div>
 </section>
+</address>
 
 ### Perk {data-scc="mcdm.heroes.v1/feature.tactician.level-4/perk"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Perk</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Tactician</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 4</div></div></header>
@@ -803,9 +838,11 @@ As a 4th-level [tactician](tactician.md), you gain the following features.
 <p>You gain one perk of your choice.</p>
 </div>
 </section>
+</address>
 
 ### Skill {data-scc="mcdm.heroes.v1/feature.tactician.level-4/skill"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Skill</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Tactician</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 4</div></div></header>
@@ -813,6 +850,7 @@ As a 4th-level [tactician](tactician.md), you gain the following features.
 <p>You gain one skill of your choice. See Skills in Chapter 9: <a href="../../../Read/heroes/tests/">Tests</a>.</p>
 </div>
 </section>
+</address>
 
 ## 5th-Level Features
 
@@ -820,6 +858,7 @@ As a 5th-level [tactician](tactician.md), you gain the following features.
 
 ### 5th-Level Doctrine Features {data-scc="mcdm.heroes.v1/feature.tactician.level-5/5th-level-doctrine-features"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="7">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">5th-Level Doctrine Features</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Tactician</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 5</div></div></header>
@@ -871,9 +910,11 @@ As a 5th-level [tactician](tactician.md), you gain the following features.
 </div>
 </div>
 </section>
+</address>
 
 ### 9-Focus Ability {data-scc="mcdm.heroes.v1/feature.tactician.level-5/9-focus-ability"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">9-Focus Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Tactician</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 5</div></div></header>
@@ -943,6 +984,7 @@ As a 5th-level [tactician](tactician.md), you gain the following features.
 </div>
 </div>
 </section>
+</address>
 
 ## 6th-Level Features
 
@@ -950,6 +992,7 @@ As a 6th-level [tactician](tactician.md), you gain the following features.
 
 ### Master of Arms {data-scc="mcdm.heroes.v1/feature.tactician.level-6/master-of-arms"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Master of Arms</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Tactician</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 6</div></div></header>
@@ -957,9 +1000,11 @@ As a 6th-level [tactician](tactician.md), you gain the following features.
 <p>Your expertise with weapons has grown to true mastery. Whenever you use a <a href="../../rule/combat/signature-ability/">signature ability</a> from one of your equipped kits or make a <a href="../../feature/common/main-actions/free-strike/">free strike</a> using a weapon from one of your equipped kits, you can negate a <a href="../../rule/dice/bane/">bane</a> on the <a href="../../rule/dice/power-roll/">power roll</a> or reduce a double <a href="../../rule/dice/bane/">bane</a> to a <a href="../../rule/dice/bane/">bane</a>.</p>
 </div>
 </section>
+</address>
 
 ### Perk {data-scc="mcdm.heroes.v1/feature.tactician.level-6/perk"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Perk</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Tactician</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 6</div></div></header>
@@ -967,9 +1012,11 @@ As a 6th-level [tactician](tactician.md), you gain the following features.
 <p>You gain one exploration, interpersonal, or intrigue perk of your choice.</p>
 </div>
 </section>
+</address>
 
 ### 6th-Level Doctrine Ability {data-scc="mcdm.heroes.v1/feature.tactician.level-6/6th-level-doctrine-ability"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="3">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">6th-Level Doctrine Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Tactician</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 6</div></div></header>
@@ -1117,6 +1164,7 @@ As a 6th-level [tactician](tactician.md), you gain the following features.
 </div>
 </div>
 </section>
+</address>
 
 ## 7th-Level Features
 
@@ -1124,6 +1172,7 @@ As a 7th-level [tactician](tactician.md), you gain the following features.
 
 ### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.tactician.level-7/characteristic-increase"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Characteristic Increase</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Tactician</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 7</div></div></header>
@@ -1131,9 +1180,11 @@ As a 7th-level [tactician](tactician.md), you gain the following features.
 <p>Each of your <a href="../../rule/character/characteristic/">characteristic</a> scores increases by 1, to a maximum of 4.</p>
 </div>
 </section>
+</address>
 
 ### Heightened Focus {data-scc="mcdm.heroes.v1/feature.tactician.level-7/heightened-focus"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Heightened Focus</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Tactician</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 7</div></div></header>
@@ -1141,9 +1192,11 @@ As a 7th-level [tactician](tactician.md), you gain the following features.
 <p>When you gain focus at the start of each of your <a href="../../rule/combat/turn/">turns</a> during combat, you gain 3 focus instead of 2.</p>
 </div>
 </section>
+</address>
 
 ### Seize the Initiative {data-scc="mcdm.heroes.v1/feature.tactician.level-7/seize-the-initiative"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Seize the Initiative</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Tactician</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 7</div></div></header>
@@ -1151,9 +1204,11 @@ As a 7th-level [tactician](tactician.md), you gain the following features.
 <p>If you are not <a href="../../rule/combat/surprised/">surprised</a> when combat begins, your side gets to go first. If an enemy has an ability that allows their side to go first, you roll as usual to determine who goes first.</p>
 </div>
 </section>
+</address>
 
 ### Skill {data-scc="mcdm.heroes.v1/feature.tactician.level-7/skill"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Skill</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Tactician</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 7</div></div></header>
@@ -1161,9 +1216,11 @@ As a 7th-level [tactician](tactician.md), you gain the following features.
 <p>You gain one skill of your choice.</p>
 </div>
 </section>
+</address>
 
 ### 7th-Level Doctrine Feature {data-scc="mcdm.heroes.v1/feature.tactician.level-7/7th-level-doctrine-feature"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="4">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">7th-Level Doctrine Feature</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Tactician</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 7</div></div></header>
@@ -1197,6 +1254,7 @@ As a 7th-level [tactician](tactician.md), you gain the following features.
 </div>
 </div>
 </section>
+</address>
 
 ## 8th-Level Features
 
@@ -1204,6 +1262,7 @@ As an 8th-level [tactician](tactician.md), you gain the following features.
 
 ### Perk {data-scc="mcdm.heroes.v1/feature.tactician.level-8/perk"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Perk</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Tactician</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 8</div></div></header>
@@ -1211,9 +1270,11 @@ As an 8th-level [tactician](tactician.md), you gain the following features.
 <p>You gain one perk of your choice.</p>
 </div>
 </section>
+</address>
 
 ### 8th-Level Doctrine Feature {data-scc="mcdm.heroes.v1/feature.tactician.level-8/8th-level-doctrine-feature"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="4">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">8th-Level Doctrine Feature</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Tactician</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 8</div></div></header>
@@ -1250,9 +1311,11 @@ As an 8th-level [tactician](tactician.md), you gain the following features.
 </div>
 </div>
 </section>
+</address>
 
 ### 11-Focus Ability {data-scc="mcdm.heroes.v1/feature.tactician.level-8/11-focus-ability"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">11-Focus Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Tactician</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 8</div></div></header>
@@ -1326,6 +1389,7 @@ As an 8th-level [tactician](tactician.md), you gain the following features.
 </div>
 </div>
 </section>
+</address>
 
 ## 9th-Level Features
 
@@ -1333,6 +1397,7 @@ As a 9th-level [tactician](tactician.md), you gain the following features.
 
 ### Grandmaster of Arms {data-scc="mcdm.heroes.v1/feature.tactician.level-9/grandmaster-of-arms"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Grandmaster of Arms</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Tactician</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 9</div></div></header>
@@ -1340,9 +1405,11 @@ As a 9th-level [tactician](tactician.md), you gain the following features.
 <p>Your expertise with weapons has grown to true mastery. Whenever you use a <a href="../../rule/combat/signature-ability/">signature ability</a> from one of your equipped kits or make a <a href="../../feature/common/main-actions/free-strike/">free strike</a> using a weapon from one of your equipped kits, you automatically obtain a tier 3 outcome on the <a href="../../rule/dice/power-roll/">power roll</a>. You can still roll to determine if you score a <a href="../../rule/combat/critical-hit/">critical hit</a>.</p>
 </div>
 </section>
+</address>
 
 ### 9th-Level Doctrine Ability {data-scc="mcdm.heroes.v1/feature.tactician.level-9/9th-level-doctrine-ability"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="3">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">9th-Level Doctrine Ability</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Tactician</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 9</div></div></header>
@@ -1485,6 +1552,7 @@ As a 9th-level [tactician](tactician.md), you gain the following features.
 </div>
 </div>
 </section>
+</address>
 
 ## 10th-Level Features
 
@@ -1492,6 +1560,7 @@ As a 10th-level [tactician](tactician.md), you gain the following features.
 
 ### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.tactician.level-10/characteristic-increase"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Characteristic Increase</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Tactician</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 10</div></div></header>
@@ -1499,9 +1568,11 @@ As a 10th-level [tactician](tactician.md), you gain the following features.
 <p>Your <a href="../../rule/character/might/">Might</a> and <a href="../../rule/character/reason/">Reason</a> scores each increase to 5.</p>
 </div>
 </section>
+</address>
 
 ### Command {data-scc="mcdm.heroes.v1/feature.tactician.level-10/command"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Command</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Tactician</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 10</div></div></header>
@@ -1511,9 +1582,11 @@ As a 10th-level [tactician](tactician.md), you gain the following features.
 <p>Command remains until you spend it.</p>
 </div>
 </section>
+</address>
 
 ### Perk {data-scc="mcdm.heroes.v1/feature.tactician.level-10/perk"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Perk</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Tactician</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 10</div></div></header>
@@ -1521,9 +1594,11 @@ As a 10th-level [tactician](tactician.md), you gain the following features.
 <p>You gain one exploration, interpersonal, or intrigue perk of your choice.</p>
 </div>
 </section>
+</address>
 
 ### Skill {data-scc="mcdm.heroes.v1/feature.tactician.level-10/skill"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Skill</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Tactician</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 10</div></div></header>
@@ -1531,9 +1606,11 @@ As a 10th-level [tactician](tactician.md), you gain the following features.
 <p>You gain one skill of your choice.</p>
 </div>
 </section>
+</address>
 
 ### True Focus {data-scc="mcdm.heroes.v1/feature.tactician.level-10/true-focus"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">True Focus</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Tactician</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 10</div></div></header>
@@ -1541,9 +1618,11 @@ As a 10th-level [tactician](tactician.md), you gain the following features.
 <p>When you gain focus at the start of each of your <a href="../../rule/combat/turn/">turns</a> during combat, you gain 4 focus instead of 3.</p>
 </div>
 </section>
+</address>
 
 ### Warmaster {data-scc="mcdm.heroes.v1/feature.tactician.level-10/warmaster"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Warmaster</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Tactician</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 10</div></div></header>
@@ -1552,3 +1631,4 @@ As a 10th-level [tactician](tactician.md), you gain the following features.
 <p>Additionally, whenever an ally uses a <a href="../../rule/general/heroic-ability/">heroic ability</a> that targets one or more creatures marked by you, they spend 2 fewer of their <a href="../../rule/resource/heroic-resource/">Heroic Resource</a> on that ability (minimum 1).</p>
 </div>
 </section>
+</address>

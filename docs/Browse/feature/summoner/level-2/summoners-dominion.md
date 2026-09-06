@@ -25,6 +25,7 @@ The boil arises from the chaotic depths of the Abyssal Waste, concentrated into 
 
 ### The Boil {data-scc="mcdm.summoner.v1/monster.fixture.demon.featureblock/the-boil"}
 
+<address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="support">
 <article class="fb md-typeset">
 <header class="sc-head fb__head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">The Boil</h2><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Summoner · Demon</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini" data-role="support">Hazard Support</div></div></header>
@@ -44,9 +45,11 @@ The boil arises from the chaotic depths of the Abyssal Waste, concentrated into 
 </div>
 </article>
 </div>
+</address>
 
 ### The Boil Advancement Features {data-scc="mcdm.summoner.v1/monster.fixture.demon.advancement-features/the-boil"}
 
+<address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="feature">
 <article class="fb md-typeset">
 <header class="sc-head fb__head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">The Boil Advancement Features</h2></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
@@ -72,6 +75,7 @@ The boil arises from the chaotic depths of the Abyssal Waste, concentrated into 
 </div>
 </article>
 </div>
+</address>
 
 ## Elemental Portfolio Fixture
 
@@ -79,6 +83,7 @@ The storm of elements from Quintessence coalesce into a hardened, crystalline st
 
 ### Primordial Crystal {data-scc="mcdm.summoner.v1/monster.fixture.elemental.featureblock/primordial-crystal"}
 
+<address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="artillery">
 <article class="fb md-typeset">
 <header class="sc-head fb__head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Primordial Crystal</h2><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Summoner · Elemental</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini" data-role="artillery">Relic Artillery</div></div></header>
@@ -98,9 +103,11 @@ The storm of elements from Quintessence coalesce into a hardened, crystalline st
 </div>
 </article>
 </div>
+</address>
 
 ### Primordial Crystal Advancement Features {data-scc="mcdm.summoner.v1/monster.fixture.elemental.advancement-features/primordial-crystal"}
 
+<address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="feature">
 <article class="fb md-typeset">
 <header class="sc-head fb__head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Primordial Crystal Advancement Features</h2></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
@@ -126,6 +133,7 @@ The storm of elements from Quintessence coalesce into a hardened, crystalline st
 </div>
 </article>
 </div>
+</address>
 
 ## Fey Portfolio Fixture
 
@@ -133,6 +141,7 @@ The vibrant waters of Arcadia pour through a hole in reality and pool into a ver
 
 ### Glade Pond {data-scc="mcdm.summoner.v1/monster.fixture.fey.featureblock/glade-pond"}
 
+<address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="ambusher">
 <article class="fb md-typeset">
 <header class="sc-head fb__head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Glade Pond</h2><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Summoner · Fey</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini" data-role="ambusher">Hazard Ambusher</div></div></header>
@@ -152,9 +161,11 @@ The vibrant waters of Arcadia pour through a hole in reality and pool into a ver
 </div>
 </article>
 </div>
+</address>
 
 ### Glade Pond Advancement Features {data-scc="mcdm.summoner.v1/monster.fixture.fey.advancement-features/glade-pond"}
 
+<address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="feature">
 <article class="fb md-typeset">
 <header class="sc-head fb__head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Glade Pond Advancement Features</h2></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
@@ -180,6 +191,7 @@ The vibrant waters of Arcadia pour through a hole in reality and pool into a ver
 </div>
 </article>
 </div>
+</address>
 
 ## Undead Portfolio Fixture
 
@@ -187,6 +199,7 @@ Tall iron gates from the Necropolitan Ruins arise from the earth as wailing spir
 
 ### Barrow Gates {data-scc="mcdm.summoner.v1/monster.fixture.undead.featureblock/barrow-gates"}
 
+<address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="defender">
 <article class="fb md-typeset">
 <header class="sc-head fb__head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Barrow Gates</h2><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Summoner · Undead</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini" data-role="defender">Fortification Defender</div></div></header>
@@ -206,9 +219,11 @@ Tall iron gates from the Necropolitan Ruins arise from the earth as wailing spir
 </div>
 </article>
 </div>
+</address>
 
 ### Barrow Gates Advancement Features {data-scc="mcdm.summoner.v1/monster.fixture.undead.advancement-features/barrow-gates"}
 
+<address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="feature">
 <article class="fb md-typeset">
 <header class="sc-head fb__head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Barrow Gates Advancement Features</h2></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
@@ -234,3 +249,4 @@ Tall iron gates from the Necropolitan Ruins arise from the earth as wailing spir
 </div>
 </article>
 </div>
+</address>

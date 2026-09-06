@@ -1,8 +1,6 @@
 ---
 printing: "1.0"
 printing_book: "The Summoner"
-search:
-  boost: 0.6
 features:
     - body: Each enemy that starts their [turn](../../../rule/combat/turn.md) within 3 squares of the crystal is vertically pulled 3.
       icon: ⭐️
@@ -35,11 +33,11 @@ type: featureblock
 </div>
 <div class="fb__feats">
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Magnetic Pull</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
+<div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-magnetic-pull">Magnetic Pull</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
 <div class="fb__feat-body">Each enemy that starts their <a href="../../../../rule/combat/turn/">turn</a> within 3 squares of the crystal is vertically pulled 3.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Elemental Boost</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
+<div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-elemental-boost">Elemental Boost</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
 <div class="fb__feat-body">When you or an ally uses a ranged ability that draws a line through the crystal, the distance increases by 5.</div>
 </article>
 </div>
@@ -49,6 +47,7 @@ type: featureblock
 
 ## Primordial Crystal Advancement Features {data-scc="mcdm.summoner.v1/monster.fixture.elemental.advancement-features/primordial-crystal"}
 
+<address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="feature">
 <article class="fb md-typeset">
 <header class="sc-head fb__head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Primordial Crystal Advancement Features</h2></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
@@ -74,3 +73,4 @@ type: featureblock
 </div>
 </article>
 </div>
+</address>

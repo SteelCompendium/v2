@@ -1,8 +1,6 @@
 ---
 printing: "1.0"
 printing_book: "The Summoner"
-search:
-  boost: 0.6
 features:
     - body: You gain a [surge](../../../rule/resource/surge.md) the first time in a [round](../../../rule/combat/combat-round.md) one of your undead [minions](../../../feature/summoner/level-1/minions.md) unwillingly dies while you have [line of effect](../../../rule/combat/line-of-effect.md) to the gates. You can choose to give the [surge](../../../rule/resource/surge.md) to an ally who also has [line of effect](../../../rule/combat/line-of-effect.md) to the gates.
       icon: ⭐️
@@ -32,18 +30,18 @@ type: featureblock
 <div class="fb__band--adv" data-level="5">
 <div class="fb__adv-head">Level 5 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Memento Mori</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
+<div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-memento-mori">Memento Mori</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
 <div class="fb__feat-body">You gain a <a href="../../../../rule/resource/surge/">surge</a> the first time in a <a href="../../../../rule/combat/combat-round/">round</a> one of your undead <a href="../../../../feature/summoner/level-1/minions/">minions</a> unwillingly dies while you have <a href="../../../../rule/combat/line-of-effect/">line of effect</a> to the gates. You can choose to give the <a href="../../../../rule/resource/surge/">surge</a> to an ally who also has <a href="../../../../rule/combat/line-of-effect/">line of effect</a> to the gates.</div>
 </article>
 </div>
 <div class="fb__band--adv" data-level="9">
 <div class="fb__adv-head">Level 9 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Size Increase</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
+<div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-size-increase">Size Increase</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
 <div class="fb__feat-body">The gates are now size 3.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Open the Gates</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
+<div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-open-the-gates">Open the Gates</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
 <div class="fb__feat-body">You can use <a href="../../../../feature/summoner/level-1/rise/">Rise!</a> as a <a href="../../../../rule/combat/triggered-action/">free triggered action</a> each time an enemy dies within 3 squares of the gates while you have <a href="../../../../rule/combat/line-of-effect/">line of effect</a> to the gates.</div>
 </article>
 </div>

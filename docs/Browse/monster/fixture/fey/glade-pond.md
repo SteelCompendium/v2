@@ -1,8 +1,6 @@
 ---
 printing: "1.0"
 printing_book: "The Summoner"
-search:
-  boost: 0.6
 features:
     - body: You and each non-minion ally that enters one or more squares within 3 squares of the pond or starts their [turn](../../../rule/combat/turn.md) there has their [speed](../../../rule/character/speed.md) increased by 2 until the end of their [turn](../../../rule/combat/turn.md).
       icon: ⭐️
@@ -35,11 +33,11 @@ type: featureblock
 </div>
 <div class="fb__feats">
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Bubbling Boost</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
+<div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-bubbling-boost">Bubbling Boost</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
 <div class="fb__feat-body">You and each non-minion ally that enters one or more squares within 3 squares of the pond or starts their <a href="../../../../rule/combat/turn/">turn</a> there has their <a href="../../../../rule/character/speed/">speed</a> increased by 2 until the end of their <a href="../../../../rule/combat/turn/">turn</a>.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
-<div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Overgrowth</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
+<div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-overgrowth">Overgrowth</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
 <div class="fb__feat-body">Each of your fey <a href="../../../../feature/summoner/level-1/minions/">minions</a> that ends their <a href="../../../../rule/combat/turn/">turn</a> within 3 squares of the pond is hidden until the start of their next <a href="../../../../rule/combat/turn/">turn</a>.</div>
 </article>
 </div>
@@ -49,6 +47,7 @@ type: featureblock
 
 ## Glade Pond Advancement Features {data-scc="mcdm.summoner.v1/monster.fixture.fey.advancement-features/glade-pond"}
 
+<address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="feature">
 <article class="fb md-typeset">
 <header class="sc-head fb__head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Glade Pond Advancement Features</h2></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
@@ -74,3 +73,4 @@ type: featureblock
 </div>
 </article>
 </div>
+</address>

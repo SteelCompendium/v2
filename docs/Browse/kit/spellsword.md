@@ -44,6 +44,7 @@ type: kit
 
 ### Leaping Lightning {data-scc="mcdm.heroes.v1/feature.ability.spellsword/leaping-lightning"}
 
+<address class="sc-embed" data-search-exclude="">
 <article class="sc-ability sc-fil" data-action="main">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Leaping Lightning</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Spellsword</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">Lightning jumps from your weapon as you strike to harm a nearby foe.</p>
@@ -65,3 +66,4 @@ type: kit
 <div class="sc-ability__section-body"><p>A creature or object of your choice within 2 squares of the target takes lightning damage equal to the <a href="../../rule/character/characteristic/">characteristic</a> score used for this ability&#39;s <a href="../../rule/dice/power-roll/">power roll</a>.</p></div>
 </div>
 </article>
+</address>

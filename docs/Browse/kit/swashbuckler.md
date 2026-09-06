@@ -44,6 +44,7 @@ type: kit
 
 ### Fancy Footwork {data-scc="mcdm.heroes.v1/feature.ability.swashbuckler/fancy-footwork"}
 
+<address class="sc-embed" data-search-exclude="">
 <article class="sc-ability sc-fil" data-action="main">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Fancy Footwork</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Swashbuckler</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">All combat is a dance—and you&#39;ll be the one leading.</p>
@@ -65,3 +66,4 @@ type: kit
 <div class="sc-ability__section-body"><p>You can <a href="../../movement/shifting/">shift</a> into any square the target leaves after you <a href="../../movement/forced-movement/">push</a> them.</p></div>
 </div>
 </article>
+</address>

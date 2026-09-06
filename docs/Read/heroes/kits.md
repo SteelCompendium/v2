@@ -175,6 +175,7 @@ You wear no armor and wield a bow.
 
 ###### Exploding Arrow {data-scc="mcdm.heroes.v1/feature.ability.arcane-archer/exploding-arrow"}
 
+<address class="sc-embed" data-search-exclude="">
 <article class="sc-ability sc-fil" data-action="main">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Exploding Arrow</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Arcane Archer</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">Your ammunition explodes with magical energy.</p>
@@ -196,6 +197,7 @@ You wear no armor and wield a bow.
 <div class="sc-ability__section-body"><p>One creature or object of your choice within 2 squares of the target takes fire damage equal to the <a href="../../../Browse/rule/character/characteristic/">characteristic</a> score used for this ability&#39;s <a href="../../../Browse/rule/dice/power-roll/">power roll</a>.</p></div>
 </div>
 </article>
+</address>
 
 #### Battlemind {data-scc="mcdm.heroes.v1/kit/battlemind"}
 
@@ -219,6 +221,7 @@ You wear light armor and wield a medium weapon.
 
 ###### Unmooring {data-scc="mcdm.heroes.v1/feature.ability.battlemind/unmooring"}
 
+<address class="sc-embed" data-search-exclude="">
 <article class="sc-ability sc-fil" data-action="main">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Unmooring</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Battlemind</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">Your weapon unleashes psionic energy that reduces your target&#39;s weight.</p>
@@ -240,6 +243,7 @@ You wear light armor and wield a medium weapon.
 <div class="sc-ability__section-body"><p>Until the end of the target&#39;s next <a href="../../../Browse/rule/combat/turn/">turn</a>, any <a href="../../../Browse/movement/forced-movement/">forced movement</a> that affects the target has its <a href="../../../Browse/rule/combat/distance/">distance</a> increased by 2.</p></div>
 </div>
 </article>
+</address>
 
 #### Cloak and Dagger {data-scc="mcdm.heroes.v1/kit/cloak-and-dagger"}
 
@@ -267,6 +271,7 @@ You wear light armor and wield one or two light weapons.
 
 ###### Fade {data-scc="mcdm.heroes.v1/feature.ability.cloak-and-dagger/fade"}
 
+<address class="sc-embed" data-search-exclude="">
 <article class="sc-ability sc-fil" data-action="main">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Fade</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Cloak And Dagger</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">A stab, and a few quick, careful steps back.</p>
@@ -284,6 +289,7 @@ You wear light armor and wield one or two light weapons.
 </div>
 </div>
 </article>
+</address>
 
 #### Dual Wielder {data-scc="mcdm.heroes.v1/kit/dual-wielder"}
 
@@ -307,6 +313,7 @@ You wear medium armor and wield a light weapon and a medium weapon.
 
 ###### Double Strike {data-scc="mcdm.heroes.v1/feature.ability.dual-wielder/double-strike"}
 
+<address class="sc-embed" data-search-exclude="">
 <article class="sc-ability sc-fil" data-action="main">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Double Strike</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Dual Wielder</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">Why strike once when you could do it twice?</p>
@@ -328,6 +335,7 @@ You wear medium armor and wield a light weapon and a medium weapon.
 <div class="sc-ability__section-body"><p>If you use this ability on your <a href="../../../Browse/rule/combat/turn/">turn</a>, you can use it against one target, then use your maneuver and your move action for that <a href="../../../Browse/rule/combat/turn/">turn</a> before using the ability against a second target. You still use the same <a href="../../../Browse/rule/dice/power-roll/">power roll</a> for both targets.</p></div>
 </div>
 </article>
+</address>
 
 #### Guisarmier {data-scc="mcdm.heroes.v1/kit/guisarmier"}
 
@@ -351,6 +359,7 @@ You wear medium armor and wield a polearm.
 
 ###### Forward Thrust, Backward Smash {data-scc="mcdm.heroes.v1/feature.ability.guisarmier/forward-thrust-backward-smash"}
 
+<address class="sc-embed" data-search-exclude="">
 <article class="sc-ability sc-fil" data-action="main">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Forward Thrust, Backward Smash</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Guisarmier</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">In your hands, the haft is as good as the head.</p>
@@ -368,6 +377,7 @@ You wear medium armor and wield a polearm.
 </div>
 </div>
 </article>
+</address>
 
 #### Martial Artist {data-scc="mcdm.heroes.v1/kit/martial-artist"}
 
@@ -391,6 +401,7 @@ You wear no armor and wield only your unarmed [strikes](../../Browse/rule/combat
 
 ###### Battle Grace {data-scc="mcdm.heroes.v1/feature.ability.martial-artist/battle-grace"}
 
+<address class="sc-embed" data-search-exclude="">
 <article class="sc-ability sc-fil" data-action="main">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Battle Grace</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Martial Artist</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">You feint to move your enemies into perfect position.</p>
@@ -412,6 +423,7 @@ You wear no armor and wield only your unarmed [strikes](../../Browse/rule/combat
 <div class="sc-ability__section-body"><p>If you obtain a tier 2 or tier 3 outcome and can&#39;t swap places with the target because one or both of you is too big to fit into the swapped space, you both remain in your original spaces and the target takes 1 extra damage.</p></div>
 </div>
 </article>
+</address>
 
 #### Mountain {data-scc="mcdm.heroes.v1/kit/mountain"}
 
@@ -433,6 +445,7 @@ You wear heavy armor and wield a heavy weapon.
 
 ###### Pain for Pain {data-scc="mcdm.heroes.v1/feature.ability.mountain/pain-for-pain"}
 
+<address class="sc-embed" data-search-exclude="">
 <article class="sc-ability sc-fil" data-action="main">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Pain for Pain</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Mountain</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">An enemy who tagged you will pay for that.</p>
@@ -454,6 +467,7 @@ You wear heavy armor and wield a heavy weapon.
 <div class="sc-ability__section-body"><p>If the target dealt damage to you since the end of your last <a href="../../../Browse/rule/combat/turn/">turn</a>, this <a href="../../../Browse/rule/combat/strike/">strike</a> deals additional damage equal to your <a href="../../../Browse/rule/character/might/">Might</a> or <a href="../../../Browse/rule/character/agility/">Agility</a> score (your choice).</p></div>
 </div>
 </article>
+</address>
 
 #### Panther {data-scc="mcdm.heroes.v1/kit/panther"}
 
@@ -477,6 +491,7 @@ You wear no armor and wield a heavy weapon.
 
 ###### Devastating Rush {data-scc="mcdm.heroes.v1/feature.ability.panther/devastating-rush"}
 
+<address class="sc-embed" data-search-exclude="">
 <article class="sc-ability sc-fil" data-action="main">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Devastating Rush</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Panther</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">The faster you move, the harder you hit.</p>
@@ -498,6 +513,7 @@ You wear no armor and wield a heavy weapon.
 <div class="sc-ability__section-body"><p>You can move up to 3 squares straight toward the target before this <a href="../../../Browse/rule/combat/strike/">strike</a>, which deals extra damage equal to the number of squares you move this way.</p></div>
 </div>
 </article>
+</address>
 
 #### Pugilist {data-scc="mcdm.heroes.v1/kit/pugilist"}
 
@@ -521,6 +537,7 @@ You wear no armor and wield only your unarmed [strikes](../../Browse/rule/combat
 
 ###### Let's Dance {data-scc="mcdm.heroes.v1/feature.ability.pugilist/lets-dance"}
 
+<address class="sc-embed" data-search-exclude="">
 <article class="sc-ability sc-fil" data-action="main">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Let&#39;s Dance</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Pugilist</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">Keeping your enemies stumbling around the battlefield is second nature to you.</p>
@@ -542,6 +559,7 @@ You wear no armor and wield only your unarmed [strikes](../../Browse/rule/combat
 <div class="sc-ability__section-body"><p>You can <a href="../../../Browse/movement/shifting/">shift</a> into any square the target leaves after you <a href="../../../Browse/movement/forced-movement/">slide</a> them.</p></div>
 </div>
 </article>
+</address>
 
 #### Raider {data-scc="mcdm.heroes.v1/kit/raider"}
 
@@ -569,6 +587,7 @@ You wear light armor and wield a shield and a light weapon.
 
 ###### Raider's Awe {data-scc="mcdm.heroes.v1/feature.ability.raider/raiders-awe"}
 
+<address class="sc-embed" data-search-exclude="">
 <article class="sc-ability sc-fil" data-action="main">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Raider&#39;s Awe</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Raider</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">You execute a brutal strike that leaves your foe reeling. (Previously known as &#34;<a href="../../../Browse/feature/tactician/level-7/shock-and-awe/">Shock and Awe</a>&#34;)</p>
@@ -590,6 +609,7 @@ You wear light armor and wield a shield and a light weapon.
 <div class="sc-ability__section-body"><p>The target takes a <a href="../../../Browse/rule/dice/bane/">bane</a> on their next <a href="../../../Browse/rule/dice/power-roll/">power roll</a> made before the end of their next <a href="../../../Browse/rule/combat/turn/">turn</a>.</p></div>
 </div>
 </article>
+</address>
 
 #### Ranger {data-scc="mcdm.heroes.v1/kit/ranger"}
 
@@ -617,6 +637,7 @@ You wear medium armor and wield a bow and a medium weapon.
 
 ###### Hamstring Shot {data-scc="mcdm.heroes.v1/feature.ability.ranger/hamstring-shot"}
 
+<address class="sc-embed" data-search-exclude="">
 <article class="sc-ability sc-fil" data-action="main" data-conditions="slowed">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Hamstring Shot</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Ranger</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">A well-placed shot leaves your enemy struggling to move.</p>
@@ -634,6 +655,7 @@ You wear medium armor and wield a bow and a medium weapon.
 </div>
 </div>
 </article>
+</address>
 
 #### Rapid-Fire {data-scc="mcdm.heroes.v1/kit/rapid-fire"}
 
@@ -659,6 +681,7 @@ You wear light armor and wield a bow.
 
 ###### Two Shot {data-scc="mcdm.heroes.v1/feature.ability.rapid-fire/two-shot"}
 
+<address class="sc-embed" data-search-exclude="">
 <article class="sc-ability sc-fil" data-action="main">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Two Shot</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Rapid Fire</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">When you fire two arrows back-to-back, both hit their mark.</p>
@@ -676,6 +699,7 @@ You wear light armor and wield a bow.
 </div>
 </div>
 </article>
+</address>
 
 #### Retiarius {data-scc="mcdm.heroes.v1/kit/retiarius"}
 
@@ -701,6 +725,7 @@ You wear light armor and wield several ensnaring weapons and a polearm.
 
 ###### Net and Stab {data-scc="mcdm.heroes.v1/feature.ability.retiarius/net-and-stab"}
 
+<address class="sc-embed" data-search-exclude="">
 <article class="sc-ability sc-fil" data-action="main" data-conditions="restrained slowed">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Net and Stab</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Retiarius</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">The well-thrown net that follows your main attack leaves your foes right where you want them.</p>
@@ -718,6 +743,7 @@ You wear light armor and wield several ensnaring weapons and a polearm.
 </div>
 </div>
 </article>
+</address>
 
 #### Shining Armor {data-scc="mcdm.heroes.v1/kit/shining-armor"}
 
@@ -739,6 +765,7 @@ You wear heavy armor and wield a shield and a medium weapon.
 
 ###### Protective Attack {data-scc="mcdm.heroes.v1/feature.ability.shining-armor/protective-attack"}
 
+<address class="sc-embed" data-search-exclude="">
 <article class="sc-ability sc-fil" data-action="main" data-conditions="taunted">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Protective Attack</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Shining Armor</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">The strength of your assault makes it impossible for your foe to ignore you.</p>
@@ -760,6 +787,7 @@ You wear heavy armor and wield a shield and a medium weapon.
 <div class="sc-ability__section-body"><p>The target is <a href="../../../Browse/condition/taunted/">taunted</a> until the end of their next <a href="../../../Browse/rule/combat/turn/">turn</a>.</p></div>
 </div>
 </article>
+</address>
 
 #### Sniper {data-scc="mcdm.heroes.v1/kit/sniper"}
 
@@ -783,6 +811,7 @@ You wear no armor and wield a bow.
 
 ###### Patient Shot {data-scc="mcdm.heroes.v1/feature.ability.sniper/patient-shot"}
 
+<address class="sc-embed" data-search-exclude="">
 <article class="sc-ability sc-fil" data-action="main">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Patient Shot</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Sniper</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">Breathe... aim... wait... then strike!</p>
@@ -804,6 +833,7 @@ You wear no armor and wield a bow.
 <div class="sc-ability__section-body"><p>If you don&#39;t take a move action this <a href="../../../Browse/rule/combat/turn/">turn</a>, this <a href="../../../Browse/rule/combat/strike/">strike</a> deals extra damage equal to your <a href="../../../Browse/rule/character/might/">Might</a> or <a href="../../../Browse/rule/character/agility/">Agility</a> score (your choice).</p></div>
 </div>
 </article>
+</address>
 
 #### Spellsword {data-scc="mcdm.heroes.v1/kit/spellsword"}
 
@@ -827,6 +857,7 @@ You wear light armor and wield a shield and a medium weapon.
 
 ###### Leaping Lightning {data-scc="mcdm.heroes.v1/feature.ability.spellsword/leaping-lightning"}
 
+<address class="sc-embed" data-search-exclude="">
 <article class="sc-ability sc-fil" data-action="main">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Leaping Lightning</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Spellsword</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">Lightning jumps from your weapon as you strike to harm a nearby foe.</p>
@@ -848,6 +879,7 @@ You wear light armor and wield a shield and a medium weapon.
 <div class="sc-ability__section-body"><p>A creature or object of your choice within 2 squares of the target takes lightning damage equal to the <a href="../../../Browse/rule/character/characteristic/">characteristic</a> score used for this ability&#39;s <a href="../../../Browse/rule/dice/power-roll/">power roll</a>.</p></div>
 </div>
 </article>
+</address>
 
 #### Stick and Robe {data-scc="mcdm.heroes.v1/kit/stick-and-robe"}
 
@@ -873,6 +905,7 @@ You wear light armor and wield a polearm.
 
 ###### Where I Want You {data-scc="mcdm.heroes.v1/feature.ability.stick-and-robe/where-i-want-you"}
 
+<address class="sc-embed" data-search-exclude="">
 <article class="sc-ability sc-fil" data-action="main">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Where I Want You</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Stick And Robe</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">When your stick speaks, your enemy moves.</p>
@@ -890,6 +923,7 @@ You wear light armor and wield a polearm.
 </div>
 </div>
 </article>
+</address>
 
 #### Swashbuckler {data-scc="mcdm.heroes.v1/kit/swashbuckler"}
 
@@ -913,6 +947,7 @@ You wear light armor and wield a medium weapon.
 
 ###### Fancy Footwork {data-scc="mcdm.heroes.v1/feature.ability.swashbuckler/fancy-footwork"}
 
+<address class="sc-embed" data-search-exclude="">
 <article class="sc-ability sc-fil" data-action="main">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Fancy Footwork</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Swashbuckler</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">All combat is a dance—and you&#39;ll be the one leading.</p>
@@ -934,6 +969,7 @@ You wear light armor and wield a medium weapon.
 <div class="sc-ability__section-body"><p>You can <a href="../../../Browse/movement/shifting/">shift</a> into any square the target leaves after you <a href="../../../Browse/movement/forced-movement/">push</a> them.</p></div>
 </div>
 </article>
+</address>
 
 #### Sword and Board {data-scc="mcdm.heroes.v1/kit/sword-and-board"}
 
@@ -957,6 +993,7 @@ You wear medium armor and wield a shield and a medium weapon.
 
 ###### Shield Bash {data-scc="mcdm.heroes.v1/feature.ability.sword-and-board/shield-bash"}
 
+<address class="sc-embed" data-search-exclude="">
 <article class="sc-ability sc-fil" data-action="main" data-conditions="prone">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Shield Bash</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Sword And Board</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">In your hands, a shield isn&#39;t just for protection.</p>
@@ -974,6 +1011,7 @@ You wear medium armor and wield a shield and a medium weapon.
 </div>
 </div>
 </article>
+</address>
 
 #### Warrior Priest {data-scc="mcdm.heroes.v1/kit/warrior-priest"}
 
@@ -997,6 +1035,7 @@ You wear heavy armor and wield a light weapon.
 
 ###### Weakening Brand {data-scc="mcdm.heroes.v1/feature.ability.warrior-priest/weakening-brand"}
 
+<address class="sc-embed" data-search-exclude="">
 <article class="sc-ability sc-fil" data-action="main">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Weakening Brand</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Warrior Priest</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">The impact of your weapon brands your target for destruction.</p>
@@ -1018,6 +1057,7 @@ You wear heavy armor and wield a light weapon.
 <div class="sc-ability__section-body"><p>Until the end of the target&#39;s next <a href="../../../Browse/rule/combat/turn/">turn</a>, they have <a href="../../../Browse/rule/damage/damage-weakness/">damage weakness</a> equal to the <a href="../../../Browse/rule/character/characteristic/">characteristic</a> score used for this ability&#39;s <a href="../../../Browse/rule/dice/power-roll/">power roll</a>.</p></div>
 </div>
 </article>
+</address>
 
 #### Whirlwind {data-scc="mcdm.heroes.v1/kit/whirlwind"}
 
@@ -1041,6 +1081,7 @@ You wear no armor and wield a whip.
 
 ###### Extension of My Arm {data-scc="mcdm.heroes.v1/feature.ability.whirlwind/extension-of-my-arm"}
 
+<address class="sc-embed" data-search-exclude="">
 <article class="sc-ability sc-fil" data-action="main">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Ability</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Extension of My Arm</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Whirlwind</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Signature</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main Action</div></div></header>
 <p class="sc-ability__flavor">When you draw your whip back after an attack, your enemy is drawn ever closer.</p>
@@ -1058,6 +1099,7 @@ You wear no armor and wield a whip.
 </div>
 </div>
 </article>
+</address>
 
 ### Optional Rule: Losing Equipment
 

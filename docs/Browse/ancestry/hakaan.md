@@ -112,6 +112,7 @@ Ardashir grinned. "Strength alone is not enough." He assumed a fighting pose, ha
 
 ## Hakaan Traits {data-scc="mcdm.heroes.v1/feature.trait.hakaan/hakaan-traits"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--section" data-action="trait" data-sub="2">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Trait</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Hakaan Traits</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Hakaan</div></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
@@ -167,3 +168,4 @@ Ardashir grinned. "Strength alone is not enough." He assumed a fighting pose, ha
 </div>
 </div>
 </section>
+</address>

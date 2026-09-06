@@ -18,6 +18,7 @@ Unless a project has an event table of its own or a special event entry, the Dir
 
 ## Discover Lore {data-scc="mcdm.heroes.v1/project/discover-lore"}
 
+<address class="sc-embed" data-search-exclude="">
 <article class="pj">
 <header class="sc-head pj__head"><div class="sc-head__stack"><span class="sc-crest" aria-hidden="true"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="m13.78 15.3 6 6 2.11-2.16-6-6zm3.72-5.2c-.39 0-.81-.05-1.14-.19L4.97 21.25l-2.11-2.11 7.41-7.4L8.5 9.96l-.72.7-1.45-1.41v2.86l-.7.7-3.52-3.56.7-.7h2.81l-1.4-1.41 3.56-3.56a2.976 2.976 0 0 1 4.22 0L9.89 5.74l1.41 1.4-.71.71 1.79 1.78 1.82-1.88c-.14-.33-.2-.75-.2-1.12a3.49 3.49 0 0 1 3.5-3.52c.59 0 1.11.14 1.58.42L16.41 6.2l1.5 1.5 2.67-2.67c.28.47.42.97.42 1.6 0 1.92-1.55 3.47-3.5 3.47"/></svg></span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Downtime Project</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Discover Lore</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Goal <span class="num">Varies (see the table)</span></div></div></header><dl class="pj__ledger">
 <div class="row"><dt>Item Prerequisite</dt><dd>None</dd></div>
@@ -64,9 +65,11 @@ Unless a project has an event table of its own or a special event entry, the Dir
 <p>Forbidden knowledge is lore that a powerful individual or organization is attempting to keep secret. Those who know the secrets speak of them in whispered codes after passwords are exchanged, and write texts using ciphers. Hunting down leads and making sense of them typically takes weeks. The location of the dagger that slit the throat of the god of death is hidden behind layers of encoded text and written in a dead language known only to that god's most devout <a href="../../../project/rule/general/follower/">followers</a>.</p>
 </div>
 </article>
+</address>
 
 ## Go Undercover {data-scc="mcdm.heroes.v1/project/go-undercover"}
 
+<address class="sc-embed" data-search-exclude="">
 <article class="pj">
 <header class="sc-head pj__head"><div class="sc-head__stack"><span class="sc-crest" aria-hidden="true"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="m13.78 15.3 6 6 2.11-2.16-6-6zm3.72-5.2c-.39 0-.81-.05-1.14-.19L4.97 21.25l-2.11-2.11 7.41-7.4L8.5 9.96l-.72.7-1.45-1.41v2.86l-.7.7-3.52-3.56.7-.7h2.81l-1.4-1.41 3.56-3.56a2.976 2.976 0 0 1 4.22 0L9.89 5.74l1.41 1.4-.71.71 1.79 1.78 1.82-1.88c-.14-.33-.2-.75-.2-1.12a3.49 3.49 0 0 1 3.5-3.52c.59 0 1.11.14 1.58.42L16.41 6.2l1.5 1.5 2.67-2.67c.28.47.42.97.42 1.6 0 1.92-1.55 3.47-3.5 3.47"/></svg></span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Downtime Project</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Go Undercover</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Goal <span class="num">15</span></div></div></header><dl class="pj__ledger">
 <div class="row"><dt>Item Prerequisite</dt><dd>Special</dd></div>
@@ -81,9 +84,11 @@ Unless a project has an event table of its own or a special event entry, the Dir
 <p>Additionally, while you work to complete this project, you might be called upon by the organization to complete a task you might not want to do. Failure to complete the task leads to you being caught. You can avoid the task by fleeing the organization, but this prevents you from completing the project and makes it impossible for you to undertake this project again with the same organization.</p>
 </div>
 </article>
+</address>
 
 ## Hone Career Skills {data-scc="mcdm.heroes.v1/project/hone-career-skills"}
 
+<address class="sc-embed" data-search-exclude="">
 <article class="pj">
 <header class="sc-head pj__head"><div class="sc-head__stack"><span class="sc-crest" aria-hidden="true"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="m13.78 15.3 6 6 2.11-2.16-6-6zm3.72-5.2c-.39 0-.81-.05-1.14-.19L4.97 21.25l-2.11-2.11 7.41-7.4L8.5 9.96l-.72.7-1.45-1.41v2.86l-.7.7-3.52-3.56.7-.7h2.81l-1.4-1.41 3.56-3.56a2.976 2.976 0 0 1 4.22 0L9.89 5.74l1.41 1.4-.71.71 1.79 1.78 1.82-1.88c-.14-.33-.2-.75-.2-1.12a3.49 3.49 0 0 1 3.5-3.52c.59 0 1.11.14 1.58.42L16.41 6.2l1.5 1.5 2.67-2.67c.28.47.42.97.42 1.6 0 1.92-1.55 3.47-3.5 3.47"/></svg></span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Downtime Project</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Hone Career Skills</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Goal <span class="num">240 if your career granted you two skills, or 360 if your career granted you three skills</span></div></div></header><dl class="pj__ledger">
 <div class="row"><dt>Item Prerequisite</dt><dd>None</dd></div>
@@ -145,9 +150,11 @@ Unless a project has an event table of its own or a special event entry, the Dir
 </table>
 </div>
 </article>
+</address>
 
 ## Learn From a Master {data-scc="mcdm.heroes.v1/project/learn-from-a-master"}
 
+<address class="sc-embed" data-search-exclude="">
 <article class="pj">
 <header class="sc-head pj__head"><div class="sc-head__stack"><span class="sc-crest" aria-hidden="true"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="m13.78 15.3 6 6 2.11-2.16-6-6zm3.72-5.2c-.39 0-.81-.05-1.14-.19L4.97 21.25l-2.11-2.11 7.41-7.4L8.5 9.96l-.72.7-1.45-1.41v2.86l-.7.7-3.52-3.56.7-.7h2.81l-1.4-1.41 3.56-3.56a2.976 2.976 0 0 1 4.22 0L9.89 5.74l1.41 1.4-.71.71 1.79 1.78 1.82-1.88c-.14-.33-.2-.75-.2-1.12a3.49 3.49 0 0 1 3.5-3.52c.59 0 1.11.14 1.58.42L16.41 6.2l1.5 1.5 2.67-2.67c.28.47.42.97.42 1.6 0 1.92-1.55 3.47-3.5 3.47"/></svg></span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Downtime Project</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Learn From a Master</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Goal <span class="num">Varies</span></div></div></header><dl class="pj__ledger">
 <div class="row"><dt>Item Prerequisite</dt><dd>None</dd></div>
@@ -238,9 +245,11 @@ Unless a project has an event table of its own or a special event entry, the Dir
 <p>You learn to use one of your <a href="../../../project/rule/general/heroic-ability/">heroic abilities</a> more efficiently, reducing its baseline <a href="../../../project/rule/resource/heroic-resource/">Heroic Resource</a> cost by 1 (to a minimum of 1). An ability can only be improved this way once.</p>
 </div>
 </article>
+</address>
 
 ## Learn New Language {data-scc="mcdm.heroes.v1/project/learn-new-language"}
 
+<address class="sc-embed" data-search-exclude="">
 <article class="pj">
 <header class="sc-head pj__head"><div class="sc-head__stack"><span class="sc-crest" aria-hidden="true"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="m13.78 15.3 6 6 2.11-2.16-6-6zm3.72-5.2c-.39 0-.81-.05-1.14-.19L4.97 21.25l-2.11-2.11 7.41-7.4L8.5 9.96l-.72.7-1.45-1.41v2.86l-.7.7-3.52-3.56.7-.7h2.81l-1.4-1.41 3.56-3.56a2.976 2.976 0 0 1 4.22 0L9.89 5.74l1.41 1.4-.71.71 1.79 1.78 1.82-1.88c-.14-.33-.2-.75-.2-1.12a3.49 3.49 0 0 1 3.5-3.52c.59 0 1.11.14 1.58.42L16.41 6.2l1.5 1.5 2.67-2.67c.28.47.42.97.42 1.6 0 1.92-1.55 3.47-3.5 3.47"/></svg></span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Downtime Project</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Learn New Language</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Goal <span class="num">120</span></div></div></header><dl class="pj__ledger">
 <div class="row"><dt>Item Prerequisite</dt><dd>None</dd></div>
@@ -251,9 +260,11 @@ Unless a project has an event table of its own or a special event entry, the Dir
 <p>When you start this project, choose a language taught by the <a href="../../../project/rule/downtime/project-source/">project source</a>. When the project is complete, you understand the language.</p>
 </div>
 </article>
+</address>
 
 ## Learn New Skill {data-scc="mcdm.heroes.v1/project/learn-new-skill"}
 
+<address class="sc-embed" data-search-exclude="">
 <article class="pj">
 <header class="sc-head pj__head"><div class="sc-head__stack"><span class="sc-crest" aria-hidden="true"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="m13.78 15.3 6 6 2.11-2.16-6-6zm3.72-5.2c-.39 0-.81-.05-1.14-.19L4.97 21.25l-2.11-2.11 7.41-7.4L8.5 9.96l-.72.7-1.45-1.41v2.86l-.7.7-3.52-3.56.7-.7h2.81l-1.4-1.41 3.56-3.56a2.976 2.976 0 0 1 4.22 0L9.89 5.74l1.41 1.4-.71.71 1.79 1.78 1.82-1.88c-.14-.33-.2-.75-.2-1.12a3.49 3.49 0 0 1 3.5-3.52c.59 0 1.11.14 1.58.42L16.41 6.2l1.5 1.5 2.67-2.67c.28.47.42.97.42 1.6 0 1.92-1.55 3.47-3.5 3.47"/></svg></span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Downtime Project</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Learn New Skill</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Goal <span class="num">120</span></div></div></header><dl class="pj__ledger">
 <div class="row"><dt>Item Prerequisite</dt><dd>None</dd></div>
@@ -264,9 +275,11 @@ Unless a project has an event table of its own or a special event entry, the Dir
 <p>When you start this project, choose a skill taught by the <a href="../../../project/rule/downtime/project-source/">project source</a>. When the project is complete, you have that skill.</p>
 </div>
 </article>
+</address>
 
 ## Perfect New Recipe {data-scc="mcdm.heroes.v1/project/perfect-new-recipe"}
 
+<address class="sc-embed" data-search-exclude="">
 <article class="pj">
 <header class="sc-head pj__head"><div class="sc-head__stack"><span class="sc-crest" aria-hidden="true"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="m13.78 15.3 6 6 2.11-2.16-6-6zm3.72-5.2c-.39 0-.81-.05-1.14-.19L4.97 21.25l-2.11-2.11 7.41-7.4L8.5 9.96l-.72.7-1.45-1.41v2.86l-.7.7-3.52-3.56.7-.7h2.81l-1.4-1.41 3.56-3.56a2.976 2.976 0 0 1 4.22 0L9.89 5.74l1.41 1.4-.71.71 1.79 1.78 1.82-1.88c-.14-.33-.2-.75-.2-1.12a3.49 3.49 0 0 1 3.5-3.52c.59 0 1.11.14 1.58.42L16.41 6.2l1.5 1.5 2.67-2.67c.28.47.42.97.42 1.6 0 1.92-1.55 3.47-3.5 3.47"/></svg></span></span><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Downtime Project</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Perfect New Recipe</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Goal <span class="num">100</span></div></div></header><dl class="pj__ledger">
 <div class="row"><dt>Item Prerequisite</dt><dd>Varies</dd></div>
@@ -312,3 +325,4 @@ Unless a project has an event table of its own or a special event entry, the Dir
 </table>
 </div>
 </article>
+</address>

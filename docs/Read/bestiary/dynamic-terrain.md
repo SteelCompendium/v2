@@ -77,6 +77,7 @@ Environmental hazards represent natural elements that creatures (typically creat
 
 ###### Angry Beehive (Level 2 Hazard Hexer) {data-scc="mcdm.monsters.v1/dynamic-terrain.environmental-hazards/angry-beehive"}
 
+<address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="hexer">
 <article class="fb md-typeset">
 <header class="sc-head fb__head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Angry Beehive</h2></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 2</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini" data-role="hexer">Hazard Hexer</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">EV 2</div></div></header>
@@ -105,9 +106,11 @@ Environmental hazards represent natural elements that creatures (typically creat
 </div>
 </article>
 </div>
+</address>
 
 ###### Brambles (Level 1 Hazard Defender) {data-scc="mcdm.monsters.v1/dynamic-terrain.environmental-hazards/brambles"}
 
+<address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="defender">
 <article class="fb md-typeset">
 <header class="sc-head fb__head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Brambles</h2></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini" data-role="defender">Hazard Defender</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">EV 1 per 10 x 10 thicket</div></div></header>
@@ -134,9 +137,11 @@ Environmental hazards represent natural elements that creatures (typically creat
 </div>
 </article>
 </div>
+</address>
 
 ###### Corrosive Pool (Level 2 Hazard Hexer) {data-scc="mcdm.monsters.v1/dynamic-terrain.environmental-hazards/corrosive-pool"}
 
+<address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="hexer">
 <article class="fb md-typeset">
 <header class="sc-head fb__head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Corrosive Pool</h2></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 2</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini" data-role="hexer">Hazard Hexer</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">EV 3 per 10 x 10 pool</div></div></header>
@@ -172,9 +177,11 @@ Environmental hazards represent natural elements that creatures (typically creat
 </div>
 </article>
 </div>
+</address>
 
 ###### Frozen Pond (Level 1 Hazard Hexer) {data-scc="mcdm.monsters.v1/dynamic-terrain.environmental-hazards/frozen-pond"}
 
+<address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="hexer">
 <article class="fb md-typeset">
 <header class="sc-head fb__head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Frozen Pond</h2></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini" data-role="hexer">Hazard Hexer</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">EV 1 per 10 x 10 pond</div></div></header>
@@ -212,9 +219,11 @@ Any creature who starts their turn in the icy water takes 1 cold damage. If the 
 </div>
 </article>
 </div>
+</address>
 
 ###### Lava (Level 3 Hazard Hexer) {data-scc="mcdm.monsters.v1/dynamic-terrain.environmental-hazards/lava"}
 
+<address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="hexer">
 <article class="fb md-typeset">
 <header class="sc-head fb__head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Lava</h2></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 3</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini" data-role="hexer">Hazard Hexer</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">EV 4 per 10 x 10 patch</div></div></header>
@@ -250,9 +259,11 @@ Any creature who starts their turn in the icy water takes 1 cold damage. If the 
 </div>
 </article>
 </div>
+</address>
 
 ###### Quicksand (Level 3 Hazard Hexer) {data-scc="mcdm.monsters.v1/dynamic-terrain.environmental-hazards/quicksand"}
 
+<address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="hexer">
 <article class="fb md-typeset">
 <header class="sc-head fb__head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Quicksand</h2></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 3</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini" data-role="hexer">Hazard Hexer</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">EV 3 per 10 x 10 patch</div></div></header>
@@ -287,9 +298,11 @@ Any creature who starts their turn in the icy water takes 1 cold damage. If the 
 </div>
 </article>
 </div>
+</address>
 
 ###### Toxic Plants (Level 2 Hazard Hexer) {data-scc="mcdm.monsters.v1/dynamic-terrain.environmental-hazards/toxic-plants"}
 
+<address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="hexer">
 <article class="fb md-typeset">
 <header class="sc-head fb__head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Toxic Plants</h2></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 2</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini" data-role="hexer">Hazard Hexer</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">EV 2 per 10 x 10 field</div></div></header>
@@ -326,6 +339,7 @@ Any creature who starts their turn in the icy water takes 1 cold damage. If the 
 </div>
 </article>
 </div>
+</address>
 
 ### Fieldworks
 
@@ -333,6 +347,7 @@ Fieldworks represent temporary military fortifications meant to give defenders a
 
 ###### Archer's Stakes (Level 1 Fortification Defender) {data-scc="mcdm.monsters.v1/dynamic-terrain.fieldworks/archers-stakes"}
 
+<address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="defender">
 <article class="fb md-typeset">
 <header class="sc-head fb__head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Archer&#39;s Stakes</h2></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini" data-role="defender">Fortification Defender</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">EV 2</div></div></header>
@@ -374,9 +389,11 @@ Fieldworks represent temporary military fortifications meant to give defenders a
 </div>
 </article>
 </div>
+</address>
 
 ###### Bear Trap (Level 1 Trap Ambusher) {data-scc="mcdm.monsters.v1/dynamic-terrain.fieldworks/bear-trap"}
 
+<address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="ambusher">
 <article class="fb md-typeset">
 <header class="sc-head fb__head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Bear Trap</h2></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini" data-role="ambusher">Trap Ambusher</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">EV 2</div></div></header>
@@ -416,9 +433,11 @@ Fieldworks represent temporary military fortifications meant to give defenders a
 </div>
 </article>
 </div>
+</address>
 
 ###### Flammable Oil (Level 1 Trap Ambusher) {data-scc="mcdm.monsters.v1/dynamic-terrain.fieldworks/flammable-oil"}
 
+<address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="ambusher">
 <article class="fb md-typeset">
 <header class="sc-head fb__head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Flammable Oil</h2></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini" data-role="ambusher">Trap Ambusher</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">EV 2 per 10 x 10 patch</div></div></header>
@@ -450,9 +469,11 @@ Fieldworks represent temporary military fortifications meant to give defenders a
 </div>
 </article>
 </div>
+</address>
 
 ###### Hidey-Hole (Level 1 Fortification Ambusher) {data-scc="mcdm.monsters.v1/dynamic-terrain.fieldworks/hidey-hole"}
 
+<address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="ambusher">
 <article class="fb md-typeset">
 <header class="sc-head fb__head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Hidey-Hole</h2></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini" data-role="ambusher">Fortification Ambusher</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">EV 1</div></div></header>
@@ -480,9 +501,11 @@ Fieldworks represent temporary military fortifications meant to give defenders a
 </div>
 </article>
 </div>
+</address>
 
 ###### Pavise Shield (Level 1 Fortification Defender) {data-scc="mcdm.monsters.v1/dynamic-terrain.fieldworks/pavise-shield"}
 
+<address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="defender">
 <article class="fb md-typeset">
 <header class="sc-head fb__head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Pavise Shield</h2></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini" data-role="defender">Fortification Defender</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">EV 1</div></div></header>
@@ -507,9 +530,11 @@ While a creature has a pavise shield grabbed, their speed is halved and they mov
 </div>
 </article>
 </div>
+</address>
 
 ###### Snare Trap (Level 1 Trap Ambusher) {data-scc="mcdm.monsters.v1/dynamic-terrain.fieldworks/snare-trap"}
 
+<address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="ambusher">
 <article class="fb md-typeset">
 <header class="sc-head fb__head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Snare Trap</h2></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini" data-role="ambusher">Trap Ambusher</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">EV 1</div></div></header>
@@ -549,9 +574,11 @@ While a creature has a pavise shield grabbed, their speed is halved and they mov
 </div>
 </article>
 </div>
+</address>
 
 ###### Spike Trap (Level 2 Trap Ambusher) {data-scc="mcdm.monsters.v1/dynamic-terrain.fieldworks/spike-trap"}
 
+<address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="ambusher">
 <article class="fb md-typeset">
 <header class="sc-head fb__head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Spike Trap</h2></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 2</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini" data-role="ambusher">Trap Ambusher</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">EV 3</div></div></header>
@@ -588,6 +615,7 @@ While a creature has a pavise shield grabbed, their speed is halved and they mov
 </div>
 </article>
 </div>
+</address>
 
 ### Mechanisms
 
@@ -595,6 +623,7 @@ Mechanisms represent any number of intricate devices that can complicate a battl
 
 ###### Column of Blades (Level 3 Fortification Defender) {data-scc="mcdm.monsters.v1/dynamic-terrain.mechanisms/column-of-blades"}
 
+<address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="defender">
 <article class="fb md-typeset">
 <header class="sc-head fb__head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Column of Blades</h2></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 3</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini" data-role="defender">Fortification Defender</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">EV 3</div></div></header>
@@ -646,9 +675,11 @@ Mechanisms represent any number of intricate devices that can complicate a battl
 </div>
 </article>
 </div>
+</address>
 
 ###### Dart Trap (Level 1 Trap Ambusher) {data-scc="mcdm.monsters.v1/dynamic-terrain.mechanisms/dart-trap"}
 
+<address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="ambusher">
 <article class="fb md-typeset">
 <header class="sc-head fb__head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Dart Trap</h2></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini" data-role="ambusher">Trap Ambusher</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">EV 1</div></div></header>
@@ -692,9 +723,11 @@ Mechanisms represent any number of intricate devices that can complicate a battl
 </div>
 </article>
 </div>
+</address>
 
 ###### Pillar (Level 2 Hazard Hexer) {data-scc="mcdm.monsters.v1/dynamic-terrain.mechanisms/pillar"}
 
+<address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="hexer">
 <article class="fb md-typeset">
 <header class="sc-head fb__head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Pillar</h2></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 2</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini" data-role="hexer">Hazard Hexer</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">EV 3</div></div></header>
@@ -732,9 +765,11 @@ Mechanisms represent any number of intricate devices that can complicate a battl
 </div>
 </article>
 </div>
+</address>
 
 ###### Portcullis (Level 3 Trap Ambusher) {data-scc="mcdm.monsters.v1/dynamic-terrain.mechanisms/portcullis"}
 
+<address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="ambusher">
 <article class="fb md-typeset">
 <header class="sc-head fb__head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Portcullis</h2></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 3</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini" data-role="ambusher">Trap Ambusher</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">EV 4</div></div></header>
@@ -772,9 +807,11 @@ Mechanisms represent any number of intricate devices that can complicate a battl
 </div>
 </article>
 </div>
+</address>
 
 ###### Pressure Plate (Level 1 Trigger Support) {data-scc="mcdm.monsters.v1/dynamic-terrain.mechanisms/pressure-plate"}
 
+<address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="support">
 <article class="fb md-typeset">
 <header class="sc-head fb__head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Pressure Plate</h2></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini" data-role="support">Trigger Support</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">EV 2</div></div></header>
@@ -808,9 +845,11 @@ Mechanisms represent any number of intricate devices that can complicate a battl
 </div>
 </article>
 </div>
+</address>
 
 ###### Pulley (Level 1 Trigger Support) {data-scc="mcdm.monsters.v1/dynamic-terrain.mechanisms/pulley"}
 
+<address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="support">
 <article class="fb md-typeset">
 <header class="sc-head fb__head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Pulley</h2></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini" data-role="support">Trigger Support</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">EV 1</div></div></header>
@@ -842,9 +881,11 @@ Mechanisms represent any number of intricate devices that can complicate a battl
 </div>
 </article>
 </div>
+</address>
 
 ###### Ram (Level 2 Trap Ambusher) {data-scc="mcdm.monsters.v1/dynamic-terrain.mechanisms/ram"}
 
+<address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="ambusher">
 <article class="fb md-typeset">
 <header class="sc-head fb__head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Ram</h2></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 2</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini" data-role="ambusher">Trap Ambusher</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">EV 3</div></div></header>
@@ -895,9 +936,11 @@ Mechanisms represent any number of intricate devices that can complicate a battl
 </div>
 </article>
 </div>
+</address>
 
 ###### Switch (Level 1 Trigger Support) {data-scc="mcdm.monsters.v1/dynamic-terrain.mechanisms/switch"}
 
+<address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="support">
 <article class="fb md-typeset">
 <header class="sc-head fb__head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Switch</h2></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 1</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini" data-role="support">Trigger Support</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">EV 1</div></div></header>
@@ -926,6 +969,7 @@ Mechanisms represent any number of intricate devices that can complicate a battl
 </div>
 </article>
 </div>
+</address>
 
 ### Power Fixtures
 
@@ -933,6 +977,7 @@ Power fixtures are especially potent fortifications for solo creatures and small
 
 ###### Holy Idol (Level 5 Relic Support) {data-scc="mcdm.monsters.v1/dynamic-terrain.power-fixtures/holy-idol"}
 
+<address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="support">
 <article class="fb md-typeset">
 <header class="sc-head fb__head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Holy Idol</h2></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 5</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini" data-role="support">Relic Support</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">EV 7</div></div></header>
@@ -954,9 +999,11 @@ Power fixtures are especially potent fortifications for solo creatures and small
 </div>
 </article>
 </div>
+</address>
 
 ###### Psionic Shard (Level 5 Fortification Defender) {data-scc="mcdm.monsters.v1/dynamic-terrain.power-fixtures/psionic-shard"}
 
+<address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="defender">
 <article class="fb md-typeset">
 <header class="sc-head fb__head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Psionic Shard</h2></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 5</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini" data-role="defender">Fortification Defender</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">EV 7</div></div></header>
@@ -984,9 +1031,11 @@ Power fixtures are especially potent fortifications for solo creatures and small
 </div>
 </article>
 </div>
+</address>
 
 ###### Tree of Might (Level 5 Hazard Hexer) {data-scc="mcdm.monsters.v1/dynamic-terrain.power-fixtures/tree-of-might"}
 
+<address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="hexer">
 <article class="fb md-typeset">
 <header class="sc-head fb__head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Tree of Might</h2></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 5</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini" data-role="hexer">Hazard Hexer</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">EV 14</div></div></header>
@@ -1013,6 +1062,7 @@ Power fixtures are especially potent fortifications for solo creatures and small
 </div>
 </article>
 </div>
+</address>
 
 ### Siege Engines
 
@@ -1026,6 +1076,7 @@ Multiple [minions](../../Browse/rule/organization/minion.md) in a [squad](../../
 
 ###### Arrow Launcher (Level 2 Siege Engine Artillery) {data-scc="mcdm.monsters.v1/dynamic-terrain.siege-engines/arrow-launcher"}
 
+<address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="artillery">
 <article class="fb md-typeset">
 <header class="sc-head fb__head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Arrow Launcher</h2></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 2</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini" data-role="artillery">Siege Engine Artillery</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">EV 8</div></div></header>
@@ -1076,9 +1127,11 @@ Multiple [minions](../../Browse/rule/organization/minion.md) in a [squad](../../
 </div>
 </article>
 </div>
+</address>
 
 ###### Boiling Oil Cauldron (Level 3 Fortification Defender) {data-scc="mcdm.monsters.v1/dynamic-terrain.siege-engines/boiling-oil-cauldron"}
 
+<address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="defender">
 <article class="fb md-typeset">
 <header class="sc-head fb__head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Boiling Oil Cauldron</h2></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 3</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini" data-role="defender">Fortification Defender</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">EV 10</div></div></header>
@@ -1108,9 +1161,11 @@ Multiple [minions](../../Browse/rule/organization/minion.md) in a [squad](../../
 </div>
 </article>
 </div>
+</address>
 
 ###### Catapult (Level 3 Siege Engine Artillery) {data-scc="mcdm.monsters.v1/dynamic-terrain.siege-engines/catapult"}
 
+<address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="artillery">
 <article class="fb md-typeset">
 <header class="sc-head fb__head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Catapult</h2></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 3</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini" data-role="artillery">Siege Engine Artillery</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">EV 10</div></div></header>
@@ -1154,9 +1209,11 @@ Multiple [minions](../../Browse/rule/organization/minion.md) in a [squad](../../
 </div>
 </article>
 </div>
+</address>
 
 ###### Exploding Mill Wheel (Level 3 Siege Engine Artillery) {data-scc="mcdm.monsters.v1/dynamic-terrain.siege-engines/exploding-mill-wheel"}
 
+<address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="artillery">
 <article class="fb md-typeset">
 <header class="sc-head fb__head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Exploding Mill Wheel</h2></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 3</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini" data-role="artillery">Siege Engine Artillery</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">EV 10</div></div></header>
@@ -1192,9 +1249,11 @@ Without proper training, determining how to pilot the wheel requires a <b>Reason
 </div>
 </article>
 </div>
+</address>
 
 ###### Field Ballista (Level 2 Siege Engine Artillery) {data-scc="mcdm.monsters.v1/dynamic-terrain.siege-engines/field-ballista"}
 
+<address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="artillery">
 <article class="fb md-typeset">
 <header class="sc-head fb__head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Field Ballista</h2></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 2</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini" data-role="artillery">Siege Engine Artillery</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">EV 8</div></div></header>
@@ -1253,9 +1312,11 @@ Without proper training, determining how to pilot the wheel requires a <b>Reason
 </div>
 </article>
 </div>
+</address>
 
 ###### Iron Dragon (Level 4 Siege Engine Artillery) {data-scc="mcdm.monsters.v1/dynamic-terrain.siege-engines/iron-dragon"}
 
+<address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="artillery">
 <article class="fb md-typeset">
 <header class="sc-head fb__head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Iron Dragon</h2></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 4</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini" data-role="artillery">Siege Engine Artillery</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">EV 12</div></div></header>
@@ -1293,9 +1354,11 @@ Without proper training, determining how to pilot the wheel requires a <b>Reason
 </div>
 </article>
 </div>
+</address>
 
 ###### Watchtower (Level 2 Fortification Defender) {data-scc="mcdm.monsters.v1/dynamic-terrain.siege-engines/watchtower"}
 
+<address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="defender">
 <article class="fb md-typeset">
 <header class="sc-head fb__head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Watchtower</h2></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 2</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini" data-role="defender">Fortification Defender</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">EV 8</div></div></header>
@@ -1334,6 +1397,7 @@ Without proper training, determining how to pilot the wheel requires a <b>Reason
 </div>
 </article>
 </div>
+</address>
 
 ### Supernatural Objects
 
@@ -1345,6 +1409,7 @@ Infused with magic or psionics, these powerful and esoteric terrain objects can 
 
 ###### The Black Obelisk (Level 3 Relic Controller) {data-scc="mcdm.monsters.v1/dynamic-terrain.supernatural-objects/the-black-obelisk"}
 
+<address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="controller">
 <article class="fb md-typeset">
 <header class="sc-head fb__head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">The Black Obelisk</h2></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 3</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini" data-role="controller">Relic Controller</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">EV 20</div></div></header>
@@ -1376,9 +1441,11 @@ Infused with magic or psionics, these powerful and esoteric terrain objects can 
 </div>
 </article>
 </div>
+</address>
 
 ###### The Chronal Hypercube (Level 3 Relic Controller) {data-scc="mcdm.monsters.v1/dynamic-terrain.supernatural-objects/the-chronal-hypercube"}
 
+<address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="controller">
 <article class="fb md-typeset">
 <header class="sc-head fb__head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">The Chronal Hypercube</h2></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 3</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini" data-role="controller">Relic Controller</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">EV 20</div></div></header>
@@ -1405,9 +1472,11 @@ Infused with magic or psionics, these powerful and esoteric terrain objects can 
 </div>
 </article>
 </div>
+</address>
 
 ###### The Throne of A'An (Level 4 Relic Controller) {data-scc="mcdm.monsters.v1/dynamic-terrain.supernatural-objects/the-throne-of-aan"}
 
+<address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="controller">
 <article class="fb md-typeset">
 <header class="sc-head fb__head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Featureblock</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">The Throne of A&#39;An</h2></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 4</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini" data-role="controller">Relic Controller</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">EV 24</div></div></header>
@@ -1461,6 +1530,7 @@ Infused with magic or psionics, these powerful and esoteric terrain objects can 
 </div>
 </article>
 </div>
+</address>
 
 ###### Incubator of A'An
 

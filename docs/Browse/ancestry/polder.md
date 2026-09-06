@@ -130,6 +130,7 @@ The [dragon knight](dragon-knight.md) stared at them for a moment, then turned b
 
 ## Polder Traits {data-scc="mcdm.heroes.v1/feature.trait.polder/polder-traits"}
 
+<address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--section" data-action="trait" data-sub="3">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Trait</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Polder Traits</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Polder</div></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
@@ -210,3 +211,4 @@ The [dragon knight](dragon-knight.md) stared at them for a moment, then turned b
 </div>
 </div>
 </section>
+</address>
