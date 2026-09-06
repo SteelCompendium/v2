@@ -1,5 +1,6 @@
 /*Load font options*/
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Zilla+Slab:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap");
 
@@ -7,19 +8,8 @@
 :root {
     --md-large-header-font: "Beaufort W01 Heavy";
     --md-small-header-font: "Test Newzald";
-    --md-text-font: "BerlingskeSlab-DBd";
+    --md-text-font: "Zilla Slab";
     --md-code-font: "JetBrains Mono";
-}
-
-@font-face {
-    font-family: "BerlingskeSlab-DBd";
-    font-display: swap;
-    src: url("https://db.onlinewebfonts.com/t/8cd8b6c5a3db3b61777d58cb5860fb17.eot");
-    src: url("https://db.onlinewebfonts.com/t/8cd8b6c5a3db3b61777d58cb5860fb17.eot?#iefix")format("embedded-opentype"),
-        url("https://db.onlinewebfonts.com/t/8cd8b6c5a3db3b61777d58cb5860fb17.woff2")format("woff2"),
-        url("https://db.onlinewebfonts.com/t/8cd8b6c5a3db3b61777d58cb5860fb17.woff")format("woff"),
-        url("https://db.onlinewebfonts.com/t/8cd8b6c5a3db3b61777d58cb5860fb17.ttf")format("truetype"),
-        url("https://db.onlinewebfonts.com/t/8cd8b6c5a3db3b61777d58cb5860fb17.svg#BerlingskeSlab-DBd")format("svg");
 }
 
 body {

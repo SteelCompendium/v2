@@ -60,7 +60,7 @@
       ['"system-ui", var(--md-text-font), serif', "System UI"]
     ],
     text: [
-      ['"BerlingskeSlab-DBd", Georgia, "Times New Roman", serif', "Berlingske Slab (default)"],
+      ['"Zilla Slab", Georgia, "Times New Roman", serif', "Zilla Slab (default)"],
       ['"Source Serif 4"', "Source Serif 4"],
       ['"Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", Arial, "Noto Sans", sans-serif', "Inter"],
       ['-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", Arial, "Noto Sans", sans-serif', "System UI"]
