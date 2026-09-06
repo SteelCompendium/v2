@@ -96,7 +96,17 @@
       searchOptions: {
         boost: { title: TITLE_BOOST, text: 1 },
         prefix: function (_term, i, terms) { return i === terms.length - 1; },
-        boostDocument: function (_id, _term, stored) { return (stored && stored.boost) || 1; }
+        // steel-etl stamps a page's frontmatter `search.boost` onto every doc
+        // chunk it emits for that page, including each heading anchor. Honor
+        // it only on the page's own root doc (location has no "#") — applying
+        // it to a heading anchor too would let an unrelated ability's name,
+        // merely *listed* as a heading inside a boosted class page, out-rank
+        // that ability's own dedicated (unboosted, real-content) page.
+        boostDocument: function (_id, _term, stored) {
+          if (!stored) return 1;
+          var isSection = stored.location.indexOf("#") !== -1;
+          return (!isSection && stored.boost) || 1;
+        }
       }
     });
     ms.addAll(records);

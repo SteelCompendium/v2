@@ -18,6 +18,15 @@ const DOCS = [
   { location: "Browse/feature/ability/tactician/level-2/fog-of-war/", title: "Fog of War", text: "Fog of War Tactician Level 2" },
   { location: "Browse/dynamic-terrain/fieldworks/hidey-hole/", title: "Hidey-Hole", text: "A hidey-hole fieldwork." },
   { location: "Browse/skill/intrigue/hide/", title: "Hide", text: "Hide skill", boost: 2 },
+  // A class page's own boost (steel-etl stamps `boost` on every doc chunk it
+  // emits for a page, including each heading anchor) must not cascade to an
+  // unrelated ability's dedicated page just because that ability is also
+  // *listed* as a heading inside the boosted class page. The anchor's text is
+  // empty (real steel-etl shape: the heading has no body before the next
+  // heading) while the dedicated page has the actual ability text.
+  { location: "Browse/class/summoner/", title: "Summoner", text: "You commune with an otherworldly ally.", boost: 4 },
+  { location: "Browse/class/summoner/#portfolio-champion", title: "Portfolio Champion", text: "", boost: 4 },
+  { location: "Browse/feature/summoner/level-8/portfolio-champion/", title: "Portfolio Champion", text: "<p>Portfolio Champion Summoner Level 8 Your summoned champion gains a boon.</p>" },
 ];
 const engine = Core.createEngine(MiniSearch, DOCS);
 const top = (q) => engine.search(q).items[0][0].location;
@@ -62,6 +71,10 @@ test("stop words are kept", () => {
 
 test("boost breaks exact-title ties: 'fury' → the class page", () => {
   assert.strictEqual(top("fury"), "Browse/class/fury/");
+});
+
+test("a page's boost does not cascade to its heading anchors: the dedicated ability page beats the boosted class page's same-titled, empty-text heading", () => {
+  assert.strictEqual(top("Portfolio Champion"), "Browse/feature/summoner/level-8/portfolio-champion/");
 });
 
 test("every group carries its page doc; section-only hits get the page at score 0", () => {
