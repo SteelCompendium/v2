@@ -104,7 +104,7 @@
         // that ability's own dedicated (unboosted, real-content) page.
         boostDocument: function (_id, _term, stored) {
           if (!stored) return 1;
-          var isSection = stored.location.indexOf("#") !== -1;
+          var isSection = (stored.location || "").indexOf("#") !== -1;
           return (!isSection && stored.boost) || 1;
         }
       }

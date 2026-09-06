@@ -27,6 +27,11 @@ const DOCS = [
   { location: "Browse/class/summoner/", title: "Summoner", text: "You commune with an otherworldly ally.", boost: 4 },
   { location: "Browse/class/summoner/#portfolio-champion", title: "Portfolio Champion", text: "", boost: 4 },
   { location: "Browse/feature/summoner/level-8/portfolio-champion/", title: "Portfolio Champion", text: "<p>Portfolio Champion Summoner Level 8 Your summoned champion gains a boon.</p>" },
+  // A second ROOT doc that exactly ties the boosted class page on title —
+  // boost must still decide root-vs-root ties (this is the case boost was
+  // introduced for; the removed cascade-to-sections bug must not have
+  // silently removed the root behavior too).
+  { location: "Browse/rule/summoner/", title: "Summoner", text: "Summoner rules glossary entry." },
 ];
 const engine = Core.createEngine(MiniSearch, DOCS);
 const top = (q) => engine.search(q).items[0][0].location;
@@ -69,12 +74,16 @@ test("stop words are kept", () => {
   assert.strictEqual(top("to the death"), "Browse/feature/ability/fury/level-1/to-the-death/");
 });
 
-test("boost breaks exact-title ties: 'fury' → the class page", () => {
+test("exact title on the page root wins over its own boosted section: 'fury' → the class page", () => {
   assert.strictEqual(top("fury"), "Browse/class/fury/");
 });
 
 test("a page's boost does not cascade to its heading anchors: the dedicated ability page beats the boosted class page's same-titled, empty-text heading", () => {
   assert.strictEqual(top("Portfolio Champion"), "Browse/feature/summoner/level-8/portfolio-champion/");
+});
+
+test("root boost breaks an exact-title tie between two pages", () => {
+  assert.strictEqual(top("Summoner"), "Browse/class/summoner/");
 });
 
 test("every group carries its page doc; section-only hits get the page at score 0", () => {
