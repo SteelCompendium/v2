@@ -30,6 +30,12 @@
       if (head.querySelector(".sc-dice-pop")) { closeAll(); return; } // toggle off
       closeAll();
       const card = head.closest(".sc-ability") || head.closest(".sb__feat") || head.parentElement;
+      // SC-308: a multi-roll ability card now carries more than one
+      // .sc-ability__pr panel, so highlighting must scope to the CLICKED
+      // panel, not the whole card — otherwise resolving one power roll also
+      // lit up the matching row in a second, unrelated tier table.
+      // closeAll() below stays document-wide (clears every open popover/glow).
+      const panel = head.closest(".sc-ability__pr") || card;
       const mod = D.parseModifier((head.querySelector(".chars") || {}).textContent);
       const state = { dice: D.roll(), edges: 0, banes: 0, bonus: mod.bonus };
 
@@ -40,7 +46,7 @@
 
       function paint() {
         const r = D.resolve({ d1: state.dice.d1, d2: state.dice.d2, bonus: state.bonus || 0, edges: state.edges, banes: state.banes });
-        card.querySelectorAll(".sc-ability__tier").forEach(function (row) {
+        panel.querySelectorAll(".sc-ability__tier").forEach(function (row) {
           row.classList.toggle("is-rolled", row.dataset.tier === D.tierKey(r.tier));
         });
         pop.innerHTML =
