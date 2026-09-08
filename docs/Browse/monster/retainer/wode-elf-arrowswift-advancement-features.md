@@ -4,6 +4,13 @@ printing_book: "Draw Steel: Monsters"
 features:
     - cost: Encounter
       distance: Ranged 15
+      effects:
+        - roll: Power Roll + highest characteristic
+          tier1: 7 damage
+          tier2: 11 damage
+          tier3: 16 damage
+        - effect: If the arrowswift is hidden when they use this ability, they gain 2 [surges](../../rule/resource/surge.md) that can be used immediately.
+          name: Effect
       icon: "\U0001F3F9"
       keywords:
         - Ranged
@@ -24,6 +31,9 @@ features:
       usage: Main action
     - cost: Encounter
       distance: Self
+      effects:
+        - effect: Until the end of the encounter, whenever the arrowswift makes a ranged [strike](../../rule/combat/strike.md), the [strike](../../rule/combat/strike.md) gains an edge and the arrowswift gains 1 [surge](../../rule/resource/surge.md) that must be used immediately. While the arrowswift's mentor is [adjacent](../../rule/combat/adjacent.md) to them, the mentor also gains this benefit.
+          name: Effect
       icon: "\U0001F464"
       level: 7
       name: Magic Arrows
@@ -34,6 +44,11 @@ features:
       usage: Maneuver
     - cost: Encounter
       distance: Ranged 15
+      effects:
+        - roll: Power Roll + highest characteristic
+          tier1: 12 damage
+          tier2: 17 damage
+          tier3: 23 damage
       icon: "\U0001F3F9"
       keywords:
         - Ranged

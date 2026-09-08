@@ -4,6 +4,13 @@ printing_book: "Draw Steel: Monsters"
 features:
     - cost: Encounter
       distance: 3 cube within 1
+      effects:
+        - roll: Power Roll + highest characteristic
+          tier1: 3 cold damage; [push](../../movement/forced-movement.md) 2
+          tier2: 5 cold damage; [push](../../movement/forced-movement.md) 3
+          tier3: 8 cold damage; [push](../../movement/forced-movement.md) 5
+        - effect: The weatherwise can [teleport](../../movement/teleport.md) up to 5 squares before or after using this ability.
+          name: Effect
       icon: "\U0001F533"
       keywords:
         - Area
@@ -23,6 +30,9 @@ features:
       usage: Main action
     - cost: Encounter
       distance: 3 burst
+      effects:
+        - effect: Each target can spend a [Recovery](../../rule/health/recoveries.md), and can choose one effect on them that can be ended by a [saving throw](../../rule/general/saving-throw.md). That effect instead ends at the end of their turn.
+          name: Effect
       icon: ❇️
       keywords:
         - Area
@@ -36,6 +46,11 @@ features:
       usage: Main action
     - cost: Encounter
       distance: 3 cube within 1
+      effects:
+        - roll: Power Roll + highest characteristic
+          tier1: 6 corruption damage; P < WEAK [prone](../../condition/prone.md) and can't stand ([save](../../rule/general/saving-throw.md) ends)
+          tier2: 10 corruption damage; P < AVERAGE [prone](../../condition/prone.md) and can't stand ([save](../../rule/general/saving-throw.md) ends)
+          tier3: 14 corruption damage; P < STRONG [prone](../../condition/prone.md) and can't stand ([save](../../rule/general/saving-throw.md) ends)
       icon: "\U0001F533"
       keywords:
         - Area

@@ -4,9 +4,16 @@ printing_book: "Draw Steel: Monsters"
 features:
     - body: Until the end of the round, when an angulotl moves through an inactive angulotl's space, the inactive angulotl can use a free triggered action to jump 3 squares.
       cost: 3 Malice
+      effects:
+        - effect: Until the end of the round, when an angulotl moves through an inactive angulotl's space, the inactive angulotl can use a free triggered action to jump 3 squares.
       icon: ⭐️
       name: Leapfrog
     - cost: 5 Malice
+      effects:
+        - effect: Each angulotl in the encounter puffs out their throat and starts loudly droning. Any non-angulotl adjacent to an angulotl makes an **[Intuition](../../rule/character/intuition.md) test.**
+          tier1: 5 sonic damage; [slowed](../../condition/slowed.md) ([EoT](../../rule/combat/end-of-turn.md))
+          tier2: 4 sonic damage
+          tier3: No effect.
       icon: ❇️
       intro: Each angulotl in the encounter puffs out their throat and starts loudly droning. Any non-angulotl adjacent to an angulotl makes an **[Intuition](../../rule/character/intuition.md) test.**
       name: Resonating Croak
@@ -17,6 +24,8 @@ features:
             mid: 4 sonic damage
     - body: An angulotl calls clouds to cover the encounter map and unleash rain until the end of the round. Any creature or object that is exposed to the sky is wet until the end of the encounter.
       cost: 7 Malice
+      effects:
+        - effect: An angulotl calls clouds to cover the encounter map and unleash rain until the end of the round. Any creature or object that is exposed to the sky is wet until the end of the encounter.
       icon: "\U0001F300"
       name: Rainfall
 flavor: At the start of any angulotl's turn, you can spend Malice to activate one of the following features.
@@ -37,7 +46,7 @@ type: featureblock
 <div class="fb__feats">
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-leapfrog">Leapfrog</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">3 Malice</div></div></header></div>
-<div class="fb__feat-body">Until the end of the round, when an angulotl moves through an inactive angulotl&#39;s space, the inactive angulotl can use a free triggered action to jump 3 squares.</div>
+<div class="fb__feat-trailing">Until the end of the round, when an angulotl moves through an inactive angulotl&#39;s space, the inactive angulotl can use a free triggered action to jump 3 squares.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="main">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">❇️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-resonating-croak">Resonating Croak</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">5 Malice</div></div></header></div>
@@ -46,7 +55,7 @@ type: featureblock
 </article>
 <article class="sc-ability fb__feat" data-action="special">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">🌀</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-rainfall">Rainfall</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">7 Malice</div></div></header></div>
-<div class="fb__feat-body">An angulotl calls clouds to cover the encounter map and unleash rain until the end of the round. Any creature or object that is exposed to the sky is wet until the end of the encounter.</div>
+<div class="fb__feat-trailing">An angulotl calls clouds to cover the encounter map and unleash rain until the end of the round. Any creature or object that is exposed to the sky is wet until the end of the encounter.</div>
 </article>
 </div>
 </article>

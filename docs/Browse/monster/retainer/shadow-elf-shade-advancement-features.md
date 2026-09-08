@@ -4,6 +4,13 @@ printing_book: "Draw Steel: Monsters"
 features:
     - cost: Encounter
       distance: Ranged 5
+      effects:
+        - roll: Power Roll + highest characteristic
+          tier1: 8 poison damage; [weakened](../../condition/weakened.md) ([save](../../rule/general/saving-throw.md) ends)
+          tier2: 12 poison damage; [weakened](../../condition/weakened.md) ([save](../../rule/general/saving-throw.md) ends)
+          tier3: 16 poison damage; [weakened](../../condition/weakened.md) ([save](../../rule/general/saving-throw.md) ends)
+        - effect: The slow-poison needle is initially painless, with the damage and effect delayed until the start of the target's next turn. If the shade is hidden, using this ability doesn't cause them to be revealed.
+          name: Effect
       icon: "\U0001F3F9"
       keywords:
         - Ranged
@@ -24,6 +31,13 @@ features:
       usage: Main action
     - cost: Encounter
       distance: Melee 1
+      effects:
+        - roll: Power Roll + highest characteristic
+          tier1: 12 poison damage; the target has shadowed vision (save ends)
+          tier2: 17 poison damage; the target has shadowed vision (save ends)
+          tier3: 23 poison damage; the target has shadowed vision (save ends)
+        - effect: While a creature has shadowed vision, all creatures have concealment from them.
+          name: Effect
       icon: "\U0001F5E1"
       keywords:
         - Melee

@@ -4,13 +4,22 @@ printing_book: "Draw Steel: Monsters"
 features:
     - body: Until the end of the round, each rival can impose a bane on a [strike](../../rule/combat/strike.md) made against an [adjacent](../../rule/combat/adjacent.md) rival as a free triggered action.
       cost: 3 Malice
+      effects:
+        - effect: Until the end of the round, each rival can impose a bane on a [strike](../../rule/combat/strike.md) made against an [adjacent](../../rule/combat/adjacent.md) rival as a free triggered action.
       icon: ⭐️
       name: Work as One
     - body: Until the end of the round, whenever any rival makes a power roll against the target of their Rivalry trait, they roll a d3 and add it to the power roll.
       cost: 3 Malice
+      effects:
+        - effect: Until the end of the round, whenever any rival makes a power roll against the target of their Rivalry trait, they roll a d3 and add it to the power roll.
       icon: ⭐️
       name: We Just Do It Better
     - cost: 5 Malice
+      effects:
+        - effect: 'One rival pulls out a magic consumable and hurls it, targeting a 5 x 1 line within 1 square of them or a 3 cube within 10 squares of them. Each enemy in the area makes an Agility test. The rival chooses a damage type and a condition for the outcome of the test from one of the following pairs: sonic damage and [dazed](../../condition/dazed.md), poison damage and [weakened](../../condition/weakened.md), or fire damage and [frightened](../../condition/frightened.md).'
+          tier1: 11 damage; the condition affects the target (save ends)
+          tier2: 8 damage; the condition affects the target (EoT)
+          tier3: 5 damage
       icon: "\U0001F533"
       intro: 'One rival pulls out a magic consumable and hurls it, targeting a 5 x 1 line within 1 square of them or a 3 cube within 10 squares of them. Each enemy in the area makes an Agility test. The rival chooses a damage type and a condition for the outcome of the test from one of the following pairs: sonic damage and [dazed](../../condition/dazed.md), poison damage and [weakened](../../condition/weakened.md), or fire damage and [frightened](../../condition/frightened.md).'
       name: Check Out Our Loot
@@ -21,10 +30,14 @@ features:
             mid: 8 damage; the condition affects the target (EoT)
     - body: Each rival regains 10 [Stamina](../../rule/health/stamina.md). Until the end of the round, whenever a rival uses an ability against an enemy, each other rival [adjacent](../../rule/combat/adjacent.md) to that enemy can make a [free strike](../../feature/common/main-actions/free-strike.md) against them.
       cost: 7 Malice
+      effects:
+        - effect: Each rival regains 10 [Stamina](../../rule/health/stamina.md). Until the end of the round, whenever a rival uses an ability against an enemy, each other rival [adjacent](../../rule/combat/adjacent.md) to that enemy can make a [free strike](../../feature/common/main-actions/free-strike.md) against them.
       icon: ⭐️
       name: Calling the Shots
     - body: Each rival moves up to their speed and uses a main action or maneuver that doesn't cost [Malice](../../rule/monster/malice.md).
       cost: 10 Malice
+      effects:
+        - effect: Each rival moves up to their speed and uses a main action or maneuver that doesn't cost [Malice](../../rule/monster/malice.md).
       icon: ⭐️
       name: Coordinated Takedown
 flavor: At the start of any rival's turn, you can spend Malice to activate one of the following features.
@@ -46,11 +59,11 @@ type: featureblock
 <div class="fb__feats">
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-work-as-one">Work as One</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">3 Malice</div></div></header></div>
-<div class="fb__feat-body">Until the end of the round, each rival can impose a bane on a <a href="../../../rule/combat/strike/">strike</a> made against an <a href="../../../rule/combat/adjacent/">adjacent</a> rival as a free triggered action.</div>
+<div class="fb__feat-trailing">Until the end of the round, each rival can impose a bane on a <a href="../../../rule/combat/strike/">strike</a> made against an <a href="../../../rule/combat/adjacent/">adjacent</a> rival as a free triggered action.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-we-just-do-it-better">We Just Do It Better</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">3 Malice</div></div></header></div>
-<div class="fb__feat-body">Until the end of the round, whenever any rival makes a power roll against the target of their Rivalry trait, they roll a d3 and add it to the power roll.</div>
+<div class="fb__feat-trailing">Until the end of the round, whenever any rival makes a power roll against the target of their Rivalry trait, they roll a d3 and add it to the power roll.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">🔳</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-check-out-our-loot">Check Out Our Loot</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">5 Malice</div></div></header></div>
@@ -59,11 +72,11 @@ type: featureblock
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-calling-the-shots">Calling the Shots</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">7 Malice</div></div></header></div>
-<div class="fb__feat-body">Each rival regains 10 <a href="../../../rule/health/stamina/">Stamina</a>. Until the end of the round, whenever a rival uses an ability against an enemy, each other rival <a href="../../../rule/combat/adjacent/">adjacent</a> to that enemy can make a <a href="../../../feature/common/main-actions/free-strike/">free strike</a> against them.</div>
+<div class="fb__feat-trailing">Each rival regains 10 <a href="../../../rule/health/stamina/">Stamina</a>. Until the end of the round, whenever a rival uses an ability against an enemy, each other rival <a href="../../../rule/combat/adjacent/">adjacent</a> to that enemy can make a <a href="../../../feature/common/main-actions/free-strike/">free strike</a> against them.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-coordinated-takedown">Coordinated Takedown</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">10 Malice</div></div></header></div>
-<div class="fb__feat-body">Each rival moves up to their speed and uses a main action or maneuver that doesn&#39;t cost <a href="../../../rule/monster/malice/">Malice</a>.</div>
+<div class="fb__feat-trailing">Each rival moves up to their speed and uses a main action or maneuver that doesn&#39;t cost <a href="../../../rule/monster/malice/">Malice</a>.</div>
 </article>
 </div>
 </article>

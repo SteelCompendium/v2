@@ -4,6 +4,13 @@ printing_book: "Draw Steel: Monsters"
 features:
     - cost: Encounter
       distance: Ranged 10
+      effects:
+        - roll: Power Roll + highest characteristic
+          tier1: 6 corruption damage; the target has 1 level of drain
+          tier2: 10 corruption damage; the target has 2 levels of drain
+          tier3: 14 corruption damage; the target has 3 levels of drain
+        - effect: The next creature to make a [strike](../../rule/combat/strike.md) against the target gains 1 [surge](../../rule/resource/surge.md) for each level of drain, which must be used on that [strike](../../rule/combat/strike.md).
+          name: Effect
       icon: "\U0001F3F9"
       keywords:
         - Magic
@@ -24,6 +31,11 @@ features:
       usage: Main action
     - cost: Encounter
       distance: 3 cube within 1
+      effects:
+        - roll: Power Roll + highest characteristic
+          tier1: A < WEAK [slowed](../../condition/slowed.md) and [weakened](../../condition/weakened.md) ([save](../../rule/general/saving-throw.md) ends)
+          tier2: A < AVERAGE [slowed](../../condition/slowed.md) and [weakened](../../condition/weakened.md) ([save](../../rule/general/saving-throw.md) ends)
+          tier3: A < STRONG [slowed](../../condition/slowed.md) and [weakened](../../condition/weakened.md) ([save](../../rule/general/saving-throw.md) ends)
       icon: "\U0001F533"
       keywords:
         - Area
@@ -40,6 +52,9 @@ features:
       usage: Main action
     - cost: Encounter
       distance: Ranged 5
+      effects:
+        - effect: If the target has P < STRONG, they are phased until the end of their next turn. A phased target gains the unquiet spirit's Corruptive Phasing trait and can [fly](../../movement/fly.md). They are visible but can't affect or be affed by other creatures or objects. A willing creature not subject to the ability's [potency](../../rule/character/potency.md) can choose to automatically be affected.
+          name: Effect
       icon: "\U0001F3F9"
       keywords:
         - Magic

@@ -4,6 +4,11 @@ printing_book: "Draw Steel: Monsters"
 features:
     - cost: Encounter
       distance: Melee 1
+      effects:
+        - effect: The warrior's mentor is targeted by a strike while within distance.
+          name: Trigger
+        - effect: The warrior and the mentor switch places. The warrior is the strike's new target and the strike has a double bane.
+          name: Effect
       icon: ❗️
       keywords:
         - Melee
@@ -18,6 +23,13 @@ features:
       usage: Triggered action
     - cost: Encounter
       distance: Melee 1
+      effects:
+        - roll: Power Roll + highest characteristic
+          tier1: 7 damage
+          tier2: 11 damage
+          tier3: 16 damage
+        - effect: Until the start of the warrior's next turn, ability rolls against the warrior or any ally [adjacent](../../rule/combat/adjacent.md) to the warrior have a double bane.
+          name: Effect
       icon: "\U0001F5E1"
       keywords:
         - Melee
@@ -38,6 +50,11 @@ features:
       usage: Main action
     - cost: Encounter
       distance: 1 burst
+      effects:
+        - roll: Power Roll + highest characteristic
+          tier1: 12 damage
+          tier2: 18 damage
+          tier3: 24 damage
       icon: ❇️
       keywords:
         - Area

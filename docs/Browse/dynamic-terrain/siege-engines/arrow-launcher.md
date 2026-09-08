@@ -2,7 +2,12 @@
 printing: "1.01"
 printing_book: "Draw Steel: Monsters"
 features:
-    - icon: "\U0001F300"
+    - effects:
+        - effect: As a maneuver, a creature [adjacent](../../rule/combat/adjacent.md) to an arrow launcher can make an **Agility test**.
+          tier1: The creature accidentally activates the **Arrow Storm** ability.
+          tier2: The arrow launcher is deactivated but the creature is [slowed](../../condition/slowed.md) (EoT).
+          tier3: The arrow launcher is deactivated and can't be used.
+      icon: "\U0001F300"
       intro: As a maneuver, a creature [adjacent](../../rule/combat/adjacent.md) to an arrow launcher can make an **Agility test**.
       name: Deactivate
       power_roll:
@@ -11,6 +16,13 @@ features:
             low: The creature accidentally activates the **Arrow Storm** ability.
             mid: The arrow launcher is deactivated but the creature is [slowed](../../condition/slowed.md) (EoT).
     - distance: 5 cube within 20
+      effects:
+        - roll: Power Roll + 2
+          tier1: 5 damage
+          tier2: 8 damage
+          tier3: 11 damage
+        - effect: This ability can't be used again until the arrow launcher is reloaded.
+          name: Effect
       icon: "\U0001F533"
       keywords:
         - '- Area'
@@ -29,6 +41,9 @@ features:
       target: Each creature and object in the area
       usage: Main action (Adjacent creature)
     - distance: '-'
+      effects:
+        - effect: The arrow launcher is reloaded, allowing **Arrow Storm** to be used again. This action can be used only once per round.
+          name: Effect
       icon: ⭐️
       name: Reload
       sections:
@@ -37,6 +52,9 @@ features:
       target: '-'
       usage: Main action (Adjacent creature)
     - distance: '-'
+      effects:
+        - effect: The next use of **Arrow Storm** gains an edge and has a +10 bonus to ranged distance. This action can be used only once per round.
+          name: Effect
       icon: ⭐️
       name: Spot
       sections:
@@ -45,6 +63,9 @@ features:
       target: '-'
       usage: Main action (Adjacent creature)
     - distance: '-'
+      effects:
+        - effect: The arrow launcher and the creature using this action move together up to 3 squares.
+          name: Effect
       icon: ⭐️
       name: Move
       sections:
@@ -56,9 +77,19 @@ features:
         **Flaming Arrows (+1 EV) Arrow Storm** deals fire damage, and can ignite flammable objects in its area.
 
         **Screamers (+3 EV)** The arrows make a high-pitched screaming noise as they are fired and descend onto their targets. The **Screamers** ability replaces **Arrow Storm**.
+      effects:
+        - effect: '**Flaming Arrows (+1 EV) Arrow Storm** deals fire damage, and can ignite flammable objects in its area.'
+        - effect: '**Screamers (+3 EV)** The arrows make a high-pitched screaming noise as they are fired and descend onto their targets. The **Screamers** ability replaces **Arrow Storm**.'
       icon: ⭐️
       name: Upgrades
     - distance: 5 cube within 20
+      effects:
+        - roll: Power Roll + 2
+          tier1: 5 damage; R < 0 [dazed](../../condition/dazed.md) ([save](../../rule/general/saving-throw.md) ends)
+          tier2: 8 damage; R < 1 [dazed](../../condition/dazed.md) ([save](../../rule/general/saving-throw.md) ends)
+          tier3: 11 damage; R < 2 [frightened](../../condition/frightened.md) ([save](../../rule/general/saving-throw.md) ends)
+        - effect: This ability can't be used again until the arrow launcher is reloaded.
+          name: Effect
       icon: "\U0001F533"
       keywords:
         - Area
@@ -109,7 +140,7 @@ type: dynamic-terrain
 <article class="sc-ability fb__feat" data-action="special">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">🌀</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-deactivate">Deactivate</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
 <div class="fb__feat-intro">As a maneuver, a creature <a href="../../../rule/combat/adjacent/">adjacent</a> to an arrow launcher can make an <b>Agility test</b>.</div>
-<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The creature accidentally activates the <b>Arrow Storm</b> ability.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The arrow launcher is deactivated but the creature is <a href="../../../condition/slowed/">slowed</a> (EoT).</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The arrow launcher is deactivated and can&#39;t be used.</span></div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Agility Test</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The creature accidentally activates the <b>Arrow Storm</b> ability.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The arrow launcher is deactivated but the creature is <a href="../../../condition/slowed/">slowed</a> (EoT).</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The arrow launcher is deactivated and can&#39;t be used.</span></div></div></div>
 </article>
 <article class="sc-ability fb__feat" data-action="main">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">🔳</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-arrow-storm">Arrow Storm</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main action (Adjacent creature)</div></div></header></div>
@@ -132,9 +163,8 @@ type: dynamic-terrain
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-upgrades">Upgrades</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
-<div class="fb__feat-body"><b>Flaming Arrows (+1 EV) Arrow Storm</b> deals fire damage, and can ignite flammable objects in its area.
-
-<b>Screamers (+3 EV)</b> The arrows make a high-pitched screaming noise as they are fired and descend onto their targets. The <b>Screamers</b> ability replaces <b>Arrow Storm</b>.</div>
+<div class="fb__feat-trailing"><b>Flaming Arrows (+1 EV) Arrow Storm</b> deals fire damage, and can ignite flammable objects in its area.</div>
+<div class="fb__feat-trailing"><b>Screamers (+3 EV)</b> The arrows make a high-pitched screaming noise as they are fired and descend onto their targets. The <b>Screamers</b> ability replaces <b>Arrow Storm</b>.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="main">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">🔳</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-screamers">Screamers</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main action (Adjacent creature)</div></div></header></div>

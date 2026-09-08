@@ -4,6 +4,11 @@ printing_book: "Draw Steel: Monsters"
 features:
     - cost: Encounter
       distance: Melee 1
+      effects:
+        - roll: Power Roll + highest characteristic
+          tier1: 7 damage; M < WEAK [grabbed](../../condition/grabbed.md)
+          tier2: 11 damage; M < AVERAGE [grabbed](../../condition/grabbed.md)
+          tier3: 16 damage; M < STRONG [grabbed](../../condition/grabbed.md)
       icon: "\U0001F5E1"
       keywords:
         - Melee
@@ -21,6 +26,13 @@ features:
       usage: Main action
     - cost: Encounter
       distance: Ranged 10
+      effects:
+        - roll: Power Roll + highest characteristic
+          tier1: 8 corruption damage; P < WEAK [weakened](../../condition/weakened.md) ([save](../../rule/general/saving-throw.md) ends)
+          tier2: 13 corruption damage; P < AVERAGE [weakened](../../condition/weakened.md) ([save](../../rule/general/saving-throw.md) ends)
+          tier3: 17 corruption damage; P < STRONG [weakened](../../condition/weakened.md) ([save](../../rule/general/saving-throw.md) ends)
+        - effect: Before making the [strike](../../rule/combat/strike.md), the servitor can [teleport](../../movement/teleport.md) up to 10 squares to a space containing a dead creature, then burst out of the creature's body.
+          name: Effect
       icon: "\U0001F3F9"
       keywords:
         - Magic
@@ -41,6 +53,15 @@ features:
       usage: Maneuver
     - cost: Encounter
       distance: 2 burst
+      effects:
+        - effect: The servitor is reduced to 0 [Stamina](../../rule/health/stamina.md).
+          name: Trigger
+        - effect: The servitor explodes.
+          name: Effect
+          roll: Power Roll + highest characteristic
+          tier1: 6 corruption damage
+          tier2: 10 corruption damage
+          tier3: 14 corruption damage
       icon: ❗️
       keywords:
         - Area
@@ -95,9 +116,9 @@ type: featureblock
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">❗️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-death-miasma">Death Miasma</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Encounter</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Free triggered action</div></div></header></div>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">2 burst</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div></div>
-<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ highest characteristic</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 corruption damage</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 corruption damage</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">14 corruption damage</span></div></div></div>
 <div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div><div class="sc-ability__section-body"><p>The servitor is reduced to 0 <a href="../../../rule/health/stamina/">Stamina</a>.</p></div></div>
-<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The servitor explodes.</p></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The servitor explodes.</p></div><div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ highest characteristic</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 corruption damage</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 corruption damage</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">14 corruption damage</span></div></div></div>
+</div>
 </article>
 </div>
 </div>

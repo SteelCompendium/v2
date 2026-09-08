@@ -3,9 +3,13 @@ printing: "1.0"
 printing_book: "The Summoner"
 features:
     - body: Each enemy that starts their [turn](../../../rule/combat/turn.md) within 3 squares of the crystal is vertically pulled 3.
+      effects:
+        - effect: Each enemy that starts their [turn](../../../rule/combat/turn.md) within 3 squares of the crystal is vertically pulled 3.
       icon: ⭐️
       name: Magnetic Pull
     - body: When you or an ally uses a ranged ability that draws a line through the crystal, the distance increases by 5.
+      effects:
+        - effect: When you or an ally uses a ranged ability that draws a line through the crystal, the distance increases by 5.
       icon: ⭐️
       name: Elemental Boost
 name: Primordial Crystal
@@ -34,11 +38,11 @@ type: featureblock
 <div class="fb__feats">
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-magnetic-pull">Magnetic Pull</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
-<div class="fb__feat-body">Each enemy that starts their <a href="../../../../rule/combat/turn/">turn</a> within 3 squares of the crystal is vertically pulled 3.</div>
+<div class="fb__feat-trailing">Each enemy that starts their <a href="../../../../rule/combat/turn/">turn</a> within 3 squares of the crystal is vertically pulled 3.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-elemental-boost">Elemental Boost</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
-<div class="fb__feat-body">When you or an ally uses a ranged ability that draws a line through the crystal, the distance increases by 5.</div>
+<div class="fb__feat-trailing">When you or an ally uses a ranged ability that draws a line through the crystal, the distance increases by 5.</div>
 </article>
 </div>
 </article>
@@ -56,18 +60,18 @@ type: featureblock
 <div class="fb__adv-head">Level 5 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Terra Resonance</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
-<div class="fb__feat-body">Each <a href="../../../../rule/combat/combat-round/">round</a>, you gain a <a href="../../../../rule/resource/surge/">surge</a> the first time an area of terrain gains a <a href="../../../../rule/general/supernatural/">supernatural</a> effect (excluding <a href="../../../../rule/combat/aura/">auras</a>) while you have <a href="../../../../rule/combat/line-of-effect/">line of effect</a> to the crystal. You can choose to give the <a href="../../../../rule/resource/surge/">surge</a> to an ally who also has <a href="../../../../rule/combat/line-of-effect/">line of effect</a> to the crystal.</div>
+<div class="fb__feat-trailing">Each <a href="../../../../rule/combat/combat-round/">round</a>, you gain a <a href="../../../../rule/resource/surge/">surge</a> the first time an area of terrain gains a <a href="../../../../rule/general/supernatural/">supernatural</a> effect (excluding <a href="../../../../rule/combat/aura/">auras</a>) while you have <a href="../../../../rule/combat/line-of-effect/">line of effect</a> to the crystal. You can choose to give the <a href="../../../../rule/resource/surge/">surge</a> to an ally who also has <a href="../../../../rule/combat/line-of-effect/">line of effect</a> to the crystal.</div>
 </article>
 </div>
 <div class="fb__band--adv" data-level="9">
 <div class="fb__adv-head">Level 9 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Size Increase</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
-<div class="fb__feat-body">The crystal is now size 3.</div>
+<div class="fb__feat-trailing">The crystal is now size 3.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Magnified Strike</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
-<div class="fb__feat-body">When you or an ally makes a ranged <a href="../../../../rule/combat/strike/">strike</a> that draws a line through the crystal, the user gains a <a href="../../../../rule/resource/surge/">surge</a> which they can use on the ability.</div>
+<div class="fb__feat-trailing">When you or an ally makes a ranged <a href="../../../../rule/combat/strike/">strike</a> that draws a line through the crystal, the user gains a <a href="../../../../rule/resource/surge/">surge</a> which they can use on the ability.</div>
 </article>
 </div>
 </div>

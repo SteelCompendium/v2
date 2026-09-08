@@ -3,12 +3,18 @@ printing: "1.0"
 printing_book: "The Beastheart"
 features:
     - body: Whenever the hellhound makes a strike against a creature while rampaging, they can cause a target who has P < AVERAGE to be [frightened](../../../condition/frightened.md) until the end of the target's next turn.
+      effects:
+        - effect: Whenever the hellhound makes a strike against a creature while rampaging, they can cause a target who has P < AVERAGE to be [frightened](../../../condition/frightened.md) until the end of the target's next turn.
       level: 3
       name: Infernal Apparition
     - body: While the hellhound is rampaging, your mouth foams with acidic ichor, and whenever you make a strike against a creature, you deal extra acid damage equal to your Might score.
+      effects:
+        - effect: While the hellhound is rampaging, your mouth foams with acidic ichor, and whenever you make a strike against a creature, you deal extra acid damage equal to your Might score.
       level: 6
       name: Slavering Jaws
     - body: While the hellhound is rampaging, you and the hellhound are surrounded by an aura of flames, and each enemy who starts their turn adjacent to you or the hellhound takes fire damage equal to the hellhound's Might score.
+      effects:
+        - effect: While the hellhound is rampaging, you and the hellhound are surrounded by an aura of flames, and each enemy who starts their turn adjacent to you or the hellhound takes fire damage equal to the hellhound's Might score.
       level: 10
       name: Wreathed in Flames
 name: Hellhound Advancement Features
@@ -28,21 +34,21 @@ type: featureblock
 <div class="fb__adv-head">Level 3 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-infernal-apparition">Infernal Apparition</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
-<div class="fb__feat-body">Whenever the hellhound makes a strike against a creature while rampaging, they can cause a target who has P &lt; AVERAGE to be <a href="../../../../condition/frightened/">frightened</a> until the end of the target&#39;s next turn.</div>
+<div class="fb__feat-trailing">Whenever the hellhound makes a strike against a creature while rampaging, they can cause a target who has P &lt; AVERAGE to be <a href="../../../../condition/frightened/">frightened</a> until the end of the target&#39;s next turn.</div>
 </article>
 </div>
 <div class="fb__band--adv" data-level="6">
 <div class="fb__adv-head">Level 6 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-slavering-jaws">Slavering Jaws</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
-<div class="fb__feat-body">While the hellhound is rampaging, your mouth foams with acidic ichor, and whenever you make a strike against a creature, you deal extra acid damage equal to your Might score.</div>
+<div class="fb__feat-trailing">While the hellhound is rampaging, your mouth foams with acidic ichor, and whenever you make a strike against a creature, you deal extra acid damage equal to your Might score.</div>
 </article>
 </div>
 <div class="fb__band--adv" data-level="10">
 <div class="fb__adv-head">Level 10 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-wreathed-in-flames">Wreathed in Flames</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
-<div class="fb__feat-body">While the hellhound is rampaging, you and the hellhound are surrounded by an aura of flames, and each enemy who starts their turn adjacent to you or the hellhound takes fire damage equal to the hellhound&#39;s Might score.</div>
+<div class="fb__feat-trailing">While the hellhound is rampaging, you and the hellhound are surrounded by an aura of flames, and each enemy who starts their turn adjacent to you or the hellhound takes fire damage equal to the hellhound&#39;s Might score.</div>
 </article>
 </div>
 </div>

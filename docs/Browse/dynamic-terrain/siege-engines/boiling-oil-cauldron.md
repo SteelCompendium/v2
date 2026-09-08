@@ -2,7 +2,12 @@
 printing: "1.01"
 printing_book: "Draw Steel: Monsters"
 features:
-    - icon: "\U0001F300"
+    - effects:
+        - effect: As a maneuver, a creature [adjacent](../../rule/combat/adjacent.md) to a boiling oil cauldron can make an **Agility test**.
+          tier1: The creature accidentally activates the **Boiling Oil** ability.
+          tier2: The boiling oil cauldron is deactivated but the creature is [slowed](../../condition/slowed.md) (EoT).
+          tier3: The boiling oil cauldron is deactivated and can't be used.
+      icon: "\U0001F300"
       intro: As a maneuver, a creature [adjacent](../../rule/combat/adjacent.md) to a boiling oil cauldron can make an **Agility test**.
       name: Deactivate
       power_roll:
@@ -11,6 +16,13 @@ features:
             low: The creature accidentally activates the **Boiling Oil** ability.
             mid: The boiling oil cauldron is deactivated but the creature is [slowed](../../condition/slowed.md) (EoT).
     - distance: 3 cube within 1
+      effects:
+        - roll: Power Roll + 2
+          tier1: 5 fire damage; M < 1 burning ([save](../../rule/general/saving-throw.md) ends)
+          tier2: 9 fire damage; M < 2 burning ([save](../../rule/general/saving-throw.md) ends)
+          tier3: 12 fire damage; M < 3 burning ([save](../../rule/general/saving-throw.md) ends)
+        - effect: If the boiling oil is poured down on targets from above, it has [high ground](../../movement/high-ground.md) and gains an edge on the power roll. A burning creature takes 1d6 fire damage at the start of each of their turns. A burning object takes 1d6 fire damage at the end of each round. This ability can't be used again until the boiling oil cauldron is reloaded.
+          name: Effect
       icon: "\U0001F533"
       keywords:
         - Area
@@ -28,6 +40,9 @@ features:
       target: Each creature and object in the area
       usage: Main action (Adjacent creature)
     - distance: '-'
+      effects:
+        - effect: The boiling oil cauldron is reloaded, allowing **Boiling Oil** to be used again. This action can be used only once per round.
+          name: Effect
       icon: ⭐️
       name: Reload
       sections:
@@ -68,7 +83,7 @@ type: dynamic-terrain
 <article class="sc-ability fb__feat" data-action="special">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">🌀</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-deactivate">Deactivate</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
 <div class="fb__feat-intro">As a maneuver, a creature <a href="../../../rule/combat/adjacent/">adjacent</a> to a boiling oil cauldron can make an <b>Agility test</b>.</div>
-<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The creature accidentally activates the <b>Boiling Oil</b> ability.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The boiling oil cauldron is deactivated but the creature is <a href="../../../condition/slowed/">slowed</a> (EoT).</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The boiling oil cauldron is deactivated and can&#39;t be used.</span></div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Agility Test</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The creature accidentally activates the <b>Boiling Oil</b> ability.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The boiling oil cauldron is deactivated but the creature is <a href="../../../condition/slowed/">slowed</a> (EoT).</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The boiling oil cauldron is deactivated and can&#39;t be used.</span></div></div></div>
 </article>
 <article class="sc-ability fb__feat" data-action="main">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">🔳</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-boiling-oil">Boiling Oil</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main action (Adjacent creature)</div></div></header></div>

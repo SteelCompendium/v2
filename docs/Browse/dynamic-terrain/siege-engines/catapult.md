@@ -2,7 +2,12 @@
 printing: "1.01"
 printing_book: "Draw Steel: Monsters"
 features:
-    - icon: "\U0001F300"
+    - effects:
+        - effect: As a maneuver, a creature [adjacent](../../rule/combat/adjacent.md) to a catapult can make an **Agility test**.
+          tier1: The creature accidentally activates the **Arcing Shot** ability.
+          tier2: The catapult is deactivated but the creature is [slowed](../../condition/slowed.md) (EoT).
+          tier3: The catapult is deactivated and can't be used.
+      icon: "\U0001F300"
       intro: As a maneuver, a creature [adjacent](../../rule/combat/adjacent.md) to a catapult can make an **Agility test**.
       name: Deactivate
       power_roll:
@@ -11,6 +16,13 @@ features:
             low: The creature accidentally activates the **Arcing Shot** ability.
             mid: The catapult is deactivated but the creature is [slowed](../../condition/slowed.md) (EoT).
     - distance: 3 cube within 20
+      effects:
+        - roll: Power Roll + 2
+          tier1: 5 damage
+          tier2: 9 damage; A < 0 push 1
+          tier3: 12 damage; A < 1 push 2
+        - effect: Line of effect for this ability is an arc that can be traced over obstacles between the catapult and the target area. This ability can't be used again until the catapult is reloaded.
+          name: Effect
       icon: "\U0001F533"
       keywords:
         - '- Area'
@@ -29,6 +41,9 @@ features:
       target: Each creature and object in the area
       usage: Main action (Adjacent creature)
     - distance: '-'
+      effects:
+        - effect: The catapult is reloaded, allowing **Arcing Shot** to be used again. This action can be used only once per round.
+          name: Effect
       icon: ⭐️
       name: Reload
       sections:
@@ -37,6 +52,9 @@ features:
       target: '-'
       usage: Main action (Adjacent creature)
     - distance: '-'
+      effects:
+        - effect: The next use of **Arcing Shot** gains an edge and has a +10 bonus to ranged distance. This action can be used only once per round.
+          name: Effect
       icon: ⭐️
       name: Spot
       sections:
@@ -45,6 +63,9 @@ features:
       target: '-'
       usage: Main action (Adjacent creature)
     - distance: '-'
+      effects:
+        - effect: The catapult and the creature using this action move together up to 2 squares.
+          name: Effect
       icon: ⭐️
       name: Move
       sections:
@@ -56,6 +77,9 @@ features:
         **Air Assault (+2 EV)** The side fielding the catapult has trained their forces to safely use the siege engine to launch them across the battlefield. As an adjacent creature main action, the catapult can be used to vertical push 10 any ally of size 1L or less. If the ally lands in an unoccupied space, they take no damage.
 
         **Flammable (+2 EV) Arcing Shot** deals fire damage, and the area of that ability is on fire until the end of the encounter. Any creature who enters the area for the first time in a round or starts their turn there takes 2 fire damage.
+      effects:
+        - effect: '**Air Assault (+2 EV)** The side fielding the catapult has trained their forces to safely use the siege engine to launch them across the battlefield. As an adjacent creature main action, the catapult can be used to vertical push 10 any ally of size 1L or less. If the ally lands in an unoccupied space, they take no damage.'
+        - effect: '**Flammable (+2 EV) Arcing Shot** deals fire damage, and the area of that ability is on fire until the end of the encounter. Any creature who enters the area for the first time in a round or starts their turn there takes 2 fire damage.'
       icon: ⭐️
       name: Upgrades
 flavor: This massive counterweighted engine hurls a heavy projectile for a devastating assault.
@@ -91,7 +115,7 @@ type: dynamic-terrain
 <article class="sc-ability fb__feat" data-action="special">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">🌀</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-deactivate">Deactivate</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
 <div class="fb__feat-intro">As a maneuver, a creature <a href="../../../rule/combat/adjacent/">adjacent</a> to a catapult can make an <b>Agility test</b>.</div>
-<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The creature accidentally activates the <b>Arcing Shot</b> ability.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The catapult is deactivated but the creature is <a href="../../../condition/slowed/">slowed</a> (EoT).</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The catapult is deactivated and can&#39;t be used.</span></div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Agility Test</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The creature accidentally activates the <b>Arcing Shot</b> ability.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The catapult is deactivated but the creature is <a href="../../../condition/slowed/">slowed</a> (EoT).</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The catapult is deactivated and can&#39;t be used.</span></div></div></div>
 </article>
 <article class="sc-ability fb__feat" data-action="main">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">🔳</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-arcing-shot">Arcing Shot</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main action (Adjacent creature)</div></div></header></div>
@@ -114,9 +138,8 @@ type: dynamic-terrain
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-upgrades">Upgrades</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
-<div class="fb__feat-body"><b>Air Assault (+2 EV)</b> The side fielding the catapult has trained their forces to safely use the siege engine to launch them across the battlefield. As an adjacent creature main action, the catapult can be used to vertical push 10 any ally of size 1L or less. If the ally lands in an unoccupied space, they take no damage.
-
-<b>Flammable (+2 EV) Arcing Shot</b> deals fire damage, and the area of that ability is on fire until the end of the encounter. Any creature who enters the area for the first time in a round or starts their turn there takes 2 fire damage.</div>
+<div class="fb__feat-trailing"><b>Air Assault (+2 EV)</b> The side fielding the catapult has trained their forces to safely use the siege engine to launch them across the battlefield. As an adjacent creature main action, the catapult can be used to vertical push 10 any ally of size 1L or less. If the ally lands in an unoccupied space, they take no damage.</div>
+<div class="fb__feat-trailing"><b>Flammable (+2 EV) Arcing Shot</b> deals fire damage, and the area of that ability is on fire until the end of the encounter. Any creature who enters the area for the first time in a round or starts their turn there takes 2 fire damage.</div>
 </article>
 </div>
 </article>

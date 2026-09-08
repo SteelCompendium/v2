@@ -4,6 +4,15 @@ printing_book: "The Summoner"
 features:
     - cost: Encounter
       distance: 4 cube within 5
+      effects:
+        - effect: The detective can instantly kill one or more of their minions to give themself a double [edge](../../rule/dice/edge.md) on the [power roll](../../rule/dice/power-roll.md).
+          name: Special
+          roll: 2d10 + highest characteristic
+          tier1: 2 damage; A < WEAK [bleeding](../../condition/bleeding.md) (save ends)
+          tier2: 4 damage; A < AVERAGE [bleeding](../../condition/bleeding.md) (save ends)
+          tier3: 5 damage; A < STRONG [bleeding](../../condition/bleeding.md) (save ends)
+        - effect: Any enemy that was hiding in the area is revealed. The area is now [difficult terrain](../../movement/difficult-terrain.md) for enemies.
+          name: Effect
       icon: "\U0001F3F9"
       keywords:
         - Area
@@ -25,6 +34,9 @@ features:
       usage: Main action
     - cost: Encounter
       distance: Ranged 10
+      effects:
+        - effect: The detective summons 3 violents into unoccupied spaces within distance. On each of the detective's turns, they direct the squad of **violents** to move and use a main action.
+          name: Effect
       icon: "\U0001F3F9"
       keywords:
         - Magic
@@ -38,6 +50,10 @@ features:
       usage: Main action
     - cost: Encounter
       distance: 5 burst
+      effects:
+        - effect: Each target moves up to their [speed](../../rule/character/speed.md) toward an ally. Each ally within [line of effect](../../rule/combat/line-of-effect.md) of the detective can give one [EoT](../../rule/combat/end-of-turn.md) or save ends effect they're affected by to an [adjacent](../../rule/combat/adjacent.md) minion and end that effect on themself.
+          name: Effect
+        - effect: Until the end of the encounter, whenever an enemy kills a target and has P < STRONG, they receive all EoT or save ends effects the target was affected by.
       icon: "\U0001F300"
       keywords:
         - Area
@@ -52,6 +68,14 @@ features:
       usage: Maneuver
     - cost: Encounter
       distance: Ranged 5
+      effects:
+        - effect: The minion explodes. Make a power roll, targeting each enemy within 2 squares of the target.
+          name: Effect
+          roll: 2d10 + highest characteristic
+          tier1: 5 corruption damage; M < WEAK [weakened](../../condition/weakened.md) (save ends)
+          tier2: 8 corruption damage; M < AVERAGE [weakened](../../condition/weakened.md) (save ends)
+          tier3: 10 corruption damage; M < STRONG [weakened](../../condition/weakened.md) (save ends)
+        - effect: The area within 2 squares of the exploded minion is covered in blight until the end of the encounter. Abilities used against an enemy in the area have an [edge](../../rule/dice/edge.md).
       icon: "\U0001F3F9"
       keywords:
         - Area
@@ -72,6 +96,9 @@ features:
       usage: Main action
     - cost: Encounter
       distance: Ranged 10
+      effects:
+        - effect: The detective summons two gorrres into unoccupied spaces within distance. On each of the detective's turns, they direct the squad of **gorrres** to move and use a main action.
+          name: Effect
       icon: "\U0001F3F9"
       keywords:
         - Magic
@@ -102,8 +129,8 @@ type: featureblock
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">🏹</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-soul-sleuth">Soul Sleuth</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Encounter</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main action</div></div></header></div>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">4 cube within 5</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy or object in the area</div></div></div>
-<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">2d10 + highest characteristic</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 damage; A &lt; WEAK <a href="../../../condition/bleeding/">bleeding</a> (save ends)</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">4 damage; A &lt; AVERAGE <a href="../../../condition/bleeding/">bleeding</a> (save ends)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">5 damage; A &lt; STRONG <a href="../../../condition/bleeding/">bleeding</a> (save ends)</span></div></div></div>
-<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Special</span></div><div class="sc-ability__section-body"><p>The detective can instantly kill one or more of their minions to give themself a double <a href="../../../rule/dice/edge/">edge</a> on the <a href="../../../rule/dice/power-roll/">power roll</a>.</p></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Special</span></div><div class="sc-ability__section-body"><p>The detective can instantly kill one or more of their minions to give themself a double <a href="../../../rule/dice/edge/">edge</a> on the <a href="../../../rule/dice/power-roll/">power roll</a>.</p></div><div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">2d10 + highest characteristic</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 damage; A &lt; WEAK <a href="../../../condition/bleeding/">bleeding</a> (save ends)</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">4 damage; A &lt; AVERAGE <a href="../../../condition/bleeding/">bleeding</a> (save ends)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">5 damage; A &lt; STRONG <a href="../../../condition/bleeding/">bleeding</a> (save ends)</span></div></div></div>
+</div>
 <div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>Any enemy that was hiding in the area is revealed. The area is now <a href="../../../movement/difficult-terrain/">difficult terrain</a> for enemies.</p></div></div>
 </article>
 <article class="sc-ability fb__feat" data-action="main">
@@ -129,8 +156,8 @@ type: featureblock
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">🏹</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-blightwash">Blightwash</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Encounter</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main action</div></div></header></div>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 5</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One of the detective&#39;s minions</div></div></div>
-<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">2d10 + highest characteristic</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 corruption damage; M &lt; WEAK <a href="../../../condition/weakened/">weakened</a> (save ends)</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">8 corruption damage; M &lt; AVERAGE <a href="../../../condition/weakened/">weakened</a> (save ends)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">10 corruption damage; M &lt; STRONG <a href="../../../condition/weakened/">weakened</a> (save ends)</span></div></div></div>
-<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The minion explodes. Make a power roll, targeting each enemy within 2 squares of the target.</p></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The minion explodes. Make a power roll, targeting each enemy within 2 squares of the target.</p></div><div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">2d10 + highest characteristic</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 corruption damage; M &lt; WEAK <a href="../../../condition/weakened/">weakened</a> (save ends)</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">8 corruption damage; M &lt; AVERAGE <a href="../../../condition/weakened/">weakened</a> (save ends)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">10 corruption damage; M &lt; STRONG <a href="../../../condition/weakened/">weakened</a> (save ends)</span></div></div></div>
+</div>
 <div class="fb__feat-trailing">The area within 2 squares of the exploded minion is covered in blight until the end of the encounter. Abilities used against an enemy in the area have an <a href="../../../rule/dice/edge/">edge</a>.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="main">

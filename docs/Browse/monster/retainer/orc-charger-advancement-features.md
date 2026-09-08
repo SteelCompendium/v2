@@ -4,6 +4,9 @@ printing_book: "Draw Steel: Monsters"
 features:
     - cost: Encounter
       distance: Self
+      effects:
+        - effect: Until the start of the charger's next turn, the charger and their mentor each have [temporary Stamina](../../rule/health/temporary-stamina.md) equal to their Recovery value and a +2 bonus to speed, and they each gain an edge on reactive tests.
+          name: Effect
       icon: "\U0001F464"
       keywords:
         - Self
@@ -16,6 +19,9 @@ features:
       usage: Maneuver
     - cost: Encounter
       distance: Self; See below
+      effects:
+        - effect: The charger moves in a straight line up to their speed. During this move, they ignore enemy [free strikes](../../feature/common/main-actions/free-strike.md), and they can make a melee [free strike](../../feature/common/main-actions/free-strike.md) against any creature they move [adjacent](../../rule/combat/adjacent.md) to.
+          name: Effect
       icon: "\U0001F464"
       level: 7
       name: Mow 'Em Down
@@ -26,6 +32,13 @@ features:
       usage: Main action
     - cost: Encounter
       distance: 2 burst
+      effects:
+        - roll: Power Roll + highest characteristic
+          tier1: 12 psychic damage
+          tier2: 18 psychic damage
+          tier3: 24 psychic damage
+        - effect: The charger takes psychic damage equal to the number of enemies affected. This damage can't be reducetd in any way.
+          name: Effect
       icon: ❇️
       keywords:
         - Area

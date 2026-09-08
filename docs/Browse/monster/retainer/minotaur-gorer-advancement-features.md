@@ -3,6 +3,11 @@ printing: "1.01"
 printing_book: "Draw Steel: Monsters"
 features:
     - distance: Melee 1
+      effects:
+        - effect: The gorer damages a creature within distance using Gore.
+          name: Trigger
+        - effect: The target is pushed up to 3 squares. If the target has [stability](../../rule/character/stability.md) 0, they are also knocked [prone](../../condition/prone.md).
+          name: Effect
       icon: ❗️
       keywords:
         - Melee
@@ -17,6 +22,9 @@ features:
       usage: Free triggered action
     - cost: Encounter
       distance: Self
+      effects:
+        - effect: The gorer gains 3 [surges](../../rule/resource/surge.md), and until the start of the gorer's next turn, [strikes](../../rule/combat/strike.md) made against them and their mentor take a bane.
+          name: Effect
       icon: "\U0001F464"
       level: 7
       name: Triumphant Bay
@@ -27,6 +35,11 @@ features:
       usage: Maneuver
     - cost: Encounter
       distance: 1 burst
+      effects:
+        - roll: Power Roll + highest characteristic
+          tier1: 11 damage; M < WEAK [bleeding](../../condition/bleeding.md) ([save](../../rule/general/saving-throw.md) ends)
+          tier2: 16 damage; M < AVERAGE [bleeding](../../condition/bleeding.md) ([save](../../rule/general/saving-throw.md) ends)
+          tier3: 21 damage; M < STRONG [prone](../../condition/prone.md) and can't stand ([save](../../rule/general/saving-throw.md) ends).
       icon: ❇️
       keywords:
         - Area

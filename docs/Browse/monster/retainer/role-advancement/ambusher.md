@@ -4,6 +4,13 @@ printing_book: "Draw Steel: Monsters"
 features:
     - cost: Encounter
       distance: Melee 1
+      effects:
+        - roll: Power Roll + highest characteristic
+          tier1: 5 damage; M < WEAK [bleeding](../../../condition/bleeding.md) ([save](../../../rule/general/saving-throw.md) ends)
+          tier2: 9 damage; M < AVERAGE [bleeding](../../../condition/bleeding.md) ([save](../../../rule/general/saving-throw.md) ends)
+          tier3: 12 damage; M < STRONG [bleeding](../../../condition/bleeding.md) ([save](../../../rule/general/saving-throw.md) ends)
+        - effect: If the target is [grabbed](../../../condition/grabbed.md) or the retainer had an edge on the power roll, the retainer gains 2 [surges](../../../rule/resource/surge.md).
+          name: Effect
       icon: "\U0001F5E1"
       keywords:
         - Melee
@@ -24,6 +31,13 @@ features:
       usage: Main action
     - cost: Encounter
       distance: Melee 1 or ranged 5
+      effects:
+        - roll: Power Roll + highest characteristic
+          tier1: 7 damage; M < WEAK [slowed](../../../condition/slowed.md) (EoT)
+          tier2: 10 damage; M < AVERAGE [slowed](../../../condition/slowed.md) ([save](../../../rule/general/saving-throw.md) ends)
+          tier3: 15 damage; M < STRONG [slowed](../../../condition/slowed.md) and the target can't used triggered actions ([save](../../../rule/general/saving-throw.md) ends)
+        - effect: The retainer and their mentor can each move up to their speed.
+          name: Effect
       icon: ⚔️
       keywords:
         - Melee
@@ -45,6 +59,13 @@ features:
       usage: Main Action
     - cost: Encounter
       distance: Melee 1 or ranged 5
+      effects:
+        - roll: Power Roll + highest characteristic
+          tier1: 11 damage; a size 1 or smaller target who has M < WEAK is [grabbed](../../../condition/grabbed.md)
+          tier2: 16 damage; a size 1 or smaller target who has M < AVERAGE is [grabbed](../../../condition/grabbed.md)
+          tier3: 21 damage; a size 1 or smaller target who has M < STRONG is [grabbed](../../../condition/grabbed.md)
+        - effect: The retainer gains 2 [surges](../../../rule/resource/surge.md) when any creature makes a strike against a target [grabbed](../../../condition/grabbed.md) this way.
+          name: Effect
       icon: ⚔️
       keywords:
         - Melee

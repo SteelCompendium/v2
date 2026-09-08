@@ -4,13 +4,22 @@ printing_book: "Draw Steel: Monsters"
 features:
     - body: Each lightbender acting this turn can [teleport](../../movement/teleport.md) up to their speed as a move action and attempt to hide as a free maneuver, all until the start of their next turn.
       cost: 3 Malice
+      effects:
+        - effect: Each lightbender acting this turn can [teleport](../../movement/teleport.md) up to their speed as a move action and attempt to hide as a free maneuver, all until the start of their next turn.
       icon: ⭐️
       name: Silent Prowl
     - body: Each lightbender acting this turn can create a duplicate lightbender in an unoccupied space [adjacent](../../rule/combat/adjacent.md) to them. The duplicate is indistinguishable from the lightbender except by supernatural means, has 1 [Stamina](../../rule/health/stamina.md), and has the lightbender's speed. A duplicate acts on the lightbender's turn but can take only move actions. Once per round before or after using an ability, a lightbender can trade places with any lightbender duplicate.
       cost: 5 Malice
+      effects:
+        - effect: Each lightbender acting this turn can create a duplicate lightbender in an unoccupied space [adjacent](../../rule/combat/adjacent.md) to them. The duplicate is indistinguishable from the lightbender except by supernatural means, has 1 [Stamina](../../rule/health/stamina.md), and has the lightbender's speed. A duplicate acts on the lightbender's turn but can take only move actions. Once per round before or after using an ability, a lightbender can trade places with any lightbender duplicate.
       icon: ⭐️
       name: Duplicate
     - cost: 7 Malice
+      effects:
+        - effect: Each lightbender in the encounter shines radiantly, distorting the senses of any enemy within 5 squares of them. Each affected enemy makes a **Reason test**.
+          tier1: The target doesn't have line of effect to any lightbender (save ends).
+          tier2: The target doesn't have line of effect to any lightbender (EoT).
+          tier3: No effect.
       icon: ❇️
       intro: Each lightbender in the encounter shines radiantly, distorting the senses of any enemy within 5 squares of them. Each affected enemy makes a **Reason test**.
       name: Everything the Light Touches
@@ -37,16 +46,16 @@ type: featureblock
 <div class="fb__feats">
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-silent-prowl">Silent Prowl</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">3 Malice</div></div></header></div>
-<div class="fb__feat-body">Each lightbender acting this turn can <a href="../../../movement/teleport/">teleport</a> up to their speed as a move action and attempt to hide as a free maneuver, all until the start of their next turn.</div>
+<div class="fb__feat-trailing">Each lightbender acting this turn can <a href="../../../movement/teleport/">teleport</a> up to their speed as a move action and attempt to hide as a free maneuver, all until the start of their next turn.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-duplicate">Duplicate</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">5 Malice</div></div></header></div>
-<div class="fb__feat-body">Each lightbender acting this turn can create a duplicate lightbender in an unoccupied space <a href="../../../rule/combat/adjacent/">adjacent</a> to them. The duplicate is indistinguishable from the lightbender except by supernatural means, has 1 <a href="../../../rule/health/stamina/">Stamina</a>, and has the lightbender&#39;s speed. A duplicate acts on the lightbender&#39;s turn but can take only move actions. Once per round before or after using an ability, a lightbender can trade places with any lightbender duplicate.</div>
+<div class="fb__feat-trailing">Each lightbender acting this turn can create a duplicate lightbender in an unoccupied space <a href="../../../rule/combat/adjacent/">adjacent</a> to them. The duplicate is indistinguishable from the lightbender except by supernatural means, has 1 <a href="../../../rule/health/stamina/">Stamina</a>, and has the lightbender&#39;s speed. A duplicate acts on the lightbender&#39;s turn but can take only move actions. Once per round before or after using an ability, a lightbender can trade places with any lightbender duplicate.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="main">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">❇️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-everything-the-light-touches">Everything the Light Touches</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">7 Malice</div></div></header></div>
 <div class="fb__feat-intro">Each lightbender in the encounter shines radiantly, distorting the senses of any enemy within 5 squares of them. Each affected enemy makes a <b>Reason test</b>.</div>
-<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The target doesn&#39;t have line of effect to any lightbender (save ends).</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The target doesn&#39;t have line of effect to any lightbender (EoT).</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">No effect.</span></div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Reason Test</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The target doesn&#39;t have line of effect to any lightbender (save ends).</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The target doesn&#39;t have line of effect to any lightbender (EoT).</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">No effect.</span></div></div></div>
 </article>
 </div>
 </article>

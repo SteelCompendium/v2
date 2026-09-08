@@ -4,10 +4,19 @@ printing_book: "Draw Steel: Monsters"
 features:
     - body: One non-[minion](../../rule/organization/minion.md) voiceless talker projects a psionic screen over their body, preventing other creatures from treating them as an enemy until the end of the voiceless talker's next turn.
       cost: 3 Malice
+      effects:
+        - effect: One non-[minion](../../rule/organization/minion.md) voiceless talker projects a psionic screen over their body, preventing other creatures from treating them as an enemy until the end of the voiceless talker's next turn.
       icon: "\U0001F464"
       name: Guise
     - cost: 5 Malice
       distance: Ranged 5
+      effects:
+        - roll: Power Roll + 3
+          tier1: 6 psychic damage; R < 1 the target can't treat their allies as allies (save ends)
+          tier2: 10 psychic damage; R < 2 the target perceives their allies as enemies (save ends)
+          tier3: 13 psychic damage; R < 3 the target perceives their allies as enemies (save ends)
+        - effect: This ability can't be used by a [minion](../../rule/organization/minion.md).
+          name: Special
       icon: "\U0001F3F9"
       keywords:
         - Psionic
@@ -26,6 +35,8 @@ features:
       usage: Maneuver
     - body: All voiceless talkers link their minds, creating a circuit that empowers them while two or more voiceless talkers remain in the encounter. While this circuit is active, any psionic strike made by a voiceless talker deals an extra 5 damage. Additionally, when a non-[minion](../../rule/organization/minion.md) voiceless talker takes damage, they can use a free triggered action to swap places with any voiceless talker [minion](../../rule/organization/minion.md) on the encounter map. The [minion](../../rule/organization/minion.md) takes the damage instead.
       cost: 10 Malice
+      effects:
+        - effect: All voiceless talkers link their minds, creating a circuit that empowers them while two or more voiceless talkers remain in the encounter. While this circuit is active, any psionic strike made by a voiceless talker deals an extra 5 damage. Additionally, when a non-[minion](../../rule/organization/minion.md) voiceless talker takes damage, they can use a free triggered action to swap places with any voiceless talker [minion](../../rule/organization/minion.md) on the encounter map. The [minion](../../rule/organization/minion.md) takes the damage instead.
       icon: "\U0001F300"
       name: Evolutionary Circuit
 flavor: At the start of any voiceless talker's turn, you can spend Malice to activate one of the following features.
@@ -46,7 +57,7 @@ type: featureblock
 <div class="fb__feats">
 <article class="sc-ability fb__feat" data-action="maneuver">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">👤</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-guise">Guise</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">3 Malice</div></div></header></div>
-<div class="fb__feat-body">One non-<a href="../../../rule/organization/minion/">minion</a> voiceless talker projects a psionic screen over their body, preventing other creatures from treating them as an enemy until the end of the voiceless talker&#39;s next turn.</div>
+<div class="fb__feat-trailing">One non-<a href="../../../rule/organization/minion/">minion</a> voiceless talker projects a psionic screen over their body, preventing other creatures from treating them as an enemy until the end of the voiceless talker&#39;s next turn.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="maneuver">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">🏹</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-memory-thief">Memory Thief</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">5 Malice</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header></div>
@@ -57,7 +68,7 @@ type: featureblock
 </article>
 <article class="sc-ability fb__feat" data-action="special">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">🌀</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-evolutionary-circuit">Evolutionary Circuit</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">10 Malice</div></div></header></div>
-<div class="fb__feat-body">All voiceless talkers link their minds, creating a circuit that empowers them while two or more voiceless talkers remain in the encounter. While this circuit is active, any psionic strike made by a voiceless talker deals an extra 5 damage. Additionally, when a non-<a href="../../../rule/organization/minion/">minion</a> voiceless talker takes damage, they can use a free triggered action to swap places with any voiceless talker <a href="../../../rule/organization/minion/">minion</a> on the encounter map. The <a href="../../../rule/organization/minion/">minion</a> takes the damage instead.</div>
+<div class="fb__feat-trailing">All voiceless talkers link their minds, creating a circuit that empowers them while two or more voiceless talkers remain in the encounter. While this circuit is active, any psionic strike made by a voiceless talker deals an extra 5 damage. Additionally, when a non-<a href="../../../rule/organization/minion/">minion</a> voiceless talker takes damage, they can use a free triggered action to swap places with any voiceless talker <a href="../../../rule/organization/minion/">minion</a> on the encounter map. The <a href="../../../rule/organization/minion/">minion</a> takes the damage instead.</div>
 </article>
 </div>
 </article>

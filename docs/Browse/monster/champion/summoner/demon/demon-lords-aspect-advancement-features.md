@@ -3,11 +3,16 @@ printing: "1.0"
 printing_book: "The Summoner"
 features:
     - body: The Aspect is now size 3.
+      effects:
+        - effect: The Aspect is now size 3.
       icon: ⭐️
       level: 10
       name: Size Increase
     - cost: 1 Eidos
       distance: 20 burst
+      effects:
+        - effect: Each target [teleports](../../../../movement/teleport.md) up to their [speed](../../../../rule/character/speed.md) and makes a [free strike](../../../../feature/common/main-actions/free-strike.md). If a target has a [Save Ends](../../../../rule/general/saving-throw.md) [condition](../../../../rule/combat/condition.md), they can inflict the [condition](../../../../rule/combat/condition.md) onto a creature with their [strike](../../../../rule/combat/strike.md) and end the [condition](../../../../rule/combat/condition.md) on themself.
+          name: Effect
       icon: ❗️
       level: 10
       name: Reality Flense
@@ -33,7 +38,7 @@ type: featureblock
 <div class="fb__adv-head">Level 10 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-size-increase">Size Increase</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
-<div class="fb__feat-body">The Aspect is now size 3.</div>
+<div class="fb__feat-trailing">The Aspect is now size 3.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="main">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">❗️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-reality-flense">Reality Flense</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">1 Eidos</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Champion Action</div></div></header></div>

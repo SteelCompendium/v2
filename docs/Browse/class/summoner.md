@@ -940,11 +940,11 @@ The boil arises from the chaotic depths of the Abyssal Waste, concentrated into 
 <div class="fb__feats">
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Hunger Thrush</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
-<div class="fb__feat-body">Each enemy that starts their <a href="../../rule/combat/turn/">turn</a> within 3 squares of the boil is I &lt; AVERAGE <a href="../../condition/taunted/">taunted</a> (EoT) by the boil, or I &lt; WEAK <a href="../../condition/taunted/">taunted</a> (EoT) by the boil and can&#39;t move further from it.</div>
+<div class="fb__feat-trailing">Each enemy that starts their <a href="../../rule/combat/turn/">turn</a> within 3 squares of the boil is I &lt; AVERAGE <a href="../../condition/taunted/">taunted</a> (EoT) by the boil, or I &lt; WEAK <a href="../../condition/taunted/">taunted</a> (EoT) by the boil and can&#39;t move further from it.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Oh, It Pops</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
-<div class="fb__feat-body">When the boil is destroyed, each enemy within 3 squares of the boil takes acid <a href="../../rule/damage/damage/">damage</a> equal to your level and is A &lt; STRONG <a href="../../condition/weakened/">weakened</a> (save ends).</div>
+<div class="fb__feat-trailing">When the boil is destroyed, each enemy within 3 squares of the boil takes acid <a href="../../rule/damage/damage/">damage</a> equal to your level and is A &lt; STRONG <a href="../../condition/weakened/">weakened</a> (save ends).</div>
 </article>
 </div>
 </article>
@@ -962,18 +962,18 @@ The boil arises from the chaotic depths of the Abyssal Waste, concentrated into 
 <div class="fb__adv-head">Level 5 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Soul Rancor</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
-<div class="fb__feat-body">You gain a <a href="../../rule/resource/surge/">surge</a> the first time in a <a href="../../rule/combat/combat-round/">round</a> that your demon <a href="../../feature/summoner/level-1/minions/">minions</a> deal 3 or more <a href="../../rule/damage/damage/">damage</a> to a creature while you have <a href="../../rule/combat/line-of-effect/">line of effect</a> to the boil. You can choose to give the <a href="../../rule/resource/surge/">surge</a> to an ally who also has <a href="../../rule/combat/line-of-effect/">line of effect</a> to the boil.</div>
+<div class="fb__feat-trailing">You gain a <a href="../../rule/resource/surge/">surge</a> the first time in a <a href="../../rule/combat/combat-round/">round</a> that your demon <a href="../../feature/summoner/level-1/minions/">minions</a> deal 3 or more <a href="../../rule/damage/damage/">damage</a> to a creature while you have <a href="../../rule/combat/line-of-effect/">line of effect</a> to the boil. You can choose to give the <a href="../../rule/resource/surge/">surge</a> to an ally who also has <a href="../../rule/combat/line-of-effect/">line of effect</a> to the boil.</div>
 </article>
 </div>
 <div class="fb__band--adv" data-level="9">
 <div class="fb__adv-head">Level 9 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Size Increase</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
-<div class="fb__feat-body">The boil is now size 3.</div>
+<div class="fb__feat-trailing">The boil is now size 3.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Fester Field</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
-<div class="fb__feat-body">Each non-abyssal enemy that starts their <a href="../../rule/combat/turn/">turn</a> within 3 squares of the boil takes 5 corruption <a href="../../rule/damage/damage/">damage</a>.</div>
+<div class="fb__feat-trailing">Each non-abyssal enemy that starts their <a href="../../rule/combat/turn/">turn</a> within 3 squares of the boil takes 5 corruption <a href="../../rule/damage/damage/">damage</a>.</div>
 </article>
 </div>
 </div>
@@ -998,11 +998,11 @@ The storm of elements from Quintessence coalesce into a hardened, crystalline st
 <div class="fb__feats">
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Magnetic Pull</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
-<div class="fb__feat-body">Each enemy that starts their <a href="../../rule/combat/turn/">turn</a> within 3 squares of the crystal is vertically pulled 3.</div>
+<div class="fb__feat-trailing">Each enemy that starts their <a href="../../rule/combat/turn/">turn</a> within 3 squares of the crystal is vertically pulled 3.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Elemental Boost</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
-<div class="fb__feat-body">When you or an ally uses a ranged ability that draws a line through the crystal, the distance increases by 5.</div>
+<div class="fb__feat-trailing">When you or an ally uses a ranged ability that draws a line through the crystal, the distance increases by 5.</div>
 </article>
 </div>
 </article>
@@ -1020,18 +1020,18 @@ The storm of elements from Quintessence coalesce into a hardened, crystalline st
 <div class="fb__adv-head">Level 5 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Terra Resonance</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
-<div class="fb__feat-body">Each <a href="../../rule/combat/combat-round/">round</a>, you gain a <a href="../../rule/resource/surge/">surge</a> the first time an area of terrain gains a <a href="../../rule/general/supernatural/">supernatural</a> effect (excluding <a href="../../rule/combat/aura/">auras</a>) while you have <a href="../../rule/combat/line-of-effect/">line of effect</a> to the crystal. You can choose to give the <a href="../../rule/resource/surge/">surge</a> to an ally who also has <a href="../../rule/combat/line-of-effect/">line of effect</a> to the crystal.</div>
+<div class="fb__feat-trailing">Each <a href="../../rule/combat/combat-round/">round</a>, you gain a <a href="../../rule/resource/surge/">surge</a> the first time an area of terrain gains a <a href="../../rule/general/supernatural/">supernatural</a> effect (excluding <a href="../../rule/combat/aura/">auras</a>) while you have <a href="../../rule/combat/line-of-effect/">line of effect</a> to the crystal. You can choose to give the <a href="../../rule/resource/surge/">surge</a> to an ally who also has <a href="../../rule/combat/line-of-effect/">line of effect</a> to the crystal.</div>
 </article>
 </div>
 <div class="fb__band--adv" data-level="9">
 <div class="fb__adv-head">Level 9 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Size Increase</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
-<div class="fb__feat-body">The crystal is now size 3.</div>
+<div class="fb__feat-trailing">The crystal is now size 3.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Magnified Strike</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
-<div class="fb__feat-body">When you or an ally makes a ranged <a href="../../rule/combat/strike/">strike</a> that draws a line through the crystal, the user gains a <a href="../../rule/resource/surge/">surge</a> which they can use on the ability.</div>
+<div class="fb__feat-trailing">When you or an ally makes a ranged <a href="../../rule/combat/strike/">strike</a> that draws a line through the crystal, the user gains a <a href="../../rule/resource/surge/">surge</a> which they can use on the ability.</div>
 </article>
 </div>
 </div>
@@ -1056,11 +1056,11 @@ The vibrant waters of Arcadia pour through a hole in reality and pool into a ver
 <div class="fb__feats">
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Bubbling Boost</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
-<div class="fb__feat-body">You and each non-minion ally that enters one or more squares within 3 squares of the pond or starts their <a href="../../rule/combat/turn/">turn</a> there has their <a href="../../rule/character/speed/">speed</a> increased by 2 until the end of their <a href="../../rule/combat/turn/">turn</a>.</div>
+<div class="fb__feat-trailing">You and each non-minion ally that enters one or more squares within 3 squares of the pond or starts their <a href="../../rule/combat/turn/">turn</a> there has their <a href="../../rule/character/speed/">speed</a> increased by 2 until the end of their <a href="../../rule/combat/turn/">turn</a>.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Overgrowth</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
-<div class="fb__feat-body">Each of your fey <a href="../../feature/summoner/level-1/minions/">minions</a> that ends their <a href="../../rule/combat/turn/">turn</a> within 3 squares of the pond is hidden until the start of their next <a href="../../rule/combat/turn/">turn</a>.</div>
+<div class="fb__feat-trailing">Each of your fey <a href="../../feature/summoner/level-1/minions/">minions</a> that ends their <a href="../../rule/combat/turn/">turn</a> within 3 squares of the pond is hidden until the start of their next <a href="../../rule/combat/turn/">turn</a>.</div>
 </article>
 </div>
 </article>
@@ -1078,18 +1078,18 @@ The vibrant waters of Arcadia pour through a hole in reality and pool into a ver
 <div class="fb__adv-head">Level 5 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Garden of Jest</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
-<div class="fb__feat-body">You can spend a <a href="../../rule/health/recoveries/">Recovery</a> the first time in a <a href="../../rule/combat/combat-round/">round</a> a creature gains or starts their <a href="../../rule/combat/turn/">turn</a> with a <a href="../../rule/combat/condition/">condition</a> while you have <a href="../../rule/combat/line-of-effect/">line of effect</a> to the pond. Alternatively, you can choose to enable an ally who also has <a href="../../rule/combat/line-of-effect/">line of effect</a> to the boil to spend a <a href="../../rule/health/recoveries/">Recovery</a> instead.</div>
+<div class="fb__feat-trailing">You can spend a <a href="../../rule/health/recoveries/">Recovery</a> the first time in a <a href="../../rule/combat/combat-round/">round</a> a creature gains or starts their <a href="../../rule/combat/turn/">turn</a> with a <a href="../../rule/combat/condition/">condition</a> while you have <a href="../../rule/combat/line-of-effect/">line of effect</a> to the pond. Alternatively, you can choose to enable an ally who also has <a href="../../rule/combat/line-of-effect/">line of effect</a> to the boil to spend a <a href="../../rule/health/recoveries/">Recovery</a> instead.</div>
 </article>
 </div>
 <div class="fb__band--adv" data-level="9">
 <div class="fb__adv-head">Level 9 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Size Increase</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
-<div class="fb__feat-body">The pond is now size 3.</div>
+<div class="fb__feat-trailing">The pond is now size 3.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Folly Field</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
-<div class="fb__feat-body">Each non-fey enemy that starts their <a href="../../rule/combat/turn/">turn</a> within 3 squares of the pond has a -1 penalty to <a href="../../rule/general/saving-throw/">saving throws</a> and resisting <a href="../../rule/character/potency/">potencies</a> until the start of their next <a href="../../rule/combat/turn/">turn</a>.</div>
+<div class="fb__feat-trailing">Each non-fey enemy that starts their <a href="../../rule/combat/turn/">turn</a> within 3 squares of the pond has a -1 penalty to <a href="../../rule/general/saving-throw/">saving throws</a> and resisting <a href="../../rule/character/potency/">potencies</a> until the start of their next <a href="../../rule/combat/turn/">turn</a>.</div>
 </article>
 </div>
 </div>
@@ -1114,11 +1114,11 @@ Tall iron gates from the Necropolitan Ruins arise from the earth as wailing spir
 <div class="fb__feats">
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">The Bell Tolls</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
-<div class="fb__feat-body">Each enemy that starts their <a href="../../rule/combat/turn/">turn</a> within 3 squares of the gates is I &lt; AVERAGE <a href="../../condition/frightened/">frightened</a> (EoT) by the gates. The <a href="../../rule/character/potency/">potency</a> increases by 1 for <a href="../../rule/health/winded/">winded</a> enemies.</div>
+<div class="fb__feat-trailing">Each enemy that starts their <a href="../../rule/combat/turn/">turn</a> within 3 squares of the gates is I &lt; AVERAGE <a href="../../condition/frightened/">frightened</a> (EoT) by the gates. The <a href="../../rule/character/potency/">potency</a> increases by 1 for <a href="../../rule/health/winded/">winded</a> enemies.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Undead Dominion</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
-<div class="fb__feat-body">Each of your undead <a href="../../feature/summoner/level-1/minions/">minions</a> has <a href="../../rule/damage/damage-immunity/">damage immunity</a> 2 while occupying a space within 3 squares of the gates.</div>
+<div class="fb__feat-trailing">Each of your undead <a href="../../feature/summoner/level-1/minions/">minions</a> has <a href="../../rule/damage/damage-immunity/">damage immunity</a> 2 while occupying a space within 3 squares of the gates.</div>
 </article>
 </div>
 </article>
@@ -1136,18 +1136,18 @@ Tall iron gates from the Necropolitan Ruins arise from the earth as wailing spir
 <div class="fb__adv-head">Level 5 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Memento Mori</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
-<div class="fb__feat-body">You gain a <a href="../../rule/resource/surge/">surge</a> the first time in a <a href="../../rule/combat/combat-round/">round</a> one of your undead <a href="../../feature/summoner/level-1/minions/">minions</a> unwillingly dies while you have <a href="../../rule/combat/line-of-effect/">line of effect</a> to the gates. You can choose to give the <a href="../../rule/resource/surge/">surge</a> to an ally who also has <a href="../../rule/combat/line-of-effect/">line of effect</a> to the gates.</div>
+<div class="fb__feat-trailing">You gain a <a href="../../rule/resource/surge/">surge</a> the first time in a <a href="../../rule/combat/combat-round/">round</a> one of your undead <a href="../../feature/summoner/level-1/minions/">minions</a> unwillingly dies while you have <a href="../../rule/combat/line-of-effect/">line of effect</a> to the gates. You can choose to give the <a href="../../rule/resource/surge/">surge</a> to an ally who also has <a href="../../rule/combat/line-of-effect/">line of effect</a> to the gates.</div>
 </article>
 </div>
 <div class="fb__band--adv" data-level="9">
 <div class="fb__adv-head">Level 9 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Size Increase</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
-<div class="fb__feat-body">The gates are now size 3.</div>
+<div class="fb__feat-trailing">The gates are now size 3.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Open the Gates</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
-<div class="fb__feat-body">You can use <a href="../../feature/summoner/level-1/rise/">Rise!</a> as a <a href="../../rule/combat/triggered-action/">free triggered action</a> each time an enemy dies within 3 squares of the gates while you have <a href="../../rule/combat/line-of-effect/">line of effect</a> to the gates.</div>
+<div class="fb__feat-trailing">You can use <a href="../../feature/summoner/level-1/rise/">Rise!</a> as a <a href="../../rule/combat/triggered-action/">free triggered action</a> each time an enemy dies within 3 squares of the gates while you have <a href="../../rule/combat/line-of-effect/">line of effect</a> to the gates.</div>
 </article>
 </div>
 </div>
@@ -2027,7 +2027,7 @@ The demon lord's Aspect enjoys bringing enemies in close with their appendages o
 <div class="fb__adv-head">Level 10 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Size Increase</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
-<div class="fb__feat-body">The Aspect is now size 3.</div>
+<div class="fb__feat-trailing">The Aspect is now size 3.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="main">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">❗️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Reality Flense</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">1 Eidos</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Champion Action</div></div></header></div>
@@ -2063,7 +2063,7 @@ As a harbinger of ruin, the dragon's Portent has incredibly potent impact and co
 <div class="fb__adv-head">Level 10 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Size Increase</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
-<div class="fb__feat-body">The Portent is now size 3.</div>
+<div class="fb__feat-trailing">The Portent is now size 3.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="main">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">❗️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">A Breath Felt in a Hurricane</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">1 Eidos</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Champion Action</div></div></header></div>
@@ -2100,7 +2100,7 @@ The celestial Attendant wants to swarm the map with pixies while limiting their 
 <div class="fb__adv-head">Level 10 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Size Increase</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
-<div class="fb__feat-body">The Attendant is now size 3.</div>
+<div class="fb__feat-trailing">The Attendant is now size 3.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="main">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">❗️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">A Shower of Dust</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">1 Eidos</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Champion Action</div></div></header></div>
@@ -2136,7 +2136,7 @@ The Avatar of death weighs down their foes with conditions so their army can tak
 <div class="fb__adv-head">Level 10 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Size Increase</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
-<div class="fb__feat-body">The Avatar is now size 3.</div>
+<div class="fb__feat-trailing">The Avatar is now size 3.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="main">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">❗️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Gravemaker</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">1 Eidos</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Champion Action</div></div></header></div>

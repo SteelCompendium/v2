@@ -4,6 +4,11 @@ printing_book: "Draw Steel: Monsters"
 features:
     - cost: 4 Malice
       distance: Ranged 10
+      effects:
+        - roll: Power Roll + 4
+          tier1: 6 damage; [weakened](../../condition/weakened.md) (EoT)
+          tier2: 10 damage; [weakened](../../condition/weakened.md) (EoT)
+          tier3: 12 damage; [weakened](../../condition/weakened.md) (save ends)
       icon: "\U0001F3F9"
       keywords:
         - Magic
@@ -20,10 +25,19 @@ features:
       usage: Main action
     - body: The medusa takes an additional main action on their turn. They can use this feature even if they are [dazed](../../condition/dazed.md).
       cost: 5 Malice
+      effects:
+        - effect: The medusa takes an additional main action on their turn. They can use this feature even if they are [dazed](../../condition/dazed.md).
       icon: ☠️
       name: Solo Action
     - cost: 5 Malice
       distance: Ranged 10
+      effects:
+        - roll: Power Roll + 4
+          tier1: I < 2 the target is charmed
+          tier2: I < 3 the target is charmed
+          tier3: I < 4 the target is charmed
+        - effect: At a time of the medusa's choosing, a charmed creature moves up to their speed and makes a [free strike](../../feature/common/main-actions/free-strike.md) against an enemy of the medusa's choice as a free triggered action. The creature is then no longer charmed.
+          name: Effect
       icon: "\U0001F3F9"
       keywords:
         - Magic
@@ -41,6 +55,11 @@ features:
       target: Three creatures
       usage: Main action
     - cost: 7 Malice
+      effects:
+        - effect: The medusa causes three stone statues within 10 squares of them to each shatter in a 2-cube explosion. Each enemy in one of those areas makes a **Might test**. An enemy [restrained](../../condition/restrained.md) or [slowed](../../condition/slowed.md) by the medusa's Petrify ability has a double bane on the test.
+          tier1: 12 damage; vertical [push](../../movement/forced-movement.md) 3; [bleeding](../../condition/bleeding.md) (save ends)
+          tier2: 10 damage; vertical [push](../../movement/forced-movement.md) 3
+          tier3: 6 damage
       icon: "\U0001F533"
       intro: The medusa causes three stone statues within 10 squares of them to each shatter in a 2-cube explosion. Each enemy in one of those areas makes a **Might test**. An enemy [restrained](../../condition/restrained.md) or [slowed](../../condition/slowed.md) by the medusa's Petrify ability has a double bane on the test.
       name: Shatter Victims
@@ -73,7 +92,7 @@ type: featureblock
 </article>
 <article class="sc-ability fb__feat" data-action="villain">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">☠️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-solo-action">Solo Action</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">5 Malice</div></div></header></div>
-<div class="fb__feat-body">The medusa takes an additional main action on their turn. They can use this feature even if they are <a href="../../../condition/dazed/">dazed</a>.</div>
+<div class="fb__feat-trailing">The medusa takes an additional main action on their turn. They can use this feature even if they are <a href="../../../condition/dazed/">dazed</a>.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="main">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">🏹</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-ssstop-and-lisssten">Ssstop and Lisssten</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">5 Malice</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main action</div></div></header></div>
@@ -85,7 +104,7 @@ type: featureblock
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">🔳</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-shatter-victims">Shatter Victims</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">7 Malice</div></div></header></div>
 <div class="fb__feat-intro">The medusa causes three stone statues within 10 squares of them to each shatter in a 2-cube explosion. Each enemy in one of those areas makes a <b>Might test</b>. An enemy <a href="../../../condition/restrained/">restrained</a> or <a href="../../../condition/slowed/">slowed</a> by the medusa&#39;s Petrify ability has a double bane on the test.</div>
-<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">12 damage; vertical <a href="../../../movement/forced-movement/">push</a> 3; <a href="../../../condition/bleeding/">bleeding</a> (save ends)</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 damage; vertical <a href="../../../movement/forced-movement/">push</a> 3</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">6 damage</span></div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Might Test</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">12 damage; vertical <a href="../../../movement/forced-movement/">push</a> 3; <a href="../../../condition/bleeding/">bleeding</a> (save ends)</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 damage; vertical <a href="../../../movement/forced-movement/">push</a> 3</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">6 damage</span></div></div></div>
 </article>
 </div>
 </article>

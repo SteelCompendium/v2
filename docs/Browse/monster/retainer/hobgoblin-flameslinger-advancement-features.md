@@ -4,6 +4,13 @@ printing_book: "Draw Steel: Monsters"
 features:
     - cost: Encounter
       distance: 3 cube within 10
+      effects:
+        - roll: Power Roll + highest characteristic
+          tier1: 8 damage; pull 1
+          tier2: 12 damage; pull 2
+          tier3: 16 damage, pull 4
+        - effect: A target who is pulled [adjacent](../../rule/combat/adjacent.md) to the flameslinger and who has P < AVERAGE is knocked [prone](../../condition/prone.md).
+          name: Effect
       icon: "\U0001F533"
       keywords:
         - Area
@@ -24,6 +31,13 @@ features:
       usage: Main action
     - cost: Encounter
       distance: 3 burst
+      effects:
+        - roll: Power Roll + highest characteristic
+          tier1: 8 damage; [push](../../movement/forced-movement.md) 2
+          tier2: 12 damage; [push](../../movement/forced-movement.md) 3
+          tier3: 16 damage; [push](../../movement/forced-movement.md) 5
+        - effect: If the flameslinger's mentor is within 10 squares of the flameslinger, the mentor can be the source of the burst instead of the flameslinger.
+          name: Effect
       icon: ❇️
       keywords:
         - Area

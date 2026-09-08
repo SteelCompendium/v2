@@ -3,12 +3,18 @@ printing: "1.0"
 printing_book: "The Beastheart"
 features:
     - body: Whenever the spider makes a strike against a creature while rampaging, the spider can deal extra poison damage equal to their Might score.
+      effects:
+        - effect: Whenever the spider makes a strike against a creature while rampaging, the spider can deal extra poison damage equal to their Might score.
       level: 3
       name: Dripping Fangs
     - body: Once on each of your turns while the spider is rampaging, you can shoot a web to a ceiling, wall, or sturdy object above you within 5 squares as a free maneuver. You can then [fly](../../../movement/fly.md) in a straight line to any space within 5 squares of that object.
+      effects:
+        - effect: Once on each of your turns while the spider is rampaging, you can shoot a web to a ceiling, wall, or sturdy object above you within 5 squares as a free maneuver. You can then [fly](../../../movement/fly.md) in a straight line to any space within 5 squares of that object.
       level: 6
       name: Web Slinger
     - body: Whenever you or the spider deals damage with a maneuver while the spider is rampaging, the attacker regains Stamina equal to the damage dealt.
+      effects:
+        - effect: Whenever you or the spider deals damage with a maneuver while the spider is rampaging, the attacker regains Stamina equal to the damage dealt.
       level: 10
       name: Life Drinker
 name: Spider Advancement Features
@@ -28,21 +34,21 @@ type: featureblock
 <div class="fb__adv-head">Level 3 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-dripping-fangs">Dripping Fangs</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
-<div class="fb__feat-body">Whenever the spider makes a strike against a creature while rampaging, the spider can deal extra poison damage equal to their Might score.</div>
+<div class="fb__feat-trailing">Whenever the spider makes a strike against a creature while rampaging, the spider can deal extra poison damage equal to their Might score.</div>
 </article>
 </div>
 <div class="fb__band--adv" data-level="6">
 <div class="fb__adv-head">Level 6 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-web-slinger">Web Slinger</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
-<div class="fb__feat-body">Once on each of your turns while the spider is rampaging, you can shoot a web to a ceiling, wall, or sturdy object above you within 5 squares as a free maneuver. You can then <a href="../../../../movement/fly/">fly</a> in a straight line to any space within 5 squares of that object.</div>
+<div class="fb__feat-trailing">Once on each of your turns while the spider is rampaging, you can shoot a web to a ceiling, wall, or sturdy object above you within 5 squares as a free maneuver. You can then <a href="../../../../movement/fly/">fly</a> in a straight line to any space within 5 squares of that object.</div>
 </article>
 </div>
 <div class="fb__band--adv" data-level="10">
 <div class="fb__adv-head">Level 10 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-life-drinker">Life Drinker</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
-<div class="fb__feat-body">Whenever you or the spider deals damage with a maneuver while the spider is rampaging, the attacker regains Stamina equal to the damage dealt.</div>
+<div class="fb__feat-trailing">Whenever you or the spider deals damage with a maneuver while the spider is rampaging, the attacker regains Stamina equal to the damage dealt.</div>
 </article>
 </div>
 </div>

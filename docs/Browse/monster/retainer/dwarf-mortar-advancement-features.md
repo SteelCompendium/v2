@@ -4,6 +4,13 @@ printing_book: "Draw Steel: Monsters"
 features:
     - cost: Encounter
       distance: Special; see below
+      effects:
+        - effect: The mortar fires a shell straight upward, which hovers 3 squares up in the air and sheds light below it in a 3 cube. Enemies illuminated by this light can't [hide](../../feature/common/maneuvers/hide.md) or turn invisible and can't benefit from concealment or cover. At the start of the mortar's next turn, the shell explodes to deal damage to enemies in the area.
+          name: Effect
+          roll: Power Roll + highest characteristic
+          tier1: 5 fire damage
+          tier2: 8 fire damage
+          tier3: 11 fire damage
       icon: "\U0001F533"
       keywords:
         - Area
@@ -24,6 +31,11 @@ features:
       usage: Main action
     - cost: Encounter
       distance: 3 cube within 15
+      effects:
+        - roll: Power Roll + highest characteristic
+          tier1: 8 damage; I < WEAK [dazed](../../condition/dazed.md) ([save](../../rule/general/saving-throw.md) ends
+          tier2: 12 damage; I < AVERAGE [dazed](../../condition/dazed.md) ([save](../../rule/general/saving-throw.md) ends)
+          tier3: 16 damage; I < STRONG [dazed](../../condition/dazed.md) ([save](../../rule/general/saving-throw.md) ends) and [prone](../../condition/prone.md)
       icon: "\U0001F533"
       keywords:
         - Area
@@ -41,6 +53,13 @@ features:
       usage: Main action
     - cost: Encounter
       distance: 10 x 1 line within 1
+      effects:
+        - roll: Power Roll + highest characteristic
+          tier1: 6 damage; P < WEAK [frightened](../../condition/frightened.md)
+          tier2: 9 damage; P < AVERAGE [frightened](../../condition/frightened.md)
+          tier3: 13 damage; P < STRONG [frightened](../../condition/frightened.md)
+        - effect: Until the start of the mortar's next turn, [strikes](../../rule/combat/strike.md) made against the mortar or any ally [adjacent](../../rule/combat/adjacent.md) to them take a bane.
+          name: Effect
       icon: "\U0001F533"
       keywords:
         - Area
@@ -77,8 +96,8 @@ type: featureblock
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">🔳</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-signal-shell">Signal Shell</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">Encounter</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main action</div></div></header></div>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Special; see below</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div></div>
-<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ highest characteristic</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 fire damage</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">8 fire damage</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">11 fire damage</span></div></div></div>
-<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The mortar fires a shell straight upward, which hovers 3 squares up in the air and sheds light below it in a 3 cube. Enemies illuminated by this light can&#39;t <a href="../../../feature/common/maneuvers/hide/">hide</a> or turn invisible and can&#39;t benefit from concealment or cover. At the start of the mortar&#39;s next turn, the shell explodes to deal damage to enemies in the area.</p></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The mortar fires a shell straight upward, which hovers 3 squares up in the air and sheds light below it in a 3 cube. Enemies illuminated by this light can&#39;t <a href="../../../feature/common/maneuvers/hide/">hide</a> or turn invisible and can&#39;t benefit from concealment or cover. At the start of the mortar&#39;s next turn, the shell explodes to deal damage to enemies in the area.</p></div><div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ highest characteristic</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 fire damage</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">8 fire damage</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">11 fire damage</span></div></div></div>
+</div>
 </article>
 </div>
 <div class="fb__band--adv" data-level="10">

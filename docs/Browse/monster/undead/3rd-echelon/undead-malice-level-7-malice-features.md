@@ -4,10 +4,14 @@ printing_book: "Draw Steel: Monsters"
 features:
     - body: The undead activates a [Malice](../../../rule/monster/malice.md) feature available to undead of level 6 or lower.
       cost: 2-7+ Malice
+      effects:
+        - effect: The undead activates a [Malice](../../../rule/monster/malice.md) feature available to undead of level 6 or lower.
       icon: ⭐️
       name: Prior Malice Features
     - body: Until the end of the round, whenever an undead is reduced to 0 [Stamina](../../../rule/health/stamina.md), they deal 8 corruption damage to each enemy within 3 squares of them.
       cost: 5 Malice
+      effects:
+        - effect: Until the end of the round, whenever an undead is reduced to 0 [Stamina](../../../rule/health/stamina.md), they deal 8 corruption damage to each enemy within 3 squares of them.
       icon: "\U0001F300"
       name: Necrotic Rupture
 flavor: At the start of any level 7 or higher undead's turn, you can spend Malice to activate one of the following features.
@@ -29,11 +33,11 @@ type: featureblock
 <div class="fb__feats">
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-prior-malice-features">Prior Malice Features</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">2-7+ Malice</div></div></header></div>
-<div class="fb__feat-body">The undead activates a <a href="../../../../rule/monster/malice/">Malice</a> feature available to undead of level 6 or lower.</div>
+<div class="fb__feat-trailing">The undead activates a <a href="../../../../rule/monster/malice/">Malice</a> feature available to undead of level 6 or lower.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="special">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">🌀</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-necrotic-rupture">Necrotic Rupture</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">5 Malice</div></div></header></div>
-<div class="fb__feat-body">Until the end of the round, whenever an undead is reduced to 0 <a href="../../../../rule/health/stamina/">Stamina</a>, they deal 8 corruption damage to each enemy within 3 squares of them.</div>
+<div class="fb__feat-trailing">Until the end of the round, whenever an undead is reduced to 0 <a href="../../../../rule/health/stamina/">Stamina</a>, they deal 8 corruption damage to each enemy within 3 squares of them.</div>
 </article>
 </div>
 </article>

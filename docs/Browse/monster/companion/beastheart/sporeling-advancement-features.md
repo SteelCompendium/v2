@@ -3,12 +3,18 @@ printing: "1.0"
 printing_book: "The Beastheart"
 features:
     - body: Whenever the sporeling makes a strike against a creature while rampaging, the sporeling can cause the target to be [slowed](../../../condition/slowed.md) until the end of the target's next turn.
+      effects:
+        - effect: Whenever the sporeling makes a strike against a creature while rampaging, the sporeling can cause the target to be [slowed](../../../condition/slowed.md) until the end of the target's next turn.
       level: 3
       name: Slowing Spores
     - body: Once on each of your turns while the sporeling is rampaging, you can [teleport](../../../movement/teleport.md) to a space within 15 squares as a free maneuver, provided the space or an adjacent space contains the sporeling or plants or fungus of size 1S or larger. You then gain an edge on the next strike you make before the end of your turn.
+      effects:
+        - effect: Once on each of your turns while the sporeling is rampaging, you can [teleport](../../../movement/teleport.md) to a space within 15 squares as a free maneuver, provided the space or an adjacent space contains the sporeling or plants or fungus of size 1S or larger. You then gain an edge on the next strike you make before the end of your turn.
       level: 6
       name: Plant Walk
     - body: While the sporeling is rampaging, you and the sporeling sprout rootlike, gripping mycelia along your limbs, and whenever you or the sporeling makes a strike against a creature who has M < STRONG, the creature is [grabbed](../../../condition/grabbed.md) by the attacker. Additionally, you and the sporeling can't be force moved or knocked [prone](../../../condition/prone.md) until the sporeling's rampage ends.
+      effects:
+        - effect: While the sporeling is rampaging, you and the sporeling sprout rootlike, gripping mycelia along your limbs, and whenever you or the sporeling makes a strike against a creature who has M < STRONG, the creature is [grabbed](../../../condition/grabbed.md) by the attacker. Additionally, you and the sporeling can't be force moved or knocked [prone](../../../condition/prone.md) until the sporeling's rampage ends.
       level: 10
       name: Trailing Mycelia
 name: Sporeling Advancement Features
@@ -28,21 +34,21 @@ type: featureblock
 <div class="fb__adv-head">Level 3 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-slowing-spores">Slowing Spores</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
-<div class="fb__feat-body">Whenever the sporeling makes a strike against a creature while rampaging, the sporeling can cause the target to be <a href="../../../../condition/slowed/">slowed</a> until the end of the target&#39;s next turn.</div>
+<div class="fb__feat-trailing">Whenever the sporeling makes a strike against a creature while rampaging, the sporeling can cause the target to be <a href="../../../../condition/slowed/">slowed</a> until the end of the target&#39;s next turn.</div>
 </article>
 </div>
 <div class="fb__band--adv" data-level="6">
 <div class="fb__adv-head">Level 6 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-plant-walk">Plant Walk</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
-<div class="fb__feat-body">Once on each of your turns while the sporeling is rampaging, you can <a href="../../../../movement/teleport/">teleport</a> to a space within 15 squares as a free maneuver, provided the space or an adjacent space contains the sporeling or plants or fungus of size 1S or larger. You then gain an edge on the next strike you make before the end of your turn.</div>
+<div class="fb__feat-trailing">Once on each of your turns while the sporeling is rampaging, you can <a href="../../../../movement/teleport/">teleport</a> to a space within 15 squares as a free maneuver, provided the space or an adjacent space contains the sporeling or plants or fungus of size 1S or larger. You then gain an edge on the next strike you make before the end of your turn.</div>
 </article>
 </div>
 <div class="fb__band--adv" data-level="10">
 <div class="fb__adv-head">Level 10 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-trailing-mycelia">Trailing Mycelia</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
-<div class="fb__feat-body">While the sporeling is rampaging, you and the sporeling sprout rootlike, gripping mycelia along your limbs, and whenever you or the sporeling makes a strike against a creature who has M &lt; STRONG, the creature is <a href="../../../../condition/grabbed/">grabbed</a> by the attacker. Additionally, you and the sporeling can&#39;t be force moved or knocked <a href="../../../../condition/prone/">prone</a> until the sporeling&#39;s rampage ends.</div>
+<div class="fb__feat-trailing">While the sporeling is rampaging, you and the sporeling sprout rootlike, gripping mycelia along your limbs, and whenever you or the sporeling makes a strike against a creature who has M &lt; STRONG, the creature is <a href="../../../../condition/grabbed/">grabbed</a> by the attacker. Additionally, you and the sporeling can&#39;t be force moved or knocked <a href="../../../../condition/prone/">prone</a> until the sporeling&#39;s rampage ends.</div>
 </article>
 </div>
 </div>

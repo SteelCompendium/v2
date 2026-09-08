@@ -4,6 +4,9 @@ printing_book: "Draw Steel: Monsters"
 features:
     - cost: Encounter
       distance: Ranged 3
+      effects:
+        - effect: The target can spend 1 [Recovery](../../rule/health/recoveries.md), and has their speed doubled until the end of their next turn.
+          name: Effect
       icon: "\U0001F3F9"
       keywords:
         - Ranged
@@ -16,6 +19,11 @@ features:
       usage: Main action
     - cost: Encounter
       distance: Ranged 3
+      effects:
+        - roll: Power Roll + highest characteristic
+          tier1: 8 psychic damage; R < WEAK [frightened](../../condition/frightened.md) ([save](../../rule/general/saving-throw.md) ends)
+          tier2: 13 psychic damage; R < AVERAGE [frightened](../../condition/frightened.md) ([save](../../rule/general/saving-throw.md) ends)
+          tier3: 17 psychic damage; R < STRONG [frightened](../../condition/frightened.md) ([save](../../rule/general/saving-throw.md) ends)
       icon: "\U0001F3F9"
       keywords:
         - Psionic
@@ -33,6 +41,13 @@ features:
       usage: Main action
     - cost: Encounter
       distance: 2 burst
+      effects:
+        - roll: Power Roll + highest characteristic
+          tier1: 11 psychic damage
+          tier2: 16 psychic damage
+          tier3: 21 psychic damage
+        - effect: If the mind healer is [dazed](../../condition/dazed.md), [frightened](../../condition/frightened.md), or [taunted](../../condition/taunted.md), they can end one of those conditions and impose the same condition on one enemy in the area. Additionally, they can do the same for their mentor if the mentor is in the area and is [dazed](../../condition/dazed.md), [frightened](../../condition/frightened.md), or [taunted](../../condition/taunted.md).
+          name: Effect
       icon: ❇️
       keywords:
         - Area

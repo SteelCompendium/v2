@@ -4,6 +4,11 @@ printing_book: "Draw Steel: Monsters"
 features:
     - cost: Encounter
       distance: Self
+      effects:
+        - effect: An enemy within 5 squares is reduced to 0 [Stamina](../../rule/health/stamina.md).
+          name: Trigger
+        - effect: The gnasher moves up to their speed and can use their [signature ability](../../rule/combat/signature-ability.md).
+          name: Effect
       icon: ❗️
       level: 4
       name: Frenzied Bite
@@ -16,6 +21,11 @@ features:
       usage: Triggered action
     - cost: Encounter
       distance: Melee 1
+      effects:
+        - roll: Power Roll + highest characteristic
+          tier1: 7 damage
+          tier2: 11 damage
+          tier3: 16 damage
       icon: "\U0001F5E1"
       keywords:
         - Melee
@@ -33,6 +43,11 @@ features:
       usage: Main action
     - cost: Encounter
       distance: Self
+      effects:
+        - effect: The gnasher reduces a creature to 0 [Stamina](../../rule/health/stamina.md).
+          name: Trigger
+        - effect: The gnasher consumes part of the target's body. The gnasher can spend a [Recovery](../../rule/health/recoveries.md), and each enemy within 5 squares of the gnasher who has I < AVERAGE is [frightened](../../condition/frightened.md) ([save](../../rule/general/saving-throw.md) ends).
+          name: Effect
       icon: "\U0001F464"
       level: 10
       name: Horrific Feas

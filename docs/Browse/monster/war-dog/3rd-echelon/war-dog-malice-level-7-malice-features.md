@@ -4,9 +4,16 @@ printing_book: "Draw Steel: Monsters"
 features:
     - body: The war dog activates a [Malice](../../../rule/monster/malice.md) feature available to war dogs of level 6 or lower.
       cost: 3-7 Malice
+      effects:
+        - effect: The war dog activates a [Malice](../../../rule/monster/malice.md) feature available to war dogs of level 6 or lower.
       icon: ⭐️
       name: Prior Malice Features
     - cost: 7 Malice
+      effects:
+        - effect: A bank of choking chemicals sweeps across the area of the encounter map. Each enemy in the encounter makes a Might test.
+          tier1: 8 poison damage; [dazed](../../../condition/dazed.md) (EoT)
+          tier2: 7 poison damage; [weakened](../../../condition/weakened.md) (EoT)
+          tier3: 4 poison damage
       icon: "\U0001F300"
       intro: A bank of choking chemicals sweeps across the area of the encounter map. Each enemy in the encounter makes a Might test.
       name: Alchemical Cloud
@@ -34,7 +41,7 @@ type: featureblock
 <div class="fb__feats">
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-prior-malice-features">Prior Malice Features</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">3-7 Malice</div></div></header></div>
-<div class="fb__feat-body">The war dog activates a <a href="../../../../rule/monster/malice/">Malice</a> feature available to war dogs of level 6 or lower.</div>
+<div class="fb__feat-trailing">The war dog activates a <a href="../../../../rule/monster/malice/">Malice</a> feature available to war dogs of level 6 or lower.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="special">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">🌀</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-alchemical-cloud">Alchemical Cloud</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">7 Malice</div></div></header></div>

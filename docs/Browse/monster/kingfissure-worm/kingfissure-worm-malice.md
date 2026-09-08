@@ -4,6 +4,11 @@ printing_book: "Draw Steel: Monsters"
 features:
     - cost: 3 Malice
       distance: Self
+      effects:
+        - effect: A creature deals damage to the kingfissure worm or one of their tongues.
+          name: Trigger
+        - effect: Each creature within 5 squares of the kingfissure worm takes 5 damage, and if they have A < 4 they are knocked [prone](../../condition/prone.md). The kingfissure worm can use this ability only once per round.
+          name: Effect
       icon: ❗️
       name: Aftershock
       sections:
@@ -15,14 +20,25 @@ features:
       usage: Free triggered action
     - body: The kingfissure worm takes an additional main action on their turn. They can use this feature even if they are [dazed](../../condition/dazed.md).
       cost: 5 Malice
+      effects:
+        - effect: The kingfissure worm takes an additional main action on their turn. They can use this feature even if they are [dazed](../../condition/dazed.md).
       icon: ☠️
       name: Solo Action
     - body: The kingfissure worm loses 35 [Stamina](../../rule/health/stamina.md) and regrows one tongue, to a maximum of three tongues. The worm is then [dazed](../../condition/dazed.md) until the end of their turn.
       cost: 5 Malice
+      effects:
+        - effect: The kingfissure worm loses 35 [Stamina](../../rule/health/stamina.md) and regrows one tongue, to a maximum of three tongues. The worm is then [dazed](../../condition/dazed.md) until the end of their turn.
       icon: "\U0001F464"
       name: Spontaneous Regeneration
     - cost: 7 Malice
       distance: 5 burst
+      effects:
+        - roll: Power Roll + 5
+          tier1: 8 damage; M < 3 [slide](../../movement/forced-movement.md) 5
+          tier2: 13 damage; M < 4 [slide](../../movement/forced-movement.md) 5
+          tier3: 17 damage; M < 5 [slide](../../movement/forced-movement.md) 5
+        - effect: Until the end of the next round, each target takes a −3 penalty to stability, treats all terrain as [difficult terrain](../../movement/difficult-terrain.md), and takes 10 damage whenever they are knocked [prone](../../condition/prone.md).
+          name: Effect
       icon: ❇️
       keywords:
         - Area
@@ -63,11 +79,11 @@ type: featureblock
 </article>
 <article class="sc-ability fb__feat" data-action="villain">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">☠️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-solo-action">Solo Action</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">5 Malice</div></div></header></div>
-<div class="fb__feat-body">The kingfissure worm takes an additional main action on their turn. They can use this feature even if they are <a href="../../../condition/dazed/">dazed</a>.</div>
+<div class="fb__feat-trailing">The kingfissure worm takes an additional main action on their turn. They can use this feature even if they are <a href="../../../condition/dazed/">dazed</a>.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="maneuver">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">👤</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-spontaneous-regeneration">Spontaneous Regeneration</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">5 Malice</div></div></header></div>
-<div class="fb__feat-body">The kingfissure worm loses 35 <a href="../../../rule/health/stamina/">Stamina</a> and regrows one tongue, to a maximum of three tongues. The worm is then <a href="../../../condition/dazed/">dazed</a> until the end of their turn.</div>
+<div class="fb__feat-trailing">The kingfissure worm loses 35 <a href="../../../rule/health/stamina/">Stamina</a> and regrows one tongue, to a maximum of three tongues. The worm is then <a href="../../../condition/dazed/">dazed</a> until the end of their turn.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="main">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">❇️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-megaquake">Megaquake</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">7 Malice</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main action</div></div></header></div>

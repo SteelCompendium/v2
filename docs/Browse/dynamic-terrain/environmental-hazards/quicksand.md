@@ -3,15 +3,30 @@ printing: "1.01"
 printing_book: "Draw Steel: Monsters"
 features:
     - body: '-'
+      effects:
+        - effect: '-'
       icon: "\U0001F300"
       name: Deactivate
     - body: A creature or object enters the quicksand or starts their turn there.
+      effects:
+        - effect: A creature or object enters the quicksand or starts their turn there.
+        - effect: The **Grasping Depths** ability.
+          name: Effect
       icon: ❕
       name: Activate
       sections:
         - label: Effect
           text: The **Grasping Depths** ability.
     - distance: Melee 0
+      effects:
+        - effect: A creature or object enters the quicksand or starts their turn there.
+          name: Trigger
+          roll: Power Roll + 2
+          tier1: M < 0 [slowed](../../condition/slowed.md) ([save](../../rule/general/saving-throw.md) ends)
+          tier2: M < 1 [restrained](../../condition/restrained.md) ([save](../../rule/general/saving-throw.md) ends)
+          tier3: M < 2 [restrained](../../condition/restrained.md) ([save](../../rule/general/saving-throw.md) ends)
+        - effect: This ability takes a bane if a triggering creature [shifted](../../movement/shifting.md) into the quicksand. A character who starts their turn [restrained](../../condition/restrained.md) this way is [suffocating](../../rule/health/suffocating.md).
+          name: Effect
       icon: ❗️
       keywords:
         - Melee
@@ -31,6 +46,8 @@ features:
       target: The triggering creature or object
       usage: Free triggered action
     - body: The quicksand is hidden until triggered or detected.
+      effects:
+        - effect: The quicksand is hidden until triggered or detected.
       icon: ⭐️
       name: Hidden
 flavor: When this patch of sand is stepped on, it is revealed to be a slurry saturated by water—and ready to draw creatures down to their doom.
@@ -65,24 +82,24 @@ type: dynamic-terrain
 <div class="fb__feats">
 <article class="sc-ability fb__feat" data-action="special">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">🌀</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-deactivate">Deactivate</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
-<div class="fb__feat-body">-</div>
+<div class="fb__feat-trailing">-</div>
 </article>
 <article class="sc-ability fb__feat" data-action="triggered">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">❕</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-activate">Activate</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
+<div class="fb__feat-trailing">A creature or object enters the quicksand or starts their turn there.</div>
 <div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The <b>Grasping Depths</b> ability.</p></div></div>
-<div class="fb__feat-body">A creature or object enters the quicksand or starts their turn there.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="triggered">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">❗️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-grasping-depths">Grasping Depths</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Free triggered action</div></div></header></div>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span></div>
 <div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 0</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">The triggering creature or object</div></div></div>
-<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ 2</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">M &lt; 0 <a href="../../../condition/slowed/">slowed</a> (<a href="../../../rule/general/saving-throw/">save</a> ends)</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">M &lt; 1 <a href="../../../condition/restrained/">restrained</a> (<a href="../../../rule/general/saving-throw/">save</a> ends)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">M &lt; 2 <a href="../../../condition/restrained/">restrained</a> (<a href="../../../rule/general/saving-throw/">save</a> ends)</span></div></div></div>
-<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div><div class="sc-ability__section-body"><p>A creature or object enters the quicksand or starts their turn there.</p></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div><div class="sc-ability__section-body"><p>A creature or object enters the quicksand or starts their turn there.</p></div><div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ 2</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">M &lt; 0 <a href="../../../condition/slowed/">slowed</a> (<a href="../../../rule/general/saving-throw/">save</a> ends)</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">M &lt; 1 <a href="../../../condition/restrained/">restrained</a> (<a href="../../../rule/general/saving-throw/">save</a> ends)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">M &lt; 2 <a href="../../../condition/restrained/">restrained</a> (<a href="../../../rule/general/saving-throw/">save</a> ends)</span></div></div></div>
+</div>
 <div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>This ability takes a bane if a triggering creature <a href="../../../movement/shifting/">shifted</a> into the quicksand. A character who starts their turn <a href="../../../condition/restrained/">restrained</a> this way is <a href="../../../rule/health/suffocating/">suffocating</a>.</p></div></div>
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-hidden">Hidden</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
-<div class="fb__feat-body">The quicksand is hidden until triggered or detected.</div>
+<div class="fb__feat-trailing">The quicksand is hidden until triggered or detected.</div>
 </article>
 </div>
 </article>

@@ -4,6 +4,13 @@ printing_book: "Draw Steel: Monsters"
 features:
     - cost: Encounter
       distance: Melee 1
+      effects:
+        - roll: Power Roll + highest characteristic
+          tier1: 6 damage; M < WEAK [grabbed](../../condition/grabbed.md)
+          tier2: 9 damage; M < AVERAGE [grabbed](../../condition/grabbed.md)
+          tier3: 13 damage; M < STRONG [grabbed](../../condition/grabbed.md)
+        - effect: While the target is [grabbed](../../condition/grabbed.md) this way, they can't communicate and all creatures and objects have concealment from them.
+          name: Effect
       icon: "\U0001F5E1"
       keywords:
         - Melee
@@ -24,6 +31,13 @@ features:
       usage: Main action
     - cost: Encounter
       distance: Ranged 10
+      effects:
+        - roll: Power Roll + highest characteristic
+          tier1: Pull 8
+          tier2: Pull 10
+          tier3: Pull 12
+        - effect: The target takes 1 damage for each square they are [pulled](../../movement/forced-movement.md).
+          name: Effect
       icon: "\U0001F3F9"
       keywords:
         - Magic
@@ -44,6 +58,13 @@ features:
       usage: Main action
     - cost: Encounter
       distance: Melee 1
+      effects:
+        - roll: Power Roll + highest characteristic
+          tier1: 12 damage
+          tier2: 18 damage
+          tier3: 24 damage
+        - effect: The target takes 15 damage, they are no longer [grabbed](../../condition/grabbed.md), and they fall [prone](../../condition/prone.md).
+          name: Effect
       icon: "\U0001F5E1"
       keywords:
         - Melee

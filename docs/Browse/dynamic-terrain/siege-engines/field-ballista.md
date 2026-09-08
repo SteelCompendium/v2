@@ -2,7 +2,12 @@
 printing: "1.01"
 printing_book: "Draw Steel: Monsters"
 features:
-    - icon: "\U0001F300"
+    - effects:
+        - effect: As a maneuver, a creature [adjacent](../../rule/combat/adjacent.md) to a field ballista can make an **Agility test**.
+          tier1: The creature accidentally activates the **Release Bolt** ability.
+          tier2: The field ballista is deactivated but the creature is [slowed](../../condition/slowed.md) (EoT).
+          tier3: The field ballista is deactivated and can't be used.
+      icon: "\U0001F300"
       intro: As a maneuver, a creature [adjacent](../../rule/combat/adjacent.md) to a field ballista can make an **Agility test**.
       name: Deactivate
       power_roll:
@@ -11,6 +16,13 @@ features:
             low: The creature accidentally activates the **Release Bolt** ability.
             mid: The field ballista is deactivated but the creature is [slowed](../../condition/slowed.md) (EoT).
     - distance: Ranged 20
+      effects:
+        - roll: Power Roll + 2
+          tier1: 5 damage
+          tier2: 8 damage; M < 1 push 1
+          tier3: 11 damage; M < 2 push 2
+        - effect: This ability can't be used again until the field ballista is reloaded.
+          name: Effect
       icon: "\U0001F3F9"
       keywords:
         - Ranged
@@ -29,6 +41,9 @@ features:
       target: One creature or object
       usage: Main action (Adjacent creature)
     - distance: '-'
+      effects:
+        - effect: The field ballista is reloaded, allowing **Release Bolt** to be used again. This action can be used only once per round.
+          name: Effect
       icon: ⭐️
       name: Reload
       sections:
@@ -37,6 +52,9 @@ features:
       target: '-'
       usage: Main action (Adjacent creature)
     - distance: '-'
+      effects:
+        - effect: The next use of **Release Bolt** gains an edge and has a +10 bonus to ranged distance. This action can be used only once per round.
+          name: Effect
       icon: ⭐️
       name: Spot
       sections:
@@ -45,6 +63,9 @@ features:
       target: '-'
       usage: Main action (Adjacent creature)
     - distance: '-'
+      effects:
+        - effect: The field ballista and the creature using this action move together up to 3 squares.
+          name: Effect
       icon: ⭐️
       name: Move
       sections:
@@ -56,9 +77,19 @@ features:
         **Penetrating Bolt (+2 EV)** The field ballista targets the nearest two additional creatures or objects in a straight line beyond the initial target.
 
         **Chain Bolt (+2 EV)** The field ballista's bolts are set with heavy chains that wrap around targets. The **Chain Bolt** ability replaces **Release Bolt**, and the field ballista gains the **Crank the Chain** ability.
+      effects:
+        - effect: '**Penetrating Bolt (+2 EV)** The field ballista targets the nearest two additional creatures or objects in a straight line beyond the initial target.'
+        - effect: '**Chain Bolt (+2 EV)** The field ballista''s bolts are set with heavy chains that wrap around targets. The **Chain Bolt** ability replaces **Release Bolt**, and the field ballista gains the **Crank the Chain** ability.'
       icon: ⭐️
       name: Upgrades
     - distance: Ranged 20
+      effects:
+        - roll: Power Roll + 2
+          tier1: 4 damage
+          tier2: 7 damage; M < 1 [slowed](../../condition/slowed.md) ([save](../../rule/general/saving-throw.md) ends)
+          tier3: 10 damage; M < 2 [slowed](../../condition/slowed.md) ([save](../../rule/general/saving-throw.md) ends)
+        - effect: This ability can't be used again until the field ballista is reloaded.
+          name: Effect
       icon: "\U0001F3F9"
       keywords:
         - Ranged
@@ -77,6 +108,15 @@ features:
       target: One creature or object
       usage: Main action (Adjacent creature)
     - distance: Ranged 20
+      effects:
+        - effect: The target must be [slowed](../../condition/slowed.md) by the field ballista.
+          name: Special
+          roll: Power Roll + 2
+          tier1: Pull 1
+          tier2: Pull 3
+          tier3: Pull 5
+        - effect: This [forced movement](../../movement/forced-movement.md) triggers [opportunity attacks](../../rule/combat/opportunity-attack.md).
+          name: Effect
       icon: "\U0001F3F9"
       keywords:
         - Ranged
@@ -129,7 +169,7 @@ type: dynamic-terrain
 <article class="sc-ability fb__feat" data-action="special">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">🌀</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-deactivate">Deactivate</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
 <div class="fb__feat-intro">As a maneuver, a creature <a href="../../../rule/combat/adjacent/">adjacent</a> to a field ballista can make an <b>Agility test</b>.</div>
-<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The creature accidentally activates the <b>Release Bolt</b> ability.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The field ballista is deactivated but the creature is <a href="../../../condition/slowed/">slowed</a> (EoT).</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The field ballista is deactivated and can&#39;t be used.</span></div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Agility Test</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The creature accidentally activates the <b>Release Bolt</b> ability.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The field ballista is deactivated but the creature is <a href="../../../condition/slowed/">slowed</a> (EoT).</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The field ballista is deactivated and can&#39;t be used.</span></div></div></div>
 </article>
 <article class="sc-ability fb__feat" data-action="main">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">🏹</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-release-bolt">Release Bolt</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main action (Adjacent creature)</div></div></header></div>
@@ -152,9 +192,8 @@ type: dynamic-terrain
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-upgrades">Upgrades</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
-<div class="fb__feat-body"><b>Penetrating Bolt (+2 EV)</b> The field ballista targets the nearest two additional creatures or objects in a straight line beyond the initial target.
-
-<b>Chain Bolt (+2 EV)</b> The field ballista&#39;s bolts are set with heavy chains that wrap around targets. The <b>Chain Bolt</b> ability replaces <b>Release Bolt</b>, and the field ballista gains the <b>Crank the Chain</b> ability.</div>
+<div class="fb__feat-trailing"><b>Penetrating Bolt (+2 EV)</b> The field ballista targets the nearest two additional creatures or objects in a straight line beyond the initial target.</div>
+<div class="fb__feat-trailing"><b>Chain Bolt (+2 EV)</b> The field ballista&#39;s bolts are set with heavy chains that wrap around targets. The <b>Chain Bolt</b> ability replaces <b>Release Bolt</b>, and the field ballista gains the <b>Crank the Chain</b> ability.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="main">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">🏹</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-chain-bolt">Chain Bolt</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main action (Adjacent creature)</div></div></header></div>
@@ -167,8 +206,8 @@ type: dynamic-terrain
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">🏹</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-crank-the-chain">Crank the Chain</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Main action (Adjacent creature)</div></div></header></div>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 20</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div></div>
-<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ 2</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">Pull 1</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">Pull 3</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">Pull 5</span></div></div></div>
-<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Special</span></div><div class="sc-ability__section-body"><p>The target must be <a href="../../../condition/slowed/">slowed</a> by the field ballista.</p></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Special</span></div><div class="sc-ability__section-body"><p>The target must be <a href="../../../condition/slowed/">slowed</a> by the field ballista.</p></div><div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ 2</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">Pull 1</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">Pull 3</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">Pull 5</span></div></div></div>
+</div>
 <div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>This <a href="../../../movement/forced-movement/">forced movement</a> triggers <a href="../../../rule/combat/opportunity-attack/">opportunity attacks</a>.</p></div></div>
 </article>
 </div>

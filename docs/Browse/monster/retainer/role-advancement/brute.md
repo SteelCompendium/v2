@@ -3,6 +3,9 @@ printing: "1.01"
 printing_book: "Draw Steel: Monsters"
 features:
     - distance: Self
+      effects:
+        - effect: Until the start of the retainer's next turn, strikes made against the retainer gain an edge. At the start of the retainer's next turn, they gain 2 [surges](../../../rule/resource/surge.md), and any ability they use before the end of their turn that [force moves](../../../movement/forced-movement.md) a creature can move that creature 2 additional squares.
+          name: Effect
       icon: "\U0001F464"
       level: 4
       name: Big Windup
@@ -13,6 +16,13 @@ features:
       usage: Maneuver
     - cost: Encounter
       distance: Melee 1
+      effects:
+        - roll: Power Roll + highest characteristic
+          tier1: 8 damage
+          tier2: 13 damage; [push](../../../movement/forced-movement.md) 2
+          tier3: 16 damage; [push](../../../movement/forced-movement.md) 3; M < STRONG [prone](../../../condition/prone.md)
+        - effect: If the target ends any [forced movement](../../../movement/forced-movement.md) from this ability in a square [adjacent](../../../rule/combat/adjacent.md) to the retainer's mentor, the mentor can make a melee [free strike](../../../feature/common/main-actions/free-strike.md) against them.
+          name: Effect
       icon: "\U0001F5E1"
       keywords:
         - Melee
@@ -33,6 +43,13 @@ features:
       usage: Main action
     - cost: Encounter
       distance: 1 burst
+      effects:
+        - roll: Power Roll + highest characteristic
+          tier1: 10 damage; [push](../../../movement/forced-movement.md) 1
+          tier2: 14 damage; [push](../../../movement/forced-movement.md) 2
+          tier3: 20 damage; [push](../../../movement/forced-movement.md) 4
+        - effect: The retainer is [dazed](../../../condition/dazed.md) until the end of their next turn.
+          name: Effect
       icon: ❇️
       keywords:
         - Area

@@ -4,6 +4,11 @@ printing_book: "Draw Steel: Monsters"
 features:
     - cost: Encounter
       distance: Melee 1
+      effects:
+        - roll: Power Roll + highest characteristic
+          tier1: 5 damage; [push](../../../movement/forced-movement.md) 1
+          tier2: 9 damage; [push](../../../movement/forced-movement.md) 2
+          tier3: 12 damage; [push](../../../movement/forced-movement.md) 4
       icon: "\U0001F5E1"
       keywords:
         - Charge
@@ -22,6 +27,13 @@ features:
       usage: Main action
     - cost: Encounter
       distance: Melee 1
+      effects:
+        - roll: Power Roll + highest characteristic
+          tier1: 7 damage
+          tier2: 10 damage
+          tier3: 15 damage
+        - effect: Before or after the strike, the retainer and their mentor can each [shift](../../../movement/shifting.md) up to their speed.
+          name: Effect
       icon: "\U0001F5E1"
       keywords:
         - Melee
@@ -42,6 +54,13 @@ features:
       usage: Main action
     - cost: Encounter
       distance: 1 burst
+      effects:
+        - roll: Power Roll + highest characteristic
+          tier1: 11 damage; one target who has M < WEAK is [grabbed](../../../condition/grabbed.md)
+          tier2: 16 damage; one target who has M < AVERAGE is [grabbed](../../../condition/grabbed.md)
+          tier3: 21 damage; one target who has M < STRONG is [grabbed](../../../condition/grabbed.md)
+        - effect: The retainer [shifts](../../../movement/shifting.md) up to 2 squares, and can move a creature [grabbed](../../../condition/grabbed.md) using this ability with them.
+          name: Effect
       icon: ❇️
       keywords:
         - Area

@@ -3,11 +3,16 @@ printing: "1.0"
 printing_book: "The Summoner"
 features:
     - body: The Portent is now size 3.
+      effects:
+        - effect: The Portent is now size 3.
       icon: ⭐️
       level: 10
       name: Size Increase
     - cost: 1 Eidos
       distance: 4 cube within 10
+      effects:
+        - effect: 9 affinity [damage](../../../../rule/damage/damage.md). The [damage](../../../../rule/damage/damage.md) ignores [immunity](../../../../rule/damage/damage-immunity.md). The affected area becomes [difficult terrain](../../../../movement/difficult-terrain.md). An enemy has affinity [weakness](../../../../rule/damage/damage-weakness.md) 5 while occupying an affected square.
+          name: Effect
       icon: ❗️
       keywords:
         - Area
@@ -37,7 +42,7 @@ type: featureblock
 <div class="fb__adv-head">Level 10 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-size-increase">Size Increase</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
-<div class="fb__feat-body">The Portent is now size 3.</div>
+<div class="fb__feat-trailing">The Portent is now size 3.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="main">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">❗️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-a-breath-felt-in-a-hurricane">A Breath Felt in a Hurricane</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">1 Eidos</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Champion Action</div></div></header></div>

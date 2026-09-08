@@ -4,6 +4,15 @@ printing_book: "Draw Steel: Monsters"
 features:
     - cost: 3 Malice
       distance: Melee 1
+      effects:
+        - roll: Power Roll + 2
+          tier1: 7 damage; [push](../../movement/forced-movement.md) 3
+          tier2: 10 damage; [push](../../movement/forced-movement.md) 3, [taunted](../../condition/taunted.md) (EoT)
+          tier3: 13 damage; [push](../../movement/forced-movement.md) 5, [taunted](../../condition/taunted.md) (EoT)
+        - effect: If the target is wearing clothing covering the lower half of their body, they must use a maneuver once to pull that clothing up before they can move.
+          name: Effect
+        - effect: This ability can't be used by a [minion](../../rule/organization/minion.md).
+          name: Special
       icon: "\U0001F5E1"
       keywords:
         - Melee
@@ -25,9 +34,17 @@ features:
       usage: Main action
     - body: Each radenwight in the encounter [shifts](../../movement/shifting.md) up to their speed. If a radenwight ends this shift [adjacent](../../rule/combat/adjacent.md) to one or more radenwights, they can make a melee [free strike](../../feature/common/main-actions/free-strike.md) against each enemy [adjacent](../../rule/combat/adjacent.md) to them.
       cost: 5 Malice
+      effects:
+        - effect: Each radenwight in the encounter [shifts](../../movement/shifting.md) up to their speed. If a radenwight ends this shift [adjacent](../../rule/combat/adjacent.md) to one or more radenwights, they can make a melee [free strike](../../feature/common/main-actions/free-strike.md) against each enemy [adjacent](../../rule/combat/adjacent.md) to them.
       icon: ⭐️
       name: Rat Race
     - cost: 7 Malice
+      effects:
+        - effect: A radenwight uses music to coordinate living rats, forming a 10 wall of rats scurrying atop one another into unoccupied spaces anywhere on the encounter map. The wall doesn't block [line of effect](../../rule/combat/line-of-effect.md) for radenwights and their allies, but it does for other creatures as the rats coordinate their movements with the radenwights. Each square of the wall has 10 [Stamina](../../rule/health/stamina.md).
+        - effect: If the last radenwight in the encounter dies and the wall is still standing, the rats let out a hideous screech as they disperse. Each enemy on the encounter map makes an Intuition test.
+          tier1: 7 sonic damage; the target can't take a respite activity during their next respite
+          tier2: 5 sonic damage
+          tier3: No effect.
       icon: "\U0001F533"
       intro: |-
         A radenwight uses music to coordinate living rats, forming a 10 wall of rats scurrying atop one another into unoccupied spaces anywhere on the encounter map. The wall doesn't block [line of effect](../../rule/combat/line-of-effect.md) for radenwights and their allies, but it does for other creatures as the rats coordinate their movements with the radenwights. Each square of the wall has 10 [Stamina](../../rule/health/stamina.md).
@@ -65,13 +82,12 @@ type: featureblock
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-rat-race">Rat Race</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">5 Malice</div></div></header></div>
-<div class="fb__feat-body">Each radenwight in the encounter <a href="../../../movement/shifting/">shifts</a> up to their speed. If a radenwight ends this shift <a href="../../../rule/combat/adjacent/">adjacent</a> to one or more radenwights, they can make a melee <a href="../../../feature/common/main-actions/free-strike/">free strike</a> against each enemy <a href="../../../rule/combat/adjacent/">adjacent</a> to them.</div>
+<div class="fb__feat-trailing">Each radenwight in the encounter <a href="../../../movement/shifting/">shifts</a> up to their speed. If a radenwight ends this shift <a href="../../../rule/combat/adjacent/">adjacent</a> to one or more radenwights, they can make a melee <a href="../../../feature/common/main-actions/free-strike/">free strike</a> against each enemy <a href="../../../rule/combat/adjacent/">adjacent</a> to them.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">🔳</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-rally-the-rodents">Rally the Rodents</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">7 Malice</div></div></header></div>
-<div class="fb__feat-intro">A radenwight uses music to coordinate living rats, forming a 10 wall of rats scurrying atop one another into unoccupied spaces anywhere on the encounter map. The wall doesn&#39;t block <a href="../../../rule/combat/line-of-effect/">line of effect</a> for radenwights and their allies, but it does for other creatures as the rats coordinate their movements with the radenwights. Each square of the wall has 10 <a href="../../../rule/health/stamina/">Stamina</a>.
-
-If the last radenwight in the encounter dies and the wall is still standing, the rats let out a hideous screech as they disperse. Each enemy on the encounter map makes an Intuition test.</div>
+<div class="fb__feat-trailing">A radenwight uses music to coordinate living rats, forming a 10 wall of rats scurrying atop one another into unoccupied spaces anywhere on the encounter map. The wall doesn&#39;t block <a href="../../../rule/combat/line-of-effect/">line of effect</a> for radenwights and their allies, but it does for other creatures as the rats coordinate their movements with the radenwights. Each square of the wall has 10 <a href="../../../rule/health/stamina/">Stamina</a>.</div>
+<div class="fb__feat-intro">If the last radenwight in the encounter dies and the wall is still standing, the rats let out a hideous screech as they disperse. Each enemy on the encounter map makes an Intuition test.</div>
 <div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">7 sonic damage; the target can&#39;t take a respite activity during their next respite</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 sonic damage</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">No effect.</span></div></div></div>
 </article>
 </div>

@@ -3,11 +3,16 @@ printing: "1.0"
 printing_book: "The Summoner"
 features:
     - body: The Avatar is now size 3.
+      effects:
+        - effect: The Avatar is now size 3.
       icon: ⭐️
       level: 10
       name: Size Increase
     - cost: 1 Eidos
       distance: 5 × 3 line within 1
+      effects:
+        - effect: 9 holy [damage](../../../../rule/damage/damage.md). Each target is vertically [pulled](../../../../movement/forced-movement.md) a number of squares equal to their [size](../../../../rule/character/size.md) straight down, ignoring [stability](../../../../rule/character/stability.md). If the target would be [force moved](../../../../movement/forced-movement.md) into the ground, they are buried beneath the ground instead.
+          name: Effect
       icon: ❗️
       keywords:
         - Area
@@ -37,7 +42,7 @@ type: featureblock
 <div class="fb__adv-head">Level 10 Advancement</div>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-size-increase">Size Increase</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
-<div class="fb__feat-body">The Avatar is now size 3.</div>
+<div class="fb__feat-trailing">The Avatar is now size 3.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="main">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">❗️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-gravemaker">Gravemaker</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">1 Eidos</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Champion Action</div></div></header></div>

@@ -4,6 +4,9 @@ printing_book: "Draw Steel: Monsters"
 features:
     - cost: 3 Malice
       distance: 5 cube within 3
+      effects:
+        - effect: A time raider acting this turn activates a gravity well in the area. The gravity well sits at the center of the cube and lasts until the end of the encounter, or until a creature [adjacent](../../rule/combat/adjacent.md) to the well uses a maneuver to deactivate it. The area is [difficult terrain](../../movement/difficult-terrain.md) for enemies. Any enemy who ends their turn in the area is [pulled](../../movement/forced-movement.md) up to 4 squares toward the well.
+          name: Effect
       icon: "\U0001F533"
       keywords:
         - Area
@@ -18,9 +21,16 @@ features:
       usage: Maneuver
     - body: Until the end of the round, each time raider gains a +3 bonus to speed, and can [teleport](../../movement/teleport.md) up to their speed as a move action.
       cost: 5 Malice
+      effects:
+        - effect: Until the end of the round, each time raider gains a +3 bonus to speed, and can [teleport](../../movement/teleport.md) up to their speed as a move action.
       icon: ⭐️
       name: Recall Module
     - cost: 10 Malice
+      effects:
+        - effect: All time raiders in the encounter collectively create a psionic field over the encounter map, which lasts until the first time raider with the highest [Stamina](../../rule/health/stamina.md) maximum drops to 0 [Stamina](../../rule/health/stamina.md) or chooses to end the field (no action required). While the field is up, each non-time raider on the map makes a **Reason test** against this psionic effect at the start of each round.
+          tier1: 10 psychic damage; [slowed](../../condition/slowed.md) (EoT)
+          tier2: 7 psychic damage; [slowed](../../condition/slowed.md) (EoT)
+          tier3: No effect.
       icon: "\U0001F300"
       intro: All time raiders in the encounter collectively create a psionic field over the encounter map, which lasts until the first time raider with the highest [Stamina](../../rule/health/stamina.md) maximum drops to 0 [Stamina](../../rule/health/stamina.md) or chooses to end the field (no action required). While the field is up, each non-time raider on the map makes a **Reason test** against this psionic effect at the start of each round.
       name: Psi-Cage
@@ -53,12 +63,12 @@ type: featureblock
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-recall-module">Recall Module</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">5 Malice</div></div></header></div>
-<div class="fb__feat-body">Until the end of the round, each time raider gains a +3 bonus to speed, and can <a href="../../../movement/teleport/">teleport</a> up to their speed as a move action.</div>
+<div class="fb__feat-trailing">Until the end of the round, each time raider gains a +3 bonus to speed, and can <a href="../../../movement/teleport/">teleport</a> up to their speed as a move action.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="special">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">🌀</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-psi-cage">Psi-Cage</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">10 Malice</div></div></header></div>
 <div class="fb__feat-intro">All time raiders in the encounter collectively create a psionic field over the encounter map, which lasts until the first time raider with the highest <a href="../../../rule/health/stamina/">Stamina</a> maximum drops to 0 <a href="../../../rule/health/stamina/">Stamina</a> or chooses to end the field (no action required). While the field is up, each non-time raider on the map makes a <b>Reason test</b> against this psionic effect at the start of each round.</div>
-<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">10 psychic damage; <a href="../../../condition/slowed/">slowed</a> (EoT)</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">7 psychic damage; <a href="../../../condition/slowed/">slowed</a> (EoT)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">No effect.</span></div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Reason Test</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">10 psychic damage; <a href="../../../condition/slowed/">slowed</a> (EoT)</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">7 psychic damage; <a href="../../../condition/slowed/">slowed</a> (EoT)</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">No effect.</span></div></div></div>
 </article>
 </div>
 </article>

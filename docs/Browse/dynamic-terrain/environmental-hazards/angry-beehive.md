@@ -3,9 +3,15 @@ printing: "1.01"
 printing_book: "Draw Steel: Monsters"
 features:
     - body: The beehive can't be deactivated. If it takes damage or is destroyed, the hive unleashes a swarm of bees.
+      effects:
+        - effect: The beehive can't be deactivated. If it takes damage or is destroyed, the hive unleashes a swarm of bees.
       icon: "\U0001F300"
       name: Deactivate
     - body: A creature enters the hive's space or an [adjacent](../../rule/combat/adjacent.md) space without [shifting](../../movement/shifting.md).
+      effects:
+        - effect: A creature enters the hive's space or an [adjacent](../../rule/combat/adjacent.md) space without [shifting](../../movement/shifting.md).
+        - effect: The hive is removed from the encounter map and a swarm of bees is placed in one square of the space of the triggering creature. Any creature who starts their turn in the swarm's space takes 3 poison damage. At the start of each round, the swarm moves 1 square and its size increases by 1 square (to 2 squares by 2 squares, 3 squares by 3 squares, and so forth), preferring squares in a creature's space. After 3 rounds, the swarm dissipates.
+          name: Effect
       icon: ❕
       name: Activate
       sections:
@@ -15,6 +21,9 @@ features:
         **Concealed Hive (+1 EV)** The hive is hidden until the swarm is unleashed.
 
         **Killer Bees (+2 EV)** The bees are a particularly aggressive and dangerous species. The hive triggers even if a creature [shifts](../../movement/shifting.md) into or while [adjacent](../../rule/combat/adjacent.md) to it, and the swarm deals 1d6 + 3 poison damage.
+      effects:
+        - effect: '**Concealed Hive (+1 EV)** The hive is hidden until the swarm is unleashed.'
+        - effect: '**Killer Bees (+2 EV)** The bees are a particularly aggressive and dangerous species. The hive triggers even if a creature [shifts](../../movement/shifting.md) into or while [adjacent](../../rule/combat/adjacent.md) to it, and the swarm deals 1d6 + 3 poison damage.'
       icon: ⭐️
       name: Upgrades
 flavor: This beehive is full of angry bees who swarm and attack with little provocation.
@@ -49,18 +58,17 @@ type: dynamic-terrain
 <div class="fb__feats">
 <article class="sc-ability fb__feat" data-action="special">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">🌀</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-deactivate">Deactivate</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
-<div class="fb__feat-body">The beehive can&#39;t be deactivated. If it takes damage or is destroyed, the hive unleashes a swarm of bees.</div>
+<div class="fb__feat-trailing">The beehive can&#39;t be deactivated. If it takes damage or is destroyed, the hive unleashes a swarm of bees.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="triggered">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">❕</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-activate">Activate</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
+<div class="fb__feat-trailing">A creature enters the hive&#39;s space or an <a href="../../../rule/combat/adjacent/">adjacent</a> space without <a href="../../../movement/shifting/">shifting</a>.</div>
 <div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The hive is removed from the encounter map and a swarm of bees is placed in one square of the space of the triggering creature. Any creature who starts their turn in the swarm&#39;s space takes 3 poison damage. At the start of each round, the swarm moves 1 square and its size increases by 1 square (to 2 squares by 2 squares, 3 squares by 3 squares, and so forth), preferring squares in a creature&#39;s space. After 3 rounds, the swarm dissipates.</p></div></div>
-<div class="fb__feat-body">A creature enters the hive&#39;s space or an <a href="../../../rule/combat/adjacent/">adjacent</a> space without <a href="../../../movement/shifting/">shifting</a>.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-upgrades">Upgrades</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
-<div class="fb__feat-body"><b>Concealed Hive (+1 EV)</b> The hive is hidden until the swarm is unleashed.
-
-<b>Killer Bees (+2 EV)</b> The bees are a particularly aggressive and dangerous species. The hive triggers even if a creature <a href="../../../movement/shifting/">shifts</a> into or while <a href="../../../rule/combat/adjacent/">adjacent</a> to it, and the swarm deals 1d6 + 3 poison damage.</div>
+<div class="fb__feat-trailing"><b>Concealed Hive (+1 EV)</b> The hive is hidden until the swarm is unleashed.</div>
+<div class="fb__feat-trailing"><b>Killer Bees (+2 EV)</b> The bees are a particularly aggressive and dangerous species. The hive triggers even if a creature <a href="../../../movement/shifting/">shifts</a> into or while <a href="../../../rule/combat/adjacent/">adjacent</a> to it, and the swarm deals 1d6 + 3 poison damage.</div>
 </article>
 </div>
 </article>

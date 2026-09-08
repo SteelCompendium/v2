@@ -2,7 +2,12 @@
 printing: "1.01"
 printing_book: "Draw Steel: Monsters"
 features:
-    - icon: "\U0001F300"
+    - effects:
+        - effect: As a maneuver, a creature [adjacent](../../rule/combat/adjacent.md) to a ram can make an **Agility test**.
+          tier1: The creature triggers the ram and is affected as if in its space.
+          tier2: The ram is deactivated but the creature is [slowed](../../condition/slowed.md) (EoT).
+          tier3: The ram is deactivated and doesn't trigger.
+      icon: "\U0001F300"
       intro: As a maneuver, a creature [adjacent](../../rule/combat/adjacent.md) to a ram can make an **Agility test**.
       name: Deactivate
       power_roll:
@@ -11,12 +16,27 @@ features:
             low: The creature triggers the ram and is affected as if in its space.
             mid: The ram is deactivated but the creature is [slowed](../../condition/slowed.md) (EoT).
     - body: A [pressure plate](pressure-plate.md), [switch](switch.md), or other linked trigger is activated.
+      effects:
+        - effect: A [pressure plate](pressure-plate.md), [switch](switch.md), or other linked trigger is activated.
+        - effect: The **Ram** ability.
+          name: Effect
       icon: ❕
       name: Activate
       sections:
         - label: Effect
           text: The **Ram** ability.
     - distance: Special
+      effects:
+        - effect: A [pressure plate](pressure-plate.md), [switch](switch.md), or other linked trigger is activated.
+          name: Trigger
+        - effect: The area of this ability is the path the ram moves through from its starting position.
+          name: Special
+          roll: Power Roll + 2
+          tier1: 3 damage; slide 1, ignoring [stability](../../rule/character/stability.md)
+          tier2: 6 damage; push 3
+          tier3: 9 damage; push 5
+        - effect: A target slid by the ram ends up on one side of it or the other (choose randomly). The ram must be manually reset.
+          name: Effect
       icon: ❗️
       keywords:
         - Area
@@ -47,9 +67,17 @@ features:
         **Rapid Repeating (+3 EV)** The ram automatically resets at the start of each turn.
 
         **Multiple Rams (+3 EV per additional ram)** Multiple rams can be used to represent a larger mechanism, such as a stack of tumbling logs.
+      effects:
+        - effect: '**Stone (+1 EV)** The ram is made of stone, has 6 [Stamina](../../rule/health/stamina.md) per square, and deals an extra 1d3 damage.'
+        - effect: '**Metal (+2 EV)** The ram is made of metal, has 9 [Stamina](../../rule/health/stamina.md) per square, and deals an extra 1d6 damage.'
+        - effect: '**Repeating (+1 EV)** The ram automatically resets at the start of each round.'
+        - effect: '**Rapid Repeating (+3 EV)** The ram automatically resets at the start of each turn.'
+        - effect: '**Multiple Rams (+3 EV per additional ram)** Multiple rams can be used to represent a larger mechanism, such as a stack of tumbling logs.'
       icon: ⭐️
       name: Upgrades
     - body: The ram is hidden until triggered or detected.
+      effects:
+        - effect: The ram is hidden until triggered or detected.
       icon: ⭐️
       name: Hidden
 flavor: A heavy wooden ram drops down or swings into the fray, crushing all in its path.
@@ -91,37 +119,33 @@ type: dynamic-terrain
 <article class="sc-ability fb__feat" data-action="special">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">🌀</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-deactivate">Deactivate</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
 <div class="fb__feat-intro">As a maneuver, a creature <a href="../../../rule/combat/adjacent/">adjacent</a> to a ram can make an <b>Agility test</b>.</div>
-<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The creature triggers the ram and is affected as if in its space.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The ram is deactivated but the creature is <a href="../../../condition/slowed/">slowed</a> (EoT).</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The ram is deactivated and doesn&#39;t trigger.</span></div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Agility Test</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The creature triggers the ram and is affected as if in its space.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The ram is deactivated but the creature is <a href="../../../condition/slowed/">slowed</a> (EoT).</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The ram is deactivated and doesn&#39;t trigger.</span></div></div></div>
 </article>
 <article class="sc-ability fb__feat" data-action="triggered">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">❕</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-activate">Activate</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
+<div class="fb__feat-trailing">A <a href="../pressure-plate/">pressure plate</a>, <a href="../switch/">switch</a>, or other linked trigger is activated.</div>
 <div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>The <b>Ram</b> ability.</p></div></div>
-<div class="fb__feat-body">A <a href="../pressure-plate/">pressure plate</a>, <a href="../switch/">switch</a>, or other linked trigger is activated.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="triggered">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">❗️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-ram">Ram</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Free triggered action</div></div></header></div>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail"><div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Special</div></div><div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each creature and object in the area</div></div></div>
-<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ 2</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 damage; slide 1, ignoring <a href="../../../rule/character/stability/">stability</a></span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 damage; push 3</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">9 damage; push 5</span></div></div></div>
 <div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div><div class="sc-ability__section-body"><p>A <a href="../pressure-plate/">pressure plate</a>, <a href="../switch/">switch</a>, or other linked trigger is activated.</p></div></div>
-<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Special</span></div><div class="sc-ability__section-body"><p>The area of this ability is the path the ram moves through from its starting position.</p></div></div>
+<div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Special</span></div><div class="sc-ability__section-body"><p>The area of this ability is the path the ram moves through from its starting position.</p></div><div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ 2</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 damage; slide 1, ignoring <a href="../../../rule/character/stability/">stability</a></span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 damage; push 3</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">9 damage; push 5</span></div></div></div>
+</div>
 <div class="sc-ability__section"><div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div><div class="sc-ability__section-body"><p>A target slid by the ram ends up on one side of it or the other (choose randomly). The ram must be manually reset.</p></div></div>
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-upgrades">Upgrades</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
-<div class="fb__feat-body"><b>Stone (+1 EV)</b> The ram is made of stone, has 6 <a href="../../../rule/health/stamina/">Stamina</a> per square, and deals an extra 1d3 damage.
-
-<b>Metal (+2 EV)</b> The ram is made of metal, has 9 <a href="../../../rule/health/stamina/">Stamina</a> per square, and deals an extra 1d6 damage.
-
-<b>Repeating (+1 EV)</b> The ram automatically resets at the start of each round.
-
-<b>Rapid Repeating (+3 EV)</b> The ram automatically resets at the start of each turn.
-
-<b>Multiple Rams (+3 EV per additional ram)</b> Multiple rams can be used to represent a larger mechanism, such as a stack of tumbling logs.</div>
+<div class="fb__feat-trailing"><b>Stone (+1 EV)</b> The ram is made of stone, has 6 <a href="../../../rule/health/stamina/">Stamina</a> per square, and deals an extra 1d3 damage.</div>
+<div class="fb__feat-trailing"><b>Metal (+2 EV)</b> The ram is made of metal, has 9 <a href="../../../rule/health/stamina/">Stamina</a> per square, and deals an extra 1d6 damage.</div>
+<div class="fb__feat-trailing"><b>Repeating (+1 EV)</b> The ram automatically resets at the start of each round.</div>
+<div class="fb__feat-trailing"><b>Rapid Repeating (+3 EV)</b> The ram automatically resets at the start of each turn.</div>
+<div class="fb__feat-trailing"><b>Multiple Rams (+3 EV per additional ram)</b> Multiple rams can be used to represent a larger mechanism, such as a stack of tumbling logs.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-hidden">Hidden</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
-<div class="fb__feat-body">The ram is hidden until triggered or detected.</div>
+<div class="fb__feat-trailing">The ram is hidden until triggered or detected.</div>
 </article>
 </div>
 </article>

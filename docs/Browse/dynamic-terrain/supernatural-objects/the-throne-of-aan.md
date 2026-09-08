@@ -2,7 +2,12 @@
 printing: "1.01"
 printing_book: "Draw Steel: Monsters"
 features:
-    - icon: "\U0001F300"
+    - effects:
+        - effect: The throne of A'An can be deactivated only by the current hierophant of A'An (see **Sitting on the Throne**), who must succeed on a **Presence test** that takes a bane to do so.
+          tier1: The hierophant triggers the **Nova** ability.
+          tier2: The hierophant fails to deactivate the throne.
+          tier3: The throne is deactivated until the end of the encounter.
+      icon: "\U0001F300"
       intro: The throne of A'An can be deactivated only by the current hierophant of A'An (see **Sitting on the Throne**), who must succeed on a **Presence test** that takes a bane to do so.
       name: Deactivate
       power_roll:
@@ -14,9 +19,19 @@ features:
         In the Age of Suns, there was no darkness and no night. Even among the many suns of that time, the light of A'An was the brightest. The throne of A'An manifests the sun powers of that god, even when no one is seated in it. The following effects always occur within 10 squares of the throne:
 
         - The throne sheds bright light that negates all darkness and concealment, and which prevents creatures from being hidden. - Any creature with cold immunity has fire weakness 10. - Any creature who uses an ability that deals cold damage takes 11 fire damage.
+      effects:
+        - effect: 'In the Age of Suns, there was no darkness and no night. Even among the many suns of that time, the light of A''An was the brightest. The throne of A''An manifests the sun powers of that god, even when no one is seated in it. The following effects always occur within 10 squares of the throne:'
+        - effect: '- The throne sheds bright light that negates all darkness and concealment, and which prevents creatures from being hidden. - Any creature with cold immunity has fire weakness 10. - Any creature who uses an ability that deals cold damage takes 11 fire damage.'
       icon: ⭐️
       name: Light of the Northern Sun
-    - icon: ⭐️
+    - effects:
+        - effect: Only a creature attuned to the throne can sit on it. A creature [adjacent](../../rule/combat/adjacent.md) to the throne can use a main action to attune to it by succeeding on a **Presence test**.
+          tier1: The creature takes 11 fire damage.
+          tier2: The creature fails to attune to the throne.
+          tier3: The creature attunes to the throne and can sit on it.
+        - effect: 'A creature seated on the throne becomes the hierophant of A''An and gains the following benefits:'
+        - effect: '- The hierophant and each of their allies within 10 squares of the throne have fire immunity 10. - The hierophant and each of their allies within 10 squares of the throne can choose to have their abilities deal fire damage instead of their usual damage. - The hierophant has a +5 bonus to [stability](../../rule/character/stability.md), and any strike made against them takes a bane unless the attacker is also attuned to the throne. - The hierophant can use the **Primordial Flare** and **Solar Accretion** abilities.'
+      icon: ⭐️
       intro: Only a creature attuned to the throne can sit on it. A creature [adjacent](../../rule/combat/adjacent.md) to the throne can use a main action to attune to it by succeeding on a **Presence test**.
       name: Sitting on the Throne
       power_roll:
@@ -29,6 +44,13 @@ features:
 
         - The hierophant and each of their allies within 10 squares of the throne have fire immunity 10. - The hierophant and each of their allies within 10 squares of the throne can choose to have their abilities deal fire damage instead of their usual damage. - The hierophant has a +5 bonus to [stability](../../rule/character/stability.md), and any strike made against them takes a bane unless the attacker is also attuned to the throne. - The hierophant can use the **Primordial Flare** and **Solar Accretion** abilities.
     - distance: Ranged 20
+      effects:
+        - roll: Power Roll + 3
+          tier1: 6 fire damage
+          tier2: 11 fire damage
+          tier3: 14 fire damage
+        - effect: The target has fire weakness 10 until the start of the hierophant's next turn.
+          name: Effect
       icon: "\U0001F3F9"
       keywords:
         - Magic
@@ -47,6 +69,11 @@ features:
       target: One creature or object
       usage: Maneuver
     - distance: Ranged 10
+      effects:
+        - effect: A target within distance is made [winded](../../rule/health/winded.md) or is reduced to 0 [Stamina](../../rule/health/stamina.md) by fire damage.
+          name: Trigger
+        - effect: If the hierophant is a hero, they gain 3 of their Heroic Resource. If the hierophant is a Director-controlled creature, the Director gains 3 [Malice](../../rule/monster/malice.md).
+          name: Effect
       icon: ❗️
       keywords:
         - Magic
@@ -60,6 +87,11 @@ features:
       target: One creature
       usage: Free triggered action
     - distance: 10 burst
+      effects:
+        - effect: The throne is destroyed or the hierophant obtains a tier 1 outcome on the test to deactivate it.
+          name: Trigger
+        - effect: Each target takes 14 fire damage and the Hierophant gains the Incubator of A'An complication (see the sidebar). If there is no hierophant, one creature within 10 squares of the throne chosen by the Director gains this complication.
+          name: Effect
       icon: ❗️
       keywords:
         - Area
@@ -105,21 +137,19 @@ type: dynamic-terrain
 <article class="sc-ability fb__feat" data-action="special">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">🌀</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-deactivate">Deactivate</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
 <div class="fb__feat-intro">The throne of A&#39;An can be deactivated only by the current hierophant of A&#39;An (see <b>Sitting on the Throne</b>), who must succeed on a <b>Presence test</b> that takes a bane to do so.</div>
-<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The hierophant triggers the <b>Nova</b> ability.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The hierophant fails to deactivate the throne.</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The throne is deactivated until the end of the encounter.</span></div></div></div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Presence Test</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The hierophant triggers the <b>Nova</b> ability.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The hierophant fails to deactivate the throne.</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The throne is deactivated until the end of the encounter.</span></div></div></div>
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-light-of-the-northern-sun">Light of the Northern Sun</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
-<div class="fb__feat-body">In the Age of Suns, there was no darkness and no night. Even among the many suns of that time, the light of A&#39;An was the brightest. The throne of A&#39;An manifests the sun powers of that god, even when no one is seated in it. The following effects always occur within 10 squares of the throne:
-
-- The throne sheds bright light that negates all darkness and concealment, and which prevents creatures from being hidden. - Any creature with cold immunity has fire weakness 10. - Any creature who uses an ability that deals cold damage takes 11 fire damage.</div>
+<div class="fb__feat-trailing">In the Age of Suns, there was no darkness and no night. Even among the many suns of that time, the light of A&#39;An was the brightest. The throne of A&#39;An manifests the sun powers of that god, even when no one is seated in it. The following effects always occur within 10 squares of the throne:</div>
+<div class="fb__feat-trailing">- The throne sheds bright light that negates all darkness and concealment, and which prevents creatures from being hidden. - Any creature with cold immunity has fire weakness 10. - Any creature who uses an ability that deals cold damage takes 11 fire damage.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="passive">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">⭐️</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-sitting-on-the-throne">Sitting on the Throne</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div>
 <div class="fb__feat-intro">Only a creature attuned to the throne can sit on it. A creature <a href="../../../rule/combat/adjacent/">adjacent</a> to the throne can use a main action to attune to it by succeeding on a <b>Presence test</b>.</div>
-<div class="sc-ability__pr"><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The creature takes 11 fire damage.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The creature fails to attune to the throne.</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The creature attunes to the throne and can sit on it.</span></div></div></div>
-<div class="fb__feat-trailing">A creature seated on the throne becomes the hierophant of A&#39;An and gains the following benefits:
-
-- The hierophant and each of their allies within 10 squares of the throne have fire immunity 10. - The hierophant and each of their allies within 10 squares of the throne can choose to have their abilities deal fire damage instead of their usual damage. - The hierophant has a +5 bonus to <a href="../../../rule/character/stability/">stability</a>, and any strike made against them takes a bane unless the attacker is also attuned to the throne. - The hierophant can use the <b>Primordial Flare</b> and <b>Solar Accretion</b> abilities.</div>
+<div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Presence Test</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The creature takes 11 fire damage.</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The creature fails to attune to the throne.</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The creature attunes to the throne and can sit on it.</span></div></div></div>
+<div class="fb__feat-trailing">A creature seated on the throne becomes the hierophant of A&#39;An and gains the following benefits:</div>
+<div class="fb__feat-trailing">- The hierophant and each of their allies within 10 squares of the throne have fire immunity 10. - The hierophant and each of their allies within 10 squares of the throne can choose to have their abilities deal fire damage instead of their usual damage. - The hierophant has a +5 bonus to <a href="../../../rule/character/stability/">stability</a>, and any strike made against them takes a bane unless the attacker is also attuned to the throne. - The hierophant can use the <b>Primordial Flare</b> and <b>Solar Accretion</b> abilities.</div>
 </article>
 <article class="sc-ability fb__feat" data-action="maneuver">
 <div class="fb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="fb__feat-icon">🏹</span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line" id="sc-feat-primordial-flare">Primordial Flare</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">Maneuver</div></div></header></div>
