@@ -49,7 +49,7 @@
 /* ── BANDS (Equipment / Kit Bonuses / Signature Ability) ── */
 .sc-kit__band { margin-top: 1rem; }
 .sc-kit__band-head {
-  font-family: var(--md-small-header-font); font-variant: small-caps;
+  font-family: var(--md-small-header-font); font-weight: var(--md-small-header-weight); font-variant: small-caps;
   text-transform: uppercase; letter-spacing: .07em; font-size: .8rem;
   color: var(--fx-metal); margin-bottom: .45rem;
   padding-bottom: .25rem; border-bottom: 1px solid var(--fx-metal-faint);

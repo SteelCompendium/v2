@@ -72,10 +72,9 @@
 .sc-settings-head h2 {
   margin: 0;
   flex: 1;
-  font-family: var(--md-large-header-font); font-weight: var(--md-large-header-weight);
+  font-family: var(--md-large-header-font); font-weight: var(--md-large-header-weight); letter-spacing: var(--md-large-header-tracking); -webkit-text-stroke: var(--md-large-header-stroke) currentColor;
   text-transform: uppercase;
-  letter-spacing: 0.04em;
-  font-size: 1.15rem;
+  font-size: 2.15rem;
   line-height: 1;
   color: var(--sc-steel-lighter, var(--md-default-fg-color));
   text-shadow: var(--fx-emboss);
@@ -112,7 +111,7 @@
 .sc-set__group > h3,
 .sc-set__group > summary {
   margin: 0 0 0.5rem;
-  font-family: var(--md-small-header-font);
+  font-family: var(--md-small-header-font); font-weight: var(--md-small-header-weight);
   font-size: 0.72rem;
   text-transform: uppercase;
   letter-spacing: 0.08em;
@@ -155,7 +154,7 @@ details.sc-set__group:not([open]) > summary { margin-bottom: 0; }
 .sc-set__sub > legend {
   padding: 0 0.35rem;
   margin-left: -0.35rem;
-  font-family: var(--md-small-header-font);
+  font-family: var(--md-small-header-font); font-weight: var(--md-small-header-weight);
   font-size: 0.68rem;
   text-transform: uppercase;
   letter-spacing: 0.08em;

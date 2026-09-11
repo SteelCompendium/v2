@@ -68,14 +68,14 @@
   box-shadow: 0 0 0 4px var(--fb-plate-solid), 0 0 0 5px color-mix(in srgb, var(--role) 40%, var(--fb-plate-solid));
 }
 .fb__eyebrow {
-  font-family: var(--md-small-header-font); font-variant: small-caps; text-transform: uppercase;
+  font-family: var(--md-small-header-font); font-weight: var(--md-small-header-weight); font-variant: small-caps; text-transform: uppercase;
   letter-spacing: .08em; font-size: .86rem; color: var(--role);
   filter: brightness(1.15) saturate(1.1); margin-bottom: .12rem;
 }
 .md-typeset .fb__name {
-  margin: 0; font-family: var(--md-large-header-font); font-weight: var(--md-large-header-weight); text-transform: uppercase;
-  font-size: 2.1rem; line-height: .98; color: var(--sc-steel-lighter);
-  text-shadow: var(--fx-emboss); letter-spacing: .01em; text-wrap: balance;
+  margin: 0; font-family: var(--md-large-header-font); font-weight: var(--md-large-header-weight); letter-spacing: var(--md-large-header-tracking); -webkit-text-stroke: var(--md-large-header-stroke) currentColor; text-transform: uppercase;
+  font-size: 3.1rem; line-height: .98; color: var(--sc-steel-lighter);
+  text-shadow: var(--fx-emboss); text-wrap: balance;
 }
 
 /* The head DOM is now the shared 6-slot .sc-head (steel-cardhead.css) carrying the
@@ -83,14 +83,14 @@
    Re-attach the embossed name (was .fb__name) + the role-tinted type+role mini-title
    (was the role-colored .fb__eyebrow) to the new head slots. */
 .md-typeset .fb__head .sc-head__left-primary {
-  font-size: 2.1rem; line-height: .98; color: var(--sc-steel-lighter);
-  text-shadow: var(--fx-emboss); letter-spacing: .01em; text-wrap: balance;
+  font-size: 3.1rem; line-height: .98; color: var(--sc-steel-lighter);
+  text-shadow: var(--fx-emboss); letter-spacing: var(--md-large-header-tracking); text-wrap: balance;
 }
 .fb__head .sc-head__right-primary { color: var(--role); filter: brightness(1.15) saturate(1.1); }
 
 /* ── FLAVOR ── */
 .fb__flavor {
-  font-family: var(--md-small-header-font); font-style: italic;
+  font-family: var(--md-small-header-font); font-weight: var(--md-small-header-weight); font-style: italic;
   color: var(--md-default-fg-color--light); font-size: .94rem; line-height: 1.55;
   padding: 0 var(--pad); margin: 0 0 .6rem; text-wrap: pretty;
 }
@@ -99,7 +99,7 @@
 
 /* ── LOOSE STATS (data-fb-stats: grid | ledger) ── */
 .fb__stats { padding: 0 var(--pad) .7rem; }
-.fb__stat-l { font-family: var(--md-small-header-font); font-variant: small-caps; letter-spacing: .05em; font-size: .74rem; color: var(--fx-metal); }
+.fb__stat-l { font-family: var(--md-small-header-font); font-weight: var(--md-small-header-weight); font-variant: small-caps; letter-spacing: .05em; font-size: .74rem; color: var(--fx-metal); }
 .fb__stat-v { color: var(--md-default-fg-color); font-size: .95rem; line-height: 1.3; text-wrap: pretty; }
 .fb__stat-v b { color: var(--sc-steel-lighter); }
 /* grid: boxed value-over-label cells, auto-fit so long values get their own row */
@@ -150,7 +150,7 @@
 /* usage eyebrow ("main action (adjacent creature)") — small-caps, action-tinted,
    the human-readable twin of the [data-action] accent. */
 .fb__feat-eyebrow { display: flex; align-items: center; gap: .5rem;
-  font-family: var(--md-small-header-font); font-variant: small-caps; text-transform: lowercase;
+  font-family: var(--md-small-header-font); font-weight: var(--md-small-header-weight); font-variant: small-caps; text-transform: lowercase;
   letter-spacing: .1em; font-size: .85rem; color: var(--act); }
 .md-typeset .fb__feat-name { font-size: 1.25rem; margin: 0; min-width: 0; }
 .fb__feat-corner { margin-left: auto; align-self: baseline; }

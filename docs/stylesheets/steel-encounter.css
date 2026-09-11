@@ -26,7 +26,7 @@
   display: flex; gap: .6rem; align-items: center; padding: .5rem .8rem; position: relative;
   cursor: pointer; user-select: none; /* whole row toggles collapse (sc-encounter.js) */
 }
-.sc-enc__head b { font-family: var(--md-small-header-font); letter-spacing: .04em; }
+.sc-enc__head b { font-family: var(--md-small-header-font); font-weight: var(--md-small-header-weight); letter-spacing: .04em; }
 .sc-enc__diff[data-diff="Standard"] { color: var(--md-accent-fg-color); }
 .sc-enc__diff[data-diff="Hard"], .sc-enc__diff[data-diff="Extreme"] { color: #e06060; }
 .sc-enc__menu-btn { margin-left: auto; background: none; border: 0; cursor: pointer; color: inherit; font-weight: 700; }

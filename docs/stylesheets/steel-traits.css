@@ -92,7 +92,7 @@
 
 .sc-trait__eyebrow {
   display: flex; align-items: center; gap: .5rem;
-  font-family: var(--md-small-header-font); font-variant: small-caps; text-transform: lowercase;
+  font-family: var(--md-small-header-font); font-weight: var(--md-small-header-weight); font-variant: small-caps; text-transform: lowercase;
   letter-spacing: .1em; font-size: .86rem; color: var(--act);
 }
 .sc-trait__dia { width: 7px; height: 7px; transform: rotate(45deg); background: var(--act); flex: 0 0 auto; }
@@ -100,9 +100,9 @@
    large top-margin + line-height were being inherited and shifting the name
    (same fix as .sc-ability__name). */
 .md-typeset .sc-trait__name {
-  font-family: var(--md-large-header-font); font-weight: var(--md-large-header-weight); text-transform: uppercase;
-  font-size: 1.5rem; line-height: 1.04; color: var(--sc-steel-lighter);
-  text-shadow: var(--fx-emboss); margin: .25rem 0 0; letter-spacing: .01em;
+  font-family: var(--md-large-header-font); font-weight: var(--md-large-header-weight); letter-spacing: var(--md-large-header-tracking); -webkit-text-stroke: var(--md-large-header-stroke) currentColor; text-transform: uppercase;
+  font-size: 2.5rem; line-height: 1.04; color: var(--sc-steel-lighter);
+  text-shadow: var(--fx-emboss); margin: .25rem 0 0;
 }
 
 /* The trait head is now the shared 6-slot .sc-head; re-attach the metal underline,
@@ -122,7 +122,7 @@
 .sc-trait__tag {
   justify-self: end; white-space: nowrap;
   display: inline-flex; align-items: baseline; gap: .3rem;
-  font-family: var(--md-small-header-font); font-variant: small-caps; text-transform: lowercase;
+  font-family: var(--md-small-header-font); font-weight: var(--md-small-header-weight); font-variant: small-caps; text-transform: lowercase;
   letter-spacing: .04em; font-size: .86rem; color: var(--fx-metal-bright);
   padding: .22rem .65rem; border-radius: 6px; border: 1px solid var(--fx-metal-line);
   background: linear-gradient(180deg, rgba(255,255,255,.06), rgba(0,0,0,.12));
@@ -146,7 +146,7 @@
 .sc-trait__body em { font-style: italic; color: var(--md-default-fg-color--light); }
 
 /* flavor line (atmospheric, optional, sits just under the head) */
-.sc-trait__flavor { font-family: var(--md-small-header-font); font-style: italic;
+.sc-trait__flavor { font-family: var(--md-small-header-font); font-weight: var(--md-small-header-weight); font-style: italic;
   color: var(--md-default-fg-color--light); font-size: .94rem; line-height: 1.5;
   margin: 0 0 .25rem; text-wrap: pretty; }
 
@@ -166,7 +166,7 @@
    Suppressed globally by the "Hide drop caps" setting (data-no-dropcap on <html>). */
 .sc-trait--lead .sc-trait__body > p:first-of-type { overflow: hidden; }
 :root:not([data-no-dropcap]) .sc-trait--lead .sc-trait__body > p:first-of-type::first-letter {
-  font-family: var(--md-large-header-font); font-weight: var(--md-large-header-weight); font-size: 3.15em; line-height: .72;
+  font-family: var(--md-large-header-font); font-weight: var(--md-large-header-weight); letter-spacing: var(--md-large-header-tracking); -webkit-text-stroke: var(--md-large-header-stroke) currentColor; font-size: 4.15em; line-height: .72;
   float: left; margin: .06em .12em 0 0; padding-top: .04em;
   color: var(--fx-metal-bright); text-shadow: var(--fx-emboss);
 }
@@ -177,7 +177,7 @@
 /* a run-in label that wraps rich prose (links included) — must stay a normal
    text block, NOT flex, or each inline run/link becomes its own flex column */
 .sc-trait__leadin {
-  font-family: var(--md-small-header-font); font-style: italic;
+  font-family: var(--md-small-header-font); font-weight: var(--md-small-header-weight); font-style: italic;
   font-size: .94rem; color: var(--fx-metal-bright);
   margin: 1rem 0 .15rem;
 }
@@ -220,7 +220,7 @@
   border-bottom: 1px solid var(--fx-metal-faint);
   background: linear-gradient(180deg, rgba(255,255,255,.03), rgba(255,255,255,0)); }
 .sc-trait__seg-head .sc-trait__dia { background: var(--fx-metal); }
-.sc-trait__seg-head .tag { font-family: var(--md-small-header-font); font-variant: small-caps;
+.sc-trait__seg-head .tag { font-family: var(--md-small-header-font); font-weight: var(--md-small-header-weight); font-variant: small-caps;
   text-transform: lowercase; letter-spacing: .09em; font-size: .86rem; color: var(--fx-metal-bright); }
 .sc-trait__seg-body { padding: .55rem .8rem; font-size: .92rem; line-height: 1.5;
   color: var(--md-default-fg-color--light); }
@@ -260,7 +260,7 @@
 }
 .md-typeset .sc-callout__title {
   display: flex; align-items: center; gap: .5rem;
-  font-family: var(--md-small-header-font);
+  font-family: var(--md-small-header-font); font-weight: var(--md-small-header-weight);
   font-variant: small-caps; text-transform: lowercase;
   letter-spacing: .08em; font-size: .9rem;
   color: var(--fx-metal-bright); text-shadow: var(--fx-emboss);

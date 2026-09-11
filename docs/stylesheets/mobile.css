@@ -5,11 +5,11 @@
 /* Tablet breakpoint (MkDocs Material sidebar collapses) */
 @media (max-width: 76.25em) {
     .md-typeset h1 {
-        font-size: 3em;
+        font-size: 4em;
     }
 
     .md-typeset h2 {
-        font-size: 2.25em;
+        font-size: 3.25em;
     }
 
     .md-typeset h3 {
@@ -37,12 +37,12 @@
 /* Phone breakpoint */
 @media (max-width: 44.9375em) {
     .md-typeset h1 {
-        font-size: 2.25em;
+        font-size: 3.25em;
         word-break: break-word;
     }
 
     .md-typeset h2 {
-        font-size: 1.75em;
+        font-size: 2.75em;
     }
 
     .md-typeset h3 {
@@ -112,11 +112,11 @@
 /* Very small phones */
 @media (max-width: 30em) {
     .md-typeset h1 {
-        font-size: 1.75em;
+        font-size: 2.75em;
     }
 
     .md-typeset h2 {
-        font-size: 1.5em;
+        font-size: 2.5em;
     }
 
     .md-typeset h3 {

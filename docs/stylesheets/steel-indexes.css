@@ -86,14 +86,14 @@
    whose large top-margin + line-height would otherwise be inherited and
    shift the name (the recurring crest/heading nudge). */
 .md-typeset .sc-folder__name {
-  font-family: var(--md-large-header-font); font-weight: var(--md-large-header-weight); text-transform: uppercase;
-  font-size: 1.18rem; line-height: 1.05; color: var(--sc-steel-lighter);
+  font-family: var(--md-large-header-font); font-weight: var(--md-large-header-weight); letter-spacing: var(--md-large-header-tracking); -webkit-text-stroke: var(--md-large-header-stroke) currentColor; text-transform: uppercase;
+  font-size: 2.18rem; line-height: 1.05; color: var(--sc-steel-lighter);
   text-shadow: var(--fx-emboss); margin: 0;
   overflow-wrap: anywhere;
 }
 .md-typeset .sc-folders--lg .sc-folder__name { font-size: 1.5rem; }
 .sc-folder__sub {
-  font-family: var(--md-small-header-font); font-variant: small-caps; letter-spacing: .04em;
+  font-family: var(--md-small-header-font); font-weight: var(--md-small-header-weight); font-variant: small-caps; letter-spacing: .04em;
   font-size: .82rem; color: var(--md-default-fg-color--light); line-height: 1.35;
   margin-top: .18rem;
   display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
@@ -145,7 +145,7 @@
    pre-.sc-head `.sc-prev__name` used) + a leaner rail let long names wrap on whole
    words. Scoped to .sc-prev so the standalone .sc-ability / statblock heads keep
    their larger embossed names. */
-.md-typeset .sc-prev .sc-head__left-primary { font-size: 1.3rem; }
+.md-typeset .sc-prev .sc-head__left-primary { font-size: 2.3rem; }
 .sc-prev .sc-head__slot--chip { font-size: .82rem; padding: .12rem .4rem; }
 .sc-prev .sc-head__right-eyebrow,
 .sc-prev .sc-head__right-primary,
@@ -193,15 +193,15 @@
 .sc-prev__glyph { font-family: "DrawSteelGlyphs", sans-serif; font-size: 1.2rem; line-height: 1; color: var(--act); }
 .sc-prev__titles { min-width: 0; }
 .sc-prev__eyebrow { display: flex; align-items: center; gap: .45rem;
-  font-family: var(--md-small-header-font); font-variant: small-caps; text-transform: lowercase;
+  font-family: var(--md-small-header-font); font-weight: var(--md-small-header-weight); font-variant: small-caps; text-transform: lowercase;
   letter-spacing: .09em; font-size: .8rem; color: var(--act); }
 .sc-prev__dia { width: 6px; height: 6px; transform: rotate(45deg); background: var(--act); flex: 0 0 auto; }
 /* .md-typeset prefix — same reason as .sc-folder__name above (beats `.md-typeset h3`). */
-.md-typeset .sc-prev__name { font-family: var(--md-large-header-font); font-weight: var(--md-large-header-weight); text-transform: uppercase;
-  font-size: 1.3rem; line-height: 1.02; color: var(--sc-steel-lighter); text-shadow: var(--fx-emboss);
+.md-typeset .sc-prev__name { font-family: var(--md-large-header-font); font-weight: var(--md-large-header-weight); letter-spacing: var(--md-large-header-tracking); -webkit-text-stroke: var(--md-large-header-stroke) currentColor; text-transform: uppercase;
+  font-size: 2.3rem; line-height: 1.02; color: var(--sc-steel-lighter); text-shadow: var(--fx-emboss);
   margin: .18rem 0 0; }
 .sc-prev__tag { justify-self: end; white-space: nowrap;
-  font-family: var(--md-small-header-font); font-variant: small-caps; text-transform: lowercase;
+  font-family: var(--md-small-header-font); font-weight: var(--md-small-header-weight); font-variant: small-caps; text-transform: lowercase;
   letter-spacing: .03em; font-size: .8rem; color: var(--fx-metal-bright);
   padding: .15rem .55rem; border-radius: 6px; border: 1px solid var(--fx-metal-line);
   background: linear-gradient(180deg, rgba(255,255,255,.06), rgba(0,0,0,.12)); }
@@ -209,14 +209,14 @@
 .sc-prev__tag .num { font-family: var(--md-code-font, monospace); font-weight: 700; font-size: .76rem; color: var(--md-default-fg-color); }
 
 /* flavor / summary — clamped so a long card never bloats the preview */
-.sc-prev__flavor { font-family: var(--md-small-header-font); font-style: italic;
+.sc-prev__flavor { font-family: var(--md-small-header-font); font-weight: var(--md-small-header-weight); font-style: italic;
   color: var(--md-default-fg-color--light); font-size: .9rem; line-height: 1.45;
   margin: .6rem 0 0; text-wrap: pretty;
   display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
 
 /* keyword chips (abilities) */
 .sc-prev__kw { display: flex; flex-wrap: wrap; gap: .35rem; margin: .6rem 0 0; }
-.sc-prev__chip { font-family: var(--md-small-header-font); font-variant: small-caps; text-transform: lowercase;
+.sc-prev__chip { font-family: var(--md-small-header-font); font-weight: var(--md-small-header-weight); font-variant: small-caps; text-transform: lowercase;
   letter-spacing: .03em; font-size: .8rem; color: var(--md-default-fg-color--light);
   /* inline-flex + line-height:1 optically centers the small-caps label and lets the
      pill hug it, instead of inheriting Material's ~1.6 body line-height (which floated
@@ -234,13 +234,13 @@
   padding-top: .65rem; }
 .sc-prev__head + .sc-prev__foot, .sc-prev__flavor + .sc-prev__foot { margin-top: .7rem; }
 .sc-prev__meta { display: inline-flex; align-items: baseline; gap: .32rem; font-size: .82rem; }
-.sc-prev__meta .l { font-family: var(--md-small-header-font); font-variant: small-caps; text-transform: lowercase;
+.sc-prev__meta .l { font-family: var(--md-small-header-font); font-weight: var(--md-small-header-weight); font-variant: small-caps; text-transform: lowercase;
   letter-spacing: .06em; font-size: .74rem; color: var(--fx-metal); }
-.sc-prev__meta .v { font-family: var(--md-small-header-font); color: var(--md-default-fg-color); }
+.sc-prev__meta .v { font-family: var(--md-small-header-font); font-weight: var(--md-small-header-weight); color: var(--md-default-fg-color); }
 .sc-prev__meta .v b { color: var(--sc-steel-lighter); font-weight: inherit; }
 /* a small marker that the trait grants a nested ability */
 .sc-prev__grant { display: inline-flex; align-items: center; gap: .35rem; font-size: .8rem;
-  font-family: var(--md-small-header-font); font-variant: small-caps; letter-spacing: .04em; color: var(--md-default-fg-color--light); }
+  font-family: var(--md-small-header-font); font-weight: var(--md-small-header-weight); font-variant: small-caps; letter-spacing: .04em; color: var(--md-default-fg-color--light); }
 .sc-prev__grant .dot { width: 8px; height: 8px; border-radius: 50%; background: var(--act); flex: 0 0 auto; }
 
 
@@ -263,10 +263,10 @@
 .sc-browse__search input:focus { border-color: var(--md-accent-fg-color);
   box-shadow: 0 0 0 2px color-mix(in srgb, var(--md-accent-fg-color) 26%, transparent); }
 .sc-browse__sort { display: flex; align-items: center; gap: .45rem; }
-.sc-browse__sort label { font-family: var(--md-small-header-font); font-variant: small-caps; letter-spacing: .05em;
+.sc-browse__sort label { font-family: var(--md-small-header-font); font-weight: var(--md-small-header-weight); font-variant: small-caps; letter-spacing: .05em;
   font-size: .82rem; color: var(--fx-metal); }
 .sc-browse__sort select {
-  font-family: var(--md-small-header-font); font-size: .88rem; color: var(--md-default-fg-color);
+  font-family: var(--md-small-header-font); font-weight: var(--md-small-header-weight); font-size: .88rem; color: var(--md-default-fg-color);
   padding: .5rem 1.9rem .5rem .7rem; border-radius: 8px; border: 1px solid var(--fx-metal-faint);
   background: rgba(0,0,0,.22) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' fill='none' stroke='%238e959a' stroke-width='2' stroke-linecap='round'%3E%3Cpath d='M3 4.5 6 8l3-3.5'/%3E%3C/svg%3E") no-repeat right .65rem center;
   cursor: pointer; outline: none; -webkit-appearance: none; appearance: none; }
@@ -285,12 +285,12 @@
 .sc-browse__facet:last-child { padding-bottom: .15rem; }
 /* nudge the label down so its small-caps text aligns with the first chip's text
    (chips carry top padding + a border), keeping it visually level with row 1. */
-.sc-browse__facet > .lbl { font-family: var(--md-small-header-font); font-variant: small-caps; letter-spacing: .07em;
+.sc-browse__facet > .lbl { font-family: var(--md-small-header-font); font-weight: var(--md-small-header-weight); font-variant: small-caps; letter-spacing: .07em;
   font-size: .78rem; color: var(--fx-metal); align-self: start; padding-top: .22rem; }
 .sc-browse__chips { display: flex; flex-wrap: wrap; align-items: center; gap: .4rem; }
 .sc-chip {
   display: inline-flex; align-items: center;
-  font-family: var(--md-small-header-font); font-variant: small-caps; text-transform: lowercase; letter-spacing: .03em;
+  font-family: var(--md-small-header-font); font-weight: var(--md-small-header-weight); font-variant: small-caps; text-transform: lowercase; letter-spacing: .03em;
   font-size: .84rem; color: var(--md-default-fg-color--light); cursor: pointer; user-select: none;
   padding: .14rem .65rem; border-radius: 6px; border: 1px solid var(--fx-metal-faint); background: rgba(255,255,255,.02);
   transition: color .15s ease, border-color .15s ease, background .15s ease; }
@@ -306,7 +306,7 @@
    between the facet label and its chips; "all" state borrows the chip on-accent. */
 .sc-facet-mode {
   display: inline-flex; align-items: center; cursor: pointer; user-select: none;
-  font-family: var(--md-small-header-font); font-variant: small-caps; text-transform: lowercase;
+  font-family: var(--md-small-header-font); font-weight: var(--md-small-header-weight); font-variant: small-caps; text-transform: lowercase;
   letter-spacing: .03em; font-size: .72rem; color: var(--md-default-fg-color--lighter);
   padding: .02rem .45rem; border-radius: 999px;
   border: 1px dashed var(--fx-metal-faint); background: transparent;
@@ -333,16 +333,16 @@
 /* result header + grid + empty state */
 .sc-browse__head { display: flex; align-items: baseline; justify-content: space-between; flex-wrap: wrap; gap: .5rem;
   margin: 1rem 0 0; padding-top: .8rem; border-top: 1px solid var(--fx-metal-faint); }
-.sc-browse__count { font-family: var(--md-small-header-font); font-variant: small-caps; letter-spacing: .05em;
+.sc-browse__count { font-family: var(--md-small-header-font); font-weight: var(--md-small-header-weight); font-variant: small-caps; letter-spacing: .05em;
   font-size: .9rem; color: var(--md-default-fg-color--light); }
 .sc-browse__count b { color: var(--sc-steel-lighter); font-weight: 700; }
-.sc-browse__clear { font-family: var(--md-small-header-font); font-variant: small-caps; letter-spacing: .04em;
+.sc-browse__clear { font-family: var(--md-small-header-font); font-weight: var(--md-small-header-weight); font-variant: small-caps; letter-spacing: .04em;
   font-size: .82rem; color: var(--md-accent-fg-color); cursor: pointer; background: none; border: none; padding: 0; }
 .sc-browse__clear:hover { text-decoration: underline; }
 .sc-browse__clear[hidden] { display: none; }
 .sc-browse__results { margin-top: .5rem; }
 .sc-browse__empty { padding: 2.5rem 1rem; text-align: center; color: var(--md-default-fg-color--lighter);
-  font-family: var(--md-small-header-font); font-style: italic; font-size: 1rem; }
+  font-family: var(--md-small-header-font); font-weight: var(--md-small-header-weight); font-style: italic; font-size: 1rem; }
 
 @media screen and (max-width: 44.98em) {
   .md-typeset .sc-folders, .md-typeset .sc-folders--lg, .md-typeset .sc-prevs { grid-template-columns: 1fr; }
@@ -356,7 +356,7 @@
    jammed left read as unbalanced. */
 .md-typeset .sc-cheyebrow {
   margin: 1.6rem 0 0; text-align: center;
-  font-family: var(--md-small-header-font);
+  font-family: var(--md-small-header-font); font-weight: var(--md-small-header-weight);
   font-variant: small-caps; text-transform: lowercase; letter-spacing: .14em;
   font-size: .82rem; line-height: 1;
   color: var(--md-default-fg-color--light);
@@ -370,7 +370,7 @@
   z-index: 10; cursor: pointer;
   border: 1px solid var(--fx-metal-line); border-radius: 2em;
   padding: .45rem 1rem; font-size: .8rem;
-  font-family: var(--md-small-header-font);
+  font-family: var(--md-small-header-font); font-weight: var(--md-small-header-weight);
   background: var(--md-default-bg-color); color: var(--md-default-fg-color);
   box-shadow: 0 2px 10px rgba(0,0,0,.25);
 }

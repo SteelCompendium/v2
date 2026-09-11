@@ -118,18 +118,18 @@
 }
 .sb__head-row { display: flex; align-items: flex-start; justify-content: space-between; gap: 1rem; }
 .sb__kw {
-  font-family: var(--md-small-header-font); font-variant: small-caps; letter-spacing: .07em;
+  font-family: var(--md-small-header-font); font-weight: var(--md-small-header-weight); font-variant: small-caps; letter-spacing: .07em;
   font-size: .86rem; color: var(--md-default-fg-color--light); margin-bottom: .12rem;
 }
 .md-typeset .sb__name {
-  margin: 0; font-family: var(--md-large-header-font); font-weight: var(--md-large-header-weight); text-transform: uppercase;
-  font-size: 2.3rem; line-height: .95; color: var(--sc-steel-lighter);
-  text-shadow: var(--fx-emboss); letter-spacing: .01em; text-wrap: balance;
+  margin: 0; font-family: var(--md-large-header-font); font-weight: var(--md-large-header-weight); letter-spacing: var(--md-large-header-tracking); -webkit-text-stroke: var(--md-large-header-stroke) currentColor; text-transform: uppercase;
+  font-size: 3.3rem; line-height: .95; color: var(--sc-steel-lighter);
+  text-shadow: var(--fx-emboss); text-wrap: balance;
 }
 .sb__class { text-align: right; flex: 0 0 auto; }
-.sb__level { font-family: var(--md-small-header-font); font-size: .92rem; color: var(--md-default-fg-color--light); }
+.sb__level { font-family: var(--md-small-header-font); font-weight: var(--md-small-header-weight); font-size: .92rem; color: var(--md-default-fg-color--light); }
 .sb__role {
-  font-family: var(--md-large-header-font); font-weight: var(--md-large-header-weight); text-transform: uppercase; font-size: 1.4rem; line-height: 1.04;
+  font-family: var(--md-large-header-font); font-weight: var(--md-large-header-weight); letter-spacing: var(--md-large-header-tracking); -webkit-text-stroke: var(--md-large-header-stroke) currentColor; text-transform: uppercase; font-size: 2.4rem; line-height: 1.04;
   color: var(--role); text-shadow: var(--fx-emboss); filter: brightness(1.15) saturate(1.1);
 }
 .sb__ev { font-family: var(--md-code-font, monospace); font-size: .82rem; color: var(--md-default-fg-color--light); margin-top: .12rem; }
@@ -139,11 +139,11 @@
    view-timeline above still apply verbatim. These re-attach the embossed name + role
    typography that used to live on .sb__name / .sb__role to the new head slots. */
 .md-typeset .sb__head .sc-head__left-primary {
-  font-size: 2.3rem; line-height: .95; color: var(--sc-steel-lighter);
-  text-shadow: var(--fx-emboss); letter-spacing: .01em; text-wrap: balance;
+  font-size: 3.3rem; line-height: .95; color: var(--sc-steel-lighter);
+  text-shadow: var(--fx-emboss); letter-spacing: var(--md-large-header-tracking); text-wrap: balance;
 }
 .sb__head .sc-head__right-primary {
-  font-size: 1.4rem; color: var(--role);
+  font-size: 2.4rem; color: var(--role);
   text-shadow: var(--fx-emboss); filter: brightness(1.15) saturate(1.1);
 }
 /* Summoner-book gametime summon cost (no "EV" prefix) — a short phrase like
@@ -153,7 +153,7 @@
 /* ── FLAVOR (descriptive prose under the name, before the stat row) ──
    Summoner portfolio summons carry a short description here; mirrors .fb__flavor. */
 .sb__flavor {
-  font-family: var(--md-small-header-font); font-style: italic;
+  font-family: var(--md-small-header-font); font-weight: var(--md-small-header-weight); font-style: italic;
   color: var(--md-default-fg-color--light); font-size: .94rem; line-height: 1.55;
   padding: .3rem var(--pad) .55rem; margin: 0; text-wrap: pretty;
 }
@@ -164,13 +164,13 @@
 .sb__defenses { display: grid; grid-template-columns: repeat(5, 1fr); gap: .4rem; padding: .3rem var(--pad) .65rem; }
 .sb__stat { text-align: center; padding: .45rem .25rem; border: 1px solid var(--fx-metal-faint); border-radius: 7px; background: rgba(0,0,0,.22); }
 [data-md-color-scheme="default"] .sb__stat { background: rgba(0,0,0,.03); }
-.sb__stat .v { display: block; font-family: var(--md-large-header-font); font-weight: var(--md-large-header-weight); font-size: 1.55rem; line-height: 1; color: var(--sc-steel-lighter); font-variant-numeric: tabular-nums; }
-.sb__stat .l { display: block; margin-top: .2rem; font-family: var(--md-small-header-font); font-variant: small-caps; letter-spacing: .04em; font-size: .73rem; color: var(--md-default-fg-color--lighter); line-height: 1.05; }
+.sb__stat .v { display: block; font-family: var(--md-large-header-font); font-weight: var(--md-large-header-weight); letter-spacing: var(--md-large-header-tracking); -webkit-text-stroke: var(--md-large-header-stroke) currentColor; font-size: 2.55rem; line-height: 1; color: var(--sc-steel-lighter); font-variant-numeric: tabular-nums; }
+.sb__stat .l { display: block; margin-top: .2rem; font-family: var(--md-small-header-font); font-weight: var(--md-small-header-weight); font-variant: small-caps; letter-spacing: .04em; font-size: .73rem; color: var(--md-default-fg-color--lighter); line-height: 1.05; }
 
 /* ════════════════════════════════════════════════════════════
    SHARED FIELD CELL — used by secondary stats AND feature specs
    ════════════════════════════════════════════════════════════ */
-.sb__field-l { font-family: var(--md-small-header-font); font-variant: small-caps; letter-spacing: .06em; font-size: .74rem; color: var(--fx-metal); }
+.sb__field-l { font-family: var(--md-small-header-font); font-weight: var(--md-small-header-weight); font-variant: small-caps; letter-spacing: .06em; font-size: .74rem; color: var(--fx-metal); }
 .sb__field-v { color: var(--md-default-fg-color); font-size: .92rem; line-height: 1.3; text-wrap: pretty; }
 .sb__field-v b { color: var(--sc-steel-lighter); }
 
@@ -223,8 +223,8 @@
   border: 1px solid var(--fx-metal-line); border-radius: 4px; width: 1.45rem; height: 1.45rem;
   display: none; place-items: center; background: linear-gradient(180deg, rgba(255,255,255,.06), rgba(0,0,0,.12));
 }
-.sb__char-v { font-family: var(--md-large-header-font); font-weight: var(--md-large-header-weight); font-size: 1.6rem; line-height: 1; color: var(--sc-steel-lighter); font-variant-numeric: tabular-nums; }
-.sb__char-l { font-family: var(--md-small-header-font); font-variant: small-caps; letter-spacing: .04em; font-size: .76rem; color: var(--md-default-fg-color--light); }
+.sb__char-v { font-family: var(--md-large-header-font); font-weight: var(--md-large-header-weight); letter-spacing: var(--md-large-header-tracking); -webkit-text-stroke: var(--md-large-header-stroke) currentColor; font-size: 2.6rem; line-height: 1; color: var(--sc-steel-lighter); font-variant-numeric: tabular-nums; }
+.sb__char-l { font-family: var(--md-small-header-font); font-weight: var(--md-small-header-weight); font-variant: small-caps; letter-spacing: .04em; font-size: .76rem; color: var(--md-default-fg-color--light); }
 /* two-line + box (on/onword): [box][value] over [label] */
 [data-sb-charline="two"][data-sb-charbox="on"] .sb__char,
 [data-sb-charline="two"][data-sb-charbox="onword"] .sb__char {
@@ -295,7 +295,7 @@
      glyph reads slightly low. Lift it onto the cap-band. Scales with the glyph em. */
   transform: translateY(-0.12em); }
 .sb__feat-eyebrow { display: none; align-items: center; gap: .5rem;
-  font-family: var(--md-small-header-font); font-variant: small-caps; text-transform: lowercase; letter-spacing: .1em; font-size: .92rem; color: var(--act); }
+  font-family: var(--md-small-header-font); font-weight: var(--md-small-header-weight); font-variant: small-caps; text-transform: lowercase; letter-spacing: .1em; font-size: .92rem; color: var(--act); }
 .sb__feat-titles { min-width: 0; flex: 1; }
 .md-typeset .sb__feat-name { font-size: 1.32rem; margin: 0; }
 .sb__feat-corner { margin-left: auto; align-self: baseline; display: flex; flex-direction: column; align-items: flex-end; }
@@ -371,7 +371,7 @@
    kin to the head's cost chip; inline-flex + gap for mixed link content (SC-66). */
 [data-sb-kwusage="crest"] .sb__field--usage .sb__field-v {
   display: inline-flex; align-items: center; gap: .27em;
-  font-family: var(--md-small-header-font); font-variant: small-caps; text-transform: lowercase;
+  font-family: var(--md-small-header-font); font-weight: var(--md-small-header-weight); font-variant: small-caps; text-transform: lowercase;
   letter-spacing: .04em; font-size: .9rem; line-height: 1; color: var(--md-default-fg-color--light);
   border: 1px solid var(--md-default-fg-color--lightest); border-radius: .35em;
   padding: .14rem .46rem;
@@ -379,7 +379,7 @@
 /* text mode: space-between plain text, labels hidden (values are self-evident) */
 [data-sb-kwusage="text"] .sb__ku { display: flex; align-items: baseline; justify-content: space-between; gap: 1rem; }
 [data-sb-kwusage="text"] .sb__ku .sb__field-l { display: none; }
-[data-sb-kwusage="text"] .sb__field--usage .sb__field-v { font-family: var(--md-small-header-font); font-variant: small-caps; letter-spacing: .04em; color: var(--md-default-fg-color--light); }
+[data-sb-kwusage="text"] .sb__field--usage .sb__field-v { font-family: var(--md-small-header-font); font-weight: var(--md-small-header-weight); font-variant: small-caps; letter-spacing: .04em; color: var(--md-default-fg-color--light); }
 /* grid / ledger: two cells */
 [data-sb-kwusage="grid"] .sb__ku, [data-sb-kwusage="ledger"] .sb__ku { display: grid; grid-template-columns: 1fr 1fr; gap: .4rem; }
 [data-sb-kwusage="ledger"] .sb__ku { gap: 0 1.4rem; }
@@ -430,7 +430,7 @@
 .sb__band--villain .sb__band-glyph { color: #e0584b; }
 .sb__band--malice  .sb__band-glyph { color: #9aa2a8; }
 .sb__band-glyph { font-family: "DrawSteelGlyphs", sans-serif; font-size: 1rem; line-height: 1; -webkit-font-smoothing: antialiased; }
-.sb__band-title { flex: 1; font-family: var(--md-large-header-font); font-weight: var(--md-large-header-weight); text-transform: uppercase; letter-spacing: .02em; font-size: 1.25rem; color: var(--sc-steel-lighter); text-shadow: var(--fx-emboss); }
+.sb__band-title { flex: 1; font-family: var(--md-large-header-font); font-weight: var(--md-large-header-weight); letter-spacing: var(--md-large-header-tracking); -webkit-text-stroke: var(--md-large-header-stroke) currentColor; text-transform: uppercase; font-size: 2.25rem; color: var(--sc-steel-lighter); text-shadow: var(--fx-emboss); }
 .sb__band-chev { color: var(--fx-metal); transition: transform .2s ease; font-size: 1rem; }
 .sb__band:not([open]) .sb__band-chev { transform: rotate(-90deg); }
 .sb__band-body { padding: .25rem .65rem .7rem; display: flex; flex-direction: column; gap: .55rem; }
@@ -462,7 +462,7 @@ html :where(.md-typeset) details.sb__band > :last-child { margin-bottom: 0; }
 }
 .md-typeset summary.sb__band-head::before,
 .md-typeset summary.sb__band-head::after { content: none; }
-.sb__band-intro { font-family: var(--md-small-header-font); font-style: italic; color: var(--md-default-fg-color--light); font-size: .9rem; line-height: 1.5; margin: .4rem .2rem .15rem; text-wrap: pretty; }
+.sb__band-intro { font-family: var(--md-small-header-font); font-weight: var(--md-small-header-weight); font-style: italic; color: var(--md-default-fg-color--light); font-size: .9rem; line-height: 1.5; margin: .4rem .2rem .15rem; text-wrap: pretty; }
 .sb__band-source { font-variant: small-caps; font-style: normal; letter-spacing: .05em; color: var(--fx-metal); font-size: .82rem; }
 /* flat-mode features inside a band get the same separators.
    centering: gap above divider = band-body flex gap (.55rem) + margin-top,
@@ -572,19 +572,19 @@ body[data-aug-sticky="off"] .sb__sticky { display: none; }
 }
 .sb__sticky-row1 { display: flex; align-items: center; gap: .6rem 1rem; flex-wrap: wrap; }
 .sb__sticky-id { display: flex; align-items: baseline; gap: .55rem; }
-.sb__sticky-name { font-family: var(--md-large-header-font); font-weight: var(--md-large-header-weight); text-transform: uppercase; font-size: 1.28rem; color: var(--sc-steel-lighter); }
-.sb__sticky-role { font-family: var(--md-small-header-font); font-variant: small-caps; letter-spacing: .04em; font-size: 1rem; color: var(--role); }
+.sb__sticky-name { font-family: var(--md-large-header-font); font-weight: var(--md-large-header-weight); letter-spacing: var(--md-large-header-tracking); -webkit-text-stroke: var(--md-large-header-stroke) currentColor; text-transform: uppercase; font-size: 2.28rem; color: var(--sc-steel-lighter); }
+.sb__sticky-role { font-family: var(--md-small-header-font); font-weight: var(--md-small-header-weight); font-variant: small-caps; letter-spacing: .04em; font-size: 1rem; color: var(--role); }
 .sb__sticky-stats { display: flex; align-items: stretch; gap: .6rem; margin-left: auto; flex-wrap: wrap; }
 .sb__sticky-defs { display: flex; gap: .6rem; flex-wrap: wrap; }
 .sb__sticky-chars { display: flex; gap: .6rem; flex-wrap: wrap; margin-left: .8rem; padding-left: 1rem; border-left: 1px solid var(--fx-metal-line); }
 .sb__sticky .m, .sb__sticky .c {
   display: flex; flex-direction: column; align-items: center; line-height: 1.06;
-  font-family: var(--md-small-header-font); font-size: .72rem; font-variant: small-caps; color: var(--md-default-fg-color--lighter); letter-spacing: .02em;
+  font-family: var(--md-small-header-font); font-weight: var(--md-small-header-weight); font-size: .72rem; font-variant: small-caps; color: var(--md-default-fg-color--lighter); letter-spacing: .02em;
 }
 .sb__sticky .m b { font-style: normal; font-family: var(--md-code-font, monospace); font-size: .98rem; font-weight: 700; color: var(--sc-steel-lighter); }
 /* characteristics flipped: value (big/bold) on top, M A R I P label below */
 .sb__sticky .c b { font-style: normal; font-family: var(--md-code-font, monospace); font-size: 1rem; font-weight: 700; color: var(--sc-steel-lighter); }
-.sb__sticky .c i { font-style: normal; font-family: var(--md-small-header-font); font-variant: small-caps; font-size: .68rem; color: var(--fx-metal-bright); letter-spacing: .03em; }
+.sb__sticky .c i { font-style: normal; font-family: var(--md-small-header-font); font-weight: var(--md-small-header-weight); font-variant: small-caps; font-size: .68rem; color: var(--fx-metal-bright); letter-spacing: .03em; }
 /* second row: secondary stats */
 .sb__sticky-row2 { display: flex; flex-wrap: wrap; gap: .35rem 1.3rem; margin-top: .5rem; padding-top: .45rem; border-top: 1px solid var(--fx-metal-faint); }
 .sb__sticky .sm { font-size: .82rem; color: var(--md-default-fg-color--light); }
@@ -623,7 +623,7 @@ body[data-aug-sticky="off"] .sb__sticky { display: none; }
    ════════════════════════════════════════════════════════════ */
 @media (max-width: 34em) {
   .sb-wrap { --pad: .85rem; }
-  .md-typeset .sb__head .sc-head__left-primary { font-size: 1.85rem; }
+  .md-typeset .sb__head .sc-head__left-primary { font-size: 2.85rem; }
   .sb__head { flex-wrap: wrap; }
   .sb__defenses { grid-template-columns: repeat(3, 1fr); }
   .sb__meta { grid-template-columns: 1fr; }
@@ -647,7 +647,7 @@ body[data-aug-sticky="off"] .sb__sticky { display: none; }
   .sb__sticky-row1 { flex-wrap: wrap; row-gap: .3rem; gap: .3rem .7rem; }
   .sb__sticky-id { min-width: 0; flex: 1 1 auto; }
   .sb__sticky-name {
-    display: block; min-width: 0; max-width: 100%; flex: 1 1 auto; font-size: 1rem;
+    display: block; min-width: 0; max-width: 100%; flex: 1 1 auto; font-size: 2rem;
     white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
   }
   .sb__sticky-role { flex: 0 0 auto; }
@@ -720,7 +720,7 @@ body[data-aug-sticky="off"] .sb__sticky { display: none; }
 /* source provenance chip (e.g. "Summoner"), top-right of the card */
 .sb-prev__src {
   position: absolute; top: .5rem; right: .6rem; z-index: 1;
-  font-family: var(--md-small-header-font); font-variant: small-caps;
+  font-family: var(--md-small-header-font); font-weight: var(--md-small-header-weight); font-variant: small-caps;
   letter-spacing: .06em; font-size: .64rem; color: var(--md-default-fg-color--light);
 }
 /* The chip occupies the same top-right corner as the role line (.sb__class is
@@ -730,8 +730,8 @@ body[data-aug-sticky="off"] .sb__sticky { display: none; }
 
 /* header — tighter than the full card; collapses on the x-axis as-is */
 .sb-prev .sb__head { padding: .5rem var(--pad) .5rem; margin-bottom: .65rem; }
-.sb-prev.sb-wrap .md-typeset .sb__head .sc-head__left-primary { font-size: 1.4rem; }
-.sb-prev .sb__head .sc-head__right-primary { font-size: 1.05rem; }
+.sb-prev.sb-wrap .md-typeset .sb__head .sc-head__left-primary { font-size: 2.4rem; }
+.sb-prev .sb__head .sc-head__right-primary { font-size: 2.05rem; }
 .sb-prev .sb__head .sc-head__right-eyebrow, .sb-prev .sb__head .sc-head__right-deck { font-size: .76rem; }
 
 /* defenses — same 5-up grid, smaller faces */
@@ -787,7 +787,7 @@ body[data-aug-sticky="off"] .sb__sticky { display: none; }
 [data-md-color-scheme="default"] .sb-prev__feat:nth-child(odd) { background: rgba(0, 0, 0, .04); }
 .sb-prev__feat-icon { flex: 0 0 auto; }
 .sb-prev__feat-icon .sb__feat-glyph { font-size: .95rem; color: var(--act); }
-.sb-prev__feat-name { flex: 0 1 auto; min-width: 0; font-family: var(--md-small-header-font); color: var(--sc-steel-lighter); }
+.sb-prev__feat-name { flex: 0 1 auto; min-width: 0; font-family: var(--md-small-header-font); font-weight: var(--md-small-header-weight); color: var(--sc-steel-lighter); }
 .sb-prev__feat-usage { flex: 0 0 auto; font-size: .7rem; font-variant: small-caps; letter-spacing: .04em; color: var(--md-default-fg-color--light); }
 .sb-prev__feat-cost { margin-left: auto; flex: 0 0 auto; font-family: var(--md-code-font, monospace); font-size: .76rem; color: var(--fx-metal-bright); }
 
@@ -809,7 +809,7 @@ body[data-aug-sticky="off"] .sb__sticky { display: none; }
 /* ── per-page toggle bar (statblock-preview.js) ── */
 .sb-prev-bar { display: flex; flex-wrap: wrap; gap: .4rem; align-items: center; margin: 1.3rem 0 .9rem; }
 .sb-prev-bar__label {
-  font-family: var(--md-small-header-font); font-variant: small-caps;
+  font-family: var(--md-small-header-font); font-weight: var(--md-small-header-weight); font-variant: small-caps;
   letter-spacing: .06em; font-size: .78rem; color: var(--md-default-fg-color--light); margin-right: .15rem;
 }
 .sb-prev-bar__chip {

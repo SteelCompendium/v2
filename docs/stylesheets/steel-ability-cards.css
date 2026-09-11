@@ -90,14 +90,14 @@
    baseline sits at the bottom of the shield (matches the canvas design). */
 .sc-ability__titles { min-width: 0; align-self: end; }
 .sc-ability__eyebrow { display:flex; align-items:center; gap:.5rem;
-  font-family: var(--md-small-header-font); font-variant: small-caps; text-transform: lowercase;
+  font-family: var(--md-small-header-font); font-weight: var(--md-small-header-weight); font-variant: small-caps; text-transform: lowercase;
   letter-spacing:.1em; font-size: .92rem; color: var(--act); }
 .sc-ability__dia { width:7px; height:7px; transform:rotate(45deg); background: var(--act); flex:0 0 auto; }
 /* .md-typeset prefix so this beats Material's `.md-typeset h3` rule, whose
    large top-margin + line-height were being inherited and shifting the name. */
-.md-typeset .sc-ability__name { font-family: var(--md-large-header-font); font-weight: var(--md-large-header-weight); text-transform: uppercase;
-  font-size: 1.85rem; line-height: 1; color: var(--sc-steel-lighter);
-  text-shadow: var(--fx-emboss); margin: 0; letter-spacing:.01em; }
+.md-typeset .sc-ability__name { font-family: var(--md-large-header-font); font-weight: var(--md-large-header-weight); letter-spacing: var(--md-large-header-tracking); -webkit-text-stroke: var(--md-large-header-stroke) currentColor; text-transform: uppercase;
+  font-size: 2.85rem; line-height: 1; color: var(--sc-steel-lighter);
+  text-shadow: var(--fx-emboss); margin: 0; }
 
 /* The ability head is now the shared 6-slot .sc-head; the card's action-tinted crest
    + 3px left border (its identity) stay on .sc-ability. Re-attach the embossed name
@@ -105,13 +105,13 @@
    card head, not the nested statblock/featureblock sub-feature heads (those .sc-head
    sit inside .sb__feat-head / .fb__feat-head, not as a direct child). */
 .md-typeset .sc-ability > .sc-head .sc-head__left-primary {
-  font-size: 1.85rem; line-height: 1; color: var(--sc-steel-lighter);
-  text-shadow: var(--fx-emboss); letter-spacing: .01em;
+  font-size: 2.85rem; line-height: 1; color: var(--sc-steel-lighter);
+  text-shadow: var(--fx-emboss); letter-spacing: var(--md-large-header-tracking);
 }
 
 .sc-ability__corner { position: relative; display:flex; flex-direction:column; align-items:flex-end; }
 .sc-ability__cost { display:flex; align-items:center; gap:.3rem; white-space:nowrap; line-height:1;
-  font-family: var(--md-small-header-font); font-variant: small-caps; text-transform: lowercase; letter-spacing:.04em;
+  font-family: var(--md-small-header-font); font-weight: var(--md-small-header-weight); font-variant: small-caps; text-transform: lowercase; letter-spacing:.04em;
   font-size: .92rem; color: var(--fx-metal-bright);
   padding: .25rem .7rem; border-radius: 7px; border:1px solid var(--fx-metal-line);
   background: linear-gradient(180deg, rgba(255,255,255,.07), rgba(0,0,0,.14));
@@ -129,10 +129,10 @@
 .sc-ability__op svg { width:14px; height:14px; stroke:currentColor; fill:none; stroke-width:1.6; }
 
 /* ── flavor + keyword chips ── */
-.sc-ability__flavor { font-family: var(--md-small-header-font); font-style: italic;
+.sc-ability__flavor { font-family: var(--md-small-header-font); font-weight: var(--md-small-header-weight); font-style: italic;
   color: var(--md-default-fg-color--light); font-size: .92rem; line-height:1.45; margin: .7rem 0 0; text-wrap: pretty; }
 .sc-ability__kw { display:flex; flex-wrap:wrap; gap:.4rem; margin: .8rem 0 0; }
-.sc-ability__chip { font-family: var(--md-small-header-font); font-variant: small-caps; text-transform: lowercase;
+.sc-ability__chip { font-family: var(--md-small-header-font); font-weight: var(--md-small-header-weight); font-variant: small-caps; text-transform: lowercase;
   letter-spacing:.04em; font-size: .88rem; color: var(--md-default-fg-color--light);
   padding: .02rem .6rem; border-radius: 5px; border: 1px solid var(--fx-metal-faint); background: rgba(255,255,255,.02); }
 [data-md-color-scheme="default"] .sc-ability__chip { background: rgba(0,0,0,.02); }
@@ -143,9 +143,9 @@
   padding: .5rem .75rem; min-height: 3.4rem; display:flex; flex-direction:column-reverse;
   align-items:center; justify-content:center; text-align:center; gap:.12rem; }
 [data-md-color-scheme="default"] .sc-ability__cell { background: rgba(0,0,0,.03); }
-.sc-ability__cell .l { font-family: var(--md-small-header-font); font-variant: small-caps; text-transform: lowercase;
+.sc-ability__cell .l { font-family: var(--md-small-header-font); font-weight: var(--md-small-header-weight); font-variant: small-caps; text-transform: lowercase;
   letter-spacing:.08em; font-size: .78rem; color: var(--fx-metal); margin: 0; }
-.sc-ability__cell .v { font-family: var(--md-small-header-font); font-size: .98rem; color: var(--md-default-fg-color);
+.sc-ability__cell .v { font-family: var(--md-small-header-font); font-weight: var(--md-small-header-weight); font-size: .98rem; color: var(--md-default-fg-color);
   line-height:1.2; text-wrap: pretty; }
 .sc-ability__cell .v b { color: var(--sc-steel-lighter); font-weight: inherit; }
 
@@ -158,7 +158,7 @@
 .sc-ability__pr-head { display:flex; align-items:center; gap:.55rem; flex-wrap:wrap;
   padding: .55rem .9rem; border-bottom: 1px solid var(--fx-metal-faint);
   background: linear-gradient(180deg, rgba(255,255,255,.035), rgba(255,255,255,0)); }
-.sc-ability__pr-head .pre { font-family: var(--md-small-header-font); font-variant: small-caps; text-transform: lowercase;
+.sc-ability__pr-head .pre { font-family: var(--md-small-header-font); font-weight: var(--md-small-header-weight); font-variant: small-caps; text-transform: lowercase;
   letter-spacing:.08em; font-size: .82rem; color: var(--fx-metal); white-space:nowrap; }
 .sc-ability__pr-head .chars { font-family: var(--md-small-header-font); font-weight: bold; font-size: 1.02rem;
   color: var(--sc-steel-lighter); line-height:1.15; }            /* the FOCUS — read every play */
@@ -183,7 +183,7 @@
 .sc-ability__section-head { display:flex; align-items:center; gap:.55rem; padding: .5rem .9rem;
   background: linear-gradient(180deg, rgba(255,255,255,.035), rgba(255,255,255,0)); border-bottom: 1px solid var(--fx-metal-faint); }
 .sc-ability__section-head .sc-ability__dia { background: var(--fx-metal); box-shadow: 0 0 0 3px rgba(0,0,0,.18); }
-.sc-ability__section-head .tag { font-family: var(--md-small-header-font); font-variant: small-caps; text-transform: lowercase;
+.sc-ability__section-head .tag { font-family: var(--md-small-header-font); font-weight: var(--md-small-header-weight); font-variant: small-caps; text-transform: lowercase;
   letter-spacing:.1em; font-size: .9rem; color: var(--fx-metal-bright); }
 .sc-ability__section-body { padding: .65rem .9rem; }
 .sc-ability__section-body > :first-child { margin-top: 0; }
@@ -195,7 +195,7 @@
 .sc-ability__enh { display:flex; align-items:center; gap:.7rem; margin-top:.65rem; padding: .55rem .8rem; border-radius:8px;
   background: rgba(0,0,0,.18); border:1px dashed var(--fx-metal-faint); }
 [data-md-color-scheme="default"] .sc-ability__enh { background: rgba(0,0,0,.02); }
-.sc-ability__enh .cost { font-family: var(--md-small-header-font); font-variant: small-caps; text-transform: lowercase;
+.sc-ability__enh .cost { font-family: var(--md-small-header-font); font-weight: var(--md-small-header-weight); font-variant: small-caps; text-transform: lowercase;
   letter-spacing:.04em; font-size: .86rem; color: var(--fx-metal-bright); white-space:nowrap;
   border:1px solid var(--fx-metal-line); border-radius:5px; padding:.05rem .55rem; background: var(--fx-metal-faint); }
 .sc-ability__enh .txt { font-size: .86rem; color: var(--md-default-fg-color--light); line-height:1.4; }

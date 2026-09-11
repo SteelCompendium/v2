@@ -15,7 +15,18 @@
        --md-large-header-font sets this alongside it, so the display voice stays
        one knob no matter which face the reader picks in Settings. */
     --md-large-header-weight: 700;
+    /* The display role carries its own tracking and outline weight too. Forum is a
+       light-stroked inscriptional face, so 2px of letter-spacing opens the uppercase
+       settings and a 2px centered text-stroke — drawn in currentColor, so it always
+       matches whatever color the element already has — thickens the strokes. Both
+       travel with --md-large-header-font at every use site, same as the weight. */
+    --md-large-header-tracking: 2px;
+    --md-large-header-stroke: 2px;
     --md-small-header-font: "Petrona";
+    /* Petrona is a true variable family, so the subhead role gets a real 700 rather
+       than a synthesized one. Three rules that deliberately neutralize a <b> back to
+       400 (.sc-card__line b, .sb__sticky .sm b, .sc-folder__sub) keep their override. */
+    --md-small-header-weight: 700;
     --md-text-font: "Zilla Slab";
     --md-code-font: "JetBrains Mono";
 }
@@ -28,18 +39,22 @@ body {
 .md-typeset h1 {
     font-family: var(--md-large-header-font);
     font-weight: var(--md-large-header-weight);
-    font-size: 5em;
+    letter-spacing: var(--md-large-header-tracking);
+    -webkit-text-stroke: var(--md-large-header-stroke) currentColor;
+    font-size: 6em;
     text-transform: uppercase;
     margin: 0 0 0em;
 }
 .md-typeset h2 {
     font-family: var(--md-large-header-font);
     font-weight: var(--md-large-header-weight);
-    font-size: 3em;
+    letter-spacing: var(--md-large-header-tracking);
+    -webkit-text-stroke: var(--md-large-header-stroke) currentColor;
+    font-size: 4em;
     text-transform: uppercase;
 }
 .md-typeset h3, .md-typeset h4, .md-typeset h5, .md-typeset h6 {
-    font-family: var(--md-small-header-font);
+    font-family: var(--md-small-header-font); font-weight: var(--md-small-header-weight);
 }
 .md-typeset h3 {
     font-size: 3em;
