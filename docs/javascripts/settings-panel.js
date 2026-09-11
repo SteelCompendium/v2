@@ -47,13 +47,13 @@
   var FONT_OPTIONS = {
     large: [
       ['"Forum", var(--md-text-font), serif', "Forum (default)"],
-      ['"Test Newzald", var(--md-text-font), serif', "Test Newzald"],
+      ['"Petrona", var(--md-text-font), serif', "Petrona"],
       ['"Source Serif 4"', "Source Serif 4"],
       ['"Inter", var(--md-text-font), sans-serif', "Inter"],
       ['"system-ui", var(--md-text-font), serif', "System UI"]
     ],
     small: [
-      ['"Test Newzald", var(--md-text-font), serif', "Test Newzald (default)"],
+      ['"Petrona", var(--md-text-font), serif', "Petrona (default)"],
       ['"Forum", var(--md-text-font), serif', "Forum"],
       ['"Source Serif 4"', "Source Serif 4"],
       ['"Inter", var(--md-text-font), sans-serif', "Inter"],
