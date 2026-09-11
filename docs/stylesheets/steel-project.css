@@ -31,7 +31,7 @@
 [data-md-color-scheme="default"] .pj__head::after { box-shadow: 0 0 0 4px #f4f6f6, 0 0 0 5px var(--fx-metal-faint); }
 .md-typeset .pj__head .sc-head__left-primary {
   font-family: var(--md-large-header-font); font-weight: var(--md-large-header-weight); letter-spacing: var(--md-large-header-tracking); -webkit-text-stroke: var(--md-large-header-stroke) currentColor; text-transform: uppercase;
-  font-size: 2.6rem; line-height: 1.02; color: var(--sc-steel-lighter);
+  font-size: calc(1.6rem * var(--md-large-header-scale)); line-height: 1.02; color: var(--sc-steel-lighter);
   text-shadow: var(--fx-emboss); margin: 0; text-wrap: balance; overflow-wrap: anywhere;
 }
 .pj__head .sc-head__right-primary .num { font-family: var(--md-code-font, monospace); font-weight: 700; }
@@ -67,7 +67,7 @@
 .pj__grant-cap::before { content: ""; width: 7px; height: 7px; transform: rotate(45deg); background: var(--fx-metal); flex: 0 0 auto; }
 .md-typeset .pj__grant .sc-ability { margin: .5rem 0 .6rem; box-shadow: var(--fx-bevel), 0 4px 14px rgba(0, 0, 0, .3); }
 .md-typeset .pj__grant .sc-ability:hover { transform: none; }
-.md-typeset .pj__grant .sc-head__left-primary { font-size: 2.35rem !important; }
+.md-typeset .pj__grant .sc-head__left-primary { font-size: calc(1.35rem * var(--md-large-header-scale)) !important; }
 .pj__grant .sc-ability__crest { width: 2.4rem; height: 2.7rem; }
 
 /* ════════════════════════════════════════════════════════════════════════

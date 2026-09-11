@@ -101,7 +101,7 @@
    (same fix as .sc-ability__name). */
 .md-typeset .sc-trait__name {
   font-family: var(--md-large-header-font); font-weight: var(--md-large-header-weight); letter-spacing: var(--md-large-header-tracking); -webkit-text-stroke: var(--md-large-header-stroke) currentColor; text-transform: uppercase;
-  font-size: 2.5rem; line-height: 1.04; color: var(--sc-steel-lighter);
+  font-size: calc(1.5rem * var(--md-large-header-scale)); line-height: 1.04; color: var(--sc-steel-lighter);
   text-shadow: var(--fx-emboss); margin: .25rem 0 0;
 }
 
@@ -166,7 +166,7 @@
    Suppressed globally by the "Hide drop caps" setting (data-no-dropcap on <html>). */
 .sc-trait--lead .sc-trait__body > p:first-of-type { overflow: hidden; }
 :root:not([data-no-dropcap]) .sc-trait--lead .sc-trait__body > p:first-of-type::first-letter {
-  font-family: var(--md-large-header-font); font-weight: var(--md-large-header-weight); letter-spacing: var(--md-large-header-tracking); -webkit-text-stroke: var(--md-large-header-stroke) currentColor; font-size: 4.15em; line-height: .72;
+  font-family: var(--md-large-header-font); font-weight: var(--md-large-header-weight); letter-spacing: var(--md-large-header-tracking); -webkit-text-stroke: var(--md-large-header-stroke) currentColor; font-size: calc(3.15em * var(--md-large-header-scale)); line-height: .72;
   float: left; margin: .06em .12em 0 0; padding-top: .04em;
   color: var(--fx-metal-bright); text-shadow: var(--fx-emboss);
 }

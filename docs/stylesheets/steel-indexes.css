@@ -87,7 +87,7 @@
    shift the name (the recurring crest/heading nudge). */
 .md-typeset .sc-folder__name {
   font-family: var(--md-large-header-font); font-weight: var(--md-large-header-weight); letter-spacing: var(--md-large-header-tracking); -webkit-text-stroke: var(--md-large-header-stroke) currentColor; text-transform: uppercase;
-  font-size: 2.18rem; line-height: 1.05; color: var(--sc-steel-lighter);
+  font-size: calc(1.18rem * var(--md-large-header-scale)); line-height: 1.05; color: var(--sc-steel-lighter);
   text-shadow: var(--fx-emboss); margin: 0;
   overflow-wrap: anywhere;
 }
@@ -145,7 +145,7 @@
    pre-.sc-head `.sc-prev__name` used) + a leaner rail let long names wrap on whole
    words. Scoped to .sc-prev so the standalone .sc-ability / statblock heads keep
    their larger embossed names. */
-.md-typeset .sc-prev .sc-head__left-primary { font-size: 2.3rem; }
+.md-typeset .sc-prev .sc-head__left-primary { font-size: calc(1.3rem * var(--md-large-header-scale)); }
 .sc-prev .sc-head__slot--chip { font-size: .82rem; padding: .12rem .4rem; }
 .sc-prev .sc-head__right-eyebrow,
 .sc-prev .sc-head__right-primary,
@@ -198,7 +198,7 @@
 .sc-prev__dia { width: 6px; height: 6px; transform: rotate(45deg); background: var(--act); flex: 0 0 auto; }
 /* .md-typeset prefix — same reason as .sc-folder__name above (beats `.md-typeset h3`). */
 .md-typeset .sc-prev__name { font-family: var(--md-large-header-font); font-weight: var(--md-large-header-weight); letter-spacing: var(--md-large-header-tracking); -webkit-text-stroke: var(--md-large-header-stroke) currentColor; text-transform: uppercase;
-  font-size: 2.3rem; line-height: 1.02; color: var(--sc-steel-lighter); text-shadow: var(--fx-emboss);
+  font-size: calc(1.3rem * var(--md-large-header-scale)); line-height: 1.02; color: var(--sc-steel-lighter); text-shadow: var(--fx-emboss);
   margin: .18rem 0 0; }
 .sc-prev__tag { justify-self: end; white-space: nowrap;
   font-family: var(--md-small-header-font); font-weight: var(--md-small-header-weight); font-variant: small-caps; text-transform: lowercase;

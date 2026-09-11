@@ -74,7 +74,7 @@
   flex: 1;
   font-family: var(--md-large-header-font); font-weight: var(--md-large-header-weight); letter-spacing: var(--md-large-header-tracking); -webkit-text-stroke: var(--md-large-header-stroke) currentColor;
   text-transform: uppercase;
-  font-size: 2.15rem;
+  font-size: calc(1.15rem * var(--md-large-header-scale));
   line-height: 1;
   color: var(--sc-steel-lighter, var(--md-default-fg-color));
   text-shadow: var(--fx-emboss);

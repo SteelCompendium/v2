@@ -123,13 +123,13 @@
 }
 .md-typeset .sb__name {
   margin: 0; font-family: var(--md-large-header-font); font-weight: var(--md-large-header-weight); letter-spacing: var(--md-large-header-tracking); -webkit-text-stroke: var(--md-large-header-stroke) currentColor; text-transform: uppercase;
-  font-size: 3.3rem; line-height: .95; color: var(--sc-steel-lighter);
+  font-size: calc(2.3rem * var(--md-large-header-scale)); line-height: .95; color: var(--sc-steel-lighter);
   text-shadow: var(--fx-emboss); text-wrap: balance;
 }
 .sb__class { text-align: right; flex: 0 0 auto; }
 .sb__level { font-family: var(--md-small-header-font); font-weight: var(--md-small-header-weight); font-size: .92rem; color: var(--md-default-fg-color--light); }
 .sb__role {
-  font-family: var(--md-large-header-font); font-weight: var(--md-large-header-weight); letter-spacing: var(--md-large-header-tracking); -webkit-text-stroke: var(--md-large-header-stroke) currentColor; text-transform: uppercase; font-size: 2.4rem; line-height: 1.04;
+  font-family: var(--md-large-header-font); font-weight: var(--md-large-header-weight); letter-spacing: var(--md-large-header-tracking); -webkit-text-stroke: var(--md-large-header-stroke) currentColor; text-transform: uppercase; font-size: calc(1.4rem * var(--md-large-header-scale)); line-height: 1.04;
   color: var(--role); text-shadow: var(--fx-emboss); filter: brightness(1.15) saturate(1.1);
 }
 .sb__ev { font-family: var(--md-code-font, monospace); font-size: .82rem; color: var(--md-default-fg-color--light); margin-top: .12rem; }
@@ -139,11 +139,11 @@
    view-timeline above still apply verbatim. These re-attach the embossed name + role
    typography that used to live on .sb__name / .sb__role to the new head slots. */
 .md-typeset .sb__head .sc-head__left-primary {
-  font-size: 3.3rem; line-height: .95; color: var(--sc-steel-lighter);
+  font-size: calc(2.3rem * var(--md-large-header-scale)); line-height: .95; color: var(--sc-steel-lighter);
   text-shadow: var(--fx-emboss); letter-spacing: var(--md-large-header-tracking); text-wrap: balance;
 }
 .sb__head .sc-head__right-primary {
-  font-size: 2.4rem; color: var(--role);
+  font-size: calc(1.4rem * var(--md-large-header-scale)); color: var(--role);
   text-shadow: var(--fx-emboss); filter: brightness(1.15) saturate(1.1);
 }
 /* Summoner-book gametime summon cost (no "EV" prefix) — a short phrase like
@@ -164,7 +164,7 @@
 .sb__defenses { display: grid; grid-template-columns: repeat(5, 1fr); gap: .4rem; padding: .3rem var(--pad) .65rem; }
 .sb__stat { text-align: center; padding: .45rem .25rem; border: 1px solid var(--fx-metal-faint); border-radius: 7px; background: rgba(0,0,0,.22); }
 [data-md-color-scheme="default"] .sb__stat { background: rgba(0,0,0,.03); }
-.sb__stat .v { display: block; font-family: var(--md-large-header-font); font-weight: var(--md-large-header-weight); letter-spacing: var(--md-large-header-tracking); -webkit-text-stroke: var(--md-large-header-stroke) currentColor; font-size: 2.55rem; line-height: 1; color: var(--sc-steel-lighter); font-variant-numeric: tabular-nums; }
+.sb__stat .v { display: block; font-family: var(--md-large-header-font); font-weight: var(--md-large-header-weight); letter-spacing: var(--md-large-header-tracking); -webkit-text-stroke: var(--md-large-header-stroke) currentColor; font-size: calc(1.55rem * var(--md-large-header-scale)); line-height: 1; color: var(--sc-steel-lighter); font-variant-numeric: tabular-nums; }
 .sb__stat .l { display: block; margin-top: .2rem; font-family: var(--md-small-header-font); font-weight: var(--md-small-header-weight); font-variant: small-caps; letter-spacing: .04em; font-size: .73rem; color: var(--md-default-fg-color--lighter); line-height: 1.05; }
 
 /* ════════════════════════════════════════════════════════════
@@ -223,7 +223,7 @@
   border: 1px solid var(--fx-metal-line); border-radius: 4px; width: 1.45rem; height: 1.45rem;
   display: none; place-items: center; background: linear-gradient(180deg, rgba(255,255,255,.06), rgba(0,0,0,.12));
 }
-.sb__char-v { font-family: var(--md-large-header-font); font-weight: var(--md-large-header-weight); letter-spacing: var(--md-large-header-tracking); -webkit-text-stroke: var(--md-large-header-stroke) currentColor; font-size: 2.6rem; line-height: 1; color: var(--sc-steel-lighter); font-variant-numeric: tabular-nums; }
+.sb__char-v { font-family: var(--md-large-header-font); font-weight: var(--md-large-header-weight); letter-spacing: var(--md-large-header-tracking); -webkit-text-stroke: var(--md-large-header-stroke) currentColor; font-size: calc(1.6rem * var(--md-large-header-scale)); line-height: 1; color: var(--sc-steel-lighter); font-variant-numeric: tabular-nums; }
 .sb__char-l { font-family: var(--md-small-header-font); font-weight: var(--md-small-header-weight); font-variant: small-caps; letter-spacing: .04em; font-size: .76rem; color: var(--md-default-fg-color--light); }
 /* two-line + box (on/onword): [box][value] over [label] */
 [data-sb-charline="two"][data-sb-charbox="on"] .sb__char,
@@ -430,7 +430,7 @@
 .sb__band--villain .sb__band-glyph { color: #e0584b; }
 .sb__band--malice  .sb__band-glyph { color: #9aa2a8; }
 .sb__band-glyph { font-family: "DrawSteelGlyphs", sans-serif; font-size: 1rem; line-height: 1; -webkit-font-smoothing: antialiased; }
-.sb__band-title { flex: 1; font-family: var(--md-large-header-font); font-weight: var(--md-large-header-weight); letter-spacing: var(--md-large-header-tracking); -webkit-text-stroke: var(--md-large-header-stroke) currentColor; text-transform: uppercase; font-size: 2.25rem; color: var(--sc-steel-lighter); text-shadow: var(--fx-emboss); }
+.sb__band-title { flex: 1; font-family: var(--md-large-header-font); font-weight: var(--md-large-header-weight); letter-spacing: var(--md-large-header-tracking); -webkit-text-stroke: var(--md-large-header-stroke) currentColor; text-transform: uppercase; font-size: calc(1.25rem * var(--md-large-header-scale)); color: var(--sc-steel-lighter); text-shadow: var(--fx-emboss); }
 .sb__band-chev { color: var(--fx-metal); transition: transform .2s ease; font-size: 1rem; }
 .sb__band:not([open]) .sb__band-chev { transform: rotate(-90deg); }
 .sb__band-body { padding: .25rem .65rem .7rem; display: flex; flex-direction: column; gap: .55rem; }
@@ -572,7 +572,7 @@ body[data-aug-sticky="off"] .sb__sticky { display: none; }
 }
 .sb__sticky-row1 { display: flex; align-items: center; gap: .6rem 1rem; flex-wrap: wrap; }
 .sb__sticky-id { display: flex; align-items: baseline; gap: .55rem; }
-.sb__sticky-name { font-family: var(--md-large-header-font); font-weight: var(--md-large-header-weight); letter-spacing: var(--md-large-header-tracking); -webkit-text-stroke: var(--md-large-header-stroke) currentColor; text-transform: uppercase; font-size: 2.28rem; color: var(--sc-steel-lighter); }
+.sb__sticky-name { font-family: var(--md-large-header-font); font-weight: var(--md-large-header-weight); letter-spacing: var(--md-large-header-tracking); -webkit-text-stroke: var(--md-large-header-stroke) currentColor; text-transform: uppercase; font-size: calc(1.28rem * var(--md-large-header-scale)); color: var(--sc-steel-lighter); }
 .sb__sticky-role { font-family: var(--md-small-header-font); font-weight: var(--md-small-header-weight); font-variant: small-caps; letter-spacing: .04em; font-size: 1rem; color: var(--role); }
 .sb__sticky-stats { display: flex; align-items: stretch; gap: .6rem; margin-left: auto; flex-wrap: wrap; }
 .sb__sticky-defs { display: flex; gap: .6rem; flex-wrap: wrap; }
@@ -623,7 +623,7 @@ body[data-aug-sticky="off"] .sb__sticky { display: none; }
    ════════════════════════════════════════════════════════════ */
 @media (max-width: 34em) {
   .sb-wrap { --pad: .85rem; }
-  .md-typeset .sb__head .sc-head__left-primary { font-size: 2.85rem; }
+  .md-typeset .sb__head .sc-head__left-primary { font-size: calc(1.85rem * var(--md-large-header-scale)); }
   .sb__head { flex-wrap: wrap; }
   .sb__defenses { grid-template-columns: repeat(3, 1fr); }
   .sb__meta { grid-template-columns: 1fr; }
@@ -647,7 +647,7 @@ body[data-aug-sticky="off"] .sb__sticky { display: none; }
   .sb__sticky-row1 { flex-wrap: wrap; row-gap: .3rem; gap: .3rem .7rem; }
   .sb__sticky-id { min-width: 0; flex: 1 1 auto; }
   .sb__sticky-name {
-    display: block; min-width: 0; max-width: 100%; flex: 1 1 auto; font-size: 2rem;
+    display: block; min-width: 0; max-width: 100%; flex: 1 1 auto; font-size: calc(1rem * var(--md-large-header-scale));
     white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
   }
   .sb__sticky-role { flex: 0 0 auto; }
@@ -730,8 +730,8 @@ body[data-aug-sticky="off"] .sb__sticky { display: none; }
 
 /* header — tighter than the full card; collapses on the x-axis as-is */
 .sb-prev .sb__head { padding: .5rem var(--pad) .5rem; margin-bottom: .65rem; }
-.sb-prev.sb-wrap .md-typeset .sb__head .sc-head__left-primary { font-size: 2.4rem; }
-.sb-prev .sb__head .sc-head__right-primary { font-size: 2.05rem; }
+.sb-prev.sb-wrap .md-typeset .sb__head .sc-head__left-primary { font-size: calc(1.4rem * var(--md-large-header-scale)); }
+.sb-prev .sb__head .sc-head__right-primary { font-size: calc(1.05rem * var(--md-large-header-scale)); }
 .sb-prev .sb__head .sc-head__right-eyebrow, .sb-prev .sb__head .sc-head__right-deck { font-size: .76rem; }
 
 /* defenses — same 5-up grid, smaller faces */

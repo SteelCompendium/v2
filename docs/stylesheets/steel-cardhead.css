@@ -98,7 +98,7 @@
 /* the name (left-primary) and the right mini-title: the two "title" slots. */
 .md-typeset .sc-head__left-primary {
   font-family: var(--md-large-header-font); font-weight: var(--md-large-header-weight); letter-spacing: var(--md-large-header-tracking); -webkit-text-stroke: var(--md-large-header-stroke) currentColor; text-transform: uppercase;
-  font-size: 2.5rem; line-height: 1.04; color: var(--md-default-fg-color);
+  font-size: calc(1.5rem * var(--md-large-header-scale)); line-height: 1.04; color: var(--md-default-fg-color);
   /* Wrap between words; break inside a word only as a last resort. Material sets
      `.md-typeset a { word-break: break-word }` for prose links; a preview card is an
      <a>, so that rule is INHERITED here and broke every long name mid-word
@@ -110,7 +110,7 @@
 }
 .sc-head__slot--mini {
   font-family: var(--md-large-header-font); font-weight: var(--md-large-header-weight); letter-spacing: var(--md-large-header-tracking); -webkit-text-stroke: var(--md-large-header-stroke) currentColor; text-transform: uppercase;
-  font-size: 2.35rem; line-height: 1.04; color: var(--role, var(--md-default-fg-color));
+  font-size: calc(1.35rem * var(--md-large-header-scale)); line-height: 1.04; color: var(--role, var(--md-default-fg-color));
 }
 
 /* --chip: a compact pill. inline-flex + line-height 1 so the small-caps label is

@@ -96,7 +96,7 @@
 /* .md-typeset prefix so this beats Material's `.md-typeset h3` rule, whose
    large top-margin + line-height were being inherited and shifting the name. */
 .md-typeset .sc-ability__name { font-family: var(--md-large-header-font); font-weight: var(--md-large-header-weight); letter-spacing: var(--md-large-header-tracking); -webkit-text-stroke: var(--md-large-header-stroke) currentColor; text-transform: uppercase;
-  font-size: 2.85rem; line-height: 1; color: var(--sc-steel-lighter);
+  font-size: calc(1.85rem * var(--md-large-header-scale)); line-height: 1; color: var(--sc-steel-lighter);
   text-shadow: var(--fx-emboss); margin: 0; }
 
 /* The ability head is now the shared 6-slot .sc-head; the card's action-tinted crest
@@ -105,7 +105,7 @@
    card head, not the nested statblock/featureblock sub-feature heads (those .sc-head
    sit inside .sb__feat-head / .fb__feat-head, not as a direct child). */
 .md-typeset .sc-ability > .sc-head .sc-head__left-primary {
-  font-size: 2.85rem; line-height: 1; color: var(--sc-steel-lighter);
+  font-size: calc(1.85rem * var(--md-large-header-scale)); line-height: 1; color: var(--sc-steel-lighter);
   text-shadow: var(--fx-emboss); letter-spacing: var(--md-large-header-tracking);
 }
 

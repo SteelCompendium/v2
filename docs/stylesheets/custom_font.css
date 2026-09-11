@@ -9,23 +9,34 @@
 /* Set sensible defaults (these variables are what the theme reads) */
 :root {
     --md-large-header-font: "Forum";
-    /* Forum ships a single 400 weight, and Beaufort W01 Heavy (the face it
-       replaced) was heavy at 400 — so the display role reads thin unless we ask
-       for bold and let the browser synthesize it. Every rule that sets
-       --md-large-header-font sets this alongside it, so the display voice stays
-       one knob no matter which face the reader picks in Settings. */
-    --md-large-header-weight: 700;
-    /* The display role carries its own tracking and outline weight too. Forum is a
-       light-stroked inscriptional face, so 2px of letter-spacing opens the uppercase
-       settings and a 2px centered text-stroke — drawn in currentColor, so it always
-       matches whatever color the element already has — thickens the strokes. Both
-       travel with --md-large-header-font at every use site, same as the weight. */
+    /* The display role is four knobs, not one. Every rule that sets
+       --md-large-header-font sets all four beside it, so the display voice stays
+       tunable from here no matter which face the reader picks in Settings.
+
+       WEIGHT STAYS 400 ON PURPOSE. Forum has no bold cut, so asking for 700 does
+       not get you Forum bold — the browser synthesizes one by smearing the 400
+       outlines, which muddies an inscriptional face. The bold LOOK comes from
+       --md-large-header-stroke instead: a centered outline painted in
+       currentColor, so it always matches the color the element already has and
+       thickens the real letterforms rather than faking them. Raise the stroke,
+       not the weight.
+
+       SCALE IS A MULTIPLIER, NOT AN OFFSET. Display sizes span 1.05rem to 5em,
+       so adding a fixed amount grows the small ones several times harder than
+       the large ones. Every display font-size is written as
+       calc(<base> * var(--md-large-header-scale)) and keeps its own base, so the
+       whole role rescales in proportion from this one number.
+
+       TRACKING opens the uppercase settings, which Forum sets tight. */
+    --md-large-header-weight: 400;
+    --md-large-header-scale: 1.2;
     --md-large-header-tracking: 2px;
     --md-large-header-stroke: 2px;
     --md-small-header-font: "Petrona";
-    /* Petrona is a true variable family, so the subhead role gets a real 700 rather
-       than a synthesized one. Three rules that deliberately neutralize a <b> back to
-       400 (.sc-card__line b, .sb__sticky .sm b, .sc-folder__sub) keep their override. */
+    /* Petrona IS a variable family (100–900), so unlike the display role this is a
+       real 700 with its own outlines — no synthesis, no stroke needed. Three rules
+       that deliberately neutralize a <b> back to 400 (.sc-card__line b,
+       .sb__sticky .sm b, .sc-folder__sub) keep their override. */
     --md-small-header-weight: 700;
     --md-text-font: "Zilla Slab";
     --md-code-font: "JetBrains Mono";
@@ -41,7 +52,7 @@ body {
     font-weight: var(--md-large-header-weight);
     letter-spacing: var(--md-large-header-tracking);
     -webkit-text-stroke: var(--md-large-header-stroke) currentColor;
-    font-size: 6em;
+    font-size: calc(5em * var(--md-large-header-scale));
     text-transform: uppercase;
     margin: 0 0 0em;
 }
@@ -50,7 +61,7 @@ body {
     font-weight: var(--md-large-header-weight);
     letter-spacing: var(--md-large-header-tracking);
     -webkit-text-stroke: var(--md-large-header-stroke) currentColor;
-    font-size: 4em;
+    font-size: calc(3em * var(--md-large-header-scale));
     text-transform: uppercase;
 }
 .md-typeset h3, .md-typeset h4, .md-typeset h5, .md-typeset h6 {

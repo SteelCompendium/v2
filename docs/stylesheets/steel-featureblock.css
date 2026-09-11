@@ -74,7 +74,7 @@
 }
 .md-typeset .fb__name {
   margin: 0; font-family: var(--md-large-header-font); font-weight: var(--md-large-header-weight); letter-spacing: var(--md-large-header-tracking); -webkit-text-stroke: var(--md-large-header-stroke) currentColor; text-transform: uppercase;
-  font-size: 3.1rem; line-height: .98; color: var(--sc-steel-lighter);
+  font-size: calc(2.1rem * var(--md-large-header-scale)); line-height: .98; color: var(--sc-steel-lighter);
   text-shadow: var(--fx-emboss); text-wrap: balance;
 }
 
@@ -83,7 +83,7 @@
    Re-attach the embossed name (was .fb__name) + the role-tinted type+role mini-title
    (was the role-colored .fb__eyebrow) to the new head slots. */
 .md-typeset .fb__head .sc-head__left-primary {
-  font-size: 3.1rem; line-height: .98; color: var(--sc-steel-lighter);
+  font-size: calc(2.1rem * var(--md-large-header-scale)); line-height: .98; color: var(--sc-steel-lighter);
   text-shadow: var(--fx-emboss); letter-spacing: var(--md-large-header-tracking); text-wrap: balance;
 }
 .fb__head .sc-head__right-primary { color: var(--role); filter: brightness(1.15) saturate(1.1); }
