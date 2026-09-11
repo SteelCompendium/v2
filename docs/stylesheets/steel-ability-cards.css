@@ -95,7 +95,7 @@
 .sc-ability__dia { width:7px; height:7px; transform:rotate(45deg); background: var(--act); flex:0 0 auto; }
 /* .md-typeset prefix so this beats Material's `.md-typeset h3` rule, whose
    large top-margin + line-height were being inherited and shifting the name. */
-.md-typeset .sc-ability__name { font-family: var(--md-large-header-font); text-transform: uppercase;
+.md-typeset .sc-ability__name { font-family: var(--md-large-header-font); font-weight: var(--md-large-header-weight); text-transform: uppercase;
   font-size: 1.85rem; line-height: 1; color: var(--sc-steel-lighter);
   text-shadow: var(--fx-emboss); margin: 0; letter-spacing:.01em; }
 

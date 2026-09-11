@@ -73,7 +73,7 @@
   filter: brightness(1.15) saturate(1.1); margin-bottom: .12rem;
 }
 .md-typeset .fb__name {
-  margin: 0; font-family: var(--md-large-header-font); text-transform: uppercase;
+  margin: 0; font-family: var(--md-large-header-font); font-weight: var(--md-large-header-weight); text-transform: uppercase;
   font-size: 2.1rem; line-height: .98; color: var(--sc-steel-lighter);
   text-shadow: var(--fx-emboss); letter-spacing: .01em; text-wrap: balance;
 }

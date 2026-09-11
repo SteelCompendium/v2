@@ -46,7 +46,7 @@
 
   var FONT_OPTIONS = {
     large: [
-      ['"Beaufort W01 Heavy", var(--md-text-font), serif', "Beaufort (default)"],
+      ['"Forum", var(--md-text-font), serif', "Forum (default)"],
       ['"Test Newzald", var(--md-text-font), serif', "Test Newzald"],
       ['"Source Serif 4"', "Source Serif 4"],
       ['"Inter", var(--md-text-font), sans-serif', "Inter"],
@@ -54,7 +54,7 @@
     ],
     small: [
       ['"Test Newzald", var(--md-text-font), serif', "Test Newzald (default)"],
-      ['"Beaufort W01 Heavy", var(--md-text-font), serif', "Beaufort"],
+      ['"Forum", var(--md-text-font), serif', "Forum"],
       ['"Source Serif 4"', "Source Serif 4"],
       ['"Inter", var(--md-text-font), sans-serif', "Inter"],
       ['"system-ui", var(--md-text-font), serif', "System UI"]

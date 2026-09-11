@@ -30,7 +30,7 @@
 }
 [data-md-color-scheme="default"] .pj__head::after { box-shadow: 0 0 0 4px #f4f6f6, 0 0 0 5px var(--fx-metal-faint); }
 .md-typeset .pj__head .sc-head__left-primary {
-  font-family: var(--md-large-header-font); text-transform: uppercase;
+  font-family: var(--md-large-header-font); font-weight: var(--md-large-header-weight); text-transform: uppercase;
   font-size: 1.6rem; line-height: 1.02; color: var(--sc-steel-lighter);
   text-shadow: var(--fx-emboss); letter-spacing: .01em; margin: 0; text-wrap: balance; overflow-wrap: anywhere;
 }

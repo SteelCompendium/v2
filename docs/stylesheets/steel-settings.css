@@ -72,7 +72,7 @@
 .sc-settings-head h2 {
   margin: 0;
   flex: 1;
-  font-family: var(--md-large-header-font);
+  font-family: var(--md-large-header-font); font-weight: var(--md-large-header-weight);
   text-transform: uppercase;
   letter-spacing: 0.04em;
   font-size: 1.15rem;

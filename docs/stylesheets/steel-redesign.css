@@ -115,7 +115,7 @@
    browse-enhancements.js) is pushed to the right. */
 .md-typeset .grid.cards > ul > li > h3 {
   display: flex; align-items: center; gap: .7rem; margin: 0 0 .1rem;
-  font-family: var(--md-large-header-font); text-transform: uppercase;
+  font-family: var(--md-large-header-font); font-weight: var(--md-large-header-weight); text-transform: uppercase;
   font-size: 1.5rem; line-height: 1;
   color: var(--sc-steel-lighter); text-shadow: var(--fx-emboss);
 }
@@ -188,7 +188,7 @@
 .sc-card__head { display: flex; align-items: center; gap: .7rem; }
 .sc-card__type { font-family: var(--md-small-header-font); font-variant: small-caps; letter-spacing: .08em;
   font-size: .8rem; color: var(--fx-metal); }
-.sc-card__name { font-family: var(--md-large-header-font); text-transform: uppercase; font-size: 1.45rem;
+.sc-card__name { font-family: var(--md-large-header-font); font-weight: var(--md-large-header-weight); text-transform: uppercase; font-size: 1.45rem;
   line-height: 1; color: var(--sc-steel-lighter); text-shadow: var(--fx-emboss); margin: .15rem 0 .1rem; }
 .sc-card__equip { font-family: var(--md-small-header-font); font-variant: small-caps; letter-spacing: .03em;
   font-size: .8rem; color: var(--md-default-fg-color--lighter); margin-top: .2rem; }
