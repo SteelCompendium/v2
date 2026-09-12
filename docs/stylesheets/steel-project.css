@@ -34,7 +34,16 @@
   font-size: calc(1.6rem * var(--md-large-header-scale)); line-height: 1.02; color: var(--sc-steel-lighter);
   text-shadow: var(--fx-emboss); margin: 0; text-wrap: balance; overflow-wrap: anywhere;
 }
-.pj__head .sc-head__right-primary .num { font-family: var(--md-code-font, monospace); font-weight: 700; }
+/* SC-315: the goal numeral sits inside the head's right-primary display slot, so
+   it inherits that slot's display size, tracking and stroke. Setting it in the code
+   font made "GOAL 3,000" read as two different faces at 32px — the only place on the
+   site where display-size text was not the display face. It now uses the display
+   role (tabular figures keep the alignment the mono font was there for). The small
+   mono numerals on chips and badges elsewhere are deliberate and stay. */
+.pj__head .sc-head__right-primary .num {
+  font-family: var(--md-large-header-font); font-weight: var(--md-large-header-weight);
+  font-variant-numeric: tabular-nums;
+}
 
 /* ── shared: field block, ledger form (hairline label/value rows) ────────── */
 .pj__ledger { padding: .55rem 1.15rem .3rem; display: flex; flex-direction: column; }
