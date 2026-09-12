@@ -1,0 +1,43 @@
+/* steel-pageact.css — the page-level action strip (.sc-pageact): always-visible
+   page-permalink + pin buttons in the top-right of the content pane on plain
+   (non-card) pages. The page-tier sibling of the card chrome plate
+   (steel-chrome.css) — its own 1.7rem boxed-button look, persistent instead of
+   hover-revealed (Q3 ruling: left as is, a plain page has no card edge for the
+   plate's material to sit on). Mounted by sc-pageact.js + scc-headerlinks.js +
+   sc-pins.js. */
+.md-content__inner { position: relative; }
+.sc-pageact {
+  position: absolute; top: .4rem; right: .6rem; z-index: 4;
+  display: flex; gap: .4rem;
+}
+.sc-pageact > button {
+  position: relative;
+  width: 1.7rem; height: 1.7rem; padding: 0;
+  display: grid; place-items: center;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: .35rem;
+  background: var(--md-default-bg-color);
+  color: var(--md-default-fg-color--light);
+  cursor: pointer;
+  transition: color .18s ease, border-color .18s ease;
+}
+.sc-pageact > button:hover { color: var(--md-accent-fg-color); border-color: var(--md-accent-fg-color); }
+/* fixed visual order regardless of which script mounted first */
+.sc-pageact .sc-pageact__link { order: 1; }
+.sc-pageact .sc-pin { order: 2; }
+.sc-pageact svg { width: .95rem; height: .95rem; }
+.sc-pageact .sc-pageact__link svg { fill: none; stroke: currentColor; stroke-width: 1.7; }
+/* the pin's svg is fill-based (steel-pins.css); pinned state stays accented */
+.sc-pageact .sc-pin.is-on { color: var(--md-accent-fg-color); }
+
+/* transient "Copied" confirmation, left of the button (mirrors .sc-copylink) */
+.sc-pageact__link.is-copied::after {
+  content: "Copied"; position: absolute; right: calc(100% + .35rem); top: 50%;
+  transform: translateY(-50%); font-size: .62rem; font-weight: 600;
+  letter-spacing: .04em; white-space: nowrap; color: var(--md-accent-fg-color);
+}
+
+/* the page H1's inline ¶ lives in the strip now; section headings keep theirs */
+.md-typeset h1 .headerlink { display: none; }
+
+@media print { .sc-pageact { display: none !important; } }
