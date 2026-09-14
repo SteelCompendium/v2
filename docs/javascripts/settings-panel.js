@@ -46,7 +46,7 @@
 
   var FONT_OPTIONS = {
     large: [
-      ['"Steel Forum", var(--md-text-font), serif', "Steel Forum (default)"],
+      ['"Forum", var(--md-text-font), serif', "Forum (default)"],
       ['"Petrona", var(--md-text-font), serif', "Petrona"],
       ['"Source Serif 4"', "Source Serif 4"],
       ['"Inter", var(--md-text-font), sans-serif', "Inter"],
@@ -54,7 +54,7 @@
     ],
     small: [
       ['"Petrona", var(--md-text-font), serif', "Petrona (default)"],
-      ['"Steel Forum", var(--md-text-font), serif', "Steel Forum"],
+      ['"Forum", var(--md-text-font), serif', "Forum"],
       ['"Source Serif 4"', "Source Serif 4"],
       ['"Inter", var(--md-text-font), sans-serif', "Inter"],
       ['"system-ui", var(--md-text-font), serif', "System UI"]

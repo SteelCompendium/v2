@@ -71,11 +71,3 @@ test("loadPrefs tolerates bad JSON and missing key", () => {
   assert.deepStrictEqual(C.loadPrefs({ getItem: () => null }), {});
   assert.deepStrictEqual(C.loadPrefs({ getItem: () => '{"compact":true}' }), { compact: true });
 });
-
-test("loadPrefs migrates saved Forum choices to Steel Forum", () => {
-  const old = C.OLD_FORUM_STACK;
-  assert.deepStrictEqual(
-    C.loadPrefs({ getItem: () => JSON.stringify({ large: old, small: old, text: "kept" }) }),
-    { large: C.STEEL_FORUM_STACK, small: C.STEEL_FORUM_STACK, text: "kept" }
-  );
-});

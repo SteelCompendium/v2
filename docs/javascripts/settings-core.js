@@ -22,8 +22,6 @@
   var SCALE_MIN = 0.6, SCALE_MAX = 1.4, SCALE_STEP = 0.05, SCALE_DEFAULT = 1;
   var CARD_MIN = 0.8, CARD_MAX = 1.2, CARD_STEP = 0.05, CARD_DEFAULT = 1;
   var WIDTH_MIN_EM = 44, WIDTH_MAX_EM = 300, WIDTH_STEP_EM = 2, WIDTH_DEFAULT_EM = 80;
-  var OLD_FORUM_STACK = '"Forum", var(--md-text-font), serif';
-  var STEEL_FORUM_STACK = '"Steel Forum", var(--md-text-font), serif';
 
   // Clamp `value` into [min, max] and snap to the nearest `step`, returning
   // `dflt` when not a finite number. Shared by the scale sliders.
@@ -82,10 +80,7 @@
 
   function loadPrefs(storage) {
     try {
-      var prefs = JSON.parse(storage.getItem(STORAGE_KEY) || "{}") || {};
-      if (prefs.large === OLD_FORUM_STACK) prefs.large = STEEL_FORUM_STACK;
-      if (prefs.small === OLD_FORUM_STACK) prefs.small = STEEL_FORUM_STACK;
-      return prefs;
+      return JSON.parse(storage.getItem(STORAGE_KEY) || "{}") || {};
     } catch (e) {
       return {};
     }
@@ -116,7 +111,6 @@
     SCALE_MIN: SCALE_MIN, SCALE_MAX: SCALE_MAX, SCALE_STEP: SCALE_STEP, SCALE_DEFAULT: SCALE_DEFAULT,
     CARD_MIN: CARD_MIN, CARD_MAX: CARD_MAX, CARD_STEP: CARD_STEP, CARD_DEFAULT: CARD_DEFAULT,
     WIDTH_MIN_EM: WIDTH_MIN_EM, WIDTH_MAX_EM: WIDTH_MAX_EM, WIDTH_STEP_EM: WIDTH_STEP_EM, WIDTH_DEFAULT_EM: WIDTH_DEFAULT_EM,
-    OLD_FORUM_STACK: OLD_FORUM_STACK, STEEL_FORUM_STACK: STEEL_FORUM_STACK,
     clampScale: clampScale,
     clampCardScale: clampCardScale,
     normalizeWidth: normalizeWidth,
