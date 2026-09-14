@@ -21,6 +21,13 @@
        thickens the real letterforms rather than faking them. Raise the stroke,
        not the weight.
 
+       THE STROKE IS IN EM, NOT PX. The same role spans the ~96px page h1 and
+       the 32px card heads, and a fixed 2px outline that merely firms up the h1
+       is a sixteenth of the letter height on a card head, which reads as
+       bloat (SC-315). 0.02em keeps ~1.9px on the h1, ~1.4px on the h2, ~0.6px
+       on card heads and ~0.4px on the smallest slots, so every size gets the
+       same proportional thickening. Keep it in em.
+
        SCALE IS A MULTIPLIER, NOT AN OFFSET. Display sizes span 1.05rem to 5em,
        so adding a fixed amount grows the small ones several times harder than
        the large ones. Every display font-size is written as
@@ -31,7 +38,7 @@
     --md-large-header-weight: 400;
     --md-large-header-scale: 1.2;
     --md-large-header-tracking: 2px;
-    --md-large-header-stroke: 2px;
+    --md-large-header-stroke: 0.02em;
     --md-small-header-font: "Petrona";
     /* Petrona IS a variable family (100–900), so unlike the display role this is a
        real 700 with its own outlines — no synthesis, no stroke needed. Three rules
