@@ -108,9 +108,22 @@
      (a single over-long word still breaks rather than overflowing/clipping). */
   word-break: normal; overflow-wrap: break-word; hyphens: manual;
 }
+/* SC-115: this slot renders whatever "headline attribute, else cost" the card has —
+   an ability's resource cost ("9 Ferocity"), its Signature fallback, a statblock/
+   featureblock role, a class's primary stats. At the large-header display size it
+   used above (1.35rem against a 1.5rem name) it read as a second heading competing
+   with the name — worst on ability cards, where "SIGNATURE" all but matched
+   "PROTECTIVE ATTACK". Demoted to the same weight tier as the left-deck subtitle
+   line above it (small-header font, small-caps, .92rem) — secondary metadata, not
+   a heading; the large-header stroke/tracking recipe was tuned for display sizes
+   and reads as chunky noise this small. `--role` still tints statblock/featureblock
+   accent text; the `.sb__head`/`.sc-prev` overrides below that pin their own
+   font-size (statblock role, previews) are unaffected — only the bare default
+   shrinks. */
 .sc-head__slot--mini {
-  font-family: var(--md-large-header-font); font-weight: var(--md-large-header-weight); letter-spacing: var(--md-large-header-tracking); -webkit-text-stroke: var(--md-large-header-stroke) currentColor; text-transform: uppercase;
-  font-size: calc(1.35rem * var(--md-large-header-scale)); line-height: 1.04; color: var(--role, var(--md-default-fg-color));
+  font-family: var(--md-small-header-font); font-weight: var(--md-small-header-weight);
+  font-variant: small-caps; text-transform: lowercase; letter-spacing: .05em;
+  font-size: .92rem; line-height: 1.1; color: var(--role, var(--md-default-fg-color--light));
 }
 
 /* --chip: a compact pill. inline-flex + line-height 1 so the small-caps label is
