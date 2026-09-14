@@ -1,32 +1,36 @@
 /*Load font options*/
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Forum&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Petrona:ital,wght@0,100..900;1,100..900&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Zilla+Slab:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap");
 
+@font-face {
+    font-family: "Steel Forum";
+    src: url("../fonts/SteelForum-Regular.woff2") format("woff2");
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+}
+@font-face {
+    font-family: "Steel Forum";
+    src: url("../fonts/SteelForum-Bold.woff2") format("woff2");
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+}
+
 /* Set sensible defaults (these variables are what the theme reads) */
 :root {
-    --md-large-header-font: "Forum";
+    --md-large-header-font: "Steel Forum";
     /* The display role is four knobs, not one. Every rule that sets
        --md-large-header-font sets all four beside it, so the display voice stays
        tunable from here no matter which face the reader picks in Settings.
 
-       WEIGHT STAYS 400 ON PURPOSE. Forum has no bold cut, so asking for 700 does
-       not get you Forum bold — the browser synthesizes one by smearing the 400
-       outlines, which muddies an inscriptional face. The bold LOOK comes from
-       --md-large-header-stroke instead: a centered outline painted in
-       currentColor, so it always matches the color the element already has and
-       thickens the real letterforms rather than faking them. Raise the stroke,
-       not the weight.
-
-       THE STROKE IS IN EM, NOT PX. The same role spans the ~96px page h1 and
-       the 32px card heads, and a fixed 2px outline that merely firms up the h1
-       is a sixteenth of the letter height on a card head, which reads as
-       bloat (SC-315). 0.02em keeps ~1.9px on the h1, ~1.4px on the h2, ~0.6px
-       on card heads and ~0.4px on the smallest slots, so every size gets the
-       same proportional thickening. Keep it in em.
+       Steel Forum is the site's OFL derivative of Forum. Its 700 face has
+       separately corrected outlines, counters, punctuation, and spacing, so
+       the display role uses a real bold and needs no painted outline. Keep the
+       stroke at zero; restoring it would double-embolden the glyphs.
 
        SCALE IS A MULTIPLIER, NOT AN OFFSET. Display sizes span 1.05rem to 5em,
        so adding a fixed amount grows the small ones several times harder than
@@ -35,10 +39,10 @@
        whole role rescales in proportion from this one number.
 
        TRACKING opens the uppercase settings, which Forum sets tight. */
-    --md-large-header-weight: 400;
+    --md-large-header-weight: 700;
     --md-large-header-scale: 1.2;
     --md-large-header-tracking: 2px;
-    --md-large-header-stroke: 0.02em;
+    --md-large-header-stroke: 0;
     --md-small-header-font: "Petrona";
     /* Petrona IS a variable family (100–900), so unlike the display role this is a
        real 700 with its own outlines — no synthesis, no stroke needed. Three rules
