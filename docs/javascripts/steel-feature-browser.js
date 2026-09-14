@@ -19,10 +19,16 @@
        // trait:
        action?, grants?, benefits?, tag?,        // action accents the spine
        // ability:
-       action, cost, keywords?, conditions?, distance?, targets? }
+       action, cost, keywords?, conditions?, distance?, targets?,
+       cost_tier? }
        // conditions[] = Draw Steel conditions the ability's MECHANICAL text
        // mentions (inflicts / requires / removes — not distinguished; flavor
        // excluded). Derived build-side in steel-etl internal/site/conditions.go.
+       // cost_tier = the Cost facet's key, derived CLIENT-SIDE in mount() via
+       // Core.costFacetValue(it.cost) — "Signature" | "none" | "<amount>" |
+       // "other" (SC-92). Stamped on abilities only; left undefined on
+       // features/traits so the "No cost" chip never selects the 971
+       // non-ability items (undefined !== "none" to FacetCore.matchesPicks).
    ============================================================ */
 (function () {
   "use strict";
@@ -151,6 +157,14 @@
     var items;
     try { items = JSON.parse(island.textContent); } catch (e) { return; }
 
+    // SC-92: Cost facet tier, derived client-side from the island's existing
+    // `cost` field. Abilities only — leaving it undefined on features/traits
+    // is what keeps the "No cost" chip from also selecting the 971 non-ability
+    // items (matchesPicks("none") never matches an undefined value).
+    items.forEach(function (it) {
+      if (it.kind === "ability") it.cost_tier = Core.costFacetValue(it.cost);
+    });
+
     // Source facet: one merged OR-group rendered by sourceFacetHTML — class chips
     // with nested class-scoped subclass chips, then plain childless sources. The
     // klass/subclass dimensions are kept out of the generic `facets` array.
@@ -160,6 +174,9 @@
       { key: "kind",     label: "Type",    values: ["feature", "ability", "trait"], display: cap },
       { key: "level",    label: "Level",   values: uniqueSorted(null, items, "level", true), display: function (v) { return "Lv " + v; } },
       { key: "action",   label: "Action",  values: uniqueSorted(null, items, "action"), display: function (v) { return (ACTIONS[v] || {}).label || cap(v); }, dot: actionColor },
+      // SC-92. cost_tier is stamped on abilities only (above); scalar (one
+      // cost per ability), so no any/all toggle — mirrors Type/Level/Action.
+      { key: "cost_tier", label: "Cost", values: Core.costTierValues(items), display: Core.costTierDisplay },
       { key: "keywords", label: "Keyword", values: uniqueSorted(null, items, "keywords") },
       // SC-90. Matches ANY mention of the condition in the ability's mechanical
       // text (inflict / require / remove are not distinguished); flavor text is

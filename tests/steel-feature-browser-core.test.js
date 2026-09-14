@@ -1,6 +1,7 @@
 const test = require("node:test");
 const assert = require("node:assert");
 const Core = require("../docs/javascripts/steel-feature-browser-core.js");
+const FacetCore = require("../docs/javascripts/sc-facet-core.js");
 
 const SAMPLE = [
   { klass: "Censor", source: "class", subclass: "Creation" },
@@ -69,4 +70,97 @@ test("matchesSource + buildSourceModel handle array-valued subclass", () => {
   assert.ok(Core.matchesSource(item, {}, selS));
   const m = Core.buildSourceModel([item]);
   assert.deepStrictEqual(m.classes[0], { klass: "Censor", subclasses: ["Creation", "Death"] });
+});
+
+/* ── costFacetValue (SC-92) ──────────────────────────────────────────────── */
+
+test("costFacetValue: 'Signature' (any case/whitespace) → 'Signature'", () => {
+  assert.strictEqual(Core.costFacetValue("Signature"), "Signature");
+  assert.strictEqual(Core.costFacetValue("signature"), "Signature");
+  assert.strictEqual(Core.costFacetValue("  SIGNATURE  "), "Signature");
+});
+
+test("costFacetValue: a string beginning with an integer → that integer as a string", () => {
+  assert.strictEqual(Core.costFacetValue("11 Discipline"), "11");
+  assert.strictEqual(Core.costFacetValue("1 Drama"), "1");
+  assert.strictEqual(Core.costFacetValue("5 Piety"), "5");
+});
+
+test("costFacetValue: empty/null/undefined/whitespace → 'none'", () => {
+  assert.strictEqual(Core.costFacetValue(""), "none");
+  assert.strictEqual(Core.costFacetValue(null), "none");
+  assert.strictEqual(Core.costFacetValue(undefined), "none");
+  assert.strictEqual(Core.costFacetValue("   "), "none");
+});
+
+test("costFacetValue: {value, unit} object with a numeric value → its value as a string", () => {
+  assert.strictEqual(Core.costFacetValue({ value: 5, unit: "Piety" }), "5");
+  assert.strictEqual(Core.costFacetValue({ value: "11", unit: "Discipline" }), "11");
+});
+
+test("costFacetValue: anything else (non-numeric string, malformed object) → 'other'", () => {
+  assert.strictEqual(Core.costFacetValue("Free action"), "other");
+  assert.strictEqual(Core.costFacetValue({ unit: "Piety" }), "other");
+  assert.strictEqual(Core.costFacetValue({ value: null }), "other");
+  assert.strictEqual(Core.costFacetValue({ value: "several" }), "other");
+});
+
+/* ── costTierValues / costTierDisplay (SC-92) ────────────────────────────── */
+
+test("costTierValues: canonical order, filtered to values present, not lexicographic", () => {
+  const items = [
+    { kind: "ability", cost_tier: "11" },
+    { kind: "ability", cost_tier: "Signature" },
+    { kind: "ability", cost_tier: "3" },
+    { kind: "ability", cost_tier: "none" },
+    { kind: "feature" } // cost_tier left undefined — must not appear as a value
+  ];
+  assert.deepStrictEqual(Core.costTierValues(items), ["Signature", "none", "3", "11"]);
+});
+
+test("costTierValues: a tier outside the canonical list is appended after '11' in numeric order", () => {
+  const items = [
+    { kind: "ability", cost_tier: "Signature" },
+    { kind: "ability", cost_tier: "11" },
+    { kind: "ability", cost_tier: "13" },   // hypothetical future amount
+    { kind: "ability", cost_tier: "other" }
+  ];
+  assert.deepStrictEqual(Core.costTierValues(items), ["Signature", "11", "13", "other"]);
+});
+
+test("costTierDisplay: 'none' reads as 'No cost'; everything else verbatim", () => {
+  assert.strictEqual(Core.costTierDisplay("none"), "No cost");
+  assert.strictEqual(Core.costTierDisplay("Signature"), "Signature");
+  assert.strictEqual(Core.costTierDisplay("5"), "5");
+  assert.strictEqual(Core.costTierDisplay("other"), "other");
+});
+
+/* ── integration: cost_tier stamping + FacetCore.matchesPicks (SC-92) ───── */
+
+test("Signature/No-cost picks select only stamped abilities, never a feature", () => {
+  // Fixture: 2 abilities with resource costs, 1 signature ability, 1 no-cost
+  // ability, 1 feature with no `cost` at all — mirrors mount()'s stamping,
+  // which sets cost_tier on kind==="ability" items only.
+  const rawItems = [
+    { kind: "ability", name: "Piety Strike", cost: "3 Piety" },
+    { kind: "ability", name: "Discipline Blast", cost: "11 Discipline" },
+    { kind: "ability", name: "Gouge", cost: "Signature" },
+    { kind: "ability", name: "Free Swing", cost: "" },
+    { kind: "feature", name: "Iron Resolve" } // no `cost` field at all
+  ];
+  const items = rawItems.map((it) => Object.assign({}, it));
+  items.forEach((it) => { if (it.kind === "ability") it.cost_tier = Core.costFacetValue(it.cost); });
+
+  assert.strictEqual(items.find((i) => i.name === "Iron Resolve").cost_tier, undefined);
+
+  const bySignature = items.filter((it) => FacetCore.matchesPicks(it.cost_tier, { Signature: true }, "any"));
+  assert.deepStrictEqual(bySignature.map((i) => i.name), ["Gouge"]);
+
+  const byNoCost = items.filter((it) => FacetCore.matchesPicks(it.cost_tier, { none: true }, "any"));
+  assert.deepStrictEqual(byNoCost.map((i) => i.name), ["Free Swing"]);
+
+  assert.deepStrictEqual(
+    Core.costTierValues(items),
+    ["Signature", "none", "3", "11"]
+  );
 });
