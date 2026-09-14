@@ -107,7 +107,7 @@ test("costFacetValue: anything else (non-numeric string, malformed object) → '
 
 /* ── costTierValues / costTierDisplay (SC-92) ────────────────────────────── */
 
-test("costTierValues: canonical order, filtered to values present, not lexicographic", () => {
+test("costTierValues: head tiers (Signature, No cost) come first, then present amounts sorted ascending, not lexicographic", () => {
   const items = [
     { kind: "ability", cost_tier: "11" },
     { kind: "ability", cost_tier: "Signature" },
@@ -118,7 +118,7 @@ test("costTierValues: canonical order, filtered to values present, not lexicogra
   assert.deepStrictEqual(Core.costTierValues(items), ["Signature", "none", "3", "11"]);
 });
 
-test("costTierValues: a tier outside the canonical list is appended after '11' in numeric order", () => {
+test("costTierValues: numeric tiers sort ascending, with any non-numeric tier placed after them", () => {
   const items = [
     { kind: "ability", cost_tier: "Signature" },
     { kind: "ability", cost_tier: "11" },
