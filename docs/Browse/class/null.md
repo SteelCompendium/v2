@@ -1062,6 +1062,9 @@ As a 5th-level [null](null.md), you gain the following features.
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
+<div class="sc-ability__section-body"><p>The target moves or uses a main action.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/agility/">Agility</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -1070,9 +1073,6 @@ As a 5th-level [null](null.md), you gain the following features.
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">13 + A damage; I &lt; STRONG, <a href="../../condition/restrained/">restrained</a> (save ends)</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
-<div class="sc-ability__section-body"><p>The target moves or uses a main action.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -1206,6 +1206,9 @@ As a 6th-level [null](null.md), you gain the following features.
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self; see below</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You can <a href="../../movement/shifting/">shift</a> up to your <a href="../../rule/character/speed/">speed</a>, and squares occupied by enemies or objects are not <a href="../../movement/difficult-terrain/">difficult terrain</a> for this <a href="../../movement/shifting/">shift</a>. You make one <a href="../../rule/dice/power-roll/">power roll</a> that targets each enemy you moved through during this <a href="../../movement/shifting/">shift</a>.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/agility/">Agility</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -1214,9 +1217,6 @@ As a 6th-level [null](null.md), you gain the following features.
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">12 damage; M &lt; STRONG, <a href="../../condition/dazed/">dazed</a></span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can <a href="../../movement/shifting/">shift</a> up to your <a href="../../rule/character/speed/">speed</a>, and squares occupied by enemies or objects are not <a href="../../movement/difficult-terrain/">difficult terrain</a> for this <a href="../../movement/shifting/">shift</a>. You make one <a href="../../rule/dice/power-roll/">power roll</a> that targets each enemy you moved through during this <a href="../../movement/shifting/">shift</a>.</p></div>
 </div>
 </article>
 </div>
@@ -1601,6 +1601,9 @@ As a 9th-level [null](null.md), you gain the following features.
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
+<div class="sc-ability__section-body"><p>The triggering creature starts their <a href="../../rule/combat/turn/">turn</a>.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/intuition/">Intuition</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -1609,9 +1612,6 @@ As a 9th-level [null](null.md), you gain the following features.
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">I &lt; STRONG, the target loses their <a href="../../rule/combat/turn/">turn</a></span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
-<div class="sc-ability__section-body"><p>The triggering creature starts their <a href="../../rule/combat/turn/">turn</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

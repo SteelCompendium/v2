@@ -308,6 +308,9 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You open up two holes with 1-square openings that are 4 squares deep, which can be placed on any mundane surface within <a href="../../../../rule/combat/distance/">distance</a>. You can place these holes next to each other to create fewer holes with wider openings. When the holes open, make a separate <a href="../../../../rule/dice/power-roll/">power roll</a> for each creature on the ground above a hole and small enough to fall in. (You can&#39;t score a <a href="../../../../rule/combat/critical-hit/">critical hit</a> with this ability because it uses a maneuver.)</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../rule/character/reason/">Reason</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -316,9 +319,6 @@ type: feature
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The target falls into the hole and can&#39;t reduce the height of the fall.</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You open up two holes with 1-square openings that are 4 squares deep, which can be placed on any mundane surface within <a href="../../../../rule/combat/distance/">distance</a>. You can place these holes next to each other to create fewer holes with wider openings. When the holes open, make a separate <a href="../../../../rule/dice/power-roll/">power roll</a> for each creature on the ground above a hole and small enough to fall in. (You can&#39;t score a <a href="../../../../rule/combat/critical-hit/">critical hit</a> with this ability because it uses a maneuver.)</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Persistent 1</span></div>

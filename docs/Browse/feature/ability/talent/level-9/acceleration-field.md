@@ -10,7 +10,7 @@ effects:
       name: Effect
     - effect: Make a [power roll](../../../../rule/dice/power-roll.md) that targets you and each enemy within [distance](../../../../rule/combat/distance.md).
       name: Strained
-    - roll: Power Roll + [Presence](../../../../rule/character/presence.md)
+      roll: Power Roll + [Presence](../../../../rule/character/presence.md)
       tier1: 4 corruption damage; [slowed](../../../../condition/slowed.md) (save ends)
       tier2: 6 corruption damage; [slowed](../../../../condition/slowed.md) (save ends)
       tier3: 10 corruption damage; [slowed](../../../../condition/slowed.md) (save ends)
@@ -43,6 +43,13 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/ranged/">Ranged</a> 5</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Three allies</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Each target can use any main action available to them as a free <a href="../../../../../rule/combat/triggered-action/">triggered action</a>, but they lose their main action on their next <a href="../../../../../rule/combat/turn/">turn</a>.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
+<div class="sc-ability__section-body"><p>Make a <a href="../../../../../rule/dice/power-roll/">power roll</a> that targets you and each enemy within <a href="../../../../../rule/combat/distance/">distance</a>.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../../rule/character/presence/">Presence</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -51,13 +58,6 @@ type: ability
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">10 corruption damage; <a href="../../../../../condition/slowed/">slowed</a> (save ends)</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target can use any main action available to them as a free <a href="../../../../../rule/combat/triggered-action/">triggered action</a>, but they lose their main action on their next <a href="../../../../../rule/combat/turn/">turn</a>.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>Make a <a href="../../../../../rule/dice/power-roll/">power roll</a> that targets you and each enemy within <a href="../../../../../rule/combat/distance/">distance</a>.</p></div>
 </div>
 </article>
 

@@ -545,6 +545,9 @@ As a 1st-level [shadow](shadow.md), you gain the following features.
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self; see below</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You <a href="../../movement/shifting/">shift</a> up to your <a href="../../rule/character/speed/">speed</a> and make one <a href="../../rule/dice/power-roll/">power roll</a> that targets up to three enemies who came <a href="../../rule/combat/adjacent/">adjacent</a> to you during the move.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/agility/">Agility</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -553,9 +556,6 @@ As a 1st-level [shadow](shadow.md), you gain the following features.
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">9 damage</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You <a href="../../movement/shifting/">shift</a> up to your <a href="../../rule/character/speed/">speed</a> and make one <a href="../../rule/dice/power-roll/">power roll</a> that targets up to three enemies who came <a href="../../rule/combat/adjacent/">adjacent</a> to you during the move.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -714,6 +714,9 @@ As a 2nd-level [shadow](shadow.md), you gain the following features.
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You attach a small bomb to a creature. If you are hidden from the creature, they don&#39;t notice the bomb and you remain hidden. The creature otherwise notices the bomb and can disarm and remove it as a main action. If they don&#39;t, at the end of your next <a href="../../rule/combat/turn/">turn</a>, the bomb detonates. When the bomb detonates, you make a <a href="../../rule/dice/power-roll/">power roll</a> targeting each enemy within 2 squares of it.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/agility/">Agility</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -722,9 +725,6 @@ As a 2nd-level [shadow](shadow.md), you gain the following features.
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">11 + A fire damage</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You attach a small bomb to a creature. If you are hidden from the creature, they don&#39;t notice the bomb and you remain hidden. The creature otherwise notices the bomb and can disarm and remove it as a main action. If they don&#39;t, at the end of your next <a href="../../rule/combat/turn/">turn</a>, the bomb detonates. When the bomb detonates, you make a <a href="../../rule/dice/power-roll/">power roll</a> targeting each enemy within 2 squares of it.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main" data-conditions="weakened">
@@ -1085,6 +1085,9 @@ As a 5th-level [shadow](shadow.md), you gain the following features.
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You and the target are removed from the encounter map until the start of your next <a href="../../rule/combat/turn/">turn</a>. You reappear in the spaces you left or the nearest unoccupied spaces. Make a <a href="../../rule/dice/power-roll/">power roll</a> upon your return.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/agility/">Agility</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -1093,9 +1096,6 @@ As a 5th-level [shadow](shadow.md), you gain the following features.
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">17 + A corruption damage</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You and the target are removed from the encounter map until the start of your next <a href="../../rule/combat/turn/">turn</a>. You reappear in the spaces you left or the nearest unoccupied spaces. Make a <a href="../../rule/dice/power-roll/">power roll</a> upon your return.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -1251,6 +1251,9 @@ As a 6th-level [shadow](shadow.md), you gain the following features.
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Three creatures</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You ready, hand, or lob a potion to each target, who can immediately quaff the potion (no action required). If they don&#39;t drink the potion right away, they must use the <a href="../../feature/common/maneuvers/use-consumable/">Use Consumable</a> maneuver to consume it later. The potion loses its <a href="../../rule/character/potency/">potency</a> at the end of the encounter.</p><p>A creature who drinks the potion receives benefits based on your <a href="../../rule/dice/power-roll/">power roll</a>.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/agility/">Agility</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -1259,9 +1262,6 @@ As a 6th-level [shadow](shadow.md), you gain the following features.
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The creature <a href="../../rule/combat/turn/">turns</a> invisible until the end of their next <a href="../../rule/combat/turn/">turn</a>.</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You ready, hand, or lob a potion to each target, who can immediately quaff the potion (no action required). If they don&#39;t drink the potion right away, they must use the <a href="../../feature/common/maneuvers/use-consumable/">Use Consumable</a> maneuver to consume it later. The potion loses its <a href="../../rule/character/potency/">potency</a> at the end of the encounter.</p><p>A creature who drinks the potion receives benefits based on your <a href="../../rule/dice/power-roll/">power roll</a>.</p></div>
 </div>
 </article>
 </div>
@@ -1569,6 +1569,9 @@ As a 9th-level [shadow](shadow.md), you gain the following features.
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self; see below</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You <a href="../../movement/shifting/">shift</a> up to twice your <a href="../../rule/character/speed/">speed</a>, making one <a href="../../rule/dice/power-roll/">power roll</a> that targets each creature you come <a href="../../rule/combat/adjacent/">adjacent</a> to during the <a href="../../movement/shifting/">shift</a>.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/agility/">Agility</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -1577,9 +1580,6 @@ As a 9th-level [shadow](shadow.md), you gain the following features.
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">An enemy takes 14 damage; an ally can <a href="../../movement/teleport/">teleport</a> up to 7 squares.</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You <a href="../../movement/shifting/">shift</a> up to twice your <a href="../../rule/character/speed/">speed</a>, making one <a href="../../rule/dice/power-roll/">power roll</a> that targets each creature you come <a href="../../rule/combat/adjacent/">adjacent</a> to during the <a href="../../movement/shifting/">shift</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main" data-conditions="grabbed">
@@ -1619,6 +1619,9 @@ As a 9th-level [shadow](shadow.md), you gain the following features.
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Each enemy within 3 squares of the target who is not currently targeted by this ability also becomes targeted by this ability. This effect continues until there are no more available targets. The ability deals acid, fire, or poison damage (your choice).</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/agility/">Agility</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -1627,9 +1630,6 @@ As a 9th-level [shadow](shadow.md), you gain the following features.
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">15 damage</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each enemy within 3 squares of the target who is not currently targeted by this ability also becomes targeted by this ability. This effect continues until there are no more available targets. The ability deals acid, fire, or poison damage (your choice).</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">

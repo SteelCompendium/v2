@@ -786,6 +786,9 @@ As a 1st-level [elementalist](elementalist.md), you gain the following features.
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You open up two holes with 1-square openings that are 4 squares deep, which can be placed on any mundane surface within <a href="../../rule/combat/distance/">distance</a>. You can place these holes next to each other to create fewer holes with wider openings. When the holes open, make a separate <a href="../../rule/dice/power-roll/">power roll</a> for each creature on the ground above a hole and small enough to fall in. (You can&#39;t score a <a href="../../rule/combat/critical-hit/">critical hit</a> with this ability because it uses a maneuver.)</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/reason/">Reason</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -794,9 +797,6 @@ As a 1st-level [elementalist](elementalist.md), you gain the following features.
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The target falls into the hole and can&#39;t reduce the height of the fall.</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You open up two holes with 1-square openings that are 4 squares deep, which can be placed on any mundane surface within <a href="../../rule/combat/distance/">distance</a>. You can place these holes next to each other to create fewer holes with wider openings. When the holes open, make a separate <a href="../../rule/dice/power-roll/">power roll</a> for each creature on the ground above a hole and small enough to fall in. (You can&#39;t score a <a href="../../rule/combat/critical-hit/">critical hit</a> with this ability because it uses a maneuver.)</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Persistent 1</span></div>
@@ -970,6 +970,9 @@ As a 2nd-level [elementalist](elementalist.md), you gain the following features.
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target uses their <a href="../../rule/combat/signature-ability/">signature ability</a> against a creature of your choice. This <a href="../../rule/combat/signature-ability/">signature ability</a> can target the creature even if it usually wouldn&#39;t. You then make a <a href="../../rule/dice/power-roll/">power roll</a> against the target of this ability.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/reason/">Reason</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -978,9 +981,6 @@ As a 2nd-level [elementalist](elementalist.md), you gain the following features.
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">12 + R poison damage</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target uses their <a href="../../rule/combat/signature-ability/">signature ability</a> against a creature of your choice. This <a href="../../rule/combat/signature-ability/">signature ability</a> can target the creature even if it usually wouldn&#39;t. You then make a <a href="../../rule/dice/power-roll/">power roll</a> against the target of this ability.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -991,6 +991,9 @@ As a 2nd-level [elementalist](elementalist.md), you gain the following features.
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one ally</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target is <a href="../../movement/teleport/">teleport</a>ed to another space within <a href="../../rule/combat/distance/">distance</a>. Make a <a href="../../rule/dice/power-roll/">power roll</a> that affects each enemy <a href="../../rule/combat/adjacent/">adjacent</a> to the target&#39;s new space.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/reason/">Reason</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -999,9 +1002,6 @@ As a 2nd-level [elementalist](elementalist.md), you gain the following features.
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 fire damage</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target is <a href="../../movement/teleport/">teleport</a>ed to another space within <a href="../../rule/combat/distance/">distance</a>. Make a <a href="../../rule/dice/power-roll/">power roll</a> that affects each enemy <a href="../../rule/combat/adjacent/">adjacent</a> to the target&#39;s new space.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main" data-conditions="restrained">
@@ -1121,6 +1121,9 @@ As a 3rd-level [elementalist](elementalist.md), you gain the following features.
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Special</span></div>
+<div class="sc-ability__section-body"><p>The number of creatures you target with this ability is determined by your <a href="../../rule/dice/power-roll/">power roll</a>.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/reason/">Reason</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -1129,9 +1132,6 @@ As a 3rd-level [elementalist](elementalist.md), you gain the following features.
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">Three creatures</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Special</span></div>
-<div class="sc-ability__section-body"><p>The number of creatures you target with this ability is determined by your <a href="../../rule/dice/power-roll/">power roll</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

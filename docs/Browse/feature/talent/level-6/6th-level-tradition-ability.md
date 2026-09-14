@@ -31,6 +31,13 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/melee/">Melee</a> 2</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One enemy</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target has <a href="../../../../rule/damage/damage-weakness/">damage weakness</a> 5 until the end of your next <a href="../../../../rule/combat/turn/">turn</a>. Whenever the target takes damage while they have this weakness, they are <a href="../../../../condition/prone/">knocked prone</a>.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
+<div class="sc-ability__section-body"><p>This ability gains the <a href="../../../../rule/combat/strike/">Strike</a> keyword as the vision hurts the target&#39;s psyche. You make a <a href="../../../../rule/dice/power-roll/">power roll</a>, then are <a href="../../../../condition/weakened/">weakened</a> (save ends).</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../rule/character/presence/">Presence</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -39,13 +46,6 @@ type: feature
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">17 + P psychic damage</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target has <a href="../../../../rule/damage/damage-weakness/">damage weakness</a> 5 until the end of your next <a href="../../../../rule/combat/turn/">turn</a>. Whenever the target takes damage while they have this weakness, they are <a href="../../../../condition/prone/">knocked prone</a>.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>This ability gains the <a href="../../../../rule/combat/strike/">Strike</a> keyword as the vision hurts the target&#39;s psyche. You make a <a href="../../../../rule/dice/power-roll/">power roll</a>, then are <a href="../../../../condition/weakened/">weakened</a> (save ends).</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main" data-conditions="restrained slowed">
@@ -56,6 +56,9 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">4 <a href="../../../../rule/combat/cube/">cube</a> within 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each creature and object in the area</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The area is frozen in time until the start of your next <a href="../../../../rule/combat/turn/">turn</a>. Each object in the area is <a href="../../../../condition/restrained/">restrained</a> and can&#39;t fall until the effect ends. Until the effect ends, creatures in the area who are reduced to 0 <a href="../../../../rule/health/stamina/">Stamina</a> or would die stay alive, and objects in the area that are reduced to 0 <a href="../../../../rule/health/stamina/">Stamina</a> remain undestroyed.</p><p>Make a <a href="../../../../rule/dice/power-roll/">power roll</a> that targets each enemy in the area.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../rule/character/presence/">Presence</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -64,9 +67,6 @@ type: feature
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">P &lt; STRONG, the target is <a href="../../../../condition/restrained/">restrained</a> until the effect ends</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The area is frozen in time until the start of your next <a href="../../../../rule/combat/turn/">turn</a>. Each object in the area is <a href="../../../../condition/restrained/">restrained</a> and can&#39;t fall until the effect ends. Until the effect ends, creatures in the area who are reduced to 0 <a href="../../../../rule/health/stamina/">Stamina</a> or would die stay alive, and objects in the area that are reduced to 0 <a href="../../../../rule/health/stamina/">Stamina</a> remain undestroyed.</p><p>Make a <a href="../../../../rule/dice/power-roll/">power roll</a> that targets each enemy in the area.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
@@ -164,6 +164,9 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You target a number of creatures with this ability determined by the outcome of your <a href="../../../../rule/dice/power-roll/">power roll</a>. You and your allies are invisible to each target until the start of your next <a href="../../../../rule/combat/turn/">turn</a>.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../rule/character/reason/">Reason</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -172,9 +175,6 @@ type: feature
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">Five creatures</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You target a number of creatures with this ability determined by the outcome of your <a href="../../../../rule/dice/power-roll/">power roll</a>. You and your allies are invisible to each target until the start of your next <a href="../../../../rule/combat/turn/">turn</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>

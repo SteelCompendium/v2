@@ -8,7 +8,7 @@ distance: Melee 1
 effects:
     - effect: Your companion [teleports](../../../../movement/teleport.md) up to their speed.
       name: Effect
-    - roll: Power Roll + Intuition
+      roll: Power Roll + Intuition
       tier1: 13 + I psychic damage; P < WEAK [frightened](../../../../condition/frightened.md) (save ends)
       tier2: 20 + I psychic damage; P < AVERAGE [frightened](../../../../condition/frightened.md) (save ends)
       tier3: 27 + I psychic damage; P < STRONG [frightened](../../../../condition/frightened.md) (save ends)
@@ -43,6 +43,9 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Your companion <a href="../../../../../movement/teleport/">teleports</a> up to their speed.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Intuition</span></div>
 <div class="sc-ability__pr-rows">
@@ -51,9 +54,6 @@ type: ability
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">27 + I psychic damage; P &lt; STRONG <a href="../../../../../condition/frightened/">frightened</a> (save ends)</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Your companion <a href="../../../../../movement/teleport/">teleports</a> up to their speed.</p></div>
 </div>
 </article>
 

@@ -8,7 +8,7 @@ distance: Self; see below
 effects:
     - effect: You [shift](../../../../movement/shifting.md) up to your [speed](../../../../rule/character/speed.md) and make one [power roll](../../../../rule/dice/power-roll.md) that targets up to three enemies you move [adjacent](../../../../rule/combat/adjacent.md) to during this [shift](../../../../movement/shifting.md).
       name: Effect
-    - roll: Power Roll + [Might](../../../../rule/character/might.md)
+      roll: Power Roll + [Might](../../../../rule/character/might.md)
       tier1: 2 damage; A < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
       tier2: 4 damage; A < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)
       tier3: 6 damage; A < STRONG, [dazed](../../../../condition/dazed.md) (save ends)
@@ -39,6 +39,9 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self; see below</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You <a href="../../../../../movement/shifting/">shift</a> up to your <a href="../../../../../rule/character/speed/">speed</a> and make one <a href="../../../../../rule/dice/power-roll/">power roll</a> that targets up to three enemies you move <a href="../../../../../rule/combat/adjacent/">adjacent</a> to during this <a href="../../../../../movement/shifting/">shift</a>.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../../rule/character/might/">Might</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -47,9 +50,6 @@ type: ability
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">6 damage; A &lt; STRONG, <a href="../../../../../condition/dazed/">dazed</a> (save ends)</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You <a href="../../../../../movement/shifting/">shift</a> up to your <a href="../../../../../rule/character/speed/">speed</a> and make one <a href="../../../../../rule/dice/power-roll/">power roll</a> that targets up to three enemies you move <a href="../../../../../rule/combat/adjacent/">adjacent</a> to during this <a href="../../../../../movement/shifting/">shift</a>.</p></div>
 </div>
 </article>
 

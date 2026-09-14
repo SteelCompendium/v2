@@ -88,6 +88,9 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You conjure a <a href="../../../../rule/character/size/">size</a> 2 rolling machine that appears in an unoccupied space within <a href="../../../../rule/combat/distance/">distance</a>. The machine has 50 <a href="../../../../rule/health/stamina/">Stamina</a> and immunity all to poison and psychic damage. It disappears at the end of the encounter, if its <a href="../../../../rule/health/stamina/">Stamina</a> drops to 0, or if you are <a href="../../../../rule/health/dying/">dying</a>. When the machine first appears, make the following <a href="../../../../rule/dice/power-roll/">power roll</a> once, targeting each enemy <a href="../../../../rule/combat/adjacent/">adjacent</a> to it.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../rule/character/intuition/">Intuition</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -96,9 +99,6 @@ type: feature
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 damage</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You conjure a <a href="../../../../rule/character/size/">size</a> 2 rolling machine that appears in an unoccupied space within <a href="../../../../rule/combat/distance/">distance</a>. The machine has 50 <a href="../../../../rule/health/stamina/">Stamina</a> and immunity all to poison and psychic damage. It disappears at the end of the encounter, if its <a href="../../../../rule/health/stamina/">Stamina</a> drops to 0, or if you are <a href="../../../../rule/health/dying/">dying</a>. When the machine first appears, make the following <a href="../../../../rule/dice/power-roll/">power roll</a> once, targeting each enemy <a href="../../../../rule/combat/adjacent/">adjacent</a> to it.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>Once on each subsequent <a href="../../../../rule/combat/turn/">turn</a>, you can use a <a href="../../../../rule/combat/free-maneuver/">free maneuver</a> to move the machine a number of squares up to your <a href="../../../../rule/character/intuition/">Intuition</a> score then repeat the <a href="../../../../rule/dice/power-roll/">power roll</a>.</p></div>

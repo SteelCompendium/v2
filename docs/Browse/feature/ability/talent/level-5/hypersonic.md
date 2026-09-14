@@ -8,7 +8,7 @@ distance: 5 x 2 line within 1
 effects:
     - effect: You [teleport](../../../../movement/teleport.md) to a square on the opposite side of the area before making the [power roll](../../../../rule/dice/power-roll.md).
       name: Effect
-    - roll: Power Roll + [Reason](../../../../rule/character/reason.md)
+      roll: Power Roll + [Reason](../../../../rule/character/reason.md)
       tier1: 12 sonic damage
       tier2: 18 sonic damage
       tier3: 24 sonic damage
@@ -43,6 +43,9 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 x 2 line within 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You <a href="../../../../../movement/teleport/">teleport</a> to a square on the opposite side of the area before making the <a href="../../../../../rule/dice/power-roll/">power roll</a>.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../../rule/character/reason/">Reason</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -51,9 +54,6 @@ type: ability
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">24 sonic damage</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You <a href="../../../../../movement/teleport/">teleport</a> to a square on the opposite side of the area before making the <a href="../../../../../rule/dice/power-roll/">power roll</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>

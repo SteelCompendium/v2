@@ -107,6 +107,9 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Three 3 <a href="../../../../rule/combat/cube/">cubes</a> within 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>A <a href="../../../../condition/prone/">prone target</a> ignores this ability.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../rule/character/presence/">Presence</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -115,9 +118,6 @@ type: feature
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">13 sonic damage; P &lt; STRONG<a href="../../../../condition/prone/">, prone</a></span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>A <a href="../../../../condition/prone/">prone target</a> ignores this ability.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">

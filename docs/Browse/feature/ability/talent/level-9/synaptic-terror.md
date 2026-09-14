@@ -8,7 +8,7 @@ distance: 3 [burst](../../../../rule/combat/burst.md)
 effects:
     - effect: You and each target ally can't obtain lower than a tier 2 outcome on [power rolls](../../../../rule/dice/power-roll.md) until the start of your next [turn](../../../../rule/combat/turn.md). Each target enemy is affected by the ability's [power roll](../../../../rule/dice/power-roll.md).
       name: Effect
-    - roll: Power Roll + [Reason](../../../../rule/character/reason.md)
+      roll: Power Roll + [Reason](../../../../rule/character/reason.md)
       tier1: R < WEAK, [frightened](../../../../condition/frightened.md) (save ends)
       tier2: R < AVERAGE, [frightened](../../../../condition/frightened.md) (save ends)
       tier3: R < STRONG, [frightened](../../../../condition/frightened.md) (save ends)
@@ -43,6 +43,9 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 <a href="../../../../../rule/combat/burst/">burst</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each ally and enemy in the area</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You and each target ally can&#39;t obtain lower than a tier 2 outcome on <a href="../../../../../rule/dice/power-roll/">power rolls</a> until the start of your next <a href="../../../../../rule/combat/turn/">turn</a>. Each target enemy is affected by the ability&#39;s <a href="../../../../../rule/dice/power-roll/">power roll</a>.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../../rule/character/reason/">Reason</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -51,9 +54,6 @@ type: ability
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">R &lt; STRONG, <a href="../../../../../condition/frightened/">frightened</a> (save ends)</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You and each target ally can&#39;t obtain lower than a tier 2 outcome on <a href="../../../../../rule/dice/power-roll/">power rolls</a> until the start of your next <a href="../../../../../rule/combat/turn/">turn</a>. Each target enemy is affected by the ability&#39;s <a href="../../../../../rule/dice/power-roll/">power roll</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>

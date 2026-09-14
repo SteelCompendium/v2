@@ -7,7 +7,7 @@ distance: Melee 1
 effects:
     - effect: If you and a willing ally are standing on the ground within 10 squares of each other, you can [teleport](../../../../movement/teleport.md) to swap places. If you do, you gain an edge on this ability.
       name: Effect
-    - roll: Power Roll + Intuition
+      roll: Power Roll + Intuition
       tier1: 3 + I damage
       tier2: 5 + I damage
       tier3: 7 + I damage
@@ -42,6 +42,9 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>If you and a willing ally are standing on the ground within 10 squares of each other, you can <a href="../../../../../movement/teleport/">teleport</a> to swap places. If you do, you gain an edge on this ability.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Intuition</span></div>
 <div class="sc-ability__pr-rows">
@@ -50,9 +53,6 @@ type: ability
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">7 + I damage</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If you and a willing ally are standing on the ground within 10 squares of each other, you can <a href="../../../../../movement/teleport/">teleport</a> to swap places. If you do, you gain an edge on this ability.</p></div>
 </div>
 </article>
 

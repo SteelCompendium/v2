@@ -8,7 +8,7 @@ distance: Self
 effects:
     - effect: You jump up to your maximum jump [distance](../../../../rule/combat/distance.md) and make one [power roll](../../../../rule/dice/power-roll.md) that targets each creature [adjacent](../../../../rule/combat/adjacent.md) to the space where you land.
       name: Effect
-    - roll: Power Roll + [Might](../../../../rule/character/might.md)
+      roll: Power Roll + [Might](../../../../rule/character/might.md)
       tier1: 4 damage; [push](../../../../movement/forced-movement.md) 1
       tier2: 7 damage; [push](../../../../movement/forced-movement.md) 2
       tier3: 11 damage; [push](../../../../movement/forced-movement.md) 3
@@ -39,6 +39,9 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You jump up to your maximum jump <a href="../../../../../rule/combat/distance/">distance</a> and make one <a href="../../../../../rule/dice/power-roll/">power roll</a> that targets each creature <a href="../../../../../rule/combat/adjacent/">adjacent</a> to the space where you land.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../../rule/character/might/">Might</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -47,9 +50,6 @@ type: ability
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">11 damage; <a href="../../../../../movement/forced-movement/">push</a> 3</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You jump up to your maximum jump <a href="../../../../../rule/combat/distance/">distance</a> and make one <a href="../../../../../rule/dice/power-roll/">power roll</a> that targets each creature <a href="../../../../../rule/combat/adjacent/">adjacent</a> to the space where you land.</p></div>
 </div>
 </article>
 

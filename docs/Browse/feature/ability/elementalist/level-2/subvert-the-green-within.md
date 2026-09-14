@@ -8,7 +8,7 @@ distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effects:
     - effect: The target uses their [signature ability](../../../../rule/combat/signature-ability.md) against a creature of your choice. This [signature ability](../../../../rule/combat/signature-ability.md) can target the creature even if it usually wouldn't. You then make a [power roll](../../../../rule/dice/power-roll.md) against the target of this ability.
       name: Effect
-    - roll: Power Roll + [Reason](../../../../rule/character/reason.md)
+      roll: Power Roll + [Reason](../../../../rule/character/reason.md)
       tier1: 5 + R poison damage
       tier2: 9 + R poison damage
       tier3: 12 + R poison damage
@@ -42,6 +42,9 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target uses their <a href="../../../../../rule/combat/signature-ability/">signature ability</a> against a creature of your choice. This <a href="../../../../../rule/combat/signature-ability/">signature ability</a> can target the creature even if it usually wouldn&#39;t. You then make a <a href="../../../../../rule/dice/power-roll/">power roll</a> against the target of this ability.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../../rule/character/reason/">Reason</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -50,9 +53,6 @@ type: ability
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">12 + R poison damage</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target uses their <a href="../../../../../rule/combat/signature-ability/">signature ability</a> against a creature of your choice. This <a href="../../../../../rule/combat/signature-ability/">signature ability</a> can target the creature even if it usually wouldn&#39;t. You then make a <a href="../../../../../rule/dice/power-roll/">power roll</a> against the target of this ability.</p></div>
 </div>
 </article>
 

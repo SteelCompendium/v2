@@ -159,6 +159,9 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self; see below</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You move up to your <a href="../../../../rule/character/speed/">speed</a> in a straight line, and enemy squares are not <a href="../../../../movement/difficult-terrain/">difficult terrain</a> for this movement. You can end this movement in a creature&#39;s space and move them to an <a href="../../../../rule/combat/adjacent/">adjacent</a> unoccupied space. You make one <a href="../../../../rule/dice/power-roll/">power roll</a> that targets each enemy whose space you move through.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../rule/character/might/">Might</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -167,9 +170,6 @@ type: feature
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">5 damage</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You move up to your <a href="../../../../rule/character/speed/">speed</a> in a straight line, and enemy squares are not <a href="../../../../movement/difficult-terrain/">difficult terrain</a> for this movement. You can end this movement in a creature&#39;s space and move them to an <a href="../../../../rule/combat/adjacent/">adjacent</a> unoccupied space. You make one <a href="../../../../rule/dice/power-roll/">power roll</a> that targets each enemy whose space you move through.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

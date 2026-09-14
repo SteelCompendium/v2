@@ -636,6 +636,9 @@ As a 1st-level [talent](talent.md), you gain the following features.
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>If you target an ally, they gain <a href="../../rule/health/temporary-stamina/">temporary Stamina</a> equal to three times your <a href="../../rule/character/presence/">Presence</a> score, and they can end one effect on them that is ended by a <a href="../../rule/general/saving-throw/">saving throw</a> or that ends at the end of their <a href="../../rule/combat/turn/">turn</a>. If you target an enemy, you make a <a href="../../rule/dice/power-roll/">power roll</a>.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/presence/">Presence</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -644,9 +647,6 @@ As a 1st-level [talent](talent.md), you gain the following features.
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">9 + P psychic damage; I &lt; STRONG, <a href="../../condition/frightened/">frightened</a> (save ends)</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If you target an ally, they gain <a href="../../rule/health/temporary-stamina/">temporary Stamina</a> equal to three times your <a href="../../rule/character/presence/">Presence</a> score, and they can end one effect on them that is ended by a <a href="../../rule/general/saving-throw/">saving throw</a> or that ends at the end of their <a href="../../rule/combat/turn/">turn</a>. If you target an enemy, you make a <a href="../../rule/dice/power-roll/">power roll</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main" data-conditions="restrained slowed">
@@ -691,6 +691,9 @@ As a 1st-level [talent](talent.md), you gain the following features.
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Choose the <a href="../../rule/damage/damage-type/">damage type</a> and the weakness for this ability from one of the following: acid, corruption, or fire. The target takes damage before this ability imposes any weakness.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/reason/">Reason</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -699,9 +702,6 @@ As a 1st-level [talent](talent.md), you gain the following features.
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">9 + R damage; R &lt; STRONG, the target has weakness equal to 5 + your <a href="../../rule/character/reason/">Reason</a> score (save ends)</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Choose the <a href="../../rule/damage/damage-type/">damage type</a> and the weakness for this ability from one of the following: acid, corruption, or fire. The target takes damage before this ability imposes any weakness.</p></div>
 </div>
 </article>
 <section class="sc-trait" data-action="trait">
@@ -1074,6 +1074,9 @@ As a 3rd-level [talent](talent.md), you gain the following features.
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self; see below</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You create three <a href="../../rule/character/size/">size</a> 1T orbs that orbit your body. Each orb gives you a cumulative <a href="../../rule/damage/damage-immunity/">damage immunity</a> 1. Each time you take damage, you lose 1 orb.</p><p>Once on each of your <a href="../../rule/combat/turn/">turns</a>, you can use a <a href="../../rule/combat/free-maneuver/">free maneuver</a> to fire an orb at a creature or object within 5 squares as a <a href="../../rule/combat/ranged/">ranged</a> <a href="../../rule/combat/strike/">strike</a>, losing the orb after the <a href="../../rule/combat/strike/">strike</a>.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/reason/">Reason</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -1082,9 +1085,6 @@ As a 3rd-level [talent](talent.md), you gain the following features.
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">5 damage</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You create three <a href="../../rule/character/size/">size</a> 1T orbs that orbit your body. Each orb gives you a cumulative <a href="../../rule/damage/damage-immunity/">damage immunity</a> 1. Each time you take damage, you lose 1 orb.</p><p>Once on each of your <a href="../../rule/combat/turn/">turns</a>, you can use a <a href="../../rule/combat/free-maneuver/">free maneuver</a> to fire an orb at a creature or object within 5 squares as a <a href="../../rule/combat/ranged/">ranged</a> <a href="../../rule/combat/strike/">strike</a>, losing the orb after the <a href="../../rule/combat/strike/">strike</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
@@ -1311,6 +1311,9 @@ As a 5th-level [talent](talent.md), you gain the following features.
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 x 2 line within 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You <a href="../../movement/teleport/">teleport</a> to a square on the opposite side of the area before making the <a href="../../rule/dice/power-roll/">power roll</a>.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/reason/">Reason</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -1319,9 +1322,6 @@ As a 5th-level [talent](talent.md), you gain the following features.
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">24 sonic damage</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You <a href="../../movement/teleport/">teleport</a> to a square on the opposite side of the area before making the <a href="../../rule/dice/power-roll/">power roll</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
@@ -1477,6 +1477,13 @@ As a 6th-level [talent](talent.md), you gain the following features.
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/melee/">Melee</a> 2</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One enemy</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target has <a href="../../rule/damage/damage-weakness/">damage weakness</a> 5 until the end of your next <a href="../../rule/combat/turn/">turn</a>. Whenever the target takes damage while they have this weakness, they are <a href="../../condition/prone/">knocked prone</a>.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
+<div class="sc-ability__section-body"><p>This ability gains the <a href="../../rule/combat/strike/">Strike</a> keyword as the vision hurts the target&#39;s psyche. You make a <a href="../../rule/dice/power-roll/">power roll</a>, then are <a href="../../condition/weakened/">weakened</a> (save ends).</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/presence/">Presence</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -1485,13 +1492,6 @@ As a 6th-level [talent](talent.md), you gain the following features.
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">17 + P psychic damage</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target has <a href="../../rule/damage/damage-weakness/">damage weakness</a> 5 until the end of your next <a href="../../rule/combat/turn/">turn</a>. Whenever the target takes damage while they have this weakness, they are <a href="../../condition/prone/">knocked prone</a>.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>This ability gains the <a href="../../rule/combat/strike/">Strike</a> keyword as the vision hurts the target&#39;s psyche. You make a <a href="../../rule/dice/power-roll/">power roll</a>, then are <a href="../../condition/weakened/">weakened</a> (save ends).</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main" data-conditions="restrained slowed">
@@ -1502,6 +1502,9 @@ As a 6th-level [talent](talent.md), you gain the following features.
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">4 <a href="../../rule/combat/cube/">cube</a> within 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each creature and object in the area</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The area is frozen in time until the start of your next <a href="../../rule/combat/turn/">turn</a>. Each object in the area is <a href="../../condition/restrained/">restrained</a> and can&#39;t fall until the effect ends. Until the effect ends, creatures in the area who are reduced to 0 <a href="../../rule/health/stamina/">Stamina</a> or would die stay alive, and objects in the area that are reduced to 0 <a href="../../rule/health/stamina/">Stamina</a> remain undestroyed.</p><p>Make a <a href="../../rule/dice/power-roll/">power roll</a> that targets each enemy in the area.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/presence/">Presence</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -1510,9 +1513,6 @@ As a 6th-level [talent](talent.md), you gain the following features.
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">P &lt; STRONG, the target is <a href="../../condition/restrained/">restrained</a> until the effect ends</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The area is frozen in time until the start of your next <a href="../../rule/combat/turn/">turn</a>. Each object in the area is <a href="../../condition/restrained/">restrained</a> and can&#39;t fall until the effect ends. Until the effect ends, creatures in the area who are reduced to 0 <a href="../../rule/health/stamina/">Stamina</a> or would die stay alive, and objects in the area that are reduced to 0 <a href="../../rule/health/stamina/">Stamina</a> remain undestroyed.</p><p>Make a <a href="../../rule/dice/power-roll/">power roll</a> that targets each enemy in the area.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
@@ -1610,6 +1610,9 @@ As a 6th-level [talent](talent.md), you gain the following features.
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You target a number of creatures with this ability determined by the outcome of your <a href="../../rule/dice/power-roll/">power roll</a>. You and your allies are invisible to each target until the start of your next <a href="../../rule/combat/turn/">turn</a>.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/reason/">Reason</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -1618,9 +1621,6 @@ As a 6th-level [talent](talent.md), you gain the following features.
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">Five creatures</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You target a number of creatures with this ability determined by the outcome of your <a href="../../rule/dice/power-roll/">power roll</a>. You and your allies are invisible to each target until the start of your next <a href="../../rule/combat/turn/">turn</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
@@ -1947,6 +1947,13 @@ As a 9th-level [talent](talent.md), you gain the following features.
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 5</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Three allies</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Each target can use any main action available to them as a free <a href="../../rule/combat/triggered-action/">triggered action</a>, but they lose their main action on their next <a href="../../rule/combat/turn/">turn</a>.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
+<div class="sc-ability__section-body"><p>Make a <a href="../../rule/dice/power-roll/">power roll</a> that targets you and each enemy within <a href="../../rule/combat/distance/">distance</a>.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/presence/">Presence</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -1955,13 +1962,6 @@ As a 9th-level [talent](talent.md), you gain the following features.
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">10 corruption damage; <a href="../../condition/slowed/">slowed</a> (save ends)</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target can use any main action available to them as a free <a href="../../rule/combat/triggered-action/">triggered action</a>, but they lose their main action on their next <a href="../../rule/combat/turn/">turn</a>.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>Make a <a href="../../rule/dice/power-roll/">power roll</a> that targets you and each enemy within <a href="../../rule/combat/distance/">distance</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
@@ -1993,6 +1993,9 @@ As a 9th-level [talent](talent.md), you gain the following features.
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Special</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy and object in the area</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Make a <a href="../../rule/dice/power-roll/">power roll</a> to determine the area of this ability. Each target is vertical <a href="../../movement/forced-movement/">pushed</a> 6 squares. You can target only objects of <a href="../../rule/character/size/">size</a> 1L or smaller.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/reason/">Reason</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -2001,9 +2004,6 @@ As a 9th-level [talent](talent.md), you gain the following features.
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">4 <a href="../../rule/combat/burst/">burst</a></span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Make a <a href="../../rule/dice/power-roll/">power roll</a> to determine the area of this ability. Each target is vertical <a href="../../movement/forced-movement/">pushed</a> 6 squares. You can target only objects of <a href="../../rule/character/size/">size</a> 1L or smaller.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
@@ -2076,6 +2076,9 @@ As a 9th-level [talent](talent.md), you gain the following features.
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 <a href="../../rule/combat/burst/">burst</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each ally and enemy in the area</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You and each target ally can&#39;t obtain lower than a tier 2 outcome on <a href="../../rule/dice/power-roll/">power rolls</a> until the start of your next <a href="../../rule/combat/turn/">turn</a>. Each target enemy is affected by the ability&#39;s <a href="../../rule/dice/power-roll/">power roll</a>.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/reason/">Reason</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -2084,9 +2087,6 @@ As a 9th-level [talent](talent.md), you gain the following features.
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">R &lt; STRONG, <a href="../../condition/frightened/">frightened</a> (save ends)</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You and each target ally can&#39;t obtain lower than a tier 2 outcome on <a href="../../rule/dice/power-roll/">power rolls</a> until the start of your next <a href="../../rule/combat/turn/">turn</a>. Each target enemy is affected by the ability&#39;s <a href="../../rule/dice/power-roll/">power roll</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>

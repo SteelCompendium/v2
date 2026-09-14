@@ -11,6 +11,7 @@ effects:
       tier3: You summon six [signature minions](../../../summoner/level-1/minions.md).
     - effect: The [minions](../../../summoner/level-1/minions.md) are summoned within distance regardless of your minion maximum and without organizing them into squads. Each newly summoned [minion](../../../summoner/level-1/minions.md) immediately moves up to their [speed](../../../../rule/character/speed.md) toward a creature or object.
       name: Effect
+    - effect: If they move adjacent to their target, become targeted by an [opportunity attack](../../../../rule/combat/opportunity-attack.md), or stop moving, they explode, dealing 2 [damage](../../../../rule/damage/damage.md) to one adjacent creature or object and pushing them 1 square. If a target is affected by two or more minions' explosions, the effects stack. These [minions](../../../summoner/level-1/minions.md) activate no effects upon death, and you gain no [essence](../../../summoner/level-1/essence.md) from their deaths.
     - effect: In addition to the [minions](../../../summoner/level-1/minions.md) summoned as a part of this ability, you can choose to command any number of your [minions](../../../summoner/level-1/minions.md) within distance, provided they haven't used a main action or maneuver during the [turn](../../../../rule/combat/turn.md).
       name: Special
 feature_source: summoner

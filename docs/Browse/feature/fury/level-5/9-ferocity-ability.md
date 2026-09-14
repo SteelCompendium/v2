@@ -47,6 +47,9 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">The triggering creature</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
+<div class="sc-ability__section-body"><p>A creature causes you to be <a href="../../../../rule/health/winded/">winded</a> or <a href="../../../../rule/health/dying/">dying</a>, or damages you while you are <a href="../../../../rule/health/winded/">winded</a> or <a href="../../../../rule/health/dying/">dying</a>.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../rule/character/might/">Might</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -55,9 +58,6 @@ type: feature
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">13 + M damage</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
-<div class="sc-ability__section-body"><p>A creature causes you to be <a href="../../../../rule/health/winded/">winded</a> or <a href="../../../../rule/health/dying/">dying</a>, or damages you while you are <a href="../../../../rule/health/winded/">winded</a> or <a href="../../../../rule/health/dying/">dying</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

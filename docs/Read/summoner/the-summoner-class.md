@@ -221,6 +221,9 @@ As a [summoner](../../Browse/class/summoner.md), you gain the following features
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Summoner&#39;s Range</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each of your minions</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
+<div class="sc-ability__section-body"><p>You use a <a href="../../../Browse/rule/combat/triggered-action/">triggered action</a> to make a <a href="../../../Browse/feature/common/main-actions/free-strike/">free strike</a> or use a <a href="../../../Browse/rule/combat/signature-ability/">signature ability</a>.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/reason/">Reason</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -229,9 +232,6 @@ As a [summoner](../../Browse/class/summoner.md), you gain the following features
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">Up to seven targets each make a <a href="../../../Browse/feature/common/main-actions/free-strike/">free strike</a></span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
-<div class="sc-ability__section-body"><p>You use a <a href="../../../Browse/rule/combat/triggered-action/">triggered action</a> to make a <a href="../../../Browse/feature/common/main-actions/free-strike/">free strike</a> or use a <a href="../../../Browse/rule/combat/signature-ability/">signature ability</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Special</span></div>

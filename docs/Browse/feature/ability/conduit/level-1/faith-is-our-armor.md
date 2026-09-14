@@ -8,7 +8,7 @@ distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effects:
     - effect: You can target yourself instead of one ally with this ability.
       name: Effect
-    - roll: Power Roll + [Intuition](../../../../rule/character/intuition.md)
+      roll: Power Roll + [Intuition](../../../../rule/character/intuition.md)
       tier1: The target gains 5 [temporary Stamina](../../../../rule/health/temporary-stamina.md).
       tier2: The target gains 10 [temporary Stamina](../../../../rule/health/temporary-stamina.md).
       tier3: The target gains 15 [temporary Stamina](../../../../rule/health/temporary-stamina.md).
@@ -39,6 +39,9 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Four allies</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You can target yourself instead of one ally with this ability.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../../rule/character/intuition/">Intuition</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -47,9 +50,6 @@ type: ability
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The target gains 15 <a href="../../../../../rule/health/temporary-stamina/">temporary Stamina</a>.</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can target yourself instead of one ally with this ability.</p></div>
 </div>
 </article>
 

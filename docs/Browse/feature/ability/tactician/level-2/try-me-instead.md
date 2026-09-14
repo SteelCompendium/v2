@@ -8,7 +8,7 @@ distance: Self; see below
 effects:
     - effect: You [shift](../../../../movement/shifting.md) up to your [speed](../../../../rule/character/speed.md) directly toward an ally, ending [adjacent](../../../../rule/combat/adjacent.md) to them, then swapping locations with that ally as long as you can fit into each other's spaces. The ally can spend a [Recovery](../../../../rule/health/recoveries.md), and you can make the following weapon [strike](../../../../rule/combat/strike.md) with a [distance](../../../../rule/combat/distance.md) of [melee](../../../../rule/combat/melee.md) 1 against a creature.
       name: Effect
-    - roll: Power Roll + [Reason](../../../../rule/character/reason.md)
+      roll: Power Roll + [Reason](../../../../rule/character/reason.md)
       tier1: 2 + R damage; R < WEAK, [frightened](../../../../condition/frightened.md) (save ends)
       tier2: 3 + R damage; R < AVERAGE, [frightened](../../../../condition/frightened.md) (save ends)
       tier3: 4 + R damage; R < STRONG, [frightened](../../../../condition/frightened.md) (save ends)
@@ -41,6 +41,9 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self; see below</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You <a href="../../../../../movement/shifting/">shift</a> up to your <a href="../../../../../rule/character/speed/">speed</a> directly toward an ally, ending <a href="../../../../../rule/combat/adjacent/">adjacent</a> to them, then swapping locations with that ally as long as you can fit into each other&#39;s spaces. The ally can spend a <a href="../../../../../rule/health/recoveries/">Recovery</a>, and you can make the following weapon <a href="../../../../../rule/combat/strike/">strike</a> with a <a href="../../../../../rule/combat/distance/">distance</a> of <a href="../../../../../rule/combat/melee/">melee</a> 1 against a creature.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../../rule/character/reason/">Reason</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -49,9 +52,6 @@ type: ability
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">4 + R damage; R &lt; STRONG, <a href="../../../../../condition/frightened/">frightened</a> (save ends)</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You <a href="../../../../../movement/shifting/">shift</a> up to your <a href="../../../../../rule/character/speed/">speed</a> directly toward an ally, ending <a href="../../../../../rule/combat/adjacent/">adjacent</a> to them, then swapping locations with that ally as long as you can fit into each other&#39;s spaces. The ally can spend a <a href="../../../../../rule/health/recoveries/">Recovery</a>, and you can make the following weapon <a href="../../../../../rule/combat/strike/">strike</a> with a <a href="../../../../../rule/combat/distance/">distance</a> of <a href="../../../../../rule/combat/melee/">melee</a> 1 against a creature.</p></div>
 </div>
 </article>
 

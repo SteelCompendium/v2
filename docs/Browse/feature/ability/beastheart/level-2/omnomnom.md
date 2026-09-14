@@ -8,12 +8,13 @@ distance: Melee 1
 effects:
     - effect: This ability targets only creatures who are [grabbed](../../../../condition/grabbed.md) and are your companion's size or smaller.
       name: Special
-    - roll: Power Roll + Might
+      roll: Power Roll + Might
       tier1: 6 + M damage; M < WEAK the target is swallowed
       tier2: 10 + M damage; M < AVERAGE the target is swallowed
       tier3: 14 + M damage; M < STRONG the target is swallowed
     - effect: A swallowed creature shares your companion's space, is [grabbed](../../../../condition/grabbed.md) and [restrained](../../../../condition/restrained.md), and has line of effect only to your companion. Nothing has line of effect to the swallowed creature.
       name: Effect
+    - effect: Once per round at the start of your turn, the swallowed creature takes acid damage equal to 1 + your companion's Might score. If the swallowed creature escapes the grab, your companion immediately regurgitates the creature, who lands [prone](../../../../condition/prone.md) in an unoccupied square adjacent to your companion. Your companion can also regurgitate a swallowed creature as a free maneuver. Your companion can have only one creature swallowed at a time.
 flavor: What do you have in your mouth? No! Bad boy!
 keywords:
     - Companion
@@ -44,6 +45,9 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Special</span></div>
+<div class="sc-ability__section-body"><p>This ability targets only creatures who are <a href="../../../../../condition/grabbed/">grabbed</a> and are your companion&#39;s size or smaller.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
 <div class="sc-ability__pr-rows">
@@ -52,9 +56,6 @@ type: ability
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">14 + M damage; M &lt; STRONG the target is swallowed</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Special</span></div>
-<div class="sc-ability__section-body"><p>This ability targets only creatures who are <a href="../../../../../condition/grabbed/">grabbed</a> and are your companion&#39;s size or smaller.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

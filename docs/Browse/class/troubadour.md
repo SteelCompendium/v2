@@ -324,6 +324,9 @@ As a 1st-level [troubadour](troubadour.md), you gain the following features.
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>At the end of each <a href="../../rule/combat/combat-round/">combat round</a> while this performance is active, you can make a <a href="../../rule/dice/power-roll/">power roll</a> against the target that ignores <a href="../../rule/combat/cover/">cover</a>. You can&#39;t target the same creature twice with this effect.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/presence/">Presence</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -332,9 +335,6 @@ As a 1st-level [troubadour](troubadour.md), you gain the following features.
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">Lightning damage equal to 10 + your level</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>At the end of each <a href="../../rule/combat/combat-round/">combat round</a> while this performance is active, you can make a <a href="../../rule/dice/power-roll/">power roll</a> against the target that ignores <a href="../../rule/combat/cover/">cover</a>. You can&#39;t target the same creature twice with this effect.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="none">
@@ -613,6 +613,9 @@ As a 1st-level [troubadour](troubadour.md), you gain the following features.
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self; see below</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You <a href="../../movement/shifting/">shift</a> up to your <a href="../../rule/character/speed/">speed</a>. You make one <a href="../../rule/dice/power-roll/">power roll</a> that targets each enemy you move <a href="../../rule/combat/adjacent/">adjacent</a> to during this <a href="../../movement/shifting/">shift</a>.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/agility/">Agility</a> or <a href="../../rule/character/presence/">Presence</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -621,9 +624,6 @@ As a 1st-level [troubadour](troubadour.md), you gain the following features.
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res"><a href="../../condition/taunted/">Taunted</a> (<a href="../../rule/combat/end-of-turn/">EoT</a>); A &lt; STRONG, <a href="../../condition/prone/">prone and</a> can&#39;t stand (<a href="../../rule/combat/end-of-turn/">EoT</a>)</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You <a href="../../movement/shifting/">shift</a> up to your <a href="../../rule/character/speed/">speed</a>. You make one <a href="../../rule/dice/power-roll/">power roll</a> that targets each enemy you move <a href="../../rule/combat/adjacent/">adjacent</a> to during this <a href="../../movement/shifting/">shift</a>.</p></div>
 </div>
 </article>
 <section class="sc-trait" data-action="trait">
@@ -879,6 +879,9 @@ As a 2nd-level [troubadour](troubadour.md), you gain the following features.
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 <a href="../../rule/combat/cube/">cube</a> within 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The area is haunted by a swirling horde of phantoms until the end of the encounter. Allies can enter any square of the area without spending movement. At the end of each of your <a href="../../rule/combat/turn/">turns</a>, you can make one <a href="../../rule/dice/power-roll/">power roll</a> that targets each enemy in the area.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/presence/">Presence</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -887,9 +890,6 @@ As a 2nd-level [troubadour](troubadour.md), you gain the following features.
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">12 corruption damage; M &lt; STRONG, <a href="../../movement/forced-movement/">pull</a> 3 toward the center of the area</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The area is haunted by a swirling horde of phantoms until the end of the encounter. Allies can enter any square of the area without spending movement. At the end of each of your <a href="../../rule/combat/turn/">turns</a>, you can make one <a href="../../rule/dice/power-roll/">power roll</a> that targets each enemy in the area.</p></div>
 </div>
 </article>
 </div>
@@ -1476,6 +1476,9 @@ As a 6th-level [troubadour](troubadour.md), you gain the following features.
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Three 3 <a href="../../rule/combat/cube/">cubes</a> within 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>A <a href="../../condition/prone/">prone target</a> ignores this ability.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/presence/">Presence</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -1484,9 +1487,6 @@ As a 6th-level [troubadour](troubadour.md), you gain the following features.
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">13 sonic damage; P &lt; STRONG<a href="../../condition/prone/">, prone</a></span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>A <a href="../../condition/prone/">prone target</a> ignores this ability.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
@@ -1822,6 +1822,9 @@ As a 9th-level [troubadour](troubadour.md), you gain the following features.
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Add your current <a href="../../rule/health/stamina/">Stamina</a> to your target&#39;s current <a href="../../rule/health/stamina/">Stamina</a>, then you have half that total <a href="../../rule/health/stamina/">Stamina</a> and the target has the remainder. If either of you would gain more <a href="../../rule/health/stamina/">Stamina</a> this way than their <a href="../../rule/health/stamina/">Stamina</a> maximum, the difference in <a href="../../rule/health/stamina/">Stamina</a> between what that creature would gain and their maximum is gained by the other creature. Neither of you can gain more <a href="../../rule/health/stamina/">Stamina</a> than your maximum this way. You then make a <a href="../../rule/dice/power-roll/">power roll</a>.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/presence/">Presence</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -1830,9 +1833,6 @@ As a 9th-level [troubadour](troubadour.md), you gain the following features.
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">You can choose any of the current effects on you and the target that are ended by a <a href="../../rule/general/saving-throw/">saving throw</a> or that end at the end of your <a href="../../rule/combat/turn/">turns</a>, apply the chosen effects to the target, and end the rest.</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Add your current <a href="../../rule/health/stamina/">Stamina</a> to your target&#39;s current <a href="../../rule/health/stamina/">Stamina</a>, then you have half that total <a href="../../rule/health/stamina/">Stamina</a> and the target has the remainder. If either of you would gain more <a href="../../rule/health/stamina/">Stamina</a> this way than their <a href="../../rule/health/stamina/">Stamina</a> maximum, the difference in <a href="../../rule/health/stamina/">Stamina</a> between what that creature would gain and their maximum is gained by the other creature. Neither of you can gain more <a href="../../rule/health/stamina/">Stamina</a> than your maximum this way. You then make a <a href="../../rule/dice/power-roll/">power roll</a>.</p></div>
 </div>
 </article>
 </div>

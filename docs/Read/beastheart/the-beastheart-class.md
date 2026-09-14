@@ -713,6 +713,12 @@ As a 1st-level beastheart, you gain the following features.
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">1 burst</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each creature in the area</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Relying on their instincts, your companion launches toward the nearest threat. Your companion lunges into the fray, attacking wildly with teeth, claws, or other weapons.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Your companion moves up to a number of squares equal to their Intuition score straight toward the closest enemy they are aware of, avoiding damaging terrain and ending the movement when they are adjacent to that enemy.</p><p>Your companion then makes the following power roll:</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
 <div class="sc-ability__pr-rows">
@@ -721,12 +727,6 @@ As a 1st-level beastheart, you gain the following features.
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">4 + M damage</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Relying on their instincts, your companion launches toward the nearest threat. Your companion lunges into the fray, attacking wildly with teeth, claws, or other weapons.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Your companion moves up to a number of squares equal to their Intuition score straight toward the closest enemy they are aware of, avoiding damaging terrain and ending the movement when they are adjacent to that enemy.</p><p>Your companion then makes the following power roll:</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>This ability gains the following benefit based on your wild nature.</p><ul><li><b>Guardian:</b> Each enemy target is <a href="../../../Browse/condition/taunted/">taunted</a> by your companion until the start of your next turn.</li><li><b>Prowler:</b> Each enemy target is <a href="../../../Browse/condition/weakened/">weakened</a> until the start of your next turn.</li><li><b>Punisher:</b> Your companion slides each target up to a number of squares equal to their Might score.</li><li><b>Spark:</b> This strike deals cold, fire, lightning, or sonic damage. You gain 1 surge.</li></ul></div>
@@ -995,6 +995,9 @@ As a 1st-level beastheart, you gain the following features.
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>If you and a willing ally are standing on the ground within 10 squares of each other, you can <a href="../../../Browse/movement/teleport/">teleport</a> to swap places. If you do, you gain an edge on this ability.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Intuition</span></div>
 <div class="sc-ability__pr-rows">
@@ -1003,9 +1006,6 @@ As a 1st-level beastheart, you gain the following features.
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">7 + I damage</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If you and a willing ally are standing on the ground within 10 squares of each other, you can <a href="../../../Browse/movement/teleport/">teleport</a> to swap places. If you do, you gain an edge on this ability.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -1393,6 +1393,9 @@ As a 2nd-level beastheart, you gain the following features.
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Your companion can <a href="../../../Browse/movement/teleport/">teleport</a> up to 5 squares before and after making the power roll. Instead of grabbing the target, your companion can pick up a target object that is smaller than they are. You can forgo dealing damage with this ability.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
 <div class="sc-ability__pr-rows">
@@ -1401,9 +1404,6 @@ As a 2nd-level beastheart, you gain the following features.
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">12 + M damage; M &lt; STRONG <a href="../../../Browse/condition/grabbed/">grabbed</a></span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Your companion can <a href="../../../Browse/movement/teleport/">teleport</a> up to 5 squares before and after making the power roll. Instead of grabbing the target, your companion can pick up a target object that is smaller than they are. You can forgo dealing damage with this ability.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>After making the power roll, your companion can teleport with a <a href="../../../Browse/condition/grabbed/">grabbed</a> creature or held object, provided the creature or object can fit in the destination. You choose which squares adjacent to your companion the <a href="../../../Browse/condition/grabbed/">grabbed</a> creature or held object is teleported to.</p></div>
@@ -1417,6 +1417,9 @@ As a 2nd-level beastheart, you gain the following features.
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Special</span></div>
+<div class="sc-ability__section-body"><p>This ability targets only creatures who are <a href="../../../Browse/condition/grabbed/">grabbed</a> and are your companion&#39;s size or smaller.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
 <div class="sc-ability__pr-rows">
@@ -1425,9 +1428,6 @@ As a 2nd-level beastheart, you gain the following features.
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">14 + M damage; M &lt; STRONG the target is swallowed</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Special</span></div>
-<div class="sc-ability__section-body"><p>This ability targets only creatures who are <a href="../../../Browse/condition/grabbed/">grabbed</a> and are your companion&#39;s size or smaller.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -1448,6 +1448,13 @@ As a 2nd-level beastheart, you gain the following features.
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">2 burst</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Special</span></div>
+<div class="sc-ability__section-body"><p>This ability targets only enemies with line of effect to your companion.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Your companion <a href="../../../Browse/movement/shifting/">shifts</a> up to a number of squares equal to their Intuition score. During this movement, they are invisible. They then make a power roll.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Intuition</span></div>
 <div class="sc-ability__pr-rows">
@@ -1456,13 +1463,6 @@ As a 2nd-level beastheart, you gain the following features.
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">10 damage; P &lt; STRONG <a href="../../../Browse/condition/frightened/">frightened</a> (save ends)</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Special</span></div>
-<div class="sc-ability__section-body"><p>This ability targets only enemies with line of effect to your companion.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Your companion <a href="../../../Browse/movement/shifting/">shifts</a> up to a number of squares equal to their Intuition score. During this movement, they are invisible. They then make a power roll.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -1609,6 +1609,13 @@ As a 3rd-level beastheart, you gain the following features.
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
+<div class="sc-ability__section-body"><p>Your companion uses an ability that reduces the target to 0 Stamina.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target dies. You <a href="../../../Browse/movement/teleport/">teleport</a> to the target&#39;s space, <a href="../../../Browse/movement/shifting/">shift</a> up to a number of squares equal to your Might score, and can then make a melee free strike. You then make the following power roll, targeting each enemy within 5 squares of the target:</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
 <div class="sc-ability__pr-rows">
@@ -1617,13 +1624,6 @@ As a 3rd-level beastheart, you gain the following features.
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 psychic damage; P &lt; STRONG <a href="../../../Browse/condition/frightened/">frightened</a> (save ends)</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
-<div class="sc-ability__section-body"><p>Your companion uses an ability that reduces the target to 0 Stamina.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target dies. You <a href="../../../Browse/movement/teleport/">teleport</a> to the target&#39;s space, <a href="../../../Browse/movement/shifting/">shift</a> up to a number of squares equal to your Might score, and can then make a melee free strike. You then make the following power roll, targeting each enemy within 5 squares of the target:</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main" data-conditions="bleeding dazed">
@@ -1990,6 +1990,9 @@ As a 6th-level beastheart, you gain the following features.
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 5</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The first time the target uses a move action, main action, maneuver, or triggered action before the start of your next turn, your companion makes the following power roll before the target acts. If the target hasn&#39;t acted before the start of your next turn, they are <a href="../../../Browse/condition/frightened/">frightened</a> of your companion (save ends).</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Intuition</span></div>
 <div class="sc-ability__pr-rows">
@@ -1998,9 +2001,6 @@ As a 6th-level beastheart, you gain the following features.
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">18 + I psychic damage; I &lt; STRONG <a href="../../../Browse/condition/weakened/">weakened</a> (save ends)</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The first time the target uses a move action, main action, maneuver, or triggered action before the start of your next turn, your companion makes the following power roll before the target acts. If the target hasn&#39;t acted before the start of your next turn, they are <a href="../../../Browse/condition/frightened/">frightened</a> of your companion (save ends).</p></div>
 </div>
 </article>
 <section class="sc-trait" data-action="trait">
@@ -2070,6 +2070,9 @@ As a 6th-level beastheart, you gain the following features.
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Your companion <a href="../../../Browse/movement/shifting/">shifts</a> up to their speed and makes one power roll that targets each enemy they come adjacent to during the shift. If your companion targets only one enemy with this ability, the power roll gains an edge.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
 <div class="sc-ability__pr-rows">
@@ -2078,9 +2081,6 @@ As a 6th-level beastheart, you gain the following features.
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">18 sonic damage; M &lt; STRONG <a href="../../../Browse/condition/prone/">prone</a></span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Your companion <a href="../../../Browse/movement/shifting/">shifts</a> up to their speed and makes one power roll that targets each enemy they come adjacent to during the shift. If your companion targets only one enemy with this ability, the power roll gains an edge.</p></div>
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 2 Ferocity</span><span class="txt">You can move up to your speed. The power roll also targets each enemy you come adjacent to during the move.</span></div>
 </article>
@@ -2434,6 +2434,9 @@ As a 9th-level beastheart, you gain the following features.
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Your companion <a href="../../../Browse/movement/teleport/">teleports</a> up to their speed.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Intuition</span></div>
 <div class="sc-ability__pr-rows">
@@ -2442,9 +2445,6 @@ As a 9th-level beastheart, you gain the following features.
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">27 + I psychic damage; P &lt; STRONG <a href="../../../Browse/condition/frightened/">frightened</a> (save ends)</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Your companion <a href="../../../Browse/movement/teleport/">teleports</a> up to their speed.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -2474,6 +2474,9 @@ As a 9th-level beastheart, you gain the following features.
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 burst</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Special</span></div>
+<div class="sc-ability__section-body"><p>This ability targets only creatures you choose within distance.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
 <div class="sc-ability__pr-rows">
@@ -2482,9 +2485,6 @@ As a 9th-level beastheart, you gain the following features.
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The target is battle-frenzied</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Special</span></div>
-<div class="sc-ability__section-body"><p>This ability targets only creatures you choose within distance.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -2526,6 +2526,13 @@ As a 9th-level beastheart, you gain the following features.
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
+<div class="sc-ability__section-body"><p>After taking damage, your companion is dead or dying.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Your companion makes a power roll, which targets each enemy in a 5 burst.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Intuition</span></div>
 <div class="sc-ability__pr-rows">
@@ -2534,13 +2541,6 @@ As a 9th-level beastheart, you gain the following features.
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">30 cold, fire, lightning, or sonic damage</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
-<div class="sc-ability__section-body"><p>After taking damage, your companion is dead or dying.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Your companion makes a power roll, which targets each enemy in a 5 burst.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -2555,6 +2555,9 @@ As a 9th-level beastheart, you gain the following features.
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 cube within 20</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Your companion summons a ghostly pack of creatures that resemble them to fill the area. The pack can appear in and move through creatures, objects, and terrain. Once summoned, the pack moves in a straight line toward your companion until it&#39;s centered on your companion&#39;s space, then continues moving in a straight line until it is up to 20 squares away.</p><p>Your companion targets each enemy inside the pack&#39;s area during its movement once with the following power roll. If a creature is killed by this ability, their body is dragged off to Quintessence to be devoured at leisure.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
 <div class="sc-ability__pr-rows">
@@ -2563,9 +2566,6 @@ As a 9th-level beastheart, you gain the following features.
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">18 damage</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Your companion summons a ghostly pack of creatures that resemble them to fill the area. The pack can appear in and move through creatures, objects, and terrain. Once summoned, the pack moves in a straight line toward your companion until it&#39;s centered on your companion&#39;s space, then continues moving in a straight line until it is up to 20 squares away.</p><p>Your companion targets each enemy inside the pack&#39;s area during its movement once with the following power roll. If a creature is killed by this ability, their body is dragged off to Quintessence to be devoured at leisure.</p></div>
 </div>
 </article>
 </div>

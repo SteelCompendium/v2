@@ -8,7 +8,7 @@ distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effects:
     - effect: You and the target are removed from the encounter map until the start of your next [turn](../../../../rule/combat/turn.md). You reappear in the spaces you left or the nearest unoccupied spaces. Make a [power roll](../../../../rule/dice/power-roll.md) upon your return.
       name: Effect
-    - roll: Power Roll + [Agility](../../../../rule/character/agility.md)
+      roll: Power Roll + [Agility](../../../../rule/character/agility.md)
       tier1: 8 + A corruption damage
       tier2: 13 + A corruption damage
       tier3: 17 + A corruption damage
@@ -41,6 +41,9 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You and the target are removed from the encounter map until the start of your next <a href="../../../../../rule/combat/turn/">turn</a>. You reappear in the spaces you left or the nearest unoccupied spaces. Make a <a href="../../../../../rule/dice/power-roll/">power roll</a> upon your return.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../../rule/character/agility/">Agility</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -49,9 +52,6 @@ type: ability
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">17 + A corruption damage</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You and the target are removed from the encounter map until the start of your next <a href="../../../../../rule/combat/turn/">turn</a>. You reappear in the spaces you left or the nearest unoccupied spaces. Make a <a href="../../../../../rule/dice/power-roll/">power roll</a> upon your return.</p></div>
 </div>
 </article>
 

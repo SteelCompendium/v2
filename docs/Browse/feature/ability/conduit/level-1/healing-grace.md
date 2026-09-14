@@ -9,6 +9,7 @@ effects:
       name: Effect
     - cost: Spend 1+ Piety
       effect: 'For each piety spent, choose one of the following [enhancements](../../../../rule/treasure/enhancement.md):'
+    - effect: '- You can target one additional ally within [distance](../../../../rule/combat/distance.md). - You can end one effect on a target that is ended by a [saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of their [turn](../../../../rule/combat/turn.md). - A [prone target](../../../../condition/prone.md) can stand up. - A target can spend 1 additional [Recovery](../../../../rule/health/recoveries.md).'
 flavor: Your divine energy restores the righteous.
 keywords:
     - Magic
@@ -36,10 +37,10 @@ type: ability
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
 <div class="sc-ability__section-body"><p>The target can spend a <a href="../../../../../rule/health/recoveries/">Recovery</a>.</p></div>
 </div>
+<div class="sc-ability__enh"><span class="cost">Spend 1+ Piety</span><span class="txt">For each piety spent, choose one of the following <a href="../../../../../rule/treasure/enhancement/">enhancements</a>:</span></div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><ul><li>You can target one additional ally within <a href="../../../../../rule/combat/distance/">distance</a>.</li><li>You can end one effect on a target that is ended by a <a href="../../../../../rule/general/saving-throw/">saving throw</a> or that ends at the end of their <a href="../../../../../rule/combat/turn/">turn</a>.</li><li>A <a href="../../../../../condition/prone/">prone target</a> can stand up.</li><li>A target can spend 1 additional <a href="../../../../../rule/health/recoveries/">Recovery</a>.</li></ul></div>
 </div>
-<div class="sc-ability__enh"><span class="cost">Spend 1+ Piety</span><span class="txt">For each piety spent, choose one of the following <a href="../../../../../rule/treasure/enhancement/">enhancements</a>:</span></div>
 </article>
 
 

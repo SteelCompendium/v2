@@ -8,7 +8,7 @@ distance: Self
 effects:
     - effect: Your companion [shifts](../../../../movement/shifting.md) up to their speed and makes one power roll that targets each enemy they come adjacent to during the shift. If your companion targets only one enemy with this ability, the power roll gains an edge.
       name: Effect
-    - roll: Power Roll + Might
+      roll: Power Roll + Might
       tier1: 9 sonic damage; M < WEAK [prone](../../../../condition/prone.md)
       tier2: 13 sonic damage; M < AVERAGE [prone](../../../../condition/prone.md)
       tier3: 18 sonic damage; M < STRONG [prone](../../../../condition/prone.md)
@@ -44,6 +44,9 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Your companion <a href="../../../../../movement/shifting/">shifts</a> up to their speed and makes one power roll that targets each enemy they come adjacent to during the shift. If your companion targets only one enemy with this ability, the power roll gains an edge.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
 <div class="sc-ability__pr-rows">
@@ -52,9 +55,6 @@ type: ability
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">18 sonic damage; M &lt; STRONG <a href="../../../../../condition/prone/">prone</a></span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Your companion <a href="../../../../../movement/shifting/">shifts</a> up to their speed and makes one power roll that targets each enemy they come adjacent to during the shift. If your companion targets only one enemy with this ability, the power roll gains an edge.</p></div>
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 2 Ferocity</span><span class="txt">You can move up to your speed. The power roll also targets each enemy you come adjacent to during the move.</span></div>
 </article>

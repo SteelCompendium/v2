@@ -7,6 +7,7 @@ distance: Special
 effects:
     - effect: Until the end of the encounter or you are [dying](../../../../rule/health/dying.md), each square on the ground is considered teeming with minions. An enemy that ends their [turn](../../../../rule/combat/turn.md) in an affected square takes 5 [damage](../../../../rule/damage/damage.md). This [damage](../../../../rule/damage/damage.md) can't be reduced.
       name: Effect
+    - effect: Additionally, you can use [Minion Bridge](../level-1/minion-bridge.md) treating each affected square as an eligible minion (up to a maximum of 10 additional squares).
 feature_source: summoner
 flavor: The battle is now a war. Your entire army storms the field.
 keywords:

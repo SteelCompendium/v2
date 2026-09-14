@@ -2762,10 +2762,10 @@ As a [conduit](../../Browse/class/conduit.md), you gain the following features.
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
 <div class="sc-ability__section-body"><p>The target can spend a <a href="../../../Browse/rule/health/recoveries/">Recovery</a>.</p></div>
 </div>
+<div class="sc-ability__enh"><span class="cost">Spend 1+ Piety</span><span class="txt">For each piety spent, choose one of the following <a href="../../../Browse/rule/treasure/enhancement/">enhancements</a>:</span></div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><ul><li>You can target one additional ally within <a href="../../../Browse/rule/combat/distance/">distance</a>.</li><li>You can end one effect on a target that is ended by a <a href="../../../Browse/rule/general/saving-throw/">saving throw</a> or that ends at the end of their <a href="../../../Browse/rule/combat/turn/">turn</a>.</li><li>A <a href="../../../Browse/condition/prone/">prone target</a> can stand up.</li><li>A target can spend 1 additional <a href="../../../Browse/rule/health/recoveries/">Recovery</a>.</li></ul></div>
 </div>
-<div class="sc-ability__enh"><span class="cost">Spend 1+ Piety</span><span class="txt">For each piety spent, choose one of the following <a href="../../../Browse/rule/treasure/enhancement/">enhancements</a>:</span></div>
 </article>
 </div>
 </div>
@@ -3244,6 +3244,9 @@ As a [conduit](../../Browse/class/conduit.md), you gain the following features.
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../Browse/rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Four allies</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You can target yourself instead of one ally with this ability.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/intuition/">Intuition</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -3252,9 +3255,6 @@ As a [conduit](../../Browse/class/conduit.md), you gain the following features.
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The target gains 15 <a href="../../../Browse/rule/health/temporary-stamina/">temporary Stamina</a>.</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can target yourself instead of one ally with this ability.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main" data-conditions="prone">
@@ -3981,6 +3981,9 @@ As a 6th-level [conduit](../../Browse/class/conduit.md), you gain the following 
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../Browse/rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You conjure a <a href="../../../Browse/rule/character/size/">size</a> 2 rolling machine that appears in an unoccupied space within <a href="../../../Browse/rule/combat/distance/">distance</a>. The machine has 50 <a href="../../../Browse/rule/health/stamina/">Stamina</a> and immunity all to poison and psychic damage. It disappears at the end of the encounter, if its <a href="../../../Browse/rule/health/stamina/">Stamina</a> drops to 0, or if you are <a href="../../../Browse/rule/health/dying/">dying</a>. When the machine first appears, make the following <a href="../../../Browse/rule/dice/power-roll/">power roll</a> once, targeting each enemy <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to it.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/intuition/">Intuition</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -3989,9 +3992,6 @@ As a 6th-level [conduit](../../Browse/class/conduit.md), you gain the following 
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 damage</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You conjure a <a href="../../../Browse/rule/character/size/">size</a> 2 rolling machine that appears in an unoccupied space within <a href="../../../Browse/rule/combat/distance/">distance</a>. The machine has 50 <a href="../../../Browse/rule/health/stamina/">Stamina</a> and immunity all to poison and psychic damage. It disappears at the end of the encounter, if its <a href="../../../Browse/rule/health/stamina/">Stamina</a> drops to 0, or if you are <a href="../../../Browse/rule/health/dying/">dying</a>. When the machine first appears, make the following <a href="../../../Browse/rule/dice/power-roll/">power roll</a> once, targeting each enemy <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to it.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>Once on each subsequent <a href="../../../Browse/rule/combat/turn/">turn</a>, you can use a <a href="../../../Browse/rule/combat/free-maneuver/">free maneuver</a> to move the machine a number of squares up to your <a href="../../../Browse/rule/character/intuition/">Intuition</a> score then repeat the <a href="../../../Browse/rule/dice/power-roll/">power roll</a>.</p></div>
@@ -4478,6 +4478,20 @@ As a 9th-level [conduit](../../Browse/class/conduit.md), you gain the following 
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../Browse/rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You conjure a <a href="../../../Browse/rule/character/size/">size</a> 4 dragon that appears in an unoccupied space within <a href="../../../Browse/rule/combat/distance/">distance</a>. The dragon has <a href="../../../Browse/rule/character/speed/">speed</a> 6 and can <a href="../../../Browse/movement/fly/">fly</a>, <a href="../../../Browse/rule/character/stability/">stability</a> 4, 100 <a href="../../../Browse/rule/health/stamina/">Stamina</a>, immunity all to fire damage, and uses your <a href="../../../Browse/rule/character/characteristic/">characteristics</a>. The dragon disappears at the end of the encounter, if their <a href="../../../Browse/rule/health/stamina/">Stamina</a> drops to 0, or if you are <a href="../../../Browse/rule/health/dying/">dying</a>.</p><p>On subsequent <a href="../../../Browse/rule/combat/turn/">turns</a>, you can use a main action to command the dragon to breathe magic fire in a 3 <a href="../../../Browse/rule/combat/cube/">cube</a> within 1 square of them. Make the following <a href="../../../Browse/rule/dice/power-roll/">power roll</a> targeting each enemy in the area.</p></div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/intuition/">Intuition</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 fire damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 fire damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">12 fire damage</span></div>
+</div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Additionally, you can use a maneuver to move the dragon up to their <a href="../../../Browse/rule/character/speed/">speed</a>, or to make a <a href="../../../Browse/rule/combat/melee/">melee</a> weapon <a href="../../../Browse/rule/combat/strike/">strike</a> with their claw against an <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> creature or object. The dragon can also make this <a href="../../../Browse/rule/combat/strike/">strike</a> as a <a href="../../../Browse/feature/common/main-actions/free-strike/">free strike</a>.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/intuition/">Intuition</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -4486,12 +4500,6 @@ As a 9th-level [conduit](../../Browse/class/conduit.md), you gain the following 
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 + I damage</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You conjure a <a href="../../../Browse/rule/character/size/">size</a> 4 dragon that appears in an unoccupied space within <a href="../../../Browse/rule/combat/distance/">distance</a>. The dragon has <a href="../../../Browse/rule/character/speed/">speed</a> 6 and can <a href="../../../Browse/movement/fly/">fly</a>, <a href="../../../Browse/rule/character/stability/">stability</a> 4, 100 <a href="../../../Browse/rule/health/stamina/">Stamina</a>, immunity all to fire damage, and uses your <a href="../../../Browse/rule/character/characteristic/">characteristics</a>. The dragon disappears at the end of the encounter, if their <a href="../../../Browse/rule/health/stamina/">Stamina</a> drops to 0, or if you are <a href="../../../Browse/rule/health/dying/">dying</a>.</p><p>On subsequent <a href="../../../Browse/rule/combat/turn/">turns</a>, you can use a main action to command the dragon to breathe magic fire in a 3 <a href="../../../Browse/rule/combat/cube/">cube</a> within 1 square of them. Make the following <a href="../../../Browse/rule/dice/power-roll/">power roll</a> targeting each enemy in the area.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Additionally, you can use a maneuver to move the dragon up to their <a href="../../../Browse/rule/character/speed/">speed</a>, or to make a <a href="../../../Browse/rule/combat/melee/">melee</a> weapon <a href="../../../Browse/rule/combat/strike/">strike</a> with their claw against an <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> creature or object. The dragon can also make this <a href="../../../Browse/rule/combat/strike/">strike</a> as a <a href="../../../Browse/feature/common/main-actions/free-strike/">free strike</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -5478,6 +5486,9 @@ As a 1st-level [elementalist](../../Browse/class/elementalist.md), you gain the 
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../Browse/rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You open up two holes with 1-square openings that are 4 squares deep, which can be placed on any mundane surface within <a href="../../../Browse/rule/combat/distance/">distance</a>. You can place these holes next to each other to create fewer holes with wider openings. When the holes open, make a separate <a href="../../../Browse/rule/dice/power-roll/">power roll</a> for each creature on the ground above a hole and small enough to fall in. (You can&#39;t score a <a href="../../../Browse/rule/combat/critical-hit/">critical hit</a> with this ability because it uses a maneuver.)</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/reason/">Reason</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -5486,9 +5497,6 @@ As a 1st-level [elementalist](../../Browse/class/elementalist.md), you gain the 
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The target falls into the hole and can&#39;t reduce the height of the fall.</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You open up two holes with 1-square openings that are 4 squares deep, which can be placed on any mundane surface within <a href="../../../Browse/rule/combat/distance/">distance</a>. You can place these holes next to each other to create fewer holes with wider openings. When the holes open, make a separate <a href="../../../Browse/rule/dice/power-roll/">power roll</a> for each creature on the ground above a hole and small enough to fall in. (You can&#39;t score a <a href="../../../Browse/rule/combat/critical-hit/">critical hit</a> with this ability because it uses a maneuver.)</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Persistent 1</span></div>
@@ -5662,6 +5670,9 @@ As a 2nd-level [elementalist](../../Browse/class/elementalist.md), you gain the 
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../Browse/rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target uses their <a href="../../../Browse/rule/combat/signature-ability/">signature ability</a> against a creature of your choice. This <a href="../../../Browse/rule/combat/signature-ability/">signature ability</a> can target the creature even if it usually wouldn&#39;t. You then make a <a href="../../../Browse/rule/dice/power-roll/">power roll</a> against the target of this ability.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/reason/">Reason</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -5670,9 +5681,6 @@ As a 2nd-level [elementalist](../../Browse/class/elementalist.md), you gain the 
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">12 + R poison damage</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target uses their <a href="../../../Browse/rule/combat/signature-ability/">signature ability</a> against a creature of your choice. This <a href="../../../Browse/rule/combat/signature-ability/">signature ability</a> can target the creature even if it usually wouldn&#39;t. You then make a <a href="../../../Browse/rule/dice/power-roll/">power roll</a> against the target of this ability.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -5683,6 +5691,9 @@ As a 2nd-level [elementalist](../../Browse/class/elementalist.md), you gain the 
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../Browse/rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one ally</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target is <a href="../../../Browse/movement/teleport/">teleport</a>ed to another space within <a href="../../../Browse/rule/combat/distance/">distance</a>. Make a <a href="../../../Browse/rule/dice/power-roll/">power roll</a> that affects each enemy <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to the target&#39;s new space.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/reason/">Reason</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -5691,9 +5702,6 @@ As a 2nd-level [elementalist](../../Browse/class/elementalist.md), you gain the 
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 fire damage</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target is <a href="../../../Browse/movement/teleport/">teleport</a>ed to another space within <a href="../../../Browse/rule/combat/distance/">distance</a>. Make a <a href="../../../Browse/rule/dice/power-roll/">power roll</a> that affects each enemy <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to the target&#39;s new space.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main" data-conditions="restrained">
@@ -5813,6 +5821,9 @@ As a 3rd-level [elementalist](../../Browse/class/elementalist.md), you gain the 
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../Browse/rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Special</span></div>
+<div class="sc-ability__section-body"><p>The number of creatures you target with this ability is determined by your <a href="../../../Browse/rule/dice/power-roll/">power roll</a>.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/reason/">Reason</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -5821,9 +5832,6 @@ As a 3rd-level [elementalist](../../Browse/class/elementalist.md), you gain the 
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">Three creatures</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Special</span></div>
-<div class="sc-ability__section-body"><p>The number of creatures you target with this ability is determined by your <a href="../../../Browse/rule/dice/power-roll/">power roll</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -7124,6 +7132,9 @@ As a 1st-level [fury](../../Browse/class/fury.md), you gain the following featur
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self; see below</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You move up to your <a href="../../../Browse/rule/character/speed/">speed</a> in a straight line, and enemy squares are not <a href="../../../Browse/movement/difficult-terrain/">difficult terrain</a> for this movement. You can end this movement in a creature&#39;s space and move them to an <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> unoccupied space. You make one <a href="../../../Browse/rule/dice/power-roll/">power roll</a> that targets each enemy whose space you move through.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/might/">Might</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -7132,9 +7143,6 @@ As a 1st-level [fury](../../Browse/class/fury.md), you gain the following featur
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">5 damage</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You move up to your <a href="../../../Browse/rule/character/speed/">speed</a> in a straight line, and enemy squares are not <a href="../../../Browse/movement/difficult-terrain/">difficult terrain</a> for this movement. You can end this movement in a creature&#39;s space and move them to an <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> unoccupied space. You make one <a href="../../../Browse/rule/dice/power-roll/">power roll</a> that targets each enemy whose space you move through.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -7337,6 +7345,9 @@ As a 2nd-level [fury](../../Browse/class/fury.md), you gain the following featur
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self; see below</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You move up to your <a href="../../../Browse/rule/character/speed/">speed</a> in a straight line. During this movement, you can move through mundane structures, including walls, which are <a href="../../../Browse/movement/difficult-terrain/">difficult terrain</a> for you. You automatically destroy each square of structure you move through and leave behind a square of <a href="../../../Browse/movement/difficult-terrain/">difficult terrain</a>.</p><p>Additionally, you make one <a href="../../../Browse/rule/dice/power-roll/">power roll</a> that targets each enemy you move <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to during this movement.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/might/">Might</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -7345,9 +7356,6 @@ As a 2nd-level [fury](../../Browse/class/fury.md), you gain the following featur
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res"><a href="../../../Browse/movement/forced-movement/">Push</a> 3</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You move up to your <a href="../../../Browse/rule/character/speed/">speed</a> in a straight line. During this movement, you can move through mundane structures, including walls, which are <a href="../../../Browse/movement/difficult-terrain/">difficult terrain</a> for you. You automatically destroy each square of structure you move through and leave behind a square of <a href="../../../Browse/movement/difficult-terrain/">difficult terrain</a>.</p><p>Additionally, you make one <a href="../../../Browse/rule/dice/power-roll/">power roll</a> that targets each enemy you move <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to during this movement.</p></div>
 </div>
 </article>
 </div>
@@ -7383,6 +7391,9 @@ As a 2nd-level [fury](../../Browse/class/fury.md), you gain the following featur
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self; see below</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You <a href="../../../Browse/movement/shifting/">shift</a> up to your <a href="../../../Browse/rule/character/speed/">speed</a> and make one <a href="../../../Browse/rule/dice/power-roll/">power roll</a> that targets up to three enemies you move <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to during this <a href="../../../Browse/movement/shifting/">shift</a>.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/might/">Might</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -7391,9 +7402,6 @@ As a 2nd-level [fury](../../Browse/class/fury.md), you gain the following featur
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">6 damage; A &lt; STRONG, <a href="../../../Browse/condition/dazed/">dazed</a> (save ends)</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You <a href="../../../Browse/movement/shifting/">shift</a> up to your <a href="../../../Browse/rule/character/speed/">speed</a> and make one <a href="../../../Browse/rule/dice/power-roll/">power roll</a> that targets up to three enemies you move <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to during this <a href="../../../Browse/movement/shifting/">shift</a>.</p></div>
 </div>
 </article>
 </div>
@@ -7732,6 +7740,9 @@ As a 5th-level [fury](../../Browse/class/fury.md), you gain the following featur
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../Browse/rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">The triggering creature</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
+<div class="sc-ability__section-body"><p>A creature causes you to be <a href="../../../Browse/rule/health/winded/">winded</a> or <a href="../../../Browse/rule/health/dying/">dying</a>, or damages you while you are <a href="../../../Browse/rule/health/winded/">winded</a> or <a href="../../../Browse/rule/health/dying/">dying</a>.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/might/">Might</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -7740,9 +7751,6 @@ As a 5th-level [fury](../../Browse/class/fury.md), you gain the following featur
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">13 + M damage</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
-<div class="sc-ability__section-body"><p>A creature causes you to be <a href="../../../Browse/rule/health/winded/">winded</a> or <a href="../../../Browse/rule/health/dying/">dying</a>, or damages you while you are <a href="../../../Browse/rule/health/winded/">winded</a> or <a href="../../../Browse/rule/health/dying/">dying</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -7860,6 +7868,9 @@ As a 6th-level [fury](../../Browse/class/fury.md), you gain the following featur
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You jump up to your maximum jump <a href="../../../Browse/rule/combat/distance/">distance</a> and make one <a href="../../../Browse/rule/dice/power-roll/">power roll</a> that targets each creature <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to the space where you land.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/might/">Might</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -7868,9 +7879,6 @@ As a 6th-level [fury](../../Browse/class/fury.md), you gain the following featur
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">11 damage; <a href="../../../Browse/movement/forced-movement/">push</a> 3</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You jump up to your maximum jump <a href="../../../Browse/rule/combat/distance/">distance</a> and make one <a href="../../../Browse/rule/dice/power-roll/">power roll</a> that targets each creature <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to the space where you land.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -7927,6 +7935,9 @@ As a 6th-level [fury](../../Browse/class/fury.md), you gain the following featur
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../Browse/rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You <a href="../../../Browse/movement/shifting/">shift</a> up to your <a href="../../../Browse/rule/character/speed/">speed</a>.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/might/">Might</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -7935,9 +7946,6 @@ As a 6th-level [fury](../../Browse/class/fury.md), you gain the following featur
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">10 + M damage; P &lt; STRONG, <a href="../../../Browse/condition/frightened/">frightened</a> (save ends)</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You <a href="../../../Browse/movement/shifting/">shift</a> up to your <a href="../../../Browse/rule/character/speed/">speed</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -8181,6 +8189,9 @@ As an 8th-level [fury](../../Browse/class/fury.md), you gain the following featu
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self; see below</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You <a href="../../../Browse/movement/shifting/">shift</a> up to your <a href="../../../Browse/rule/character/speed/">speed</a>. Each enemy you move <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to during this movement takes damage equal to twice your <a href="../../../Browse/rule/character/might/">Might</a> score. Then make one <a href="../../../Browse/rule/dice/power-roll/">power roll</a> that targets each enemy you move <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to during this <a href="../../../Browse/movement/shifting/">shift</a>. You gain 1 ferocity for each target who dies as a result of this ability (maximum 11 ferocity).</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/might/">Might</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -8189,9 +8200,6 @@ As an 8th-level [fury](../../Browse/class/fury.md), you gain the following featu
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">Any target whose <a href="../../../Browse/rule/health/stamina/">Stamina</a> is equal to or less than 17 dies.</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You <a href="../../../Browse/movement/shifting/">shift</a> up to your <a href="../../../Browse/rule/character/speed/">speed</a>. Each enemy you move <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to during this movement takes damage equal to twice your <a href="../../../Browse/rule/character/might/">Might</a> score. Then make one <a href="../../../Browse/rule/dice/power-roll/">power roll</a> that targets each enemy you move <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to during this <a href="../../../Browse/movement/shifting/">shift</a>. You gain 1 ferocity for each target who dies as a result of this ability (maximum 11 ferocity).</p></div>
 </div>
 </article>
 </div>
@@ -10023,6 +10031,9 @@ As a 5th-level [null](../../Browse/class/null.md), you gain the following featur
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../Browse/rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
+<div class="sc-ability__section-body"><p>The target moves or uses a main action.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/agility/">Agility</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -10031,9 +10042,6 @@ As a 5th-level [null](../../Browse/class/null.md), you gain the following featur
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">13 + A damage; I &lt; STRONG, <a href="../../../Browse/condition/restrained/">restrained</a> (save ends)</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
-<div class="sc-ability__section-body"><p>The target moves or uses a main action.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -10167,6 +10175,9 @@ As a 6th-level [null](../../Browse/class/null.md), you gain the following featur
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self; see below</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You can <a href="../../../Browse/movement/shifting/">shift</a> up to your <a href="../../../Browse/rule/character/speed/">speed</a>, and squares occupied by enemies or objects are not <a href="../../../Browse/movement/difficult-terrain/">difficult terrain</a> for this <a href="../../../Browse/movement/shifting/">shift</a>. You make one <a href="../../../Browse/rule/dice/power-roll/">power roll</a> that targets each enemy you moved through during this <a href="../../../Browse/movement/shifting/">shift</a>.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/agility/">Agility</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -10175,9 +10186,6 @@ As a 6th-level [null](../../Browse/class/null.md), you gain the following featur
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">12 damage; M &lt; STRONG, <a href="../../../Browse/condition/dazed/">dazed</a></span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can <a href="../../../Browse/movement/shifting/">shift</a> up to your <a href="../../../Browse/rule/character/speed/">speed</a>, and squares occupied by enemies or objects are not <a href="../../../Browse/movement/difficult-terrain/">difficult terrain</a> for this <a href="../../../Browse/movement/shifting/">shift</a>. You make one <a href="../../../Browse/rule/dice/power-roll/">power roll</a> that targets each enemy you moved through during this <a href="../../../Browse/movement/shifting/">shift</a>.</p></div>
 </div>
 </article>
 </div>
@@ -10562,6 +10570,9 @@ As a 9th-level [null](../../Browse/class/null.md), you gain the following featur
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../Browse/rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
+<div class="sc-ability__section-body"><p>The triggering creature starts their <a href="../../../Browse/rule/combat/turn/">turn</a>.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/intuition/">Intuition</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -10570,9 +10581,6 @@ As a 9th-level [null](../../Browse/class/null.md), you gain the following featur
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">I &lt; STRONG, the target loses their <a href="../../../Browse/rule/combat/turn/">turn</a></span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
-<div class="sc-ability__section-body"><p>The triggering creature starts their <a href="../../../Browse/rule/combat/turn/">turn</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -11314,6 +11322,9 @@ As a 1st-level [shadow](../../Browse/class/shadow.md), you gain the following fe
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self; see below</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You <a href="../../../Browse/movement/shifting/">shift</a> up to your <a href="../../../Browse/rule/character/speed/">speed</a> and make one <a href="../../../Browse/rule/dice/power-roll/">power roll</a> that targets up to three enemies who came <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to you during the move.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/agility/">Agility</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -11322,9 +11333,6 @@ As a 1st-level [shadow](../../Browse/class/shadow.md), you gain the following fe
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">9 damage</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You <a href="../../../Browse/movement/shifting/">shift</a> up to your <a href="../../../Browse/rule/character/speed/">speed</a> and make one <a href="../../../Browse/rule/dice/power-roll/">power roll</a> that targets up to three enemies who came <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to you during the move.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -11483,6 +11491,9 @@ As a 2nd-level [shadow](../../Browse/class/shadow.md), you gain the following fe
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../Browse/rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You attach a small bomb to a creature. If you are hidden from the creature, they don&#39;t notice the bomb and you remain hidden. The creature otherwise notices the bomb and can disarm and remove it as a main action. If they don&#39;t, at the end of your next <a href="../../../Browse/rule/combat/turn/">turn</a>, the bomb detonates. When the bomb detonates, you make a <a href="../../../Browse/rule/dice/power-roll/">power roll</a> targeting each enemy within 2 squares of it.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/agility/">Agility</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -11491,9 +11502,6 @@ As a 2nd-level [shadow](../../Browse/class/shadow.md), you gain the following fe
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">11 + A fire damage</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You attach a small bomb to a creature. If you are hidden from the creature, they don&#39;t notice the bomb and you remain hidden. The creature otherwise notices the bomb and can disarm and remove it as a main action. If they don&#39;t, at the end of your next <a href="../../../Browse/rule/combat/turn/">turn</a>, the bomb detonates. When the bomb detonates, you make a <a href="../../../Browse/rule/dice/power-roll/">power roll</a> targeting each enemy within 2 squares of it.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main" data-conditions="weakened">
@@ -11854,6 +11862,9 @@ As a 5th-level [shadow](../../Browse/class/shadow.md), you gain the following fe
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../Browse/rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You and the target are removed from the encounter map until the start of your next <a href="../../../Browse/rule/combat/turn/">turn</a>. You reappear in the spaces you left or the nearest unoccupied spaces. Make a <a href="../../../Browse/rule/dice/power-roll/">power roll</a> upon your return.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/agility/">Agility</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -11862,9 +11873,6 @@ As a 5th-level [shadow](../../Browse/class/shadow.md), you gain the following fe
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">17 + A corruption damage</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You and the target are removed from the encounter map until the start of your next <a href="../../../Browse/rule/combat/turn/">turn</a>. You reappear in the spaces you left or the nearest unoccupied spaces. Make a <a href="../../../Browse/rule/dice/power-roll/">power roll</a> upon your return.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -12020,6 +12028,9 @@ As a 6th-level [shadow](../../Browse/class/shadow.md), you gain the following fe
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../Browse/rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Three creatures</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You ready, hand, or lob a potion to each target, who can immediately quaff the potion (no action required). If they don&#39;t drink the potion right away, they must use the <a href="../../../Browse/feature/common/maneuvers/use-consumable/">Use Consumable</a> maneuver to consume it later. The potion loses its <a href="../../../Browse/rule/character/potency/">potency</a> at the end of the encounter.</p><p>A creature who drinks the potion receives benefits based on your <a href="../../../Browse/rule/dice/power-roll/">power roll</a>.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/agility/">Agility</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -12028,9 +12039,6 @@ As a 6th-level [shadow](../../Browse/class/shadow.md), you gain the following fe
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The creature <a href="../../../Browse/rule/combat/turn/">turns</a> invisible until the end of their next <a href="../../../Browse/rule/combat/turn/">turn</a>.</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You ready, hand, or lob a potion to each target, who can immediately quaff the potion (no action required). If they don&#39;t drink the potion right away, they must use the <a href="../../../Browse/feature/common/maneuvers/use-consumable/">Use Consumable</a> maneuver to consume it later. The potion loses its <a href="../../../Browse/rule/character/potency/">potency</a> at the end of the encounter.</p><p>A creature who drinks the potion receives benefits based on your <a href="../../../Browse/rule/dice/power-roll/">power roll</a>.</p></div>
 </div>
 </article>
 </div>
@@ -12338,6 +12346,9 @@ As a 9th-level [shadow](../../Browse/class/shadow.md), you gain the following fe
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self; see below</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You <a href="../../../Browse/movement/shifting/">shift</a> up to twice your <a href="../../../Browse/rule/character/speed/">speed</a>, making one <a href="../../../Browse/rule/dice/power-roll/">power roll</a> that targets each creature you come <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to during the <a href="../../../Browse/movement/shifting/">shift</a>.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/agility/">Agility</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -12346,9 +12357,6 @@ As a 9th-level [shadow](../../Browse/class/shadow.md), you gain the following fe
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">An enemy takes 14 damage; an ally can <a href="../../../Browse/movement/teleport/">teleport</a> up to 7 squares.</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You <a href="../../../Browse/movement/shifting/">shift</a> up to twice your <a href="../../../Browse/rule/character/speed/">speed</a>, making one <a href="../../../Browse/rule/dice/power-roll/">power roll</a> that targets each creature you come <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to during the <a href="../../../Browse/movement/shifting/">shift</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main" data-conditions="grabbed">
@@ -12388,6 +12396,9 @@ As a 9th-level [shadow](../../Browse/class/shadow.md), you gain the following fe
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../Browse/rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Each enemy within 3 squares of the target who is not currently targeted by this ability also becomes targeted by this ability. This effect continues until there are no more available targets. The ability deals acid, fire, or poison damage (your choice).</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/agility/">Agility</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -12396,9 +12407,6 @@ As a 9th-level [shadow](../../Browse/class/shadow.md), you gain the following fe
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">15 damage</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each enemy within 3 squares of the target who is not currently targeted by this ability also becomes targeted by this ability. This effect continues until there are no more available targets. The ability deals acid, fire, or poison damage (your choice).</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -12995,6 +13003,9 @@ As a 1st-level [tactician](../../Browse/class/tactician.md), you gain the follow
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../Browse/rule/combat/melee/">Melee</a> 1 or <a href="../../../Browse/rule/combat/ranged/">ranged</a> 5</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You mark the target.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/might/">Might</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -13003,9 +13014,6 @@ As a 1st-level [tactician](../../Browse/class/tactician.md), you gain the follow
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">10 + M damage; R &lt; STRONG, <a href="../../../Browse/condition/weakened/">weakened</a> (save ends)</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You mark the target.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -13137,6 +13145,9 @@ As a 2nd-level [tactician](../../Browse/class/tactician.md), you gain the follow
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self; see below</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You <a href="../../../Browse/movement/shifting/">shift</a> up to your <a href="../../../Browse/rule/character/speed/">speed</a> directly toward an ally, ending <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to them, then swapping locations with that ally as long as you can fit into each other&#39;s spaces. The ally can spend a <a href="../../../Browse/rule/health/recoveries/">Recovery</a>, and you can make the following weapon <a href="../../../Browse/rule/combat/strike/">strike</a> with a <a href="../../../Browse/rule/combat/distance/">distance</a> of <a href="../../../Browse/rule/combat/melee/">melee</a> 1 against a creature.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/reason/">Reason</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -13145,9 +13156,6 @@ As a 2nd-level [tactician](../../Browse/class/tactician.md), you gain the follow
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">4 + R damage; R &lt; STRONG, <a href="../../../Browse/condition/frightened/">frightened</a> (save ends)</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You <a href="../../../Browse/movement/shifting/">shift</a> up to your <a href="../../../Browse/rule/character/speed/">speed</a> directly toward an ally, ending <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to them, then swapping locations with that ally as long as you can fit into each other&#39;s spaces. The ally can spend a <a href="../../../Browse/rule/health/recoveries/">Recovery</a>, and you can make the following weapon <a href="../../../Browse/rule/combat/strike/">strike</a> with a <a href="../../../Browse/rule/combat/distance/">distance</a> of <a href="../../../Browse/rule/combat/melee/">melee</a> 1 against a creature.</p></div>
 </div>
 </article>
 </div>
@@ -13212,6 +13220,13 @@ As a 2nd-level [tactician](../../Browse/class/tactician.md), you gain the follow
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../Browse/rule/combat/ranged/">Ranged</a> 5</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One enemy</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
+<div class="sc-ability__section-body"><p>The target deals damage to an ally.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You move up to your <a href="../../../Browse/rule/character/speed/">speed</a> toward the triggering ally, ending this movement <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to them or in the nearest square if you can&#39;t reach an <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> square. The triggering ally can spend a <a href="../../../Browse/rule/health/recoveries/">Recovery</a> and gains 5 <a href="../../../Browse/rule/health/temporary-stamina/">temporary Stamina</a> for each enemy you came <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to during the move. You then make a <a href="../../../Browse/rule/dice/power-roll/">power roll</a> against the target.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/might/">Might</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -13220,13 +13235,6 @@ As a 2nd-level [tactician](../../Browse/class/tactician.md), you gain the follow
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">R &lt; STRONG, the target is <a href="../../../Browse/condition/frightened/">frightened</a> of the triggering ally (save ends)</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
-<div class="sc-ability__section-body"><p>The target deals damage to an ally.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You move up to your <a href="../../../Browse/rule/character/speed/">speed</a> toward the triggering ally, ending this movement <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to them or in the nearest square if you can&#39;t reach an <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> square. The triggering ally can spend a <a href="../../../Browse/rule/health/recoveries/">Recovery</a> and gains 5 <a href="../../../Browse/rule/health/temporary-stamina/">temporary Stamina</a> for each enemy you came <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to during the move. You then make a <a href="../../../Browse/rule/dice/power-roll/">power roll</a> against the target.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
@@ -13660,6 +13668,13 @@ As a 6th-level [tactician](../../Browse/class/tactician.md), you gain the follow
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../Browse/rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One ally</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
+<div class="sc-ability__section-body"><p>A creature deals damage to the target.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target takes half the damage. You then make a <a href="../../../Browse/rule/dice/power-roll/">power roll</a> against the triggering creature.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/might/">Might</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -13668,13 +13683,6 @@ As a 6th-level [tactician](../../Browse/class/tactician.md), you gain the follow
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">A &lt; STRONG, <a href="../../../Browse/condition/dazed/">dazed</a> (save ends)</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
-<div class="sc-ability__section-body"><p>A creature deals damage to the target.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target takes half the damage. You then make a <a href="../../../Browse/rule/dice/power-roll/">power roll</a> against the triggering creature.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main" data-conditions="dazed">
@@ -13982,6 +13990,9 @@ As a 9th-level [tactician](../../Browse/class/tactician.md), you gain the follow
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../Browse/rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Three enemies</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Each target uses a <a href="../../../Browse/rule/combat/signature-ability/">signature ability</a> against one or more targets of your choosing, with each ability automatically obtaining a tier 3 outcome on the <a href="../../../Browse/rule/dice/power-roll/">power roll</a>. After resolving the targets&#39; abilities, you make a <a href="../../../Browse/rule/dice/power-roll/">power roll</a> against each original target.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/might/">Might</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -13990,9 +14001,6 @@ As a 9th-level [tactician](../../Browse/class/tactician.md), you gain the follow
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">R &lt; STRONG, <a href="../../../Browse/condition/dazed/">dazed</a> (save ends)</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target uses a <a href="../../../Browse/rule/combat/signature-ability/">signature ability</a> against one or more targets of your choosing, with each ability automatically obtaining a tier 3 outcome on the <a href="../../../Browse/rule/dice/power-roll/">power roll</a>. After resolving the targets&#39; abilities, you make a <a href="../../../Browse/rule/dice/power-roll/">power roll</a> against each original target.</p></div>
 </div>
 </article>
 </div>
@@ -14044,6 +14052,9 @@ As a 9th-level [tactician](../../Browse/class/tactician.md), you gain the follow
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../Browse/rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You mark the target.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/might/">Might</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -14052,9 +14063,6 @@ As a 9th-level [tactician](../../Browse/class/tactician.md), you gain the follow
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">21 + M damage</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You mark the target.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -14069,6 +14077,9 @@ As a 9th-level [tactician](../../Browse/class/tactician.md), you gain the follow
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../Browse/rule/combat/melee/">Melee</a> 1 or <a href="../../../Browse/rule/combat/ranged/">ranged</a> 5</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target is marked by you.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/might/">Might</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -14077,9 +14088,6 @@ As a 9th-level [tactician](../../Browse/class/tactician.md), you gain the follow
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">17 + M damage</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target is marked by you.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -14786,6 +14794,9 @@ As a 1st-level [talent](../../Browse/class/talent.md), you gain the following fe
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../Browse/rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>If you target an ally, they gain <a href="../../../Browse/rule/health/temporary-stamina/">temporary Stamina</a> equal to three times your <a href="../../../Browse/rule/character/presence/">Presence</a> score, and they can end one effect on them that is ended by a <a href="../../../Browse/rule/general/saving-throw/">saving throw</a> or that ends at the end of their <a href="../../../Browse/rule/combat/turn/">turn</a>. If you target an enemy, you make a <a href="../../../Browse/rule/dice/power-roll/">power roll</a>.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/presence/">Presence</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -14794,9 +14805,6 @@ As a 1st-level [talent](../../Browse/class/talent.md), you gain the following fe
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">9 + P psychic damage; I &lt; STRONG, <a href="../../../Browse/condition/frightened/">frightened</a> (save ends)</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If you target an ally, they gain <a href="../../../Browse/rule/health/temporary-stamina/">temporary Stamina</a> equal to three times your <a href="../../../Browse/rule/character/presence/">Presence</a> score, and they can end one effect on them that is ended by a <a href="../../../Browse/rule/general/saving-throw/">saving throw</a> or that ends at the end of their <a href="../../../Browse/rule/combat/turn/">turn</a>. If you target an enemy, you make a <a href="../../../Browse/rule/dice/power-roll/">power roll</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main" data-conditions="restrained slowed">
@@ -14841,6 +14849,9 @@ As a 1st-level [talent](../../Browse/class/talent.md), you gain the following fe
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../Browse/rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Choose the <a href="../../../Browse/rule/damage/damage-type/">damage type</a> and the weakness for this ability from one of the following: acid, corruption, or fire. The target takes damage before this ability imposes any weakness.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/reason/">Reason</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -14849,9 +14860,6 @@ As a 1st-level [talent](../../Browse/class/talent.md), you gain the following fe
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">9 + R damage; R &lt; STRONG, the target has weakness equal to 5 + your <a href="../../../Browse/rule/character/reason/">Reason</a> score (save ends)</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Choose the <a href="../../../Browse/rule/damage/damage-type/">damage type</a> and the weakness for this ability from one of the following: acid, corruption, or fire. The target takes damage before this ability imposes any weakness.</p></div>
 </div>
 </article>
 <section class="sc-trait" data-action="trait">
@@ -15224,6 +15232,9 @@ As a 3rd-level [talent](../../Browse/class/talent.md), you gain the following fe
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self; see below</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You create three <a href="../../../Browse/rule/character/size/">size</a> 1T orbs that orbit your body. Each orb gives you a cumulative <a href="../../../Browse/rule/damage/damage-immunity/">damage immunity</a> 1. Each time you take damage, you lose 1 orb.</p><p>Once on each of your <a href="../../../Browse/rule/combat/turn/">turns</a>, you can use a <a href="../../../Browse/rule/combat/free-maneuver/">free maneuver</a> to fire an orb at a creature or object within 5 squares as a <a href="../../../Browse/rule/combat/ranged/">ranged</a> <a href="../../../Browse/rule/combat/strike/">strike</a>, losing the orb after the <a href="../../../Browse/rule/combat/strike/">strike</a>.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/reason/">Reason</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -15232,9 +15243,6 @@ As a 3rd-level [talent](../../Browse/class/talent.md), you gain the following fe
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">5 damage</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You create three <a href="../../../Browse/rule/character/size/">size</a> 1T orbs that orbit your body. Each orb gives you a cumulative <a href="../../../Browse/rule/damage/damage-immunity/">damage immunity</a> 1. Each time you take damage, you lose 1 orb.</p><p>Once on each of your <a href="../../../Browse/rule/combat/turn/">turns</a>, you can use a <a href="../../../Browse/rule/combat/free-maneuver/">free maneuver</a> to fire an orb at a creature or object within 5 squares as a <a href="../../../Browse/rule/combat/ranged/">ranged</a> <a href="../../../Browse/rule/combat/strike/">strike</a>, losing the orb after the <a href="../../../Browse/rule/combat/strike/">strike</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
@@ -15461,6 +15469,9 @@ As a 5th-level [talent](../../Browse/class/talent.md), you gain the following fe
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 x 2 line within 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You <a href="../../../Browse/movement/teleport/">teleport</a> to a square on the opposite side of the area before making the <a href="../../../Browse/rule/dice/power-roll/">power roll</a>.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/reason/">Reason</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -15469,9 +15480,6 @@ As a 5th-level [talent](../../Browse/class/talent.md), you gain the following fe
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">24 sonic damage</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You <a href="../../../Browse/movement/teleport/">teleport</a> to a square on the opposite side of the area before making the <a href="../../../Browse/rule/dice/power-roll/">power roll</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
@@ -15627,6 +15635,13 @@ As a 6th-level [talent](../../Browse/class/talent.md), you gain the following fe
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../Browse/rule/combat/melee/">Melee</a> 2</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One enemy</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target has <a href="../../../Browse/rule/damage/damage-weakness/">damage weakness</a> 5 until the end of your next <a href="../../../Browse/rule/combat/turn/">turn</a>. Whenever the target takes damage while they have this weakness, they are <a href="../../../Browse/condition/prone/">knocked prone</a>.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
+<div class="sc-ability__section-body"><p>This ability gains the <a href="../../../Browse/rule/combat/strike/">Strike</a> keyword as the vision hurts the target&#39;s psyche. You make a <a href="../../../Browse/rule/dice/power-roll/">power roll</a>, then are <a href="../../../Browse/condition/weakened/">weakened</a> (save ends).</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/presence/">Presence</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -15635,13 +15650,6 @@ As a 6th-level [talent](../../Browse/class/talent.md), you gain the following fe
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">17 + P psychic damage</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target has <a href="../../../Browse/rule/damage/damage-weakness/">damage weakness</a> 5 until the end of your next <a href="../../../Browse/rule/combat/turn/">turn</a>. Whenever the target takes damage while they have this weakness, they are <a href="../../../Browse/condition/prone/">knocked prone</a>.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>This ability gains the <a href="../../../Browse/rule/combat/strike/">Strike</a> keyword as the vision hurts the target&#39;s psyche. You make a <a href="../../../Browse/rule/dice/power-roll/">power roll</a>, then are <a href="../../../Browse/condition/weakened/">weakened</a> (save ends).</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main" data-conditions="restrained slowed">
@@ -15652,6 +15660,9 @@ As a 6th-level [talent](../../Browse/class/talent.md), you gain the following fe
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">4 <a href="../../../Browse/rule/combat/cube/">cube</a> within 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each creature and object in the area</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The area is frozen in time until the start of your next <a href="../../../Browse/rule/combat/turn/">turn</a>. Each object in the area is <a href="../../../Browse/condition/restrained/">restrained</a> and can&#39;t fall until the effect ends. Until the effect ends, creatures in the area who are reduced to 0 <a href="../../../Browse/rule/health/stamina/">Stamina</a> or would die stay alive, and objects in the area that are reduced to 0 <a href="../../../Browse/rule/health/stamina/">Stamina</a> remain undestroyed.</p><p>Make a <a href="../../../Browse/rule/dice/power-roll/">power roll</a> that targets each enemy in the area.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/presence/">Presence</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -15660,9 +15671,6 @@ As a 6th-level [talent](../../Browse/class/talent.md), you gain the following fe
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">P &lt; STRONG, the target is <a href="../../../Browse/condition/restrained/">restrained</a> until the effect ends</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The area is frozen in time until the start of your next <a href="../../../Browse/rule/combat/turn/">turn</a>. Each object in the area is <a href="../../../Browse/condition/restrained/">restrained</a> and can&#39;t fall until the effect ends. Until the effect ends, creatures in the area who are reduced to 0 <a href="../../../Browse/rule/health/stamina/">Stamina</a> or would die stay alive, and objects in the area that are reduced to 0 <a href="../../../Browse/rule/health/stamina/">Stamina</a> remain undestroyed.</p><p>Make a <a href="../../../Browse/rule/dice/power-roll/">power roll</a> that targets each enemy in the area.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
@@ -15760,6 +15768,9 @@ As a 6th-level [talent](../../Browse/class/talent.md), you gain the following fe
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../Browse/rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You target a number of creatures with this ability determined by the outcome of your <a href="../../../Browse/rule/dice/power-roll/">power roll</a>. You and your allies are invisible to each target until the start of your next <a href="../../../Browse/rule/combat/turn/">turn</a>.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/reason/">Reason</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -15768,9 +15779,6 @@ As a 6th-level [talent](../../Browse/class/talent.md), you gain the following fe
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">Five creatures</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You target a number of creatures with this ability determined by the outcome of your <a href="../../../Browse/rule/dice/power-roll/">power roll</a>. You and your allies are invisible to each target until the start of your next <a href="../../../Browse/rule/combat/turn/">turn</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
@@ -16097,6 +16105,13 @@ As a 9th-level [talent](../../Browse/class/talent.md), you gain the following fe
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../Browse/rule/combat/ranged/">Ranged</a> 5</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Three allies</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Each target can use any main action available to them as a free <a href="../../../Browse/rule/combat/triggered-action/">triggered action</a>, but they lose their main action on their next <a href="../../../Browse/rule/combat/turn/">turn</a>.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
+<div class="sc-ability__section-body"><p>Make a <a href="../../../Browse/rule/dice/power-roll/">power roll</a> that targets you and each enemy within <a href="../../../Browse/rule/combat/distance/">distance</a>.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/presence/">Presence</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -16105,13 +16120,6 @@ As a 9th-level [talent](../../Browse/class/talent.md), you gain the following fe
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">10 corruption damage; <a href="../../../Browse/condition/slowed/">slowed</a> (save ends)</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target can use any main action available to them as a free <a href="../../../Browse/rule/combat/triggered-action/">triggered action</a>, but they lose their main action on their next <a href="../../../Browse/rule/combat/turn/">turn</a>.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>Make a <a href="../../../Browse/rule/dice/power-roll/">power roll</a> that targets you and each enemy within <a href="../../../Browse/rule/combat/distance/">distance</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
@@ -16143,6 +16151,9 @@ As a 9th-level [talent](../../Browse/class/talent.md), you gain the following fe
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Special</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy and object in the area</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Make a <a href="../../../Browse/rule/dice/power-roll/">power roll</a> to determine the area of this ability. Each target is vertical <a href="../../../Browse/movement/forced-movement/">pushed</a> 6 squares. You can target only objects of <a href="../../../Browse/rule/character/size/">size</a> 1L or smaller.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/reason/">Reason</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -16151,9 +16162,6 @@ As a 9th-level [talent](../../Browse/class/talent.md), you gain the following fe
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">4 <a href="../../../Browse/rule/combat/burst/">burst</a></span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Make a <a href="../../../Browse/rule/dice/power-roll/">power roll</a> to determine the area of this ability. Each target is vertical <a href="../../../Browse/movement/forced-movement/">pushed</a> 6 squares. You can target only objects of <a href="../../../Browse/rule/character/size/">size</a> 1L or smaller.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
@@ -16226,6 +16234,9 @@ As a 9th-level [talent](../../Browse/class/talent.md), you gain the following fe
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 <a href="../../../Browse/rule/combat/burst/">burst</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each ally and enemy in the area</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You and each target ally can&#39;t obtain lower than a tier 2 outcome on <a href="../../../Browse/rule/dice/power-roll/">power rolls</a> until the start of your next <a href="../../../Browse/rule/combat/turn/">turn</a>. Each target enemy is affected by the ability&#39;s <a href="../../../Browse/rule/dice/power-roll/">power roll</a>.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/reason/">Reason</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -16234,9 +16245,6 @@ As a 9th-level [talent](../../Browse/class/talent.md), you gain the following fe
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">R &lt; STRONG, <a href="../../../Browse/condition/frightened/">frightened</a> (save ends)</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You and each target ally can&#39;t obtain lower than a tier 2 outcome on <a href="../../../Browse/rule/dice/power-roll/">power rolls</a> until the start of your next <a href="../../../Browse/rule/combat/turn/">turn</a>. Each target enemy is affected by the ability&#39;s <a href="../../../Browse/rule/dice/power-roll/">power roll</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
@@ -16643,6 +16651,9 @@ As a 1st-level [troubadour](../../Browse/class/troubadour.md), you gain the foll
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../Browse/rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>At the end of each <a href="../../../Browse/rule/combat/combat-round/">combat round</a> while this performance is active, you can make a <a href="../../../Browse/rule/dice/power-roll/">power roll</a> against the target that ignores <a href="../../../Browse/rule/combat/cover/">cover</a>. You can&#39;t target the same creature twice with this effect.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/presence/">Presence</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -16651,9 +16662,6 @@ As a 1st-level [troubadour](../../Browse/class/troubadour.md), you gain the foll
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">Lightning damage equal to 10 + your level</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>At the end of each <a href="../../../Browse/rule/combat/combat-round/">combat round</a> while this performance is active, you can make a <a href="../../../Browse/rule/dice/power-roll/">power roll</a> against the target that ignores <a href="../../../Browse/rule/combat/cover/">cover</a>. You can&#39;t target the same creature twice with this effect.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="none">
@@ -16932,6 +16940,9 @@ As a 1st-level [troubadour](../../Browse/class/troubadour.md), you gain the foll
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self; see below</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You <a href="../../../Browse/movement/shifting/">shift</a> up to your <a href="../../../Browse/rule/character/speed/">speed</a>. You make one <a href="../../../Browse/rule/dice/power-roll/">power roll</a> that targets each enemy you move <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to during this <a href="../../../Browse/movement/shifting/">shift</a>.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/agility/">Agility</a> or <a href="../../../Browse/rule/character/presence/">Presence</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -16940,9 +16951,6 @@ As a 1st-level [troubadour](../../Browse/class/troubadour.md), you gain the foll
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res"><a href="../../../Browse/condition/taunted/">Taunted</a> (<a href="../../../Browse/rule/combat/end-of-turn/">EoT</a>); A &lt; STRONG, <a href="../../../Browse/condition/prone/">prone and</a> can&#39;t stand (<a href="../../../Browse/rule/combat/end-of-turn/">EoT</a>)</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You <a href="../../../Browse/movement/shifting/">shift</a> up to your <a href="../../../Browse/rule/character/speed/">speed</a>. You make one <a href="../../../Browse/rule/dice/power-roll/">power roll</a> that targets each enemy you move <a href="../../../Browse/rule/combat/adjacent/">adjacent</a> to during this <a href="../../../Browse/movement/shifting/">shift</a>.</p></div>
 </div>
 </article>
 <section class="sc-trait" data-action="trait">
@@ -17198,6 +17206,9 @@ As a 2nd-level [troubadour](../../Browse/class/troubadour.md), you gain the foll
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 <a href="../../../Browse/rule/combat/cube/">cube</a> within 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The area is haunted by a swirling horde of phantoms until the end of the encounter. Allies can enter any square of the area without spending movement. At the end of each of your <a href="../../../Browse/rule/combat/turn/">turns</a>, you can make one <a href="../../../Browse/rule/dice/power-roll/">power roll</a> that targets each enemy in the area.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/presence/">Presence</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -17206,9 +17217,6 @@ As a 2nd-level [troubadour](../../Browse/class/troubadour.md), you gain the foll
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">12 corruption damage; M &lt; STRONG, <a href="../../../Browse/movement/forced-movement/">pull</a> 3 toward the center of the area</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The area is haunted by a swirling horde of phantoms until the end of the encounter. Allies can enter any square of the area without spending movement. At the end of each of your <a href="../../../Browse/rule/combat/turn/">turns</a>, you can make one <a href="../../../Browse/rule/dice/power-roll/">power roll</a> that targets each enemy in the area.</p></div>
 </div>
 </article>
 </div>
@@ -17795,6 +17803,9 @@ As a 6th-level [troubadour](../../Browse/class/troubadour.md), you gain the foll
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Three 3 <a href="../../../Browse/rule/combat/cube/">cubes</a> within 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>A <a href="../../../Browse/condition/prone/">prone target</a> ignores this ability.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/presence/">Presence</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -17803,9 +17814,6 @@ As a 6th-level [troubadour](../../Browse/class/troubadour.md), you gain the foll
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">13 sonic damage; P &lt; STRONG<a href="../../../Browse/condition/prone/">, prone</a></span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>A <a href="../../../Browse/condition/prone/">prone target</a> ignores this ability.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
@@ -18141,6 +18149,9 @@ As a 9th-level [troubadour](../../Browse/class/troubadour.md), you gain the foll
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../Browse/rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Add your current <a href="../../../Browse/rule/health/stamina/">Stamina</a> to your target&#39;s current <a href="../../../Browse/rule/health/stamina/">Stamina</a>, then you have half that total <a href="../../../Browse/rule/health/stamina/">Stamina</a> and the target has the remainder. If either of you would gain more <a href="../../../Browse/rule/health/stamina/">Stamina</a> this way than their <a href="../../../Browse/rule/health/stamina/">Stamina</a> maximum, the difference in <a href="../../../Browse/rule/health/stamina/">Stamina</a> between what that creature would gain and their maximum is gained by the other creature. Neither of you can gain more <a href="../../../Browse/rule/health/stamina/">Stamina</a> than your maximum this way. You then make a <a href="../../../Browse/rule/dice/power-roll/">power roll</a>.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../Browse/rule/character/presence/">Presence</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -18149,9 +18160,6 @@ As a 9th-level [troubadour](../../Browse/class/troubadour.md), you gain the foll
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">You can choose any of the current effects on you and the target that are ended by a <a href="../../../Browse/rule/general/saving-throw/">saving throw</a> or that end at the end of your <a href="../../../Browse/rule/combat/turn/">turns</a>, apply the chosen effects to the target, and end the rest.</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Add your current <a href="../../../Browse/rule/health/stamina/">Stamina</a> to your target&#39;s current <a href="../../../Browse/rule/health/stamina/">Stamina</a>, then you have half that total <a href="../../../Browse/rule/health/stamina/">Stamina</a> and the target has the remainder. If either of you would gain more <a href="../../../Browse/rule/health/stamina/">Stamina</a> this way than their <a href="../../../Browse/rule/health/stamina/">Stamina</a> maximum, the difference in <a href="../../../Browse/rule/health/stamina/">Stamina</a> between what that creature would gain and their maximum is gained by the other creature. Neither of you can gain more <a href="../../../Browse/rule/health/stamina/">Stamina</a> than your maximum this way. You then make a <a href="../../../Browse/rule/dice/power-roll/">power roll</a>.</p></div>
 </div>
 </article>
 </div>

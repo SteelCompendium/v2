@@ -8,6 +8,7 @@ distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effects:
     - effect: 'Choose two of the following effects:'
       name: Effect
+    - effect: '- The target can spend any number of [Recoveries](../../../../rule/health/recoveries.md). - The target gains 1 of their [Heroic Resource](../../../../rule/resource/heroic-resource.md), and can end any effects on them that are ended by a [saving throw](../../../../rule/general/saving-throw.md) or that end at the end of their [turn](../../../../rule/combat/turn.md). - The target gains 2 [surges](../../../../rule/resource/surge.md), and gains a +3 [bonus](../../../../rule/dice/bonuses-and-penalties.md) to [speed](../../../../rule/character/speed.md) until the end of the encounter.'
     - effect: You and the target both permanently grow visibly younger (the equivalent of 20 [human](../../../../ancestry/human.md) years, to the minimum of an 18-year-old). Additionally, you are [weakened](../../../../condition/weakened.md) and [slowed](../../../../condition/slowed.md) (save ends).
       name: Strained
 flavor: You reshape the flow of time in the target's body to return it to an earlier state.

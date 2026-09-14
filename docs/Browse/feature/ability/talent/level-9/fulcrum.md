@@ -8,7 +8,7 @@ distance: Special
 effects:
     - effect: Make a [power roll](../../../../rule/dice/power-roll.md) to determine the area of this ability. Each target is vertical [pushed](../../../../movement/forced-movement.md) 6 squares. You can target only objects of [size](../../../../rule/character/size.md) 1L or smaller.
       name: Effect
-    - roll: Power Roll + [Reason](../../../../rule/character/reason.md)
+      roll: Power Roll + [Reason](../../../../rule/character/reason.md)
       tier1: 2 [burst](../../../../rule/combat/burst.md)
       tier2: 3 [burst](../../../../rule/combat/burst.md)
       tier3: 4 [burst](../../../../rule/combat/burst.md)
@@ -43,6 +43,9 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Special</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy and object in the area</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Make a <a href="../../../../../rule/dice/power-roll/">power roll</a> to determine the area of this ability. Each target is vertical <a href="../../../../../movement/forced-movement/">pushed</a> 6 squares. You can target only objects of <a href="../../../../../rule/character/size/">size</a> 1L or smaller.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../../rule/character/reason/">Reason</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -51,9 +54,6 @@ type: ability
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">4 <a href="../../../../../rule/combat/burst/">burst</a></span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Make a <a href="../../../../../rule/dice/power-roll/">power roll</a> to determine the area of this ability. Each target is vertical <a href="../../../../../movement/forced-movement/">pushed</a> 6 squares. You can target only objects of <a href="../../../../../rule/character/size/">size</a> 1L or smaller.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>

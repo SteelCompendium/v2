@@ -12,6 +12,7 @@ effects:
       tier3: You are no longer [grabbed](../../../condition/grabbed.md).
     - effect: You take a [bane](../../../rule/dice/bane.md) on this maneuver if your [size](../../../rule/character/size.md) is smaller than the size of the creature, object, or effect that has you [grabbed](../../../condition/grabbed.md).
       name: Effect
+    - effect: 'See [Conditions](../../../rule/combat/condition.md) in Chapter 5: [Classes](../../../../Read/heroes/classes.md) for information on the [grabbed](../../../condition/grabbed.md) [condition](../../../rule/combat/condition.md).'
 keywords: []
 name: Escape Grab
 power_roll_characteristic: '[Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md)'

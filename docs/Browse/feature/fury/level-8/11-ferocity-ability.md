@@ -73,6 +73,9 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self; see below</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You <a href="../../../../movement/shifting/">shift</a> up to your <a href="../../../../rule/character/speed/">speed</a>. Each enemy you move <a href="../../../../rule/combat/adjacent/">adjacent</a> to during this movement takes damage equal to twice your <a href="../../../../rule/character/might/">Might</a> score. Then make one <a href="../../../../rule/dice/power-roll/">power roll</a> that targets each enemy you move <a href="../../../../rule/combat/adjacent/">adjacent</a> to during this <a href="../../../../movement/shifting/">shift</a>. You gain 1 ferocity for each target who dies as a result of this ability (maximum 11 ferocity).</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../rule/character/might/">Might</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -81,9 +84,6 @@ type: feature
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">Any target whose <a href="../../../../rule/health/stamina/">Stamina</a> is equal to or less than 17 dies.</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You <a href="../../../../movement/shifting/">shift</a> up to your <a href="../../../../rule/character/speed/">speed</a>. Each enemy you move <a href="../../../../rule/combat/adjacent/">adjacent</a> to during this movement takes damage equal to twice your <a href="../../../../rule/character/might/">Might</a> score. Then make one <a href="../../../../rule/dice/power-roll/">power roll</a> that targets each enemy you move <a href="../../../../rule/combat/adjacent/">adjacent</a> to during this <a href="../../../../movement/shifting/">shift</a>. You gain 1 ferocity for each target who dies as a result of this ability (maximum 11 ferocity).</p></div>
 </div>
 </article>
 </div>

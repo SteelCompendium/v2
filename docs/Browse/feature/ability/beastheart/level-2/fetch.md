@@ -8,10 +8,11 @@ distance: Melee 1
 effects:
     - effect: Your companion can [teleport](../../../../movement/teleport.md) up to 5 squares before and after making the power roll. Instead of grabbing the target, your companion can pick up a target object that is smaller than they are. You can forgo dealing damage with this ability.
       name: Effect
-    - roll: Power Roll + Might
+      roll: Power Roll + Might
       tier1: 6 + M damage; M < WEAK [grabbed](../../../../condition/grabbed.md)
       tier2: 8 + M damage; M < AVERAGE [grabbed](../../../../condition/grabbed.md)
       tier3: 12 + M damage; M < STRONG [grabbed](../../../../condition/grabbed.md)
+    - effect: After making the power roll, your companion can teleport with a [grabbed](../../../../condition/grabbed.md) creature or held object, provided the creature or object can fit in the destination. You choose which squares adjacent to your companion the [grabbed](../../../../condition/grabbed.md) creature or held object is teleported to.
 flavor: Your companion blinks out of existence, returning with a visitor you were particularly hoping to meet.
 keywords:
     - Companion
@@ -43,6 +44,9 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Your companion can <a href="../../../../../movement/teleport/">teleport</a> up to 5 squares before and after making the power roll. Instead of grabbing the target, your companion can pick up a target object that is smaller than they are. You can forgo dealing damage with this ability.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
 <div class="sc-ability__pr-rows">
@@ -51,9 +55,6 @@ type: ability
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">12 + M damage; M &lt; STRONG <a href="../../../../../condition/grabbed/">grabbed</a></span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Your companion can <a href="../../../../../movement/teleport/">teleport</a> up to 5 squares before and after making the power roll. Instead of grabbing the target, your companion can pick up a target object that is smaller than they are. You can forgo dealing damage with this ability.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>After making the power roll, your companion can teleport with a <a href="../../../../../condition/grabbed/">grabbed</a> creature or held object, provided the creature or object can fit in the destination. You choose which squares adjacent to your companion the <a href="../../../../../condition/grabbed/">grabbed</a> creature or held object is teleported to.</p></div>

@@ -8,7 +8,8 @@ distance: 4 [cube](../../../../rule/combat/cube.md) within 10
 effects:
     - effect: The area is frozen in time until the start of your next [turn](../../../../rule/combat/turn.md). Each object in the area is [restrained](../../../../condition/restrained.md) and can't fall until the effect ends. Until the effect ends, creatures in the area who are reduced to 0 [Stamina](../../../../rule/health/stamina.md) or would die stay alive, and objects in the area that are reduced to 0 [Stamina](../../../../rule/health/stamina.md) remain undestroyed.
       name: Effect
-    - roll: Power Roll + [Presence](../../../../rule/character/presence.md)
+    - effect: Make a [power roll](../../../../rule/dice/power-roll.md) that targets each enemy in the area.
+      roll: Power Roll + [Presence](../../../../rule/character/presence.md)
       tier1: P < WEAK, the target is [slowed](../../../../condition/slowed.md) until the effect ends
       tier2: P < AVERAGE, the target's [speed](../../../../rule/character/speed.md) is 0 until the effect ends
       tier3: P < STRONG, the target is [restrained](../../../../condition/restrained.md) until the effect ends
@@ -44,6 +45,9 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">4 <a href="../../../../../rule/combat/cube/">cube</a> within 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each creature and object in the area</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The area is frozen in time until the start of your next <a href="../../../../../rule/combat/turn/">turn</a>. Each object in the area is <a href="../../../../../condition/restrained/">restrained</a> and can&#39;t fall until the effect ends. Until the effect ends, creatures in the area who are reduced to 0 <a href="../../../../../rule/health/stamina/">Stamina</a> or would die stay alive, and objects in the area that are reduced to 0 <a href="../../../../../rule/health/stamina/">Stamina</a> remain undestroyed.</p><p>Make a <a href="../../../../../rule/dice/power-roll/">power roll</a> that targets each enemy in the area.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../../rule/character/presence/">Presence</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -52,9 +56,6 @@ type: ability
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">P &lt; STRONG, the target is <a href="../../../../../condition/restrained/">restrained</a> until the effect ends</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The area is frozen in time until the start of your next <a href="../../../../../rule/combat/turn/">turn</a>. Each object in the area is <a href="../../../../../condition/restrained/">restrained</a> and can&#39;t fall until the effect ends. Until the effect ends, creatures in the area who are reduced to 0 <a href="../../../../../rule/health/stamina/">Stamina</a> or would die stay alive, and objects in the area that are reduced to 0 <a href="../../../../../rule/health/stamina/">Stamina</a> remain undestroyed.</p><p>Make a <a href="../../../../../rule/dice/power-roll/">power roll</a> that targets each enemy in the area.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>

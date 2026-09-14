@@ -7,6 +7,7 @@ distance: Melee 1
 effects:
     - effect: The target takes damage equal to 3 + your Might score, and if they have M < AVERAGE, they are knocked [prone](../../../../condition/prone.md).
       name: Effect
+    - effect: You can move up to 3 squares before and after you use this ability. During this movement, a [prone](../../../../condition/prone.md) enemy's space doesn't count as difficult terrain, and the first time you enter a [prone](../../../../condition/prone.md) enemy's space, that enemy takes cold damage equal to your Might score.
     - cost: Spend 1 Ferocity
       effect: If the target has M < STRONG, they are knocked [prone](../../../../condition/prone.md).
 flavor: You ride a cascade of ice over your foes.

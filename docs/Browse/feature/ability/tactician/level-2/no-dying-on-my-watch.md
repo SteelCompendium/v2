@@ -8,7 +8,7 @@ distance: '[Ranged](../../../../rule/combat/ranged.md) 5'
 effects:
     - effect: You move up to your [speed](../../../../rule/character/speed.md) toward the triggering ally, ending this movement [adjacent](../../../../rule/combat/adjacent.md) to them or in the nearest square if you can't reach an [adjacent](../../../../rule/combat/adjacent.md) square. The triggering ally can spend a [Recovery](../../../../rule/health/recoveries.md) and gains 5 [temporary Stamina](../../../../rule/health/temporary-stamina.md) for each enemy you came [adjacent](../../../../rule/combat/adjacent.md) to during the move. You then make a [power roll](../../../../rule/dice/power-roll.md) against the target.
       name: Effect
-    - roll: Power Roll + [Might](../../../../rule/character/might.md)
+      roll: Power Roll + [Might](../../../../rule/character/might.md)
       tier1: R < WEAK, the target is [frightened](../../../../condition/frightened.md) of the triggering ally (save ends)
       tier2: R < AVERAGE, the target is [frightened](../../../../condition/frightened.md) of the triggering ally (save ends)
       tier3: R < STRONG, the target is [frightened](../../../../condition/frightened.md) of the triggering ally (save ends)
@@ -43,6 +43,13 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/ranged/">Ranged</a> 5</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One enemy</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
+<div class="sc-ability__section-body"><p>The target deals damage to an ally.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You move up to your <a href="../../../../../rule/character/speed/">speed</a> toward the triggering ally, ending this movement <a href="../../../../../rule/combat/adjacent/">adjacent</a> to them or in the nearest square if you can&#39;t reach an <a href="../../../../../rule/combat/adjacent/">adjacent</a> square. The triggering ally can spend a <a href="../../../../../rule/health/recoveries/">Recovery</a> and gains 5 <a href="../../../../../rule/health/temporary-stamina/">temporary Stamina</a> for each enemy you came <a href="../../../../../rule/combat/adjacent/">adjacent</a> to during the move. You then make a <a href="../../../../../rule/dice/power-roll/">power roll</a> against the target.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../../rule/character/might/">Might</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -51,13 +58,6 @@ type: ability
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">R &lt; STRONG, the target is <a href="../../../../../condition/frightened/">frightened</a> of the triggering ally (save ends)</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
-<div class="sc-ability__section-body"><p>The target deals damage to an ally.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You move up to your <a href="../../../../../rule/character/speed/">speed</a> toward the triggering ally, ending this movement <a href="../../../../../rule/combat/adjacent/">adjacent</a> to them or in the nearest square if you can&#39;t reach an <a href="../../../../../rule/combat/adjacent/">adjacent</a> square. The triggering ally can spend a <a href="../../../../../rule/health/recoveries/">Recovery</a> and gains 5 <a href="../../../../../rule/health/temporary-stamina/">temporary Stamina</a> for each enemy you came <a href="../../../../../rule/combat/adjacent/">adjacent</a> to during the move. You then make a <a href="../../../../../rule/dice/power-roll/">power roll</a> against the target.</p></div>
 </div>
 </article>
 

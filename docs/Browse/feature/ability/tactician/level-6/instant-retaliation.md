@@ -8,7 +8,7 @@ distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effects:
     - effect: The target takes half the damage. You then make a [power roll](../../../../rule/dice/power-roll.md) against the triggering creature.
       name: Effect
-    - roll: Power Roll + [Might](../../../../rule/character/might.md)
+      roll: Power Roll + [Might](../../../../rule/character/might.md)
       tier1: A < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
       tier2: A < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)
       tier3: A < STRONG, [dazed](../../../../condition/dazed.md) (save ends)
@@ -42,6 +42,13 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One ally</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
+<div class="sc-ability__section-body"><p>A creature deals damage to the target.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target takes half the damage. You then make a <a href="../../../../../rule/dice/power-roll/">power roll</a> against the triggering creature.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../../rule/character/might/">Might</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -50,13 +57,6 @@ type: ability
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">A &lt; STRONG, <a href="../../../../../condition/dazed/">dazed</a> (save ends)</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
-<div class="sc-ability__section-body"><p>A creature deals damage to the target.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target takes half the damage. You then make a <a href="../../../../../rule/dice/power-roll/">power roll</a> against the triggering creature.</p></div>
 </div>
 </article>
 

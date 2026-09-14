@@ -455,6 +455,9 @@ As a 1st-level [tactician](tactician.md), you gain the following features.
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/melee/">Melee</a> 1 or <a href="../../rule/combat/ranged/">ranged</a> 5</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You mark the target.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/might/">Might</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -463,9 +466,6 @@ As a 1st-level [tactician](tactician.md), you gain the following features.
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">10 + M damage; R &lt; STRONG, <a href="../../condition/weakened/">weakened</a> (save ends)</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You mark the target.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -597,6 +597,9 @@ As a 2nd-level [tactician](tactician.md), you gain the following features.
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self; see below</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You <a href="../../movement/shifting/">shift</a> up to your <a href="../../rule/character/speed/">speed</a> directly toward an ally, ending <a href="../../rule/combat/adjacent/">adjacent</a> to them, then swapping locations with that ally as long as you can fit into each other&#39;s spaces. The ally can spend a <a href="../../rule/health/recoveries/">Recovery</a>, and you can make the following weapon <a href="../../rule/combat/strike/">strike</a> with a <a href="../../rule/combat/distance/">distance</a> of <a href="../../rule/combat/melee/">melee</a> 1 against a creature.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/reason/">Reason</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -605,9 +608,6 @@ As a 2nd-level [tactician](tactician.md), you gain the following features.
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">4 + R damage; R &lt; STRONG, <a href="../../condition/frightened/">frightened</a> (save ends)</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You <a href="../../movement/shifting/">shift</a> up to your <a href="../../rule/character/speed/">speed</a> directly toward an ally, ending <a href="../../rule/combat/adjacent/">adjacent</a> to them, then swapping locations with that ally as long as you can fit into each other&#39;s spaces. The ally can spend a <a href="../../rule/health/recoveries/">Recovery</a>, and you can make the following weapon <a href="../../rule/combat/strike/">strike</a> with a <a href="../../rule/combat/distance/">distance</a> of <a href="../../rule/combat/melee/">melee</a> 1 against a creature.</p></div>
 </div>
 </article>
 </div>
@@ -672,6 +672,13 @@ As a 2nd-level [tactician](tactician.md), you gain the following features.
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 5</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One enemy</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
+<div class="sc-ability__section-body"><p>The target deals damage to an ally.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You move up to your <a href="../../rule/character/speed/">speed</a> toward the triggering ally, ending this movement <a href="../../rule/combat/adjacent/">adjacent</a> to them or in the nearest square if you can&#39;t reach an <a href="../../rule/combat/adjacent/">adjacent</a> square. The triggering ally can spend a <a href="../../rule/health/recoveries/">Recovery</a> and gains 5 <a href="../../rule/health/temporary-stamina/">temporary Stamina</a> for each enemy you came <a href="../../rule/combat/adjacent/">adjacent</a> to during the move. You then make a <a href="../../rule/dice/power-roll/">power roll</a> against the target.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/might/">Might</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -680,13 +687,6 @@ As a 2nd-level [tactician](tactician.md), you gain the following features.
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">R &lt; STRONG, the target is <a href="../../condition/frightened/">frightened</a> of the triggering ally (save ends)</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
-<div class="sc-ability__section-body"><p>The target deals damage to an ally.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You move up to your <a href="../../rule/character/speed/">speed</a> toward the triggering ally, ending this movement <a href="../../rule/combat/adjacent/">adjacent</a> to them or in the nearest square if you can&#39;t reach an <a href="../../rule/combat/adjacent/">adjacent</a> square. The triggering ally can spend a <a href="../../rule/health/recoveries/">Recovery</a> and gains 5 <a href="../../rule/health/temporary-stamina/">temporary Stamina</a> for each enemy you came <a href="../../rule/combat/adjacent/">adjacent</a> to during the move. You then make a <a href="../../rule/dice/power-roll/">power roll</a> against the target.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
@@ -1120,6 +1120,13 @@ As a 6th-level [tactician](tactician.md), you gain the following features.
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One ally</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
+<div class="sc-ability__section-body"><p>A creature deals damage to the target.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target takes half the damage. You then make a <a href="../../rule/dice/power-roll/">power roll</a> against the triggering creature.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/might/">Might</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -1128,13 +1135,6 @@ As a 6th-level [tactician](tactician.md), you gain the following features.
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">A &lt; STRONG, <a href="../../condition/dazed/">dazed</a> (save ends)</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
-<div class="sc-ability__section-body"><p>A creature deals damage to the target.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target takes half the damage. You then make a <a href="../../rule/dice/power-roll/">power roll</a> against the triggering creature.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main" data-conditions="dazed">
@@ -1442,6 +1442,9 @@ As a 9th-level [tactician](tactician.md), you gain the following features.
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Three enemies</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Each target uses a <a href="../../rule/combat/signature-ability/">signature ability</a> against one or more targets of your choosing, with each ability automatically obtaining a tier 3 outcome on the <a href="../../rule/dice/power-roll/">power roll</a>. After resolving the targets&#39; abilities, you make a <a href="../../rule/dice/power-roll/">power roll</a> against each original target.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/might/">Might</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -1450,9 +1453,6 @@ As a 9th-level [tactician](tactician.md), you gain the following features.
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">R &lt; STRONG, <a href="../../condition/dazed/">dazed</a> (save ends)</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target uses a <a href="../../rule/combat/signature-ability/">signature ability</a> against one or more targets of your choosing, with each ability automatically obtaining a tier 3 outcome on the <a href="../../rule/dice/power-roll/">power roll</a>. After resolving the targets&#39; abilities, you make a <a href="../../rule/dice/power-roll/">power roll</a> against each original target.</p></div>
 </div>
 </article>
 </div>
@@ -1504,6 +1504,9 @@ As a 9th-level [tactician](tactician.md), you gain the following features.
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You mark the target.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/might/">Might</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -1512,9 +1515,6 @@ As a 9th-level [tactician](tactician.md), you gain the following features.
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">21 + M damage</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You mark the target.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -1529,6 +1529,9 @@ As a 9th-level [tactician](tactician.md), you gain the following features.
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../rule/combat/melee/">Melee</a> 1 or <a href="../../rule/combat/ranged/">ranged</a> 5</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target is marked by you.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../rule/character/might/">Might</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -1537,9 +1540,6 @@ As a 9th-level [tactician](tactician.md), you gain the following features.
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">17 + M damage</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target is marked by you.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

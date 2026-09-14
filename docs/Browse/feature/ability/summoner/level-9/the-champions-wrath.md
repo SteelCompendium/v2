@@ -11,6 +11,7 @@ effects:
       tier3: 14 [damage](../../../../rule/damage/damage.md); [push](../../../../movement/forced-movement.md) 6 M < STRONG push is vertical
     - effect: You can use this ability as if in the space of one of your minions within your Summoner's Range.
       name: Effect
+    - effect: You can change the [damage type](../../../../rule/damage/damage-type.md) to be a type that your champion deals on their stat block (see [Portfolio Champion](../../../summoner/level-8/portfolio-champion.md)). For each enemy reduced to 0 [Stamina](../../../../rule/health/stamina.md) by this ability, an ally within [distance](../../../../rule/combat/distance.md) can move up to their [speed](../../../../rule/character/speed.md).
 feature_source: summoner
 flavor: Your champion appears and goes into a rampage, clearing the way for your minions to march forth.
 keywords:

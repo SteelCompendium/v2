@@ -4,6 +4,7 @@ printing_book: "The Beastheart"
 action_type: Triggered Action
 class: beastheart
 effects:
+    - effect: When someone is pushed into you, you reach out to steady an ally or send a foe careening off in another direction.
     - effect: You end the [forced movement](../../../../movement/forced-movement.md). You can then push the creature up to a number of squares equal to 1 + your Might score. The creature takes 1 damage for each square they are force moved this way.
       name: Effect
     - cost: Spend 1 Ferocity

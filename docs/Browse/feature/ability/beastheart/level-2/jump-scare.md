@@ -10,7 +10,7 @@ effects:
       name: Special
     - effect: Your companion [shifts](../../../../movement/shifting.md) up to a number of squares equal to their Intuition score. During this movement, they are invisible. They then make a power roll.
       name: Effect
-    - roll: Power Roll + Intuition
+      roll: Power Roll + Intuition
       tier1: 4 damage; P < WEAK [frightened](../../../../condition/frightened.md) (save ends)
       tier2: 6 damage; P < AVERAGE [frightened](../../../../condition/frightened.md) (save ends)
       tier3: 10 damage; P < STRONG [frightened](../../../../condition/frightened.md) (save ends)
@@ -43,6 +43,13 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">2 burst</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Special</span></div>
+<div class="sc-ability__section-body"><p>This ability targets only enemies with line of effect to your companion.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Your companion <a href="../../../../../movement/shifting/">shifts</a> up to a number of squares equal to their Intuition score. During this movement, they are invisible. They then make a power roll.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Intuition</span></div>
 <div class="sc-ability__pr-rows">
@@ -51,13 +58,6 @@ type: ability
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">10 damage; P &lt; STRONG <a href="../../../../../condition/frightened/">frightened</a> (save ends)</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Special</span></div>
-<div class="sc-ability__section-body"><p>This ability targets only enemies with line of effect to your companion.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Your companion <a href="../../../../../movement/shifting/">shifts</a> up to a number of squares equal to their Intuition score. During this movement, they are invisible. They then make a power roll.</p></div>
 </div>
 </article>
 

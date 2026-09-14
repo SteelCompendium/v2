@@ -7,6 +7,7 @@ distance: 2 [cube](../../../../rule/combat/cube.md) within 10
 effects:
     - effect: Each target takes acid, fire, or poison damage (your choice) equal to your [Agility](../../../../rule/character/agility.md) score.
       name: Effect
+    - effect: For each [combat round](../../../../rule/combat/combat-round.md) that has passed since this ability was last used in the current encounter, the area increases by 1 and you gain 1 [surge](../../../../rule/resource/surge.md) that must be used with this ability. After using the ability or at the end of the encounter, its area and [surges](../../../../rule/resource/surge.md) are reset.
     - cost: Spend 2+ Insight
       effect: For every 2 insight spent, you increase the [cube](../../../../rule/combat/cube.md)'s [size](../../../../rule/character/size.md) by 1 and gain 1 [surge](../../../../rule/resource/surge.md) that can be used only with this ability.
 flavor: The longer it cooks, the bigger the boom.

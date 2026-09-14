@@ -10,7 +10,7 @@ effects:
       name: Effect
     - effect: This ability gains the [Strike](../../../../rule/combat/strike.md) keyword as the vision hurts the target's psyche. You make a [power roll](../../../../rule/dice/power-roll.md), then are [weakened](../../../../condition/weakened.md) (save ends).
       name: Strained
-    - roll: Power Roll + [Presence](../../../../rule/character/presence.md)
+      roll: Power Roll + [Presence](../../../../rule/character/presence.md)
       tier1: 8 + P psychic damage
       tier2: 13 + P psychic damage
       tier3: 17 + P psychic damage
@@ -43,6 +43,13 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/melee/">Melee</a> 2</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One enemy</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target has <a href="../../../../../rule/damage/damage-weakness/">damage weakness</a> 5 until the end of your next <a href="../../../../../rule/combat/turn/">turn</a>. Whenever the target takes damage while they have this weakness, they are <a href="../../../../../condition/prone/">knocked prone</a>.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
+<div class="sc-ability__section-body"><p>This ability gains the <a href="../../../../../rule/combat/strike/">Strike</a> keyword as the vision hurts the target&#39;s psyche. You make a <a href="../../../../../rule/dice/power-roll/">power roll</a>, then are <a href="../../../../../condition/weakened/">weakened</a> (save ends).</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../../rule/character/presence/">Presence</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -51,13 +58,6 @@ type: ability
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">17 + P psychic damage</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target has <a href="../../../../../rule/damage/damage-weakness/">damage weakness</a> 5 until the end of your next <a href="../../../../../rule/combat/turn/">turn</a>. Whenever the target takes damage while they have this weakness, they are <a href="../../../../../condition/prone/">knocked prone</a>.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>This ability gains the <a href="../../../../../rule/combat/strike/">Strike</a> keyword as the vision hurts the target&#39;s psyche. You make a <a href="../../../../../rule/dice/power-roll/">power roll</a>, then are <a href="../../../../../condition/weakened/">weakened</a> (save ends).</p></div>
 </div>
 </article>
 

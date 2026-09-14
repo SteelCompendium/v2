@@ -8,7 +8,7 @@ distance: Ranged 10
 effects:
     - effect: 'The target dies. You [teleport](../../../../movement/teleport.md) to the target''s space, [shift](../../../../movement/shifting.md) up to a number of squares equal to your Might score, and can then make a melee free strike. You then make the following power roll, targeting each enemy within 5 squares of the target:'
       name: Effect
-    - roll: Power Roll + Might
+      roll: Power Roll + Might
       tier1: P < WEAK [frightened](../../../../condition/frightened.md) (save ends)
       tier2: 4 psychic damage; P < AVERAGE [frightened](../../../../condition/frightened.md) (save ends)
       tier3: 8 psychic damage; P < STRONG [frightened](../../../../condition/frightened.md) (save ends)
@@ -41,6 +41,13 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
+<div class="sc-ability__section-body"><p>Your companion uses an ability that reduces the target to 0 Stamina.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target dies. You <a href="../../../../../movement/teleport/">teleport</a> to the target&#39;s space, <a href="../../../../../movement/shifting/">shift</a> up to a number of squares equal to your Might score, and can then make a melee free strike. You then make the following power roll, targeting each enemy within 5 squares of the target:</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
 <div class="sc-ability__pr-rows">
@@ -49,13 +56,6 @@ type: ability
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 psychic damage; P &lt; STRONG <a href="../../../../../condition/frightened/">frightened</a> (save ends)</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
-<div class="sc-ability__section-body"><p>Your companion uses an ability that reduces the target to 0 Stamina.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target dies. You <a href="../../../../../movement/teleport/">teleport</a> to the target&#39;s space, <a href="../../../../../movement/shifting/">shift</a> up to a number of squares equal to your Might score, and can then make a melee free strike. You then make the following power roll, targeting each enemy within 5 squares of the target:</p></div>
 </div>
 </article>
 

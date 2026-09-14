@@ -8,7 +8,7 @@ distance: Self; see below
 effects:
     - effect: You can [shift](../../../../movement/shifting.md) up to your [speed](../../../../rule/character/speed.md), and squares occupied by enemies or objects are not [difficult terrain](../../../../movement/difficult-terrain.md) for this [shift](../../../../movement/shifting.md). You make one [power roll](../../../../rule/dice/power-roll.md) that targets each enemy you moved through during this [shift](../../../../movement/shifting.md).
       name: Effect
-    - roll: Power Roll + [Agility](../../../../rule/character/agility.md)
+      roll: Power Roll + [Agility](../../../../rule/character/agility.md)
       tier1: 6 damage; M < WEAK, [dazed](../../../../condition/dazed.md)
       tier2: 8 damage; M < AVERAGE, [dazed](../../../../condition/dazed.md)
       tier3: 12 damage; M < STRONG, [dazed](../../../../condition/dazed.md)
@@ -41,6 +41,9 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self; see below</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You can <a href="../../../../../movement/shifting/">shift</a> up to your <a href="../../../../../rule/character/speed/">speed</a>, and squares occupied by enemies or objects are not <a href="../../../../../movement/difficult-terrain/">difficult terrain</a> for this <a href="../../../../../movement/shifting/">shift</a>. You make one <a href="../../../../../rule/dice/power-roll/">power roll</a> that targets each enemy you moved through during this <a href="../../../../../movement/shifting/">shift</a>.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../../rule/character/agility/">Agility</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -49,9 +52,6 @@ type: ability
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">12 damage; M &lt; STRONG, <a href="../../../../../condition/dazed/">dazed</a></span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can <a href="../../../../../movement/shifting/">shift</a> up to your <a href="../../../../../rule/character/speed/">speed</a>, and squares occupied by enemies or objects are not <a href="../../../../../movement/difficult-terrain/">difficult terrain</a> for this <a href="../../../../../movement/shifting/">shift</a>. You make one <a href="../../../../../rule/dice/power-roll/">power roll</a> that targets each enemy you moved through during this <a href="../../../../../movement/shifting/">shift</a>.</p></div>
 </div>
 </article>
 

@@ -8,7 +8,7 @@ distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effects:
     - effect: The target is [teleport](../../../../movement/teleport.md)ed to another space within [distance](../../../../rule/combat/distance.md). Make a [power roll](../../../../rule/dice/power-roll.md) that affects each enemy [adjacent](../../../../rule/combat/adjacent.md) to the target's new space.
       name: Effect
-    - roll: Power Roll + [Reason](../../../../rule/character/reason.md)
+      roll: Power Roll + [Reason](../../../../rule/character/reason.md)
       tier1: 3 fire damage
       tier2: 5 fire damage
       tier3: 8 fire damage
@@ -41,6 +41,9 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one ally</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target is <a href="../../../../../movement/teleport/">teleport</a>ed to another space within <a href="../../../../../rule/combat/distance/">distance</a>. Make a <a href="../../../../../rule/dice/power-roll/">power roll</a> that affects each enemy <a href="../../../../../rule/combat/adjacent/">adjacent</a> to the target&#39;s new space.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../../rule/character/reason/">Reason</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -49,9 +52,6 @@ type: ability
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 fire damage</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target is <a href="../../../../../movement/teleport/">teleport</a>ed to another space within <a href="../../../../../rule/combat/distance/">distance</a>. Make a <a href="../../../../../rule/dice/power-roll/">power roll</a> that affects each enemy <a href="../../../../../rule/combat/adjacent/">adjacent</a> to the target&#39;s new space.</p></div>
 </div>
 </article>
 

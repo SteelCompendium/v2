@@ -8,7 +8,7 @@ distance: Ranged 5
 effects:
     - effect: The first time the target uses a move action, main action, maneuver, or triggered action before the start of your next turn, your companion makes the following power roll before the target acts. If the target hasn't acted before the start of your next turn, they are [frightened](../../../../condition/frightened.md) of your companion (save ends).
       name: Effect
-    - roll: Power Roll + Intuition
+      roll: Power Roll + Intuition
       tier1: 9 + I psychic damage; I < WEAK [weakened](../../../../condition/weakened.md) (save ends)
       tier2: 13 + I psychic damage; I < AVERAGE [weakened](../../../../condition/weakened.md) (save ends)
       tier3: 18 + I psychic damage; I < STRONG [weakened](../../../../condition/weakened.md) (save ends)
@@ -41,6 +41,9 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 5</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The first time the target uses a move action, main action, maneuver, or triggered action before the start of your next turn, your companion makes the following power roll before the target acts. If the target hasn&#39;t acted before the start of your next turn, they are <a href="../../../../../condition/frightened/">frightened</a> of your companion (save ends).</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Intuition</span></div>
 <div class="sc-ability__pr-rows">
@@ -49,9 +52,6 @@ type: ability
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">18 + I psychic damage; I &lt; STRONG <a href="../../../../../condition/weakened/">weakened</a> (save ends)</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The first time the target uses a move action, main action, maneuver, or triggered action before the start of your next turn, your companion makes the following power roll before the target acts. If the target hasn&#39;t acted before the start of your next turn, they are <a href="../../../../../condition/frightened/">frightened</a> of your companion (save ends).</p></div>
 </div>
 </article>
 

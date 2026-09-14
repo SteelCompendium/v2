@@ -8,7 +8,8 @@ distance: Self; see below
 effects:
     - effect: You create three [size](../../../../rule/character/size.md) 1T orbs that orbit your body. Each orb gives you a cumulative [damage immunity](../../../../rule/damage/damage-immunity.md) 1. Each time you take damage, you lose 1 orb.
       name: Effect
-    - roll: Power Roll + [Reason](../../../../rule/character/reason.md)
+    - effect: Once on each of your [turns](../../../../rule/combat/turn.md), you can use a [free maneuver](../../../../rule/combat/free-maneuver.md) to fire an orb at a creature or object within 5 squares as a [ranged](../../../../rule/combat/ranged.md) [strike](../../../../rule/combat/strike.md), losing the orb after the [strike](../../../../rule/combat/strike.md).
+      roll: Power Roll + [Reason](../../../../rule/character/reason.md)
       tier1: 2 damage
       tier2: 3 damage
       tier3: 5 damage
@@ -43,6 +44,9 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self; see below</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
 </div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You create three <a href="../../../../../rule/character/size/">size</a> 1T orbs that orbit your body. Each orb gives you a cumulative <a href="../../../../../rule/damage/damage-immunity/">damage immunity</a> 1. Each time you take damage, you lose 1 orb.</p><p>Once on each of your <a href="../../../../../rule/combat/turn/">turns</a>, you can use a <a href="../../../../../rule/combat/free-maneuver/">free maneuver</a> to fire an orb at a creature or object within 5 squares as a <a href="../../../../../rule/combat/ranged/">ranged</a> <a href="../../../../../rule/combat/strike/">strike</a>, losing the orb after the <a href="../../../../../rule/combat/strike/">strike</a>.</p></div>
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../../rule/character/reason/">Reason</a></span></div>
 <div class="sc-ability__pr-rows">
@@ -51,9 +55,6 @@ type: ability
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">5 damage</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You create three <a href="../../../../../rule/character/size/">size</a> 1T orbs that orbit your body. Each orb gives you a cumulative <a href="../../../../../rule/damage/damage-immunity/">damage immunity</a> 1. Each time you take damage, you lose 1 orb.</p><p>Once on each of your <a href="../../../../../rule/combat/turn/">turns</a>, you can use a <a href="../../../../../rule/combat/free-maneuver/">free maneuver</a> to fire an orb at a creature or object within 5 squares as a <a href="../../../../../rule/combat/ranged/">ranged</a> <a href="../../../../../rule/combat/strike/">strike</a>, losing the orb after the <a href="../../../../../rule/combat/strike/">strike</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
