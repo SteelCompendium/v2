@@ -128,6 +128,24 @@ test("costTierValues: a tier outside the canonical list is appended after '11' i
   assert.deepStrictEqual(Core.costTierValues(items), ["Signature", "11", "13", "other"]);
 });
 
+test("costTierValues: an amount outside the hard-coded 1/3/5/7/9/11 set sorts into its numeric place, not after the highest known amount", () => {
+  const items = [
+    { kind: "ability", cost_tier: "1" },
+    { kind: "ability", cost_tier: "2" },   // hypothetical amount between 1 and 3
+    { kind: "ability", cost_tier: "3" }
+  ];
+  assert.deepStrictEqual(Core.costTierValues(items), ["1", "2", "3"]);
+});
+
+test("costTierValues: a non-numeric unknown tier sorts after every numeric amount", () => {
+  const items = [
+    { kind: "ability", cost_tier: "11" },
+    { kind: "ability", cost_tier: "other" },
+    { kind: "ability", cost_tier: "1" }
+  ];
+  assert.deepStrictEqual(Core.costTierValues(items), ["1", "11", "other"]);
+});
+
 test("costTierDisplay: 'none' reads as 'No cost'; everything else verbatim", () => {
   assert.strictEqual(Core.costTierDisplay("none"), "No cost");
   assert.strictEqual(Core.costTierDisplay("Signature"), "Signature");

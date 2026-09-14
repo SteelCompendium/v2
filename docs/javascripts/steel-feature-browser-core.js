@@ -83,9 +83,9 @@
   //   {value, unit} (steel-ability-cards.js:53 documents this alternate shape)
   //     with a numeric `value` → that value as a string, same as the string case
   //   anything else (non-numeric string, malformed object, …) → "other", so an
-  //     unrecognized shape is never silently dropped from the facet — see the
-  //     `values` fallback in steel-feature-browser.js's facet descriptor, which
-  //     appends "other"/unlisted tiers after "11" instead of hiding them.
+  //     unrecognized shape is never silently dropped from the facet — see
+  //     `costTierValues` below, which folds an unlisted tier into the facet
+  //     instead of hiding it.
   function costFacetValue(cost) {
     if (cost != null && typeof cost === "object") {
       return cost.value != null && cost.value !== "" && !isNaN(Number(cost.value))
@@ -100,28 +100,26 @@
     return "other";
   }
 
-  // costTierValues(items) — SC-92. The Cost facet's `values` list: the
-  // canonical order (Signature, No cost, amounts ascending) filtered to tiers
+  // costTierValues(items) — SC-92. The Cost facet's `values` list: Signature
+  // and No cost first (whichever are present), then every distinct amount
   // actually present in `items` (each item's `cost_tier`, stamped by the
-  // caller — see steel-feature-browser.js mount()), with any tier outside the
-  // canonical list (e.g. "other", or a future amount) appended after "11" in
-  // numeric order so it stays filterable rather than silently disappearing.
-  // Deliberately NOT uniqueSorted()'s localeCompare, which sorts "11" before
-  // "3".
-  var COST_TIER_ORDER = ["Signature", "none", "1", "3", "5", "7", "9", "11"];
+  // caller — see steel-feature-browser.js mount()) in ascending numeric
+  // order, then any non-numeric tier (e.g. a future "other") alphabetically.
+  // Amounts are never hard-coded, so a tier this facet has never seen today
+  // (a hypothetical "2") lands in its correct numeric slot instead of
+  // trailing after the highest amount on record. Deliberately NOT
+  // uniqueSorted()'s localeCompare, which sorts "11" before "3".
+  var COST_TIER_HEAD = ["Signature", "none"];
   function costTierValues(items) {
     var present = {};
     items.forEach(function (it) { if (it.cost_tier != null) present[it.cost_tier] = true; });
-    var known = COST_TIER_ORDER.filter(function (v) { return present[v]; });
-    var extra = Object.keys(present).filter(function (v) { return COST_TIER_ORDER.indexOf(v) === -1; });
-    extra.sort(function (a, b) {
-      var na = Number(a), nb = Number(b);
-      var aNum = !isNaN(na), bNum = !isNaN(nb);
-      if (aNum && bNum) return na - nb;
-      if (aNum !== bNum) return aNum ? -1 : 1;
-      return a.localeCompare(b);
-    });
-    return known.concat(extra);
+    var head = COST_TIER_HEAD.filter(function (v) { return present[v]; });
+    var rest = Object.keys(present).filter(function (v) { return COST_TIER_HEAD.indexOf(v) === -1; });
+    var numerics = rest.filter(function (v) { return !isNaN(Number(v)); });
+    var others = rest.filter(function (v) { return isNaN(Number(v)); });
+    numerics.sort(function (a, b) { return Number(a) - Number(b); });
+    others.sort(function (a, b) { return a.localeCompare(b); });
+    return head.concat(numerics, others);
   }
 
   // display label for a Cost facet tier: "none" reads as "No cost"; every
