@@ -40,6 +40,16 @@
    site where display-size text was not the display face. It now uses the display
    role (tabular figures keep the alignment the mono font was there for). The small
    mono numerals on chips and badges elsewhere are deliberate and stay. */
+/* SC-115/SC-315: the shared .sc-head__slot--mini rule (steel-cardhead.css) was
+   demoted globally to a .92rem small-caps subtitle for every OTHER card's cost/type
+   text — but that would silently undo the SC-315 ruling above for this one card.
+   Pin the project head's right-primary back to exactly its pre-SC-115 display
+   recipe (this selector's higher specificity wins over the shared class), so "GOAL
+   3,000" stays pixel-identical to before the global shrink. */
+.pj__head .sc-head__right-primary {
+  font-family: var(--md-large-header-font); font-weight: var(--md-large-header-weight); letter-spacing: var(--md-large-header-tracking); -webkit-text-stroke: var(--md-large-header-stroke) currentColor; text-transform: uppercase;
+  font-size: calc(1.35rem * var(--md-large-header-scale)); line-height: 1.04; color: var(--md-default-fg-color);
+}
 .pj__head .sc-head__right-primary .num {
   font-family: var(--md-large-header-font); font-weight: var(--md-large-header-weight);
   font-variant-numeric: tabular-nums;
