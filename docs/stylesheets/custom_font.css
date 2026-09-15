@@ -23,26 +23,34 @@
        WEIGHT; reach for the stroke only if a face without real weights comes
        back.
 
+       WHY 900. The target is BEAUFORT W01 HEAVY, the commercial face this UI was
+       originally designed around and the closest match to the MCDM book — not
+       Forum, which was only ever a too-light stopgap and is the wrong thing to
+       calibrate against. Beaufort Heavy is genuinely heavy: measured over
+       "GOBLIN WARRIOR" at 100px it covers 0.486 of its own ink box, against 0.205
+       for Cinzel 400. Cinzel 900 reaches 0.449, within 8% of Beaufort; 700 sits
+       26% light and still reads thin beside it.
+
        SCALE IS A MULTIPLIER, NOT AN OFFSET. Display sizes span 1.05rem to 5em, so
        adding a fixed amount grows the small ones several times harder than the
        large ones. Every display font-size is written as
        calc(<base> * var(--md-large-header-scale)) and keeps its own base, so the
        whole role rescales in proportion from this one number.
 
-       WHY THE SCALE IS 0.95. Cinzel sets about 20% wider than Forum at the same
-       font-size, so the 1.2 that suited Forum overflows here. 0.95 is the largest
-       value that reproduces today's line breaks exactly, checked at 1280/1400/
+       WHY THE SCALE IS 0.90. Same target: reproduce the ORIGINAL Beaufort
+       footprint. Beaufort and Cinzel set nearly the same width per em at 400, but
+       Cinzel widens as it gets heavier — at 900 it runs 12% wider than Beaufort,
+       so it has to come back down. 0.90 lands within half a percent of Beaufort's
+       advance and reproduces Beaufort's line breaks exactly, checked at 1280/1400/
        1600/1920 against the page h1, a chapter h1 and short and long statblock
-       names. At 1.0 the home h1 "STEEL COMPENDIUM" breaks onto two lines at a
-       1400px viewport where it currently fits on one. The trade is cap height:
-       Cinzel here stands about 15% shorter than Forum did at 1.2, bought back by
-       the real 700 weight. Raising this is a one-number change if you would
-       rather have the size and accept the wrapping.
+       names. Cap height ends up about 6% under Beaufort's. Note the scale is tied
+       to the weight: raise one and you must re-measure the other, because a
+       heavier cut of Cinzel is a wider cut.
 
        TRACKING IS 0. Forum set its caps tight and wanted 2px of air. Cinzel is
        generously spaced already and only looks loose if you add more. */
-    --md-large-header-weight: 700;
-    --md-large-header-scale: 0.95;
+    --md-large-header-weight: 900;
+    --md-large-header-scale: 0.90;
     --md-large-header-tracking: 0px;
     --md-large-header-stroke: 0px;
     --md-small-header-font: "Petrona";
