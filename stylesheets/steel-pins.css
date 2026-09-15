@@ -1,0 +1,102 @@
+/* steel-pins.css — the pushpin toggle + /pins/ "My Table" board (sc-pins.js).
+
+   SC-297 (round 2): on card pages the pin now mounts inside the shared chrome
+   plate (steel-chrome.css), which re-grounds position/opacity/colour with a
+   more specific selector — all five card families are ported. On plain pages
+   it still lives in the always-visible top-right page action strip
+   (steel-pageact.css), unchanged. */
+
+/* mdi pushpin: fill-path icon (outline ↔ filled swapped by sc-pins.js) */
+.sc-pin svg {
+  width: 1rem; height: 1rem;
+  fill: currentColor;
+}
+
+.sc-pin {
+  background: none; border: 0; cursor: pointer;
+  font-size: 1.05rem; line-height: 1; padding: .1rem .2rem;
+  color: var(--md-default-fg-color--lighter);
+}
+.sc-pin:hover { color: var(--md-accent-fg-color); }
+.sc-pin.is-on { color: var(--md-accent-fg-color); }
+@media print { .sc-pin { display: none !important; } }
+
+.sc-pins__kind { margin-top: 1.4rem; }
+.md-typeset .sc-pins__list { list-style: none; margin-left: 0; columns: 2; column-gap: 2rem; }
+.md-typeset .sc-pins__list li { break-inside: avoid; display: flex; gap: .5rem; align-items: baseline; }
+.sc-pins__rm { background: none; border: 0; cursor: pointer; color: var(--md-default-fg-color--lighter); }
+.sc-pins__rm:hover { color: var(--md-accent-fg-color); }
+@media (max-width: 45em) { .md-typeset .sc-pins__list { columns: 1; } }
+
+/* Custom-link form shares the board's theme tokens in light and dark modes. */
+.sc-pins__form {
+  display: grid; gap: .5rem; padding: 1rem;
+  border: 1px solid var(--md-default-fg-color--lightest); border-radius: .4rem;
+}
+.md-content .sc-pins__form h2 { margin: 0; }
+.md-content .sc-pins__form p { margin: 0 0 .5rem; }
+.sc-pins__form label { font-weight: 700; }
+.sc-pins__form input {
+  width: 100%; min-width: 0; padding: .5rem; font: inherit;
+  color: var(--md-default-fg-color); background: var(--md-default-bg-color);
+  border: 1px solid var(--md-default-fg-color--light); border-radius: .2rem;
+}
+.sc-pins__form button {
+  justify-self: start; padding: .45rem .9rem; margin-top: .4rem;
+  border: 1px solid var(--md-accent-fg-color); border-radius: .2rem;
+  color: var(--md-accent-fg-color); cursor: pointer;
+}
+.sc-pins__form :is(input, button):focus-visible {
+  outline: 2px solid var(--md-accent-fg-color); outline-offset: 2px;
+}
+.sc-pins__status { min-height: 1.5em; }
+.sc-pins__list a { overflow-wrap: anywhere; min-width: 0; }
+.sc-pins__rm { flex-shrink: 0; }
+@media print { .sc-pins__form, .sc-pins__rm { display: none !important; } }
+
+/* Excerpts take the full reading column; retain the compact columns for links. */
+.md-content .sc-pins__list:has(.sc-pins__section) { columns: 1; }
+.md-content .sc-pins__list li.sc-pins__section {
+  display: block; margin: .8rem 0; padding: .8rem;
+  border: 1px solid var(--md-default-fg-color--lightest); border-radius: .4rem;
+}
+.md-content .sc-pins__section details.sc-pins__section-fold {
+  border: 0; box-shadow: none; background: none; font-size: inherit;
+  margin: 0; padding: 0; overflow: visible;
+}
+.md-content .sc-pins__section details.sc-pins__section-fold > summary {
+  display: list-item; list-style: disclosure-closed inside; margin: 0;
+  padding: .3rem 0; background: none; font-weight: 700; color: var(--md-accent-fg-color);
+}
+.md-content .sc-pins__section details.sc-pins__section-fold[open] > summary { list-style-type: disclosure-open; }
+.md-content .sc-pins__section-fold > summary::before,
+.md-content .sc-pins__section-fold > summary::after { content: none; }
+.sc-pins__section-actions { display: flex; justify-content: space-between; gap: 1rem; margin-top: .6rem; font-size: .8em; }
+.sc-pins__excerpt { overflow-wrap: anywhere; }
+.sc-pins__table { overflow-x: auto; max-width: 100%; }
+.sc-pins__excerpt :is(h2,h3,h4,h5,h6) { scroll-margin-top: 5rem; }
+@media print {
+  .sc-pins__section-actions { display: none !important; }
+}
+
+/* My Table is a reference board: its controls and labels stay compact. */
+.md-content:has(.sc-pins-mount) h1 { font-size: 1.6rem; margin-bottom: .6rem; }
+.md-content .sc-pins__kind {
+  font-family: inherit; font-size: .8rem; font-weight: 700;
+  text-transform: none; letter-spacing: normal; line-height: 1.4;
+  margin: 1rem 0 .3rem;
+  color: var(--md-default-fg-color--light);
+}
+.md-content .sc-pins__list { margin-top: .3rem; }
+.sc-pins__toolbar { display: flex; flex-wrap: wrap; gap: .6rem; align-items: center; margin: .8rem 0; }
+.sc-pins__add {
+  padding: .35rem .7rem; border: 1px solid var(--md-accent-fg-color);
+  border-radius: .2rem; color: var(--md-accent-fg-color); cursor: pointer;
+}
+.sc-pins__add:focus-visible { outline: 2px solid var(--md-accent-fg-color); outline-offset: 2px; }
+.sc-pins__form[hidden] { display: none; }
+.md-content .sc-pins__form h2 { font-size: 1rem; }
+.sc-pins__form .sc-pins__cancel { border-color: var(--md-default-fg-color--light); color: var(--md-default-fg-color); }
+@media print { .sc-pins__toolbar { display: none !important; } }
+
+.sc-pins__form-actions { display: flex; flex-wrap: wrap; gap: .6rem; }
