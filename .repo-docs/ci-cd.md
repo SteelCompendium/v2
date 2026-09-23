@@ -47,25 +47,17 @@ split of responsibilities: the `justfile` `update` recipe generates and commits 
 `main`; the **workflow only builds and deploys** the already-committed `docs/` — it does
 not run `steel-etl`.
 
-**Licensed fonts (SC-320).** The body face, Berlingske Slab, is licensed from Playtype and
-must never be in a public git repo — which is why the deploy no longer uses
-`mkdocs gh-deploy` (it committed the built site, fonts included, to the public `gh-pages`
-branch). The workflow:
-
-1. fails if any licensed font file is tracked in v2;
-2. checks out the **private** `SteelCompendium/licensed-fonts` repo using the repo secret
-   **`LICENSED_FONTS_DEPLOY_KEY`** (the private half of a read-only deploy key on that repo)
-   and copies its `web/` into `docs/stylesheets/licensed-fonts/` (gitignored);
-3. fails if the fonts didn't reach `site/` — a broken key stops the deploy rather than
-   shipping the Zilla Slab fallback;
-4. deletes the Pages artifact after deploying — it contains the fonts, and a public repo's
-   artifacts are downloadable by any signed-in GitHub user until they expire.
+**Licensed fonts (SC-320, SC-335).** The body face, Berlingske Slab, is licensed from
+Playtype and must never be in a public git repo. **This build does not carry it:** the
+root site (`SteelCompendium.github.io`) hosts the files for the whole domain at
+`/fonts/licensed/berlingske-slab/`, and v2's `custom_font.css` references that path. The
+v2 workflow needs no secret and no private checkout. It still refuses to deploy if a
+licensed font file is ever tracked in v2, because `just fonts` keeps a gitignored
+local-preview copy. Rules: workspace `ARCHITECTURE.md` → "Licensed fonts"; EULA record:
+[decisions/2026-09-23-licensed-berlingske-slab.md](decisions/2026-09-23-licensed-berlingske-slab.md).
 
 One-time repo settings this depends on: Pages source **"GitHub Actions"**, and the
 `github-pages` environment's deployment-branch policy allowing **`main`**.
-
-Rules, EULA quotes and rejected alternatives:
-[decisions/2026-09-23-licensed-berlingske-slab.md](decisions/2026-09-23-licensed-berlingske-slab.md).
 
 ### Build performance (~14 min as of 2026-06-05)
 

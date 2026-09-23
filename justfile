@@ -54,10 +54,11 @@ clean_docs:
       ! -name '.nav.yml' \
       -exec rm -rf -- {} +
 
-# SC-320: fetch the licensed Berlingske Slab web fonts from the PRIVATE
-# SteelCompendium/licensed-fonts repo into docs/stylesheets/licensed-fonts/
-# (gitignored — never commit them; see .repo-docs/decisions/2026-09-23-licensed-berlingske-slab.md).
-# Needs read access to that repo. Without the fonts the site renders in Zilla Slab.
+# LOCAL PREVIEW ONLY: fetch the licensed Berlingske Slab web fonts from the PRIVATE
+# SteelCompendium/licensed-fonts repo into docs/stylesheets/licensed-fonts/ (gitignored —
+# never commit them). The deployed site loads them from the root site's
+# /fonts/licensed/ instead, which `mkdocs serve` can't reach (SC-335; rules in the
+# workspace ARCHITECTURE.md → "Licensed fonts"). Without them, local preview uses Zilla Slab.
 fonts:
     #!/usr/bin/env bash
     set -euo pipefail

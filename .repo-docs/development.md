@@ -29,12 +29,13 @@ just update push=false
 just serve
 ```
 
-**Licensed fonts.** `just fonts` clones the private `SteelCompendium/licensed-fonts` repo
-into `.licensed-fonts/` and installs the Berlingske Slab web fonts into
-`docs/stylesheets/licensed-fonts/`. Both paths are gitignored — **never commit the font
-files**; the repo is public and the Playtype license forbids it. Without access to that
-repo the site renders body text in Zilla Slab, the fallback. See
-[decisions/2026-09-23-licensed-berlingske-slab.md](decisions/2026-09-23-licensed-berlingske-slab.md).
+**Licensed fonts.** The deployed site loads Berlingske Slab from the root site's
+`/fonts/licensed/`, which `mkdocs serve` can't reach. So for local preview, `just fonts`
+clones the private `SteelCompendium/licensed-fonts` repo into `.licensed-fonts/` and
+installs a copy into `docs/stylesheets/licensed-fonts/`. Each `@font-face` falls back to
+that copy. Both paths are gitignored — **never commit the font files**; the repo is
+public and the Playtype license forbids it. Without access to that repo, body text
+renders in Zilla Slab. Rules: workspace `ARCHITECTURE.md` → "Licensed fonts".
 
 ## Development Workflow
 

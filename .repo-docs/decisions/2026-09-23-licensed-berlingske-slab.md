@@ -2,6 +2,15 @@
 
 **Date:** 2026-09-23 · **Status:** accepted · **Ticket:** SC-320
 
+> **Amended 2026-09-23 (SC-335): the fonts are now hosted by the ROOT site, not v2.**
+> Scott wanted a future v3 to need no setup. So `SteelCompendium.github.io` runs the
+> private-repo checkout, the Pages artifact deploy and the artifact deletion described
+> below, and serves the files at `/fonts/licensed/berlingske-slab/`. v2 references that
+> path; its CI has no secret and no fonts. v2 keeps `just fonts` only to fill a
+> gitignored local-preview copy, which is the second `src` URL in each `@font-face`.
+> Where this record says "v2 CI" for fetching or hosting, read "root site CI". The
+> current rules live in the workspace `ARCHITECTURE.md` → "Licensed fonts".
+
 ## Context
 
 The body face was Berlingske Slab (Playtype) until 2026-09-06, loaded from
@@ -112,11 +121,10 @@ exactly what the EULA forbids.
 - **Key rotation:** the deploy key is read-only on the fonts repo only. Rotate by
   generating a new pair, replacing the deploy key and the `LICENSED_FONTS_DEPLOY_KEY`
   secret.
-- **The root site depends on these paths (SC-335).** steelcompendium.io
-  (`SteelCompendium.github.io/docs/stylesheets/custom_font.css`) loads the same six files
-  by root-relative URL, `/v2/stylesheets/licensed-fonts/berlingske-slab/…`. That is the
-  same domain and host, so it is still self-hosting with no second copy. Moving or
-  renaming the files here breaks the root site's body font; update both together.
+- **Every site depends on the root host's path (SC-335).** v2 and the root site load
+  the six files from `/fonts/licensed/berlingske-slab/`, served by the root site. That is
+  the same domain and host, so it is still self-hosting with one copy. Moving or renaming
+  them there breaks every site's body font.
 - The old `gh-pages` branch is no longer served once the Pages source is "GitHub Actions";
   it never contained licensed files.
 
