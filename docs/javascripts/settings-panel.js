@@ -60,7 +60,10 @@
       ['"system-ui", var(--md-text-font), serif', "System UI"]
     ],
     text: [
-      ['"Zilla Slab", Georgia, "Times New Roman", serif', "Zilla Slab (default)"],
+      ['"Berlingske Slab", "Zilla Slab", Georgia, "Times New Roman", serif', "Berlingske Slab (default)"],
+      // Byte-identical to the default string of 2026-09-06 to SC-320, so a reader who saved it
+      // while Zilla was the default keeps Zilla and sees it selected here.
+      ['"Zilla Slab", Georgia, "Times New Roman", serif', "Zilla Slab"],
       ['"Source Serif 4"', "Source Serif 4"],
       ['"Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", Arial, "Noto Sans", sans-serif', "Inter"],
       ['-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", Arial, "Noto Sans", sans-serif', "System UI"]
@@ -181,6 +184,14 @@
   // value through so storage and memory never disagree.
   if (prefs.statblock && !prefs.statblock.featstyle && prefs.statblock.kwusage && prefs.statblock.kwusage !== "crest") {
     prefs.statblock.featstyle = "flat";
+    persist();
+  }
+  // Second matched pair with main.html (SC-320): before 2026-09-06, choosing the
+  // default body font saved '"BerlingskeSlab-DBd", Georgia, …' — the old
+  // unlicensed family, which no longer exists, so those readers have been getting
+  // Georgia. It meant "the default", so drop it and they get the default again.
+  if (prefs.text && prefs.text.indexOf('"BerlingskeSlab-DBd"') === 0) {
+    delete prefs.text;
     persist();
   }
   applyAll(prefs); // re-assert (covers contentScale even if inline early-apply predates it)
@@ -508,7 +519,11 @@
       var sel = drawer.querySelector("#" + fontIds[k]);
       fillSelect(sel, FONT_OPTIONS[k], prefs[k]);
       sel.addEventListener("change", function () {
-        prefs[k] = sel.value;
+        // Choosing the (default) entry stores nothing, so the reader follows the
+        // default if it ever changes again. Storing its string is how readers got
+        // stranded on the retired "BerlingskeSlab-DBd" (see the migration above).
+        if (sel.value === FONT_OPTIONS[k][0][0]) delete prefs[k];
+        else prefs[k] = sel.value;
         applyFonts(prefs);
         persist();
       });

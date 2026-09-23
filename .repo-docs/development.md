@@ -25,9 +25,16 @@ pip install mkdocs-material mkdocs-roamlinks-plugin mkdocs-awesome-nav-plugin
 cd v2
 just update push=false
 
-# Preview locally
+# Preview locally (runs `just fonts` first)
 just serve
 ```
+
+**Licensed fonts.** `just fonts` clones the private `SteelCompendium/licensed-fonts` repo
+into `.licensed-fonts/` and installs the Berlingske Slab web fonts into
+`docs/stylesheets/licensed-fonts/`. Both paths are gitignored — **never commit the font
+files**; the repo is public and the Playtype license forbids it. Without access to that
+repo the site renders body text in Zilla Slab, the fallback. See
+[decisions/2026-09-23-licensed-berlingske-slab.md](decisions/2026-09-23-licensed-berlingske-slab.md).
 
 ## Development Workflow
 

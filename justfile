@@ -54,8 +54,27 @@ clean_docs:
       ! -name '.nav.yml' \
       -exec rm -rf -- {} +
 
-# Preview the site locally
+# SC-320: fetch the licensed Berlingske Slab web fonts from the PRIVATE
+# SteelCompendium/licensed-fonts repo into docs/stylesheets/licensed-fonts/
+# (gitignored — never commit them; see .repo-docs/decisions/2026-09-23-licensed-berlingske-slab.md).
+# Needs read access to that repo. Without the fonts the site renders in Zilla Slab.
+fonts:
+    #!/usr/bin/env bash
+    set -euo pipefail
+    if [ -d .licensed-fonts/.git ]; then
+        git -C .licensed-fonts pull -q --ff-only
+    else
+        git clone -q --depth 1 git@github.com:SteelCompendium/licensed-fonts.git .licensed-fonts
+    fi
+    rm -rf docs/stylesheets/licensed-fonts
+    mkdir -p docs/stylesheets/licensed-fonts
+    cp -R .licensed-fonts/web/. docs/stylesheets/licensed-fonts/
+    echo >&2 "[INFO] Licensed fonts installed in docs/stylesheets/licensed-fonts/"
+
+# Preview the site locally (fetches the licensed fonts first; falls back to Zilla Slab
+# with a warning if the private repo is unreachable)
 serve:
+    @just fonts || echo >&2 "[WARN] licensed fonts unavailable; body text will render in Zilla Slab"
     mkdocs serve
 
 # Build the site for deployment

@@ -1,7 +1,7 @@
 ---
 repo: v2
 doc: ci-cd
-updated: 2026-06-05
+updated: 2026-09-23
 ---
 
 # CI/CD
@@ -40,17 +40,34 @@ just update          # generate content, build docs, commit, push
 
 ## GitHub Actions deploy (`.github/workflows/ci.yml`)
 
-Every push to `main` triggers the `ci` workflow, which runs `mkdocs gh-deploy --force` and
-publishes to the `gh-pages` branch. Note the split of responsibilities: the `justfile`
-`update` recipe generates and commits `docs/` to `main`; the **workflow only builds and
-deploys** the already-committed `docs/` — it does not run `steel-etl`.
+Every push to `main` triggers the `ci` workflow, which runs `mkdocs build` and publishes
+`site/` through GitHub's **Pages artifact** (`actions/upload-pages-artifact` +
+`actions/deploy-pages`). The repo's Pages source must be **"GitHub Actions"**. Note the
+split of responsibilities: the `justfile` `update` recipe generates and commits `docs/` to
+`main`; the **workflow only builds and deploys** the already-committed `docs/` — it does
+not run `steel-etl`.
+
+**Licensed fonts (SC-320).** The body face, Berlingske Slab, is licensed from Playtype and
+must never be in a public git repo — which is why the deploy no longer uses
+`mkdocs gh-deploy` (it committed the built site, fonts included, to the public `gh-pages`
+branch). The workflow:
+
+1. fails if any licensed font file is tracked in v2;
+2. checks out the **private** `SteelCompendium/licensed-fonts` repo using the repo secret
+   **`LICENSED_FONTS_DEPLOY_KEY`** (the private half of a read-only deploy key on that repo)
+   and copies its `web/` into `docs/stylesheets/licensed-fonts/` (gitignored);
+3. fails if the fonts didn't reach `site/` — a broken key stops the deploy rather than
+   shipping the Zilla Slab fallback.
+
+Rules, EULA quotes and rejected alternatives:
+[decisions/2026-09-23-licensed-berlingske-slab.md](decisions/2026-09-23-licensed-berlingske-slab.md).
 
 ### Build performance (~14 min as of 2026-06-05)
 
 Measured step breakdown of a typical run (`gh run view <id> --json jobs`):
 
 - **Checkout (`fetch-depth: 0`): ~248s** — fetches the full ~800 MB git history.
-- **`mkdocs gh-deploy`: ~557s** — almost entirely the `mkdocs build` (single-threaded,
+- **`mkdocs gh-deploy`: ~557s** (the deploy step before SC-320 moved it to a Pages artifact) — almost entirely the `mkdocs build` (single-threaded,
   CPU-bound; ~614s locally for 3,097 pages). Push is small.
 
 Profiling found two bottlenecks: (1) Material re-rendering the **whole 3,097-item nav tree

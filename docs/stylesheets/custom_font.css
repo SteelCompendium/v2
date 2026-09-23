@@ -6,6 +6,68 @@
 @import url("https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap");
 
+/* Body face: Berlingske Slab, LICENSED from Playtype (SC-320) — web self-hosting,
+   under 250,000 pageviews/month. The EULA sets four hard rules for these files:
+     1. Serve them from this site's own host. No CDN, no Google-Fonts-style third party.
+     2. Never make them downloadable anywhere else. The v2 repo is public, so the
+        files are NOT in git: they live in the private SteelCompendium/licensed-fonts
+        repo, and ci.yml / `just fonts` copy them into licensed-fonts/ (gitignored)
+        at build time.
+     3. Never modify them. No subsetting, re-encoding or renaming the outlines.
+     4. No PDF/EPUB/app embedding. The DSE plugin cannot bundle them.
+   Without the files (a fork, a fresh clone before `just fonts`) every rule below
+   404s and body text falls back to Zilla Slab, the next family in --md-text-font.
+   Full record: .repo-docs/decisions/2026-09-23-licensed-berlingske-slab.md.
+
+   WEIGHT MAP. Only the Demibold, Bold and Extrabold cuts are licensed, and the
+   Demibold is what this site was designed around — before SC-320 it was the ONE
+   Berlingske face loaded and set all body text. So Demibold is the site's "normal"
+   (100-500), Bold its semibold (600) and Extrabold its bold (700-900), which keeps
+   <strong> clearly heavier than the prose around it. Each @font-face covers a weight
+   RANGE so no requested weight falls between faces and gets faux-bolded. */
+@font-face {
+    font-family: "Berlingske Slab";
+    font-style: normal;
+    font-weight: 100 500;
+    font-display: swap;
+    src: url("licensed-fonts/berlingske-slab/BerlingskeSlab-DBd.woff2") format("woff2");
+}
+@font-face {
+    font-family: "Berlingske Slab";
+    font-style: italic;
+    font-weight: 100 500;
+    font-display: swap;
+    src: url("licensed-fonts/berlingske-slab/BerlingskeSlab-DBdIt.woff2") format("woff2");
+}
+@font-face {
+    font-family: "Berlingske Slab";
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url("licensed-fonts/berlingske-slab/BerlingskeSlab-Bd.woff2") format("woff2");
+}
+@font-face {
+    font-family: "Berlingske Slab";
+    font-style: italic;
+    font-weight: 600;
+    font-display: swap;
+    src: url("licensed-fonts/berlingske-slab/BerlingskeSlab-BdIt.woff2") format("woff2");
+}
+@font-face {
+    font-family: "Berlingske Slab";
+    font-style: normal;
+    font-weight: 700 900;
+    font-display: swap;
+    src: url("licensed-fonts/berlingske-slab/BerlingskeSlab-XBd.woff2") format("woff2");
+}
+@font-face {
+    font-family: "Berlingske Slab";
+    font-style: italic;
+    font-weight: 700 900;
+    font-display: swap;
+    src: url("licensed-fonts/berlingske-slab/BerlingskeSlab-XBdIt.woff2") format("woff2");
+}
+
 /* Set sensible defaults (these variables are what the theme reads) */
 :root {
     --md-large-header-font: "Cinzel";
@@ -59,7 +121,10 @@
        that deliberately neutralize a <b> back to 400 (.sc-card__line b,
        .sb__sticky .sm b, .sc-folder__sub) keep their override. */
     --md-small-header-weight: 700;
-    --md-text-font: "Zilla Slab";
+    /* Zilla Slab is the fallback, not decoration: it is what renders when the
+       licensed files are absent (see the @font-face note above), and it stays a
+       reader-selectable option in Settings. */
+    --md-text-font: "Berlingske Slab", "Zilla Slab";
     --md-code-font: "JetBrains Mono";
 }
 

@@ -5,14 +5,22 @@ on:
     branches:
       - main
 
+# Deploys through GitHub's Pages artifact (upload-pages-artifact + deploy-pages), NOT
+# `mkdocs gh-deploy`. The built site now carries the licensed Berlingske Slab web
+# fonts (SC-320), and gh-deploy would commit them to this public repo's gh-pages
+# branch, where anyone could download them — which the Playtype EULA forbids. An
+# artifact deploy serves the fonts from the site and nowhere else. Requires the repo's
+# Pages source to be "GitHub Actions" (Settings → Pages). Full record:
+# .repo-docs/decisions/2026-09-23-licensed-berlingske-slab.md.
 permissions:
-  contents: write
+  contents: read
+  pages: write
+  id-token: write
 
-# Serialize deploys: gh-deploy force-pushes gh-pages, so two runs racing (e.g. a
-# code change + its `chore: update v2 site content` pair from `just deploy-v2`)
-# would each force-push and the last to finish wins — which can be the *earlier*
-# build, publishing stale HTML. Queue rather than cancel so a superseding run can't
-# skip the final deploy (cancelling could drop the newest content). See FOLLOWUPS #22.
+# Serialize deploys: two runs racing (e.g. a code change + its `chore: update v2 site
+# content` pair from `just deploy-v2`) could let the *earlier* build finish last and
+# publish stale HTML. Queue rather than cancel so a superseding run can't skip the
+# final deploy (cancelling could drop the newest content). See FOLLOWUPS #22.
 concurrency:
   group: pages-deploy
   cancel-in-progress: false
@@ -20,15 +28,44 @@ concurrency:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Check out the code
         uses: actions/checkout@v4
         with:
-          # Shallow: gh-deploy (ghp-import) force-pushes a fresh gh-pages branch and
-          # needs no main history; full history was ~248s/run over an ~800MB repo. No
-          # build plugin (search/roamlinks/awesome-nav) reads git history.
-          # See v2/.repo-docs/decisions/2026-06-05-ci-deploy-build-time-perf.md.
+          # Shallow: the build needs no main history; full history was ~248s/run over
+          # an ~800MB repo. No build plugin (search/roamlinks/awesome-nav) reads git
+          # history. See v2/.repo-docs/decisions/2026-06-05-ci-deploy-build-time-perf.md.
           fetch-depth: 1
+
+      # The licensed font files must never be committed here (see the header). If one
+      # ever is, fail before deploying so it gets noticed and purged.
+      - name: Refuse licensed font files tracked in this public repo
+        run: |
+          tracked="$(git ls-files | grep -i -E '(^|/)\.?licensed-fonts/|berlingske[^/]*\.(woff2?|eot|ttf|otf|svg)$' || true)"
+          if [ -n "$tracked" ]; then
+            echo "::error::Licensed font files are committed to this public repo. Remove them from git (and its history):"
+            echo "$tracked"
+            exit 1
+          fi
+
+      # Private repo, read through a read-only deploy key (the default GITHUB_TOKEN can
+      # only read this repo). A missing or broken key fails the deploy on purpose, so
+      # the site never silently ships in the Zilla Slab fallback.
+      - name: Check out the licensed web fonts (private)
+        uses: actions/checkout@v4
+        with:
+          repository: SteelCompendium/licensed-fonts
+          ssh-key: ${{ secrets.LICENSED_FONTS_DEPLOY_KEY }}
+          path: .licensed-fonts
+          persist-credentials: false
+
+      - name: Install the licensed web fonts
+        run: |
+          mkdir -p docs/stylesheets/licensed-fonts
+          cp -R .licensed-fonts/web/. docs/stylesheets/licensed-fonts/
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -46,14 +83,26 @@ jobs:
       - name: Install dependencies
         run: pip install mkdocs-material mkdocs-roamlinks-plugin mkdocs-awesome-nav
 
-      # Stamp the v2 build version into mkdocs.yml just before deploy. $GITHUB_SHA
+      # Stamp the v2 build version into mkdocs.yml just before the build. $GITHUB_SHA
       # is the commit being deployed (no chicken-and-egg). Targeted sed on the
       # placeholder lines avoids a YAML parser stripping mkdocs.yml's comments and
-      # choking on its !!python/name: tags. Not committed back — gh-deploy only
-      # force-pushes the built site to gh-pages.
+      # choking on its !!python/name: tags. Not committed back.
       - name: Stamp site build version
         run: |
           sed -i -E "s|^(  site_sha:).*|\1 \"${GITHUB_SHA::7}\"|" mkdocs.yml
           sed -i -E "s|^(  site_date:).*|\1 \"$(date +%F)\"|" mkdocs.yml
 
-      - run: mkdocs gh-deploy --force
+      - name: Build the site
+        run: mkdocs build
+
+      - name: Check the licensed fonts made it into the build
+        run: test -f site/stylesheets/licensed-fonts/berlingske-slab/BerlingskeSlab-DBd.woff2
+
+      - name: Upload the Pages artifact
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: site
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5

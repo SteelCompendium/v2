@@ -92,3 +92,4 @@ Leave blank if recent. Fill in once there's real experience to report.
 | 2026-06-11 | [Client scripts that mount page content must be navigation.instant-safe](2026-06-11-client-scripts-navigation-instant.md) | accepted |
 | 2026-06-12 | [Breadcrumb home crumb reads "Home"](2026-06-12-breadcrumb-home-crumb.md) | accepted |
 | 2026-09-06 | [Custom search worker (MiniSearch) behind Material's search UI](2026-09-06-custom-search-worker.md) | accepted |
+| 2026-09-23 | [Licensed Berlingske Slab: self-hosted, never in git, deployed by Pages artifact](2026-09-23-licensed-berlingske-slab.md) | accepted |
