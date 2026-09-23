@@ -16,6 +16,7 @@ permissions:
   contents: read
   pages: write
   id-token: write
+  actions: write   # delete the Pages artifact after deploying (last step)
 
 # Serialize deploys: two runs racing (e.g. a code change + its `chore: update v2 site
 # content` pair from `just deploy-v2`) could let the *earlier* build finish last and
@@ -62,10 +63,12 @@ jobs:
           path: .licensed-fonts
           persist-credentials: false
 
+      # Only the .woff2 files, by name, so nothing else ever added to the private repo
+      # (the license certificate, say) can ride along into the public site.
       - name: Install the licensed web fonts
         run: |
-          mkdir -p docs/stylesheets/licensed-fonts
-          cp -R .licensed-fonts/web/. docs/stylesheets/licensed-fonts/
+          mkdir -p docs/stylesheets/licensed-fonts/berlingske-slab
+          cp .licensed-fonts/web/berlingske-slab/*.woff2 docs/stylesheets/licensed-fonts/berlingske-slab/
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -99,10 +102,21 @@ jobs:
         run: test -f site/stylesheets/licensed-fonts/berlingske-slab/BerlingskeSlab-DBd.woff2
 
       - name: Upload the Pages artifact
+        id: upload
         uses: actions/upload-pages-artifact@v5
         with:
           path: site
+          retention-days: 1
 
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v5
+
+      # The artifact is the whole built site, fonts included, and any signed-in GitHub
+      # user can download a public repo's artifacts until they expire. Pages keeps its
+      # own copy once deploy-pages returns, so delete ours immediately, even on failure.
+      - name: Delete the Pages artifact (it contains the licensed fonts)
+        if: always() && steps.upload.outputs.artifact_id != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X DELETE "repos/${{ github.repository }}/actions/artifacts/${{ steps.upload.outputs.artifact_id }}"

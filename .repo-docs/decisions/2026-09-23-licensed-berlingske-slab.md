@@ -62,16 +62,25 @@ exactly what the EULA forbids.
   modification). WOFF/EOT are not deployed; every supported browser takes WOFF2, and fewer
   copies means less exposure.
 - **Location:** private repo `SteelCompendium/licensed-fonts`, `web/berlingske-slab/*.woff2`
-  (+ `licenses/` for the certificate). Build copies `web/` into
-  `docs/stylesheets/licensed-fonts/` — **gitignored** in v2, and inside `stylesheets/` so
+  (+ `licenses/` for the certificate). The build copies those `.woff2` files, by name, into
+  `docs/stylesheets/licensed-fonts/berlingske-slab/` — **gitignored** in v2, and inside `stylesheets/` so
   `steel-etl site`'s docs-dir cleanup (which keeps only protected dirs) doesn't delete it.
   `docs/fonts/` would be wiped on every `steel-etl site` run.
 - **CI (`.github/workflows/ci.yml`):** refuses to deploy if any licensed font is tracked in
   git; checks out the private repo with `secrets.LICENSED_FONTS_DEPLOY_KEY`; fails (does
-  not silently fall back) if the key is missing; asserts the DBd file reached `site/`;
-  deploys via Pages artifact.
+  not silently fall back) if the key is missing; copies only the `.woff2` files, by name;
+  asserts the DBd file reached `site/`; deploys via Pages artifact; then **deletes the
+  artifact** (`if: always()`). The artifact is the whole built site, fonts included, and
+  any signed-in GitHub user can download a public repo's artifacts until they expire
+  (minimum retention is one day). Deleting it right after `deploy-pages` shrinks that
+  window to the minute or two between upload and delete.
+- **Repo settings (one-time):** Pages source = "GitHub Actions" (`build_type=workflow`),
+  and the `github-pages` environment's deployment-branch policy must allow `main` —
+  under `gh-deploy` it only allowed `gh-pages`, so the first artifact deploy from `main`
+  is rejected until `main` is added.
 - **Local:** `just fonts` (v2 justfile) clones/pulls the private repo into
-  `.licensed-fonts/` (gitignored) and installs `web/`; `just serve` runs it best-effort.
+  `.licensed-fonts/` (gitignored) and installs the same `.woff2` files; `just serve` and
+  `just build` run it best-effort.
 - **CSS (`custom_font.css`):** one family, `"Berlingske Slab"`, six `@font-face` rules with
   weight *ranges*: Demibold = 100–500 (the site's normal weight, as it was before
   2026-09-06 when DBd was the only face loaded), Bold = 600, Extrabold = 700–900 (so
@@ -82,8 +91,11 @@ exactly what the EULA forbids.
   Zilla stays a Settings option.
 - **Settings:** the default font entry now stores nothing when chosen (previously it stored
   its own string, which is how readers got stranded on the retired `"BerlingskeSlab-DBd"`
-  family and fell back to Georgia). Saved `"BerlingskeSlab-DBd"…` values are migrated away
-  in both `settings-panel.js` and the `overrides/main.html` early-apply.
+  family and fell back to Georgia). On load, `settings-panel.js` drops any saved font that
+  is no longer an option (the old Berlingske string, and retired Beaufort / Test Newzald /
+  Forum heading picks); the `overrides/main.html` early-apply skips the old Berlingske
+  string so those readers see no Georgia flash. Readers who explicitly saved Zilla Slab
+  while it was the default keep Zilla — their saved string is still a valid option.
 
 ## Consequences
 

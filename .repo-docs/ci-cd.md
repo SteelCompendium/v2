@@ -57,7 +57,12 @@ branch). The workflow:
    **`LICENSED_FONTS_DEPLOY_KEY`** (the private half of a read-only deploy key on that repo)
    and copies its `web/` into `docs/stylesheets/licensed-fonts/` (gitignored);
 3. fails if the fonts didn't reach `site/` — a broken key stops the deploy rather than
-   shipping the Zilla Slab fallback.
+   shipping the Zilla Slab fallback;
+4. deletes the Pages artifact after deploying — it contains the fonts, and a public repo's
+   artifacts are downloadable by any signed-in GitHub user until they expire.
+
+One-time repo settings this depends on: Pages source **"GitHub Actions"**, and the
+`github-pages` environment's deployment-branch policy allowing **`main`**.
 
 Rules, EULA quotes and rejected alternatives:
 [decisions/2026-09-23-licensed-berlingske-slab.md](decisions/2026-09-23-licensed-berlingske-slab.md).

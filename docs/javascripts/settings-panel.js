@@ -186,14 +186,21 @@
     prefs.statblock.featstyle = "flat";
     persist();
   }
-  // Second matched pair with main.html (SC-320): before 2026-09-06, choosing the
-  // default body font saved '"BerlingskeSlab-DBd", Georgia, …' — the old
-  // unlicensed family, which no longer exists, so those readers have been getting
-  // Georgia. It meant "the default", so drop it and they get the default again.
-  if (prefs.text && prefs.text.indexOf('"BerlingskeSlab-DBd"') === 0) {
-    delete prefs.text;
-    persist();
-  }
+  // Drop any saved font that is no longer one of the options (SC-320). The dropdown
+  // can't show it — it displays "(default)" — so choosing the default did nothing
+  // and the reader was stuck, usually on a family that no longer loads: retired
+  // heading picks (Beaufort, Test Newzald, Forum) and, before 2026-09-06, the default
+  // body string '"BerlingskeSlab-DBd", Georgia, …', whose readers have been getting
+  // Georgia. Matched pair with main.html's early-apply, which skips that body string
+  // so its readers don't see one last Georgia flash.
+  var staleFont = false;
+  Object.keys(FONT_OPTIONS).forEach(function (k) {
+    if (prefs[k] && !FONT_OPTIONS[k].some(function (o) { return o[0] === prefs[k]; })) {
+      delete prefs[k];
+      staleFont = true;
+    }
+  });
+  if (staleFont) persist();
   applyAll(prefs); // re-assert (covers contentScale even if inline early-apply predates it)
 
   function persist() { C.savePrefs(localStorage, prefs); }
@@ -521,7 +528,7 @@
       sel.addEventListener("change", function () {
         // Choosing the (default) entry stores nothing, so the reader follows the
         // default if it ever changes again. Storing its string is how readers got
-        // stranded on the retired "BerlingskeSlab-DBd" (see the migration above).
+        // stranded on retired faces (see the stale-font cleanup above).
         if (sel.value === FONT_OPTIONS[k][0][0]) delete prefs[k];
         else prefs[k] = sel.value;
         applyFonts(prefs);

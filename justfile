@@ -66,9 +66,10 @@ fonts:
     else
         git clone -q --depth 1 git@github.com:SteelCompendium/licensed-fonts.git .licensed-fonts
     fi
+    # Only the .woff2 files, by name (mirrors ci.yml) — never the rest of the private repo.
     rm -rf docs/stylesheets/licensed-fonts
-    mkdir -p docs/stylesheets/licensed-fonts
-    cp -R .licensed-fonts/web/. docs/stylesheets/licensed-fonts/
+    mkdir -p docs/stylesheets/licensed-fonts/berlingske-slab
+    cp .licensed-fonts/web/berlingske-slab/*.woff2 docs/stylesheets/licensed-fonts/berlingske-slab/
     echo >&2 "[INFO] Licensed fonts installed in docs/stylesheets/licensed-fonts/"
 
 # Preview the site locally (fetches the licensed fonts first; falls back to Zilla Slab
@@ -77,8 +78,9 @@ serve:
     @just fonts || echo >&2 "[WARN] licensed fonts unavailable; body text will render in Zilla Slab"
     mkdocs serve
 
-# Build the site for deployment
+# Build the site locally (CI builds the deployed copy; see .github/workflows/ci.yml)
 build:
+    @just fonts || echo >&2 "[WARN] licensed fonts unavailable; body text will render in Zilla Slab"
     mkdocs build
 
 # SC-306: score the site search worker against a built index (run `just build` first).
