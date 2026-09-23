@@ -112,6 +112,11 @@ exactly what the EULA forbids.
 - **Key rotation:** the deploy key is read-only on the fonts repo only. Rotate by
   generating a new pair, replacing the deploy key and the `LICENSED_FONTS_DEPLOY_KEY`
   secret.
+- **The root site depends on these paths (SC-335).** steelcompendium.io
+  (`SteelCompendium.github.io/docs/stylesheets/custom_font.css`) loads the same six files
+  by root-relative URL, `/v2/stylesheets/licensed-fonts/berlingske-slab/…`. That is the
+  same domain and host, so it is still self-hosting with no second copy. Moving or
+  renaming the files here breaks the root site's body font; update both together.
 - The old `gh-pages` branch is no longer served once the Pages source is "GitHub Actions";
   it never contained licensed files.
 

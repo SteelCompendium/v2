@@ -18,6 +18,9 @@
    Without the files (a fork, a fresh clone before `just fonts`) every rule below
    404s and body text falls back to Zilla Slab, the next family in --md-text-font.
    Full record: .repo-docs/decisions/2026-09-23-licensed-berlingske-slab.md.
+   The ROOT site (SteelCompendium.github.io) borrows these same files by the
+   root-relative path /v2/stylesheets/licensed-fonts/… (SC-335). Moving or renaming
+   them breaks steelcompendium.io's body font too.
 
    WEIGHT MAP. Only the Demibold, Bold and Extrabold cuts are licensed, and the
    Demibold is what this site was designed around — before SC-320 it was the ONE
