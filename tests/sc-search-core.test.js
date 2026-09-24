@@ -190,6 +190,10 @@ test("SC-329: bookLabel / pageTitle edge cases", () => {
   assert.strictEqual(Core.bookLabel("Read/constructor/x/"), "");
   assert.strictEqual(Core.bookLabel("Browse/rule/combat/movement/"), "");
   assert.strictEqual(Core.pageTitle("Read/unknown-book/x/", "X"), "X");
+  // F2: the book landing page IS the book folder — it must not label itself
+  // ("Draw Steel: Heroes · Draw Steel: Heroes").
+  assert.strictEqual(Core.bookLabel("Read/heroes/"), "");
+  assert.strictEqual(Core.pageTitle("Read/heroes/", "Draw Steel: Heroes"), "Draw Steel: Heroes");
 });
 
 test("SC-329: BOOK_LABELS mirrors v2/site.yaml books (folder → label)", () => {

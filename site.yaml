@@ -112,9 +112,12 @@ sections:
 
 # Search coverage (SC-329). Read is indexed EXCEPT the headings whose section a
 # Browse page already carries (steel-etl marks those data-search-exclude), so
-# every piece of book text is findable exactly once: text with no Browse page
-# (movement basics, Director guidance, worked examples…) comes up from Read,
-# everything else from its Browse page. `search_exclude` (whole sections) is
+# book text is findable exactly once: text with no Browse page (movement
+# basics, Director guidance, worked examples…) comes up from Read, everything
+# else from its Browse page. Not quite every word: a covered container page's
+# own intro prose (e.g. a Monsters group landing's per-echelon introduction)
+# is excluded from Read but not reproduced on its Browse page either — findable
+# nowhere; deferred to Backlog SC-345. `search_exclude` (whole sections) is
 # still supported but unused here.
 search_uncovered_only:
   - Read

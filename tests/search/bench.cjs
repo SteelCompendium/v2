@@ -49,6 +49,10 @@ const NAMED = [
 const ABSENT = [
   { q: "can't cut corners", loc: "Read/heroes/combat/#cant-cut-corners", page: "Read/heroes/combat/" },
   { q: "size and space", loc: "Read/heroes/combat/#size-and-space", page: "Read/heroes/combat/" },
+  // F1: a blockquoted heading under a covered heading (the ability card inside
+  // the "Arcane Trick" perk) — python-markdown de-dupes its slug against the
+  // covered parent heading's own "arcane-trick" anchor.
+  { q: "arcane trick", loc: "Read/heroes/perks/#arcane-trick_1", page: "Read/heroes/perks/" },
 ];
 
 async function loadIndex(src) {

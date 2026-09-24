@@ -75,3 +75,9 @@ book to a book result group's page title ("Combat · Draw Steel: Heroes") via
 `BOOK_LABELS`, which mirrors `site.yaml` `books:` and is drift-tested. Display-only:
 scores use the raw title. Spec: workspace
 `docs/superpowers/specs/2026-09-23-book-search-gap-fill-design.md`.
+
+Read sections rank at the default boost (1) — below boosted Browse pages but level
+with unboosted ones such as section landing/index pages, so five exact-title lookups
+(Environmental Hazards, Power Fixtures, Titles, Artifact, Ancestries) now rank their
+Browse landing #2 behind the same-named book intro; the exact-title sweep moved
+98.0% → 97.0%, still well above the ≥95% gate.

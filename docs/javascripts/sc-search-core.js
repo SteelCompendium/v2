@@ -51,7 +51,10 @@
   function normalize(s) { return tokenize(s).join(" "); }
 
   function bookLabel(location) {
-    var m = /^Read\/([^/#]+)\//.exec(String(location || ""));
+    // Require a path segment after the book folder, so the book's own
+    // landing page ("Read/heroes/") does not label itself (it IS the book —
+    // labeling it would read "Draw Steel: Heroes · Draw Steel: Heroes").
+    var m = /^Read\/([^/#]+)\/[^#]/.exec(String(location || ""));
     return m && Object.prototype.hasOwnProperty.call(BOOK_LABELS, m[1]) ? BOOK_LABELS[m[1]] : "";
   }
 
