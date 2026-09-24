@@ -3,7 +3,7 @@ printing: "1.0"
 printing_book: "The Beastheart"
 search:
   boost: 2
-effect: The target takes poison damage equal to 3 + your
+effect: The target takes poison damage equal to 3 + your Might score.
 flavor: These braids of articulated, wickedly barbed tails weave behind your heads, threatening painful stings.
 item_prerequisite: The stinger from a manticore's tail
 keywords:
@@ -40,17 +40,15 @@ type: treasure
 
 **1st Level:** Only a beastheart can wield this weapon. Any weapon ability that deals rolled damage using this weapon deals an extra 1 poison damage. Additionally, you and your companion can use the following maneuver.
 
-*Your scorpion tail lashes out.*
-
----
-
-**Melee, Strike**
-
-Might score.
-
-**Melee, Strike Maneuver** o Melee 2 x One creature
-
-**Effect:** The target takes poison damage equal to 3 + your
+> ###### Scorpion Tail
+>
+> *Your scorpion tail lashes out.*
+>
+> | **Melee, Strike** | **[Maneuver](../../../rule/combat/turn.md)** |
+> |-------------------|-----------------------:|
+> | **📏 Melee 2**    |   **🎯 One creature** |
+>
+> **Effect:** The target takes poison damage equal to 3 + your Might score.
 
 **5th Level:** The weapon's extra poison damage increases to 2. Additionally, the Scorpion Tail ability's distance increases to melee 3.
 
