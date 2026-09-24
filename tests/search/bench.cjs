@@ -36,6 +36,19 @@ const NAMED = [
   { q: "free strike", want: ["Browse/feature/common/main-actions/free-strike/"], top: 1 },
   { q: "hide", want: ["Browse/skill/intrigue/hide/", "Browse/feature/common/maneuvers/hide/"], top: 2 },
   { q: "knockback", want: ["Browse/feature/ability/common/knockback/", "Browse/feature/common/maneuvers/knockback/"], top: 2 },
+  // SC-329: book text is searchable; covered text comes from its Browse page.
+  { q: "move freely through an ally's space", want: ["Browse/rule/combat/movement/"], top: 3 },
+  { q: "can't cut corners", want: ["Browse/rule/combat/movement/"], top: 3 },
+  { q: "your first session", want: ["Read/heroes/making-a-hero/"], top: 3 },
+];
+
+// SC-329 no-duplicate guard: a heading Browse already carries must not ALSO be
+// indexed from Read. Each query is the exact title of a covered Read heading;
+// its own Read anchor must not appear anywhere in the results, while its Read
+// page must still be indexed (so the guard cannot pass vacuously).
+const ABSENT = [
+  { q: "can't cut corners", loc: "Read/heroes/combat/#cant-cut-corners", page: "Read/heroes/combat/" },
+  { q: "size and space", loc: "Read/heroes/combat/#size-and-space", page: "Read/heroes/combat/" },
 ];
 
 async function loadIndex(src) {
@@ -125,9 +138,18 @@ async function main() {
     console.log(`  ${hit ? "ok  " : "MISS"} "${n.q}" → ${items[0] ? pageOf(items[0]) : "-"}`);
   }
 
+  for (const a of ABSENT) {
+    const items = await query(a.q);
+    const leaked = items.some((g) => g.some((d) => d.location === a.loc));
+    const pageIndexed = idx.docs.some((d) => d.location === a.page);
+    const ok = !leaked && pageIndexed;
+    namedOK = namedOK && ok;
+    console.log(`  ${ok ? "ok  " : leaked ? "LEAK" : "NOPAGE"} "${a.q}" → ${a.loc} ${leaked ? "present" : "absent"}; ${a.page} ${pageIndexed ? "indexed" : "NOT indexed"}`);
+  }
+
   if (GATE) {
     const pass = top1 >= THRESHOLD && namedOK;
-    console.log(`\ngate: ${pass ? "PASS" : "FAIL"} (need #1 ≥ ${THRESHOLD * 100}% and all named queries)`);
+    console.log(`\ngate: ${pass ? "PASS" : "FAIL"} (need #1 ≥ ${THRESHOLD * 100}% and all named + absent queries)`);
     process.exit(pass ? 0 : 1);
   }
 }
