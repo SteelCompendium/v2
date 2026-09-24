@@ -110,8 +110,13 @@ sections:
   # `books:` entry for mcdm.monsters.v1 (folder: bestiary) still drives the Read
   # tab's book grouping and is unrelated to this section.
 
-# Exclude these sections from search (avoids duplicate results)
-search_exclude:
+# Search coverage (SC-329). Read is indexed EXCEPT the headings whose section a
+# Browse page already carries (steel-etl marks those data-search-exclude), so
+# every piece of book text is findable exactly once: text with no Browse page
+# (movement basics, Director guidance, worked examples…) comes up from Read,
+# everything else from its Browse page. `search_exclude` (whole sections) is
+# still supported but unused here.
+search_uncovered_only:
   - Read
 
 # Sections whose container pages embed inline item cards (abilities, features,
