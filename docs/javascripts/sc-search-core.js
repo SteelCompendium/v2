@@ -26,6 +26,16 @@
   var SNIPPET = 320;
   var LEAD = 64;
 
+  // SC-329: Read (book) results label their group's page title with the book —
+  // chapter titles collide across books ("Introduction"). Mirrors v2/site.yaml
+  // `books:` (folder → label); tests/sc-search-core.test.js fails on drift.
+  var BOOK_LABELS = {
+    heroes: "Draw Steel: Heroes",
+    beastheart: "The Beastheart",
+    summoner: "The Summoner",
+    bestiary: "Draw Steel: Monsters"
+  };
+
   function stripTags(s) { return String(s || "").replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim(); }
 
   function processTerm(t) {
@@ -39,6 +49,17 @@
   function tokenize(s) { return splitWords(stripTags(s)).map(processTerm); }
 
   function normalize(s) { return tokenize(s).join(" "); }
+
+  function bookLabel(location) {
+    var m = /^Read\/([^/#]+)\//.exec(String(location || ""));
+    return m && Object.prototype.hasOwnProperty.call(BOOK_LABELS, m[1]) ? BOOK_LABELS[m[1]] : "";
+  }
+
+  // Page-level docs only (location without "#"); display-only, never scored.
+  function pageTitle(location, title) {
+    var label = bookLabel(location);
+    return label ? title + " · " + label : title;
+  }
 
   // 100 exact · 10 prefix · 3 all terms present (last term as prefix) · 1
   function titleTier(title, query) {
@@ -140,7 +161,7 @@
         if (!g) { g = []; groups.set(page, g); }
         g.push({
           location: d.location,
-          title: highlight(stripTags(d.title), terms),
+          title: d.location === page ? pageTitle(page, highlight(stripTags(d.title), terms)) : highlight(stripTags(d.title), terms),
           text: snippet(d.text, terms),
           score: h.score * titleTier(d.title, query),
           terms: termsMap
@@ -153,7 +174,7 @@
         if (!g.some(function (x) { return x.location === page; })) {
           var pd = byLocation.get(page);
           if (!pd) return; // orphan section — the client needs a page doc per group
-          g.push({ location: pd.location, title: stripTags(pd.title), text: "", score: 0, terms: {} });
+          g.push({ location: pd.location, title: pageTitle(pd.location, stripTags(pd.title)), text: "", score: 0, terms: {} });
         }
         items.push(g);
       });
@@ -175,6 +196,9 @@
     processTerm: processTerm,
     titleTier: titleTier,
     highlight: highlight,
-    snippet: snippet
+    snippet: snippet,
+    BOOK_LABELS: BOOK_LABELS,
+    bookLabel: bookLabel,
+    pageTitle: pageTitle
   };
 });

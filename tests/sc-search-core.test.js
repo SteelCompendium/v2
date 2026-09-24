@@ -145,3 +145,61 @@ test("highlight marks whole-word matches, not a substring inside a longer word",
 test("highlight does not throw on a term containing regex metacharacters", () => {
   assert.strictEqual(typeof Core.highlight("c++ code", ["c++"]), "string");
 });
+
+// SC-329: Read (book) results carry their book on the group's page title —
+// chapter titles collide across books (each book has an "Introduction").
+const fs = require("fs");
+const path = require("path");
+
+const BOOK_DOCS = [
+  { location: "Read/heroes/combat/", title: "Combat", text: "Draw Steel: Heroes · Chapter 10" },
+  { location: "Read/heroes/combat/#movement", title: "Movement", text: "Your hero can move freely through an ally's space." },
+  { location: "Read/summoner/introduction/", title: "Introduction", text: "Summoners freely call on allies." },
+  { location: "Browse/class/fury/", title: "Fury", text: "Rage freely.", boost: 4 },
+];
+
+test("SC-329: book page docs carry the book label; sections and Browse do not", () => {
+  const engine = Core.createEngine(MiniSearch, BOOK_DOCS);
+  const items = engine.search("freely", {}).items;
+  const all = items.flat();
+  const combat = all.find((d) => d.location === "Read/heroes/combat/");
+  const movement = all.find((d) => d.location === "Read/heroes/combat/#movement");
+  const intro = all.find((d) => d.location === "Read/summoner/introduction/");
+  const fury = all.find((d) => d.location === "Browse/class/fury/");
+  // The heroes combat page doc did not match "freely" itself — it is the page
+  // doc pushed for its matching section, and must still be labeled.
+  assert.strictEqual(combat.title, "Combat · Draw Steel: Heroes");
+  assert.strictEqual(movement.title, "Movement");
+  assert.strictEqual(intro.title, "Introduction · The Summoner");
+  assert.strictEqual(fury.title, "Fury");
+});
+
+test("SC-329: label on a non-matching page doc (only a section matched)", () => {
+  const engine = Core.createEngine(MiniSearch, BOOK_DOCS);
+  const group = engine.search("ally", {}).items.find((g) => g.some((d) => d.location === "Read/heroes/combat/#movement"));
+  const page = group.find((d) => d.location === "Read/heroes/combat/");
+  assert.strictEqual(page.score, 0);
+  assert.strictEqual(page.title, "Combat · Draw Steel: Heroes");
+});
+
+test("SC-329: bookLabel / pageTitle edge cases", () => {
+  assert.strictEqual(Core.bookLabel("Read/bestiary/goblins/"), "Draw Steel: Monsters");
+  assert.strictEqual(Core.bookLabel("Read/heroes/combat/#movement"), "Draw Steel: Heroes");
+  assert.strictEqual(Core.bookLabel("Read/"), "");
+  assert.strictEqual(Core.bookLabel("Read/unknown-book/x/"), "");
+  assert.strictEqual(Core.bookLabel("Read/constructor/x/"), "");
+  assert.strictEqual(Core.bookLabel("Browse/rule/combat/movement/"), "");
+  assert.strictEqual(Core.pageTitle("Read/unknown-book/x/", "X"), "X");
+});
+
+test("SC-329: BOOK_LABELS mirrors v2/site.yaml books (folder → label)", () => {
+  const yaml = fs.readFileSync(path.join(__dirname, "..", "site.yaml"), "utf8");
+  const block = yaml.split(/^books:[ \t]*$/m)[1].split(/^\S/m)[0];
+  const fromYaml = {};
+  block.split(/^\s*- key:/m).slice(1).forEach((chunk) => {
+    const folder = /^\s*folder:\s*(\S+)\s*$/m.exec(chunk)[1];
+    const label = /^\s*label:\s*"?(.*?)"?\s*$/m.exec(chunk)[1];
+    fromYaml[folder] = label;
+  });
+  assert.deepStrictEqual(Core.BOOK_LABELS, fromYaml);
+});

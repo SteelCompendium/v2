@@ -65,3 +65,13 @@ burying the leaf page the query actually named.
   (loses body search), forking Material's TS worker (build chain for no gain).
   A purpose-built entity search (typeahead + facets on the Bestiary tab) remains
   the long-term direction and could replace this worker.
+
+## Addendum 2026-09-23 — book results (SC-329)
+
+The index now includes Read-tab (book) sections that no Browse page carries (steel-etl
+`search_uncovered_only: [Read]`; covered headings are `data-search-exclude`). Book
+results rank at the default boost, below boosted Browse pages. The worker appends the
+book to a book result group's page title ("Combat · Draw Steel: Heroes") via
+`BOOK_LABELS`, which mirrors `site.yaml` `books:` and is drift-tested. Display-only:
+scores use the raw title. Spec: workspace
+`docs/superpowers/specs/2026-09-23-book-search-gap-fill-design.md`.
