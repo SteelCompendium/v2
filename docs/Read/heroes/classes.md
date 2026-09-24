@@ -1,8 +1,6 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-search:
-  exclude: true
 name: Classes
 order: 5
 scc: mcdm.heroes.v1/chapter/classes
@@ -37,7 +35,7 @@ Your class provides you with many of your features, most of your abilities—you
 
 **[Troubadour](../../Browse/class/troubadour.md):** A [troubadour](../../Browse/class/troubadour.md) inspires their allies with storytelling and swordplay that is as much an art as it is an act of war. Their quips, songs, poems, and epic tales produce actual magic that harms foes and bolsters allies. They can even use their magic to tweak the campaign's story in real time to better suit their needs.
 
-### Subclasses {data-scc="mcdm.heroes.v1/rule.general/subclass"}
+### Subclasses {data-scc="mcdm.heroes.v1/rule.general/subclass" data-search-exclude=""}
 
 Each class also has a number of subclasses presented in this book. Your subclass determines many of your hero's abilities and features, and further defines how you interact with the world from 1st level on. You choose a subclass when you create your character.
 
@@ -73,45 +71,45 @@ The nine [Heroic Resources](../../Browse/rule/resource/heroic-resource.md) in th
 - The [talent's](../../Browse/class/talent.md) [clarity](../../Browse/feature/talent/level-1/clarity-and-strain.md)
 - The [troubadour's](../../Browse/class/troubadour.md) [drama](../../Browse/feature/troubadour/level-1/drama.md)
 
-##### Heroic Abilities {data-scc="mcdm.heroes.v1/rule.general/heroic-ability"}
+##### Heroic Abilities {data-scc="mcdm.heroes.v1/rule.general/heroic-ability" data-search-exclude=""}
 
 If an ability has a [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) cost to activate—as in, you can't use the ability at all without spending some of your [Heroic Resource](../../Browse/rule/resource/heroic-resource.md)—then it is a heroic ability. If an effect allows you to use a heroic ability when it isn't your [turn](../../Browse/rule/combat/turn.md), you must still pay its [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) cost to use it unless the effect says otherwise.
 
 Some abilities don't cost your [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) to use but allow you to spend your [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) to enhance or add effects to the ability, such as the [conduit's](../../Browse/class/conduit.md) [Healing Grace](../../Browse/feature/ability/conduit/level-1/healing-grace.md). These abilities are not heroic abilities unless the baseline ability can't be used without spending your [Heroic Resource](../../Browse/rule/resource/heroic-resource.md).
 
-##### Signature Abilities {data-scc="mcdm.heroes.v1/rule.combat/signature-ability"}
+##### Signature Abilities {data-scc="mcdm.heroes.v1/rule.combat/signature-ability" data-search-exclude=""}
 
 Some abilities granted by your class, kit, and other parts of the game are signature abilities. The rules specifically state when an ability is a signature ability. Signature abilities don't require your [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) to use, but sometimes let you spend your [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) to enhance or add to their effects.
 
-#### Ability Keywords {data-scc="mcdm.heroes.v1/rule.general/ability"}
+#### Ability Keywords {data-scc="mcdm.heroes.v1/rule.general/ability" data-search-exclude=""}
 
 Each ability has one or more keywords that explain how the ability functions. Keywords appear in the first line of the ability beneath the flavor text, on the left side, and can include any of the following entries. (An ability that has no keywords is noted as "-".)
 
-##### Area
+##### Area {data-search-exclude=""}
 
 Abilities with the Area keyword create an [area of effect](../../Browse/rule/combat/area-of-effect.md). Many area abilities deal damage to targets in their area, but such abilities are treated differently than [strikes](../../Browse/rule/combat/strike.md) made against specific targets. (See the It's Not All Strikes! sidebar, as well as Strike and Area Abilities below for more information.)
 
-##### Charge
+##### Charge {data-search-exclude=""}
 
 Abilities with the Charge keyword can be used with the [Charge](../../Browse/feature/common/main-actions/charge.md) main action instead of a [melee](../../Browse/rule/combat/melee.md) [free strike](../../Browse/feature/common/main-actions/free-strike.md). (The [Charge](../../Browse/feature/common/main-actions/charge.md) main action is described in Main Actions in Chapter 10: [Combat](combat.md).)
 
-##### Magic
+##### Magic {data-search-exclude=""}
 
 Abilities with the Magic keyword are used by characters who can cast spells, have innate magical features, or wield magic treasures. Such abilities do magical things such as create rays of fire, open swirling portals, or summon creatures.
 
-##### Melee {data-scc="mcdm.heroes.v1/rule.combat/melee"}
+##### Melee {data-scc="mcdm.heroes.v1/rule.combat/melee" data-search-exclude=""}
 
 Abilities with the Melee keyword can be used only over very short distances, typically within a character's reach, because they require a character to make contact with a creature or object with their body, a weapon, or an [implement](../../Browse/rule/treasure/implement.md). (An [implement](../../Browse/rule/treasure/implement.md) is a special object used by characters channeling magic or psionic power, described in Imbue Treasure in Chapter 12: [Downtime Projects](downtime-projects.md).)
 
-##### Psionic
+##### Psionic {data-search-exclude=""}
 
 Abilities with the Psionic keyword are used by characters who can manifest psionic powers, have innate psionic features, or wield psionic items. These abilities might create blasts of psychic energy, move objects with telekinesis, or slow down time with chronopathy.
 
-##### Ranged {data-scc="mcdm.heroes.v1/rule.combat/ranged"}
+##### Ranged {data-scc="mcdm.heroes.v1/rule.combat/ranged" data-search-exclude=""}
 
 Abilities with the Ranged keyword can be used to affect creatures who are too far away to make contact with.
 
-##### Strike {data-scc="mcdm.heroes.v1/rule.combat/strike"}
+##### Strike {data-scc="mcdm.heroes.v1/rule.combat/strike" data-search-exclude=""}
 
 Abilities with the Strike keyword (often referred to simply as "strikes") deal damage to or impose a harmful effect on specific creatures or objects.
 
@@ -119,7 +117,7 @@ Abilities with the Strike keyword (often referred to simply as "strikes") deal d
 >
 > The Strike keyword and phrases such as "makes a strike" are reserved for abilities that have a creature targeting specific creatures or objects (not affecting creatures or objects in an area) and harming those targets in some way by making a [power roll](../../Browse/rule/dice/power-roll.md). The many abilities in the game that target [areas of effect](../../Browse/rule/combat/area-of-effect.md) are not strikes. They instead use the Area keyword. That means if a feature distinctly interacts with a strike, that feature has no effect on abilities with the Area keyword.
 
-##### Weapon
+##### Weapon {data-search-exclude=""}
 
 The Weapon keyword is used in abilities that must be used with a blade, a bow, or some other offensive weapon. Weapon abilities also include strikes creatures make with their own bodies, such as a character's unarmed strikes or a monster's punches, kicks, bites, tail slaps, and more.
 
@@ -133,31 +131,31 @@ Each ability notes the type of activity required to use it, on the right side of
 
 If an ability requires a [triggered action](../../Browse/rule/combat/triggered-action.md) or a free [triggered action](../../Browse/rule/combat/triggered-action.md) to use, a "Trigger" entry is part of the ability. For example, the trigger for the [tactician's](../../Browse/class/tactician.md) Parry ability is: "A creature deals damage to the target." A [tactician](../../Browse/class/tactician.md) can use their Parry ability only when that specific triggering event occurs.
 
-#### Distance {data-scc="mcdm.heroes.v1/rule.combat/distance"}
+#### Distance {data-scc="mcdm.heroes.v1/rule.combat/distance" data-search-exclude=""}
 
 An ability's "Distance" entry, represented by this symbol 📏, indicates how close you need to be to a creature or object to affect that target with the ability.
 
-##### Melee
+##### Melee {data-search-exclude=""}
 
 [Melee](../../Browse/rule/combat/melee.md) abilities have a [distance](../../Browse/rule/combat/distance.md) of "[Melee](../../Browse/rule/combat/melee.md) X" and require you to make contact with a creature with your body, a weapon, or an [implement](../../Browse/rule/treasure/implement.md). The number X is the maximum [distance](../../Browse/rule/combat/distance.md) in squares at which you can physically make contact with another creature or object targeted by the ability. For instance, a [distance](../../Browse/rule/combat/distance.md) of "[Melee](../../Browse/rule/combat/melee.md) 2" can be used to target creatures or objects within 2 squares of you, while "[Melee](../../Browse/rule/combat/melee.md) 1" limits you to [adjacent](../../Browse/rule/combat/adjacent.md) targets (those within 1 square).
 
-##### Ranged
+##### Ranged {data-search-exclude=""}
 
 [Ranged](../../Browse/rule/combat/ranged.md) abilities have a [distance](../../Browse/rule/combat/distance.md) of "[Ranged](../../Browse/rule/combat/ranged.md) X" and can be used to target creatures or objects too far away for you to make contact with. The number X is the maximum [distance](../../Browse/rule/combat/distance.md) in squares at which a creature or object can be targeted by the ability. For instance, a [distance](../../Browse/rule/combat/distance.md) of "[Ranged](../../Browse/rule/combat/ranged.md) 5" can be used to target creatures or objects within 5 squares of you.
 
 If you make a [ranged](../../Browse/rule/combat/ranged.md) [strike](../../Browse/rule/combat/strike.md) while any enemy is [adjacent](../../Browse/rule/combat/adjacent.md) to you (within 1 square), you have a [bane](../../Browse/rule/dice/bane.md) on the [strike](../../Browse/rule/combat/strike.md)'s [power roll](../../Browse/rule/dice/power-roll.md). (See [Edges](../../Browse/rule/dice/edge.md) and [Banes](../../Browse/rule/dice/bane.md) in Chapter 1: [The Basics](the-basics.md).)
 
-##### Melee or Ranged
+##### Melee or Ranged {data-search-exclude=""}
 
 Some abilities have a [melee](../../Browse/rule/combat/melee.md) [distance](../../Browse/rule/combat/distance.md) and a [ranged](../../Browse/rule/combat/ranged.md) [distance](../../Browse/rule/combat/distance.md). When you use such an ability, you choose whether to use it as a [melee](../../Browse/rule/combat/melee.md) or a [ranged](../../Browse/rule/combat/ranged.md) ability.
 
 An ability never has both the [Melee](../../Browse/rule/combat/melee.md) and [Ranged](../../Browse/rule/combat/ranged.md) keywords at the same time. For example, if you have the [Cloak and Dagger](../../Browse/kit/cloak-and-dagger.md) kit, which has a weapon damage [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [melee](../../Browse/rule/combat/melee.md) abilities and a weapon damage [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [ranged](../../Browse/rule/combat/ranged.md) abilities, only one [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) at a time applies to an ability with both the [Melee](../../Browse/rule/combat/melee.md) and [Ranged](../../Browse/rule/combat/ranged.md) keywords. (See Chapter 6: [Kits](kits.md).)
 
-##### Self
+##### Self {data-search-exclude=""}
 
 If an ability has a [distance](../../Browse/rule/combat/distance.md) of "Self," that ability originates from you, and often affects only you. The ability's description specifies how it works.
 
-#### Area Abilities {data-scc="mcdm.heroes.v1/rule.combat/area-of-effect"}
+#### Area Abilities {data-scc="mcdm.heroes.v1/rule.combat/area-of-effect" data-search-exclude=""}
 
 Area abilities cover a number of squares on the battlefield at once, creating an effect within that area that lets you target multiple creatures or objects. When an ability creates an area of effect, it sometimes notes a [distance](../../Browse/rule/combat/distance.md) for the effect in the form "within X." The number X tells you how many squares away from you the area can be. If an area ability doesn't have this [distance](../../Browse/rule/combat/distance.md), it originates from you and you are at the center of the area.
 
@@ -167,23 +165,23 @@ You can place an area of effect to include one or more squares where you don't h
 
 An area ability might use any of the following areas of effect.
 
-##### Aura {data-scc="mcdm.heroes.v1/rule.combat/aura"}
+##### Aura {data-scc="mcdm.heroes.v1/rule.combat/aura" data-search-exclude=""}
 
 When an ability creates an aura, that area is expressed as "X aura." The number X is the radius of the aura, which always originates from you and moves with you for the duration of the ability that created it. A creature or object must be within X squares of you to be targeted by an aura ability.
 
-##### Burst {data-scc="mcdm.heroes.v1/rule.combat/burst"}
+##### Burst {data-scc="mcdm.heroes.v1/rule.combat/burst" data-search-exclude=""}
 
 When an ability creates a burst area, that area is expressed as "X burst." The number X is the radius of the burst, which always originates from you and lasts only for as long as it takes to affect its targets. A creature or object must be within X squares of you to be targeted by a burst ability.
 
-##### Cube {data-scc="mcdm.heroes.v1/rule.combat/cube"}
+##### Cube {data-scc="mcdm.heroes.v1/rule.combat/cube" data-search-exclude=""}
 
 When an ability affects a cubic area, that area is expressed as "X cube." The number X is the length of each of the area's sides. A creature or object must be within the area to be targeted by a cube ability.
 
-##### Line {data-scc="mcdm.heroes.v1/rule.combat/line"}
+##### Line {data-scc="mcdm.heroes.v1/rule.combat/line" data-search-exclude=""}
 
 When an ability affects a linear area, that area is expressed as "A x B line." The number A denotes the line's length in squares, while the number B equals the line's width and height in squares. When you create a line [area of effect](../../Browse/rule/combat/area-of-effect.md), the squares in that area must be in a straight line. A creature or object must be within the area to be targeted by a line ability.
 
-##### Wall {data-scc="mcdm.heroes.v1/rule.combat/wall"}
+##### Wall {data-scc="mcdm.heroes.v1/rule.combat/wall" data-search-exclude=""}
 
 When an ability creates a wall, that area is expressed as "X wall." The number X is how many squares are used to make the wall. When you place a wall, you can build it one square at a time, but each square must share at least one side (not just a corner) with another square of the wall. A creature or object must be within the area to be targeted by a wall ability.
 
@@ -196,35 +194,35 @@ You can stack squares on top of each other to make the wall higher. Unless other
 >
 > Likewise, abilities and effects that require a creature to move in a straight line, such as the [Charge](../../Browse/feature/common/main-actions/charge.md) main action or [forced movement](../../Browse/movement/forced-movement.md) that is a push or a pull, don't have to take the form of a straight series of squares on the grid. Simply move the creature one square at a time in a single direction without ever bending back in a direction opposite to where they've already moved.
 
-#### Target {data-scc="mcdm.heroes.v1/rule.combat/target"}
+#### Target {data-scc="mcdm.heroes.v1/rule.combat/target" data-search-exclude=""}
 
 The "[Target](../../Browse/rule/combat/target.md)" entry of an ability, represented by this symbol 🎯, notes the number of creatures, objects, or both who can be targeted by that ability. You can always affect fewer targets than the number indicated by this entry.
 
-##### Creature
+##### Creature {data-search-exclude=""}
 
 If an ability targets one or more creatures, it can affect creatures within the ability's [distance](../../Browse/rule/combat/distance.md) or area. You aren't an eligible creature target for your own abilities unless those abilities also have "self" as a target (see below), or unless the ability indicates otherwise.
 
-##### Object
+##### Object {data-search-exclude=""}
 
 If an ability targets one or more objects, it can affect any object within the ability's [distance](../../Browse/rule/combat/distance.md) or area. Unless otherwise noted, objects have poison immunity all and psychic immunity all. \(Damage in Chapter 10: [Combat](combat.md) has information on [damage immunity](../../Browse/rule/damage/damage-immunity.md).)
 
 When an ability can target creatures and objects, the ability can damage objects. However, unless otherwise noted (as with the [talent's](../../Browse/class/talent.md) [Minor Telekinesis](../../Browse/feature/ability/talent/level-1/minor-telekinesis.md) ability) or if the Director allows it, objects are immune to an ability's other effects. If an ability forces an object to make a [test](../../Browse/rule/test/test.md), the object automatically gets a tier 1 result on the [test](../../Browse/rule/test/test.md).
 
-##### Enemy {data-scc="mcdm.heroes.v1/rule.combat/enemy"}
+##### Enemy {data-scc="mcdm.heroes.v1/rule.combat/enemy" data-search-exclude=""}
 
 If an ability targets one or more [enemies](../../Browse/rule/combat/enemy.md), it can affect only creatures who are hostile to the creature using the ability. Typically, you decide who counts as an enemy for the purpose of using your hero's abilities, though the Director has the final say.
 
-##### Ally {data-scc="mcdm.heroes.v1/rule.combat/ally"}
+##### Ally {data-scc="mcdm.heroes.v1/rule.combat/ally" data-search-exclude=""}
 
 If an ability targets one or more [allies](../../Browse/rule/combat/ally.md), it can affect only willing creatures who are friendly to the creature using the ability. Typically, you and any other player whose character you target with an ability decide who counts as an ally, though the Director has the final say.
 
 You aren't an eligible target for your own abilities that target allies unless those abilities also have "self" as a target, or unless the ability indicates otherwise.
 
-##### Self
+##### Self {data-search-exclude=""}
 
 If an ability targets "self," it can affect only the creature using the ability. Your own abilities can affect you only if they target "self."
 
-##### Each [Target]
+##### Each [Target] {data-search-exclude=""}
 
 If an area ability doesn't provide a number of targets but instead says it applies to each creature, object, enemy, or ally in the area, then all eligible targets for the ability are affected.
 
@@ -232,7 +230,7 @@ If an area ability doesn't provide a number of targets but instead says it appli
 >
 > There might be times when a foe disguises or obscures themself so that they're temporarily seen as an ally—or at least not seen as an enemy. Until the effect ends, such a creature can't be targeted by abilities that would usually target them by targeting enemies. Fear not, though. All classes have access to at least one ability that targets creatures, whether friend or foe.
 
-#### Ability Roll {data-scc="mcdm.heroes.v1/rule.dice/ability-roll"}
+#### Ability Roll {data-scc="mcdm.heroes.v1/rule.dice/ability-roll" data-search-exclude=""}
 
 If an ability requires a [power roll](../../Browse/rule/dice/power-roll.md), it has a "[Power Roll](../../Browse/rule/dice/power-roll.md)" entry that tells you which [characteristic](../../Browse/rule/character/characteristic.md) to add to the 2d10 roll you make when you use the ability. (Chapter 1: [The Basics](the-basics.md) talks about [power rolls](../../Browse/rule/dice/power-roll.md).)
 
@@ -242,7 +240,7 @@ Unlike [power rolls](../../Browse/rule/dice/power-roll.md) made as [tests](../..
 - **Tier 2 (12-16):** The ability deals damage equal to 6 + your [Might](../../Browse/rule/character/might.md) score, then [pushes](../../Browse/movement/forced-movement.md) the target back 2 squares.
 - **Tier 3 (17 or higher):** The ability deals damage equal to 9 + your [Might](../../Browse/rule/character/might.md) score, then [pushes](../../Browse/movement/forced-movement.md) the target back 4 squares.
 
-###### Characteristics and Damage
+###### Characteristics and Damage {data-search-exclude=""}
 
 Certain damage-dealing abilities note that damage as a number followed by a plus sign (+) and the letter M, A, R, I, or P. The indicated letter means you add your [characteristic](../../Browse/rule/character/characteristic.md) score—either [Might](../../Browse/rule/character/might.md), [Agility](../../Browse/rule/character/agility.md), [Reason](../../Browse/rule/character/reason.md), [Intuition](../../Browse/rule/character/intuition.md), or [Presence](../../Browse/rule/character/presence.md)—to the damage dealt by the ability. Certain abilities let you use your highest [characteristic](../../Browse/rule/character/characteristic.md) score for the [power roll](../../Browse/rule/dice/power-roll.md).
 
@@ -264,7 +262,7 @@ Some abilities, including your [free strikes](../../Browse/feature/common/main-a
 
 (Chapter 10: [Combat](combat.md) has more information on damage.)
 
-##### Abilities With Damage and Effects
+##### Abilities With Damage and Effects {data-search-exclude=""}
 
 Strikes and area abilities can deal damage and have an additional effect on a target. The damage and the strength of the effect are determined by the [ability roll](../../Browse/rule/dice/ability-roll.md).
 
@@ -282,11 +280,11 @@ Unless otherwise indicated, any effects that are determined by a [power roll](..
 
 Certain ability effects allow you to move and affect other creatures or objects during that move, such as the [shadow's](../../Browse/class/shadow.md) [One Hundred Throats](../../Browse/feature/ability/shadow/level-1/one-hundred-throats.md) ability. For such abilities, the move begins in the space you first leave when you start the move and ends in the last space you move into.
 
-#### Rolled Damage {data-scc="mcdm.heroes.v1/rule.damage/rolled-damage"}
+#### Rolled Damage {data-scc="mcdm.heroes.v1/rule.damage/rolled-damage" data-search-exclude=""}
 
 Certain effects talk about rolled damage, which refers to the variable damage determined by making an [ability roll](../../Browse/rule/dice/ability-roll.md). If an ability or effect deals damage without requiring a [power roll](../../Browse/rule/dice/power-roll.md), that is not rolled damage, and effects that add to or are triggered by rolled damage don't apply.
 
-#### Potencies {data-scc="mcdm.heroes.v1/rule.character/potency"}
+#### Potencies {data-scc="mcdm.heroes.v1/rule.character/potency" data-search-exclude=""}
 
 Many abilities and other effects impose [conditions](../../Browse/rule/combat/condition.md) and unique statuses on targets. But creatures sometimes get a chance to resist such effects. After all, a monster with a high [Might](../../Browse/rule/character/might.md) should be harder to knock [prone](../../Browse/condition/prone.md) most of the time than a creature lacking in that [characteristic](../../Browse/rule/character/characteristic.md).
 
@@ -328,17 +326,17 @@ During a game session, the [conduit](../../Browse/class/conduit.md) uses Judgmen
 - With a tier 2 outcome (12-16), the ability deals 8 holy damage. But the bandit is also knocked [prone](../../Browse/condition/prone.md), unable to resist the additional effect because they would need an [Agility](../../Browse/rule/character/agility.md) of 1 or higher to do so. If the bandit had [Agility](../../Browse/rule/character/agility.md) 1 or higher, they would have taken 8 holy damage but stayed standing.
 - With a tier 3 outcome (17 or higher), the bandit takes 11 holy damage and is knocked flat and left struggling to stand, unable to resist the strong potency of the additional effect with a mere [Agility](../../Browse/rule/character/agility.md) 0.
 
-##### Potency Presentation
+##### Potency Presentation {data-search-exclude=""}
 
 [Potencies](../../Browse/rule/character/potency.md) are presented in an abbreviated style in abilities so they don't take up too much space, and so you can read them by saying: "If the target's [characteristic] is less than [potency value], they [suffer effect]." If our 1st-level [conduit](../../Browse/class/conduit.md) obtained a tier 2 outcome when using Judgment's Hammer, the player would say, "I deal 8 holy damage, and if the bandit's [Agility](../../Browse/rule/character/agility.md) is less than 1, they fall [prone](../../Browse/condition/prone.md)."
 
 Reading the ability this way prevents a lot of back and forth. You don't need to ask, "What's the target's [Agility](../../Browse/rule/character/agility.md) score?", wait for a response, and then give the outcome. You can simply say, "If they don't have an [Agility](../../Browse/rule/character/agility.md) of 1 or higher, they [fall prone](../../Browse/condition/prone.md)." Players can let the Director figure out whether the target [is prone](../../Browse/condition/prone.md) and keep the game moving, with the Director doing the same in reverse when monsters and other foes use abilities with [potencies](../../Browse/rule/character/potency.md) against the heroes.
 
-##### Adjusting Potencies
+##### Adjusting Potencies {data-search-exclude=""}
 
 [Potencies](../../Browse/rule/character/potency.md) are made for quick resolution at the table, but a number of [triggered actions](../../Browse/rule/combat/triggered-action.md) and other abilities—for example, the [censor's](../../Browse/class/censor.md) Judgment ability and the [null's](../../Browse/class/null.md) [Null Field](../../Browse/feature/null/level-1/null-field.md) ability—allow you to manipulate the value of [potencies](../../Browse/rule/character/potency.md). If you build a hero who can adjust [potencies](../../Browse/rule/character/potency.md), pay attention during combat! You might be able to help out a friend who needs a little boost to make their ability take full effect, or hinder an enemy about to lock down one of your allies.
 
-##### Spending Resources on Potencies
+##### Spending Resources on Potencies {data-search-exclude=""}
 
 If an ability or feature allows you to spend your [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) on an effect that is entirely dependent on a [potency](../../Browse/rule/character/potency.md) and the target is unaffected because their [characteristic](../../Browse/rule/character/characteristic.md) is high enough to resist the [potency](../../Browse/rule/character/potency.md), then you don't spend the [Heroic Resource](../../Browse/rule/resource/heroic-resource.md).
 
@@ -346,19 +344,19 @@ For example, the [tactician's](../../Browse/class/tactician.md) Overwatch abilit
 
 This rule also applies to Director-controlled creatures who spend Malice on abilities and features that affect a target using a [potency](../../Browse/rule/character/potency.md) and have no other automatic effects.
 
-#### Critical Hit {data-scc="mcdm.heroes.v1/rule.combat/critical-hit"}
+#### Critical Hit {data-scc="mcdm.heroes.v1/rule.combat/critical-hit" data-search-exclude=""}
 
 Whenever you make an [ability roll](../../Browse/rule/dice/ability-roll.md) as a main action and the roll is a [natural 19](../../Browse/rule/dice/natural-19-20.md) or [natural 20](../../Browse/rule/dice/natural-19-20.md)-a total of 19 or 20 before adding your [characteristic](../../Browse/rule/character/characteristic.md) score or other modifiers—you score a critical hit. A critical hit allows you to immediately take an additional main action after resolving the [power roll](../../Browse/rule/dice/power-roll.md), whether or not it's your [turn](../../Browse/rule/combat/turn.md) and even if you are [dazed](../../Browse/condition/dazed.md) (see [Conditions](../../Browse/rule/combat/condition.md) below).
 
 You can't score a critical hit with an [ability roll](../../Browse/rule/dice/ability-roll.md) made as a maneuver or any other action type, but you can score a critical hit with a main action you use off your [turn](../../Browse/rule/combat/turn.md). For example, an [opportunity attack](../../Browse/rule/combat/opportunity-attack.md) made as a [triggered action](../../Browse/rule/combat/triggered-action.md) or a [signature ability](../../Browse/rule/combat/signature-ability.md) used as a free [triggered action](../../Browse/rule/combat/triggered-action.md) with the assistance of the [tactician's](../../Browse/class/tactician.md) [Strike Now](../../Browse/feature/ability/tactician/level-1/strike-now.md) ability can be critical hits.
 
-#### Roll Against Multiple Creatures
+#### Roll Against Multiple Creatures {data-scc="mcdm.heroes.v1/rule.dice/multiple-targets" data-search-exclude=""}
 
 When an ability has multiple targets (whether a [strike](../../Browse/rule/combat/strike.md) with more than one target or an area affect), you make one [power roll](../../Browse/rule/dice/power-roll.md) and apply the total to all targets. If you have [edges](../../Browse/rule/dice/edge.md) or [banes](../../Browse/rule/dice/bane.md) (see Chapter 1: [The Basics](the-basics.md)) against some but not all of your targets, you might apply a different [tier outcome](../../Browse/rule/dice/tier-outcome.md) to individual targets.
 
 For example, if you target three creatures with a [strike](../../Browse/rule/combat/strike.md) ability and the [power roll](../../Browse/rule/dice/power-roll.md) totals 11, each of the targets should be affected by the tier 1 outcome of the ability. However, if you gain an [edge](../../Browse/rule/dice/edge.md) on [strikes](../../Browse/rule/combat/strike.md) against one of the targets to add 2 to the [power roll](../../Browse/rule/dice/power-roll.md), your total against that target is 13, and they are affected by the tier 2 outcome of the ability.
 
-#### Surges {data-scc="mcdm.heroes.v1/rule.resource/surge"}
+#### Surges {data-scc="mcdm.heroes.v1/rule.resource/surge" data-search-exclude=""}
 
 A [troubadour's](../../Browse/class/troubadour.md) battle song, a [fury's](../../Browse/class/fury.md) building ferocity, and a [shadow's](../../Browse/class/shadow.md) patient insight can all make a hero more effective in a fight. These advantages are represented by surges, with many abilities granting heroes surges during a battle.
 
@@ -381,7 +379,7 @@ If an ability's effect allows you to take a main action, a maneuver, a move acti
 
 Some abilities have a "Spend X [Heroic Resource]" entry in the body of the ability. These grant additional effects to an ability, where X is the amount of your [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) you must spend to activate those effects. If an entry reads "Spend X+ [Heroic Resource]," you can spend as much of your available [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) as you like in multiples of X to increase the effect's impact, as described in the entry's details.
 
-#### Stacking Unique Effects
+#### Stacking Unique Effects {data-scc="mcdm.heroes.v1/rule.combat/stacking-effects" data-search-exclude=""}
 
 The unique effects of different abilities are combined—effectively stacking on top of each other—if their durations and targets overlap. However, the effects of the same ability used multiple times don't stack. Instead, the most impactful effect—such as the highest [bonus](../../Browse/rule/dice/bonuses-and-penalties.md)—from each use of the ability applies. The most recently used ability applies for determining duration.
 
@@ -389,33 +387,33 @@ For example, the [null's](../../Browse/class/null.md) [Null Field](../../Browse/
 
 Different effects that impose the same [condition](../../Browse/rule/combat/condition.md) (see [Conditions](../../Browse/rule/combat/condition.md) below) don't stack to impose the [condition](../../Browse/rule/combat/condition.md) twice. For instance, if a hero is targeted by numerous creatures whose abilities cause a target to become [weakened](../../Browse/condition/weakened.md) (imposing a [bane](../../Browse/rule/dice/bane.md) on the target's [power rolls](../../Browse/rule/dice/power-roll.md)), the target isn't [weakened](../../Browse/condition/weakened.md) twice to impose a double [bane](../../Browse/rule/dice/bane.md) on those rolls. A character who is [grabbed](../../Browse/condition/grabbed.md) by an enemy can't be [grabbed](../../Browse/condition/grabbed.md) again by another enemy. The same holds true for game effects that aren't [conditions](../../Browse/rule/combat/condition.md). For example, if a hero is targeted by multiple abilities or effects that can halve their [recovery value](../../Browse/rule/health/recoveries.md), the hero's [recovery value](../../Browse/rule/health/recoveries.md) is halved only once.
 
-#### Ending Effects
+#### Ending Effects {data-scc="mcdm.heroes.v1/rule.combat/ending-effects" data-search-exclude=""}
 
 When a creature suffers a lasting effect, whatever ability, feature, hazard, or other mechanic imposed the effect specifies how long the effect lasts. Unless otherwise noted, all effects and [conditions](../../Browse/rule/combat/condition.md) that are imposed on heroes during a combat encounter end when the encounter is over if the hero wants them to, except for being [winded](../../Browse/rule/health/winded.md), unconscious, or [dying](../../Browse/rule/health/dying.md). After combat, effects and [conditions](../../Browse/rule/combat/condition.md) imposed on other creatures end when it's convenient for the heroes, allowing characters to easily bind or slip away from unconscious foes. However, the Director is free to decide that an unconscious dragon doesn't stay that way long enough to be tied up.
 
-##### End of Next Turn (EoT) {data-scc="mcdm.heroes.v1/rule.combat/end-of-turn"}
+##### End of Next Turn (EoT) {data-scc="mcdm.heroes.v1/rule.combat/end-of-turn" data-search-exclude=""}
 
 Many effects last until the end of the target's next [turn](../../Browse/rule/combat/turn.md), abbreviated as "(EoT)" in the [tier outcomes](../../Browse/rule/dice/tier-outcome.md) for an ability's [power roll](../../Browse/rule/dice/power-roll.md). A creature suffers from such an effect until the end of their next [turn](../../Browse/rule/combat/turn.md), or the end of their current [turn](../../Browse/rule/combat/turn.md) if the effect was imposed on their current [turn](../../Browse/rule/combat/turn.md).
 
-##### Saving Throw (Save Ends) {data-scc="mcdm.heroes.v1/rule.general/saving-throw"}
+##### Saving Throw (Save Ends) {data-scc="mcdm.heroes.v1/rule.general/saving-throw" data-search-exclude=""}
 
 If an effect has "(save ends)" at the end of its description, a creature suffering the effect makes a saving throw at the end of each of their turns to remove the effect. A saving throw represents the sheer luck involved in shaking off an effect. Because a target typically had a chance to avoid a "save ends" effect using a [characteristic](../../Browse/rule/character/characteristic.md) score to resist a [potency](../../Browse/rule/character/potency.md), it's now down to fate.
 
 To make a saving throw, a creature rolls a d10. On a 6 or higher, the effect ends. Otherwise, it continues.
 
-##### End of Encounter
+##### End of Encounter {data-search-exclude=""}
 
 Some effects last until the end of the encounter. If such an effect is used outside of combat, it lasts 5 minutes.
 
-##### Creature Ends an Ability Effect
+##### Creature Ends an Ability Effect {data-search-exclude=""}
 
 A creature who imposes an effect on another creature using an ability can end that effect as a [free maneuver](../../Browse/rule/combat/free-maneuver.md) unless the ability says otherwise.
 
-##### Adjacent {data-scc="mcdm.heroes.v1/rule.combat/adjacent"}
+##### Adjacent {data-scc="mcdm.heroes.v1/rule.combat/adjacent" data-search-exclude=""}
 
 Many abilities and other options refer to creatures, objects, or spaces that are adjacent to a specified creature. Something is adjacent to a creature if it is within 1 square of that creature.
 
-#### Line of Effect {data-scc="mcdm.heroes.v1/rule.combat/line-of-effect"}
+#### Line of Effect {data-scc="mcdm.heroes.v1/rule.combat/line-of-effect" data-search-exclude=""}
 
 To target a creature or object with an ability or effect, including making a [strike](../../Browse/rule/combat/strike.md) against them, you must have line of effect to that target. If any solid object, such as a wall or pillar, completely blocks the target from you, then you don't have line of effect.
 
@@ -429,31 +427,31 @@ If you use an ability that creates an environmental effect, such as a portal, yo
 
 Whenever a creature moves or is subjected to [forced movement](../../Browse/movement/forced-movement.md)—a push, pull, or slide (see Chapter 10: [Combat](combat.md))—that movement is typically in a straight line. Abilities that allow you to move or to force move another creature often talk about moving straight toward or away from a creature or an object. But even when movement must be in a straight line, it doesn't have to be a horizontal or vertical line on an encounter map. (See the Straight Lines sidebar earlier in this chapter.)
 
-#### Ground and Ceiling {data-scc="mcdm.heroes.v1/rule.general/ground"}
+#### Ground and Ceiling {data-scc="mcdm.heroes.v1/rule.general/ground" data-search-exclude=""}
 
 Some abilities and other effects refer to a hero or their targets being "on the ground." Unless otherwise indicated, "ground" means any surface a creature could typically stand, sit, or lie upon, whether a castle's stone floor, the dirt of a road, the deck of a ship, or a metal platform suspended high in the air.
 
 Likewise, if an effect refers to a "ceiling," that means any solid surface above a creature, whether a wooden tavern ceiling, the rocky roof of a cave, or an invisible wall of force.
 
-#### Conditions {data-scc="mcdm.heroes.v1/rule.combat/condition"}
+#### Conditions {data-scc="mcdm.heroes.v1/rule.combat/condition" data-search-exclude=""}
 
 Some abilities and other effects apply specific negative effects called conditions to a creature. The following conditions show up regularly in the game and can be tracked on your character sheet when they affect your hero.
 
-##### Bleeding {data-scc="mcdm.heroes.v1/condition/bleeding"}
+##### Bleeding {data-scc="mcdm.heroes.v1/condition/bleeding" data-search-exclude=""}
 
 While a creature is [bleeding](../../Browse/condition/bleeding.md), whenever they use a main action, use a [triggered action](../../Browse/rule/combat/triggered-action.md), or make a [test](../../Browse/rule/test/test.md) or [ability roll](../../Browse/rule/dice/ability-roll.md) using [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md), they lose [Stamina](../../Browse/rule/health/stamina.md) equal to 1d6 + their level after the main action, [triggered action](../../Browse/rule/combat/triggered-action.md), or [power roll](../../Browse/rule/dice/power-roll.md) is resolved. This [Stamina](../../Browse/rule/health/stamina.md) loss can't be prevented in any way, and only happens once per action.
 
 You take damage from this [condition](../../Browse/rule/combat/condition.md) when you use a main action off your [turn](../../Browse/rule/combat/turn.md). For example, a [signature ability](../../Browse/rule/combat/signature-ability.md) used as a free [triggered action](../../Browse/rule/combat/triggered-action.md) with the assistance of the [tactician's](../../Browse/class/tactician.md) [Strike Now](../../Browse/feature/ability/tactician/level-1/strike-now.md) ability triggers the damage from the [bleeding](../../Browse/condition/bleeding.md) [condition](../../Browse/rule/combat/condition.md).
 
-##### Dazed {data-scc="mcdm.heroes.v1/condition/dazed"}
+##### Dazed {data-scc="mcdm.heroes.v1/condition/dazed" data-search-exclude=""}
 
 A creature who is [dazed](../../Browse/condition/dazed.md) can do only one thing on their [turn](../../Browse/rule/combat/turn.md): use a main action, use a maneuver, or use a move action. A [dazed](../../Browse/condition/dazed.md) creature also can't use [triggered actions](../../Browse/rule/combat/triggered-action.md), free [triggered actions](../../Browse/rule/combat/triggered-action.md), or [free maneuvers](../../Browse/rule/combat/free-maneuver.md).
 
-##### Frightened {data-scc="mcdm.heroes.v1/condition/frightened"}
+##### Frightened {data-scc="mcdm.heroes.v1/condition/frightened" data-search-exclude=""}
 
 When a creature is [frightened](../../Browse/condition/frightened.md), any [ability roll](../../Browse/rule/dice/ability-roll.md) they make against the source of their fear takes a [bane](../../Browse/rule/dice/bane.md). If that source is a creature, their [ability rolls](../../Browse/rule/dice/ability-roll.md) made against the [frightened](../../Browse/condition/frightened.md) creature gain an [edge](../../Browse/rule/dice/edge.md). A [frightened](../../Browse/condition/frightened.md) creature can't willingly move closer to the source of their fear if they know the location of that source. If a creature gains the [frightened](../../Browse/condition/frightened.md) [condition](../../Browse/rule/combat/condition.md) from one source while already [frightened](../../Browse/condition/frightened.md) by a different source, the new [condition](../../Browse/rule/combat/condition.md) replaces the old one.
 
-##### Grabbed {data-scc="mcdm.heroes.v1/condition/grabbed"}
+##### Grabbed {data-scc="mcdm.heroes.v1/condition/grabbed" data-search-exclude=""}
 
 A creature who is [grabbed](../../Browse/condition/grabbed.md) has [speed](../../Browse/rule/character/speed.md) 0, can't be [force moved](../../Browse/movement/forced-movement.md) except by a creature, object, or effect that has them [grabbed](../../Browse/condition/grabbed.md), can't use the [Knockback](../../Browse/feature/common/maneuvers/knockback.md) maneuver (see Maneuvers in Chapter 10: [Combat](combat.md)), and takes a [bane](../../Browse/rule/dice/bane.md) on abilities that don't target the creature, object, or effect that has them [grabbed](../../Browse/condition/grabbed.md). If a creature is [grabbed](../../Browse/condition/grabbed.md) by another creature and that creature moves, they bring the [grabbed](../../Browse/condition/grabbed.md) creature with them. If a creature's [size](../../Browse/rule/character/size.md) is equal to or less than the size of a creature they have [grabbed](../../Browse/condition/grabbed.md), their [speed](../../Browse/rule/character/speed.md) is halved while they have that creature [grabbed](../../Browse/condition/grabbed.md).
 
@@ -465,27 +463,27 @@ A creature can grab only creatures of their [size](../../Browse/rule/character/s
 
 Unless otherwise indicated, a creature can grab only one creature at a time.
 
-##### Prone {data-scc="mcdm.heroes.v1/condition/prone"}
+##### Prone {data-scc="mcdm.heroes.v1/condition/prone" data-search-exclude=""}
 
 While a creature is [prone](../../Browse/condition/prone.md), they are flat on the ground, any strike they make takes a [bane](../../Browse/rule/dice/bane.md), and [melee](../../Browse/rule/combat/melee.md) abilities used against them gain an [edge](../../Browse/rule/dice/edge.md). A [prone](../../Browse/condition/prone.md) creature must [crawl](../../Browse/movement/crawl.md) to move along the ground, which costs 1 additional square of movement for every square crawled. A creature can't climb, [jump](../../Browse/movement/jump.md), swim, or [fly](../../Browse/movement/fly.md) while [prone](../../Browse/condition/prone.md). If they are climbing, [flying](../../Browse/movement/fly.md), or jumping when knocked [prone](../../Browse/condition/prone.md), they fall.
 
 Unless the ability or effect that imposed the [prone](../../Browse/condition/prone.md) [condition](../../Browse/rule/combat/condition.md) says otherwise, a [prone](../../Browse/condition/prone.md) creature can stand up using the [Stand Up](../../Browse/feature/common/maneuvers/stand-up.md) maneuver (see Maneuvers in Chapter 10: [Combat](combat.md)). A creature [adjacent](../../Browse/rule/combat/adjacent.md) to a willing [prone](../../Browse/condition/prone.md) creature can likewise use the [Stand Up](../../Browse/feature/common/maneuvers/stand-up.md) maneuver to make that creature stand up.
 
-##### Restrained {data-scc="mcdm.heroes.v1/condition/restrained"}
+##### Restrained {data-scc="mcdm.heroes.v1/condition/restrained" data-search-exclude=""}
 
 A creature who is [restrained](../../Browse/condition/restrained.md) has [speed](../../Browse/rule/character/speed.md) 0, can't use the [Stand Up](../../Browse/feature/common/maneuvers/stand-up.md) maneuver, and can't be [force moved](../../Browse/movement/forced-movement.md). A [restrained](../../Browse/condition/restrained.md) creature takes a [bane](../../Browse/rule/dice/bane.md) on [ability rolls](../../Browse/rule/dice/ability-roll.md) and on [Might](../../Browse/rule/character/might.md) and [Agility](../../Browse/rule/character/agility.md) [tests](../../Browse/rule/test/test.md), and abilities used against them gain an [edge](../../Browse/rule/dice/edge.md).
 
 If a creature [teleports](../../Browse/movement/teleport.md) while [restrained](../../Browse/condition/restrained.md), that [condition](../../Browse/rule/combat/condition.md) ends.
 
-##### Slowed {data-scc="mcdm.heroes.v1/condition/slowed"}
+##### Slowed {data-scc="mcdm.heroes.v1/condition/slowed" data-search-exclude=""}
 
 A creature who is [slowed](../../Browse/condition/slowed.md) has [speed](../../Browse/rule/character/speed.md) 2 unless their [speed](../../Browse/rule/character/speed.md) is already lower, and they can't [shift](../../Browse/movement/shifting.md).
 
-##### Taunted {data-scc="mcdm.heroes.v1/condition/taunted"}
+##### Taunted {data-scc="mcdm.heroes.v1/condition/taunted" data-search-exclude=""}
 
 A creature who is [taunted](../../Browse/condition/taunted.md) has a double [bane](../../Browse/rule/dice/bane.md) on [ability rolls](../../Browse/rule/dice/ability-roll.md) for any ability that doesn't target the creature who [taunted](../../Browse/condition/taunted.md) them, as long as they have [line of effect](../../Browse/rule/combat/line-of-effect.md) to that creature. If a creature gains the [taunted](../../Browse/condition/taunted.md) [condition](../../Browse/rule/combat/condition.md) from one source while already [taunted](../../Browse/condition/taunted.md) by a different source, the new [condition](../../Browse/rule/combat/condition.md) replaces the old one.
 
-##### Weakened {data-scc="mcdm.heroes.v1/condition/weakened"}
+##### Weakened {data-scc="mcdm.heroes.v1/condition/weakened" data-search-exclude=""}
 
 A creature who is [weakened](../../Browse/condition/weakened.md) takes a [bane](../../Browse/rule/dice/bane.md) on [power rolls](../../Browse/rule/dice/power-roll.md).
 
@@ -499,7 +497,7 @@ For example a 6th-level [censor](../../Browse/class/censor.md) has "Signature, 3
 >
 > Abilities granted by your class that are quick build options are indicated by a gold icon to the left of their name. Look for this icon if you're using the quick build options when creating your hero:
 
-## Censor {data-scc="mcdm.heroes.v1/class/censor"}
+## Censor {data-scc="mcdm.heroes.v1/class/censor" data-search-exclude=""}
 
 Demons and deathless fear you. Criminals run from the sight of your shadow. Agents of chaos, blasphemers, and heretics tremble at the sound of your voice. You carry the power of the gods, armed with wrath and sent out into the world first to seek, then censor those whose actions—or even existence—are anathema to your church.
 
@@ -513,7 +511,7 @@ As a [censor](../../Browse/class/censor.md), you're at your best against the str
 >
 > **Sir Vaantikalisax**
 
-### Basics
+### Basics {data-search-exclude=""}
 
 **Starting [Characteristics](../../Browse/rule/character/characteristic.md):** You start with a [Might](../../Browse/rule/character/might.md) of 2 and a [Presence](../../Browse/rule/character/presence.md) of 2, and you can choose one of the following arrays for your other [characteristic](../../Browse/rule/character/characteristic.md) scores:
 
@@ -535,7 +533,7 @@ As a [censor](../../Browse/class/censor.md), you're at your best against the str
 
 **Skills:** Choose any two skills from the [interpersonal](../../Browse/skill/interpersonal/index.md) or [lore](../../Browse/skill/lore/index.md) skill groups (see Skills in Chapter 9: [Tests](tests.md)). (*Quick Build:* [Intimidate](../../Browse/skill/interpersonal/intimidate.md), [Religion](../../Browse/skill/lore/religion.md).)
 
-###### Censor Advancement Table
+###### Censor Advancement Table {data-search-exclude=""}
 
 | Level | Features                                                                                                   | Abilities                 | Order<br>Abilities |
 |-------|------------------------------------------------------------------------------------------------------------|---------------------------|--------------------|
@@ -550,11 +548,11 @@ As a [censor](../../Browse/class/censor.md), you're at your best against the str
 | 9th   | [Improved Implement of Wrath](../../Browse/feature/censor/level-9/improved-implement-of-wrath.md), [Order Ability](../../Browse/feature/censor/level-9/9th-level-order-ability.md)                                                                 | Signature, 3, 5, 7, 9, 11 | 5, 9, 11           |
 | 10th  | [Characteristic Increase](../../Browse/feature/censor/level-10/characteristic-increase.md), [Perk](../../Browse/feature/censor/level-10/perk.md), [Skill](../../Browse/feature/censor/level-10/skill.md), [Templar](../../Browse/feature/censor/level-10/templar.md), [Virtue](../../Browse/feature/censor/level-10/virtue.md), [Wrath of the Gods](../../Browse/feature/censor/level-10/wrath-of-the-gods.md)                                   | Signature, 3, 5, 7, 9, 11 | 5, 9, 11           |
 
-### 1st-Level Features
+### 1st-Level Features {data-search-exclude=""}
 
 As a 1st-level [censor](../../Browse/class/censor.md), you gain the following features.
 
-#### Censor Order {data-scc="mcdm.heroes.v1/feature.censor.level-1/censor-order"}
+#### Censor Order {data-scc="mcdm.heroes.v1/feature.censor.level-1/censor-order" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -568,7 +566,7 @@ As a 1st-level [censor](../../Browse/class/censor.md), you gain the following fe
 </section>
 </address>
 
-#### Deity and Domains {data-scc="mcdm.heroes.v1/feature.censor.level-1/deity-and-domains"}
+#### Deity and Domains {data-scc="mcdm.heroes.v1/feature.censor.level-1/deity-and-domains" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -581,7 +579,7 @@ As a 1st-level [censor](../../Browse/class/censor.md), you gain the following fe
 </section>
 </address>
 
-#### Wrath {data-scc="mcdm.heroes.v1/feature.censor.level-1/wrath"}
+#### Wrath {data-scc="mcdm.heroes.v1/feature.censor.level-1/wrath" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="2">
@@ -610,7 +608,7 @@ As a 1st-level [censor](../../Browse/class/censor.md), you gain the following fe
 </section>
 </address>
 
-#### Judgment {data-scc="mcdm.heroes.v1/feature.censor.level-1/judgment"}
+#### Judgment {data-scc="mcdm.heroes.v1/feature.censor.level-1/judgment" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="2">
@@ -644,7 +642,7 @@ As a 1st-level [censor](../../Browse/class/censor.md), you gain the following fe
 </section>
 </address>
 
-#### Kit {data-scc="mcdm.heroes.v1/feature.censor.level-1/kit"}
+#### Kit {data-scc="mcdm.heroes.v1/feature.censor.level-1/kit" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -656,7 +654,7 @@ As a 1st-level [censor](../../Browse/class/censor.md), you gain the following fe
 </section>
 </address>
 
-#### My Life for Yours {data-scc="mcdm.heroes.v1/feature.censor.level-1/my-life-for-yours"}
+#### My Life for Yours {data-scc="mcdm.heroes.v1/feature.censor.level-1/my-life-for-yours" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="1" data-grant="the My Life for Yours triggered action">
@@ -688,7 +686,7 @@ As a 1st-level [censor](../../Browse/class/censor.md), you gain the following fe
 </section>
 </address>
 
-#### 1st-Level Domain Feature {data-scc="mcdm.heroes.v1/feature.censor.level-1/1st-level-domain-feature"}
+#### 1st-Level Domain Feature {data-scc="mcdm.heroes.v1/feature.censor.level-1/1st-level-domain-feature" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="13">
@@ -831,7 +829,7 @@ As a 1st-level [censor](../../Browse/class/censor.md), you gain the following fe
 </section>
 </address>
 
-#### Censor Abilities {data-scc="mcdm.heroes.v1/feature.censor.level-1/censor-abilities"}
+#### Censor Abilities {data-scc="mcdm.heroes.v1/feature.censor.level-1/censor-abilities" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="2">
@@ -1113,11 +1111,11 @@ As a 1st-level [censor](../../Browse/class/censor.md), you gain the following fe
 </section>
 </address>
 
-### 2nd-Level Features
+### 2nd-Level Features {data-search-exclude=""}
 
 As a 2nd-level [censor](../../Browse/class/censor.md), you gain the following features.
 
-#### Perk {data-scc="mcdm.heroes.v1/feature.censor.level-2/perk"}
+#### Perk {data-scc="mcdm.heroes.v1/feature.censor.level-2/perk" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -1129,7 +1127,7 @@ As a 2nd-level [censor](../../Browse/class/censor.md), you gain the following fe
 </section>
 </address>
 
-#### 2nd-Level Order Features {data-scc="mcdm.heroes.v1/feature.censor.level-2/2nd-level-order-features"}
+#### 2nd-Level Order Features {data-scc="mcdm.heroes.v1/feature.censor.level-2/2nd-level-order-features" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="7">
@@ -1185,7 +1183,7 @@ As a 2nd-level [censor](../../Browse/class/censor.md), you gain the following fe
 </section>
 </address>
 
-#### 2nd-Level Order Ability {data-scc="mcdm.heroes.v1/feature.censor.level-2/2nd-level-order-ability"}
+#### 2nd-Level Order Ability {data-scc="mcdm.heroes.v1/feature.censor.level-2/2nd-level-order-ability" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="3">
@@ -1321,11 +1319,11 @@ As a 2nd-level [censor](../../Browse/class/censor.md), you gain the following fe
 </section>
 </address>
 
-### 3rd-Level Features
+### 3rd-Level Features {data-search-exclude=""}
 
 As a 3rd-level [censor](../../Browse/class/censor.md), you gain the following features.
 
-#### Look On My Work and Despair {data-scc="mcdm.heroes.v1/feature.censor.level-3/look-on-my-work-and-despair"}
+#### Look On My Work and Despair {data-scc="mcdm.heroes.v1/feature.censor.level-3/look-on-my-work-and-despair" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -1337,7 +1335,7 @@ As a 3rd-level [censor](../../Browse/class/censor.md), you gain the following fe
 </section>
 </address>
 
-#### 7-Wrath Ability {data-scc="mcdm.heroes.v1/feature.censor.level-3/7-wrath-ability"}
+#### 7-Wrath Ability {data-scc="mcdm.heroes.v1/feature.censor.level-3/7-wrath-ability" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
@@ -1403,11 +1401,11 @@ As a 3rd-level [censor](../../Browse/class/censor.md), you gain the following fe
 </section>
 </address>
 
-### 4th-Level Features
+### 4th-Level Features {data-search-exclude=""}
 
 As a 4th-level [censor](../../Browse/class/censor.md), you gain the following features.
 
-#### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.censor.level-4/characteristic-increase"}
+#### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.censor.level-4/characteristic-increase" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -1419,7 +1417,7 @@ As a 4th-level [censor](../../Browse/class/censor.md), you gain the following fe
 </section>
 </address>
 
-#### Perk {data-scc="mcdm.heroes.v1/feature.censor.level-4/perk"}
+#### Perk {data-scc="mcdm.heroes.v1/feature.censor.level-4/perk" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -1431,7 +1429,7 @@ As a 4th-level [censor](../../Browse/class/censor.md), you gain the following fe
 </section>
 </address>
 
-#### Skill {data-scc="mcdm.heroes.v1/feature.censor.level-4/skill"}
+#### Skill {data-scc="mcdm.heroes.v1/feature.censor.level-4/skill" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -1443,7 +1441,7 @@ As a 4th-level [censor](../../Browse/class/censor.md), you gain the following fe
 </section>
 </address>
 
-#### Wrath Beyond Wrath {data-scc="mcdm.heroes.v1/feature.censor.level-4/wrath-beyond-wrath"}
+#### Wrath Beyond Wrath {data-scc="mcdm.heroes.v1/feature.censor.level-4/wrath-beyond-wrath" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -1455,7 +1453,7 @@ As a 4th-level [censor](../../Browse/class/censor.md), you gain the following fe
 </section>
 </address>
 
-#### 4th-Level Domain Feature {data-scc="mcdm.heroes.v1/feature.censor.level-4/4th-level-domain-feature"}
+#### 4th-Level Domain Feature {data-scc="mcdm.heroes.v1/feature.censor.level-4/4th-level-domain-feature" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="13">
@@ -1563,11 +1561,11 @@ As a 4th-level [censor](../../Browse/class/censor.md), you gain the following fe
 </section>
 </address>
 
-### 5th-Level Features
+### 5th-Level Features {data-search-exclude=""}
 
 As a 5th-level [censor](../../Browse/class/censor.md), you gain the following features.
 
-#### 5th-Level Order Feature {data-scc="mcdm.heroes.v1/feature.censor.level-5/5th-level-order-feature"}
+#### 5th-Level Order Feature {data-scc="mcdm.heroes.v1/feature.censor.level-5/5th-level-order-feature" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="4">
@@ -1606,7 +1604,7 @@ As a 5th-level [censor](../../Browse/class/censor.md), you gain the following fe
 </section>
 </address>
 
-#### 9-Wrath Ability {data-scc="mcdm.heroes.v1/feature.censor.level-5/9-wrath-ability"}
+#### 9-Wrath Ability {data-scc="mcdm.heroes.v1/feature.censor.level-5/9-wrath-ability" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
@@ -1692,11 +1690,11 @@ As a 5th-level [censor](../../Browse/class/censor.md), you gain the following fe
 </section>
 </address>
 
-### 6th-Level Features
+### 6th-Level Features {data-search-exclude=""}
 
 As a 6th-level [censor](../../Browse/class/censor.md), you gain the following features.
 
-#### Implement of Wrath {data-scc="mcdm.heroes.v1/feature.censor.level-6/implement-of-wrath"}
+#### Implement of Wrath {data-scc="mcdm.heroes.v1/feature.censor.level-6/implement-of-wrath" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait">
@@ -1709,7 +1707,7 @@ As a 6th-level [censor](../../Browse/class/censor.md), you gain the following fe
 </section>
 </address>
 
-#### Perk {data-scc="mcdm.heroes.v1/feature.censor.level-6/perk"}
+#### Perk {data-scc="mcdm.heroes.v1/feature.censor.level-6/perk" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -1721,7 +1719,7 @@ As a 6th-level [censor](../../Browse/class/censor.md), you gain the following fe
 </section>
 </address>
 
-#### 6th-Level Order Ability {data-scc="mcdm.heroes.v1/feature.censor.level-6/6th-level-order-ability"}
+#### 6th-Level Order Ability {data-scc="mcdm.heroes.v1/feature.censor.level-6/6th-level-order-ability" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="3">
@@ -1861,11 +1859,11 @@ As a 6th-level [censor](../../Browse/class/censor.md), you gain the following fe
 </section>
 </address>
 
-### 7th-Level Features
+### 7th-Level Features {data-search-exclude=""}
 
 As a 7th-level [censor](../../Browse/class/censor.md), you gain the following features.
 
-#### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.censor.level-7/characteristic-increase"}
+#### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.censor.level-7/characteristic-increase" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -1877,7 +1875,7 @@ As a 7th-level [censor](../../Browse/class/censor.md), you gain the following fe
 </section>
 </address>
 
-#### 7th-Level Domain Feature {data-scc="mcdm.heroes.v1/feature.censor.level-7/7th-level-domain-feature"}
+#### 7th-Level Domain Feature {data-scc="mcdm.heroes.v1/feature.censor.level-7/7th-level-domain-feature" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="13">
@@ -2002,7 +2000,7 @@ As a 7th-level [censor](../../Browse/class/censor.md), you gain the following fe
 </section>
 </address>
 
-#### Focused Wrath {data-scc="mcdm.heroes.v1/feature.censor.level-7/focused-wrath"}
+#### Focused Wrath {data-scc="mcdm.heroes.v1/feature.censor.level-7/focused-wrath" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -2014,7 +2012,7 @@ As a 7th-level [censor](../../Browse/class/censor.md), you gain the following fe
 </section>
 </address>
 
-#### Skill {data-scc="mcdm.heroes.v1/feature.censor.level-7/skill"}
+#### Skill {data-scc="mcdm.heroes.v1/feature.censor.level-7/skill" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -2026,11 +2024,11 @@ As a 7th-level [censor](../../Browse/class/censor.md), you gain the following fe
 </section>
 </address>
 
-### 8th-Level Features
+### 8th-Level Features {data-search-exclude=""}
 
 As an 8th-level [censor](../../Browse/class/censor.md), you gain the following features.
 
-#### Perk {data-scc="mcdm.heroes.v1/feature.censor.level-8/perk"}
+#### Perk {data-scc="mcdm.heroes.v1/feature.censor.level-8/perk" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -2042,7 +2040,7 @@ As an 8th-level [censor](../../Browse/class/censor.md), you gain the following f
 </section>
 </address>
 
-#### 8th-Level Order Feature {data-scc="mcdm.heroes.v1/feature.censor.level-8/8th-level-order-feature"}
+#### 8th-Level Order Feature {data-scc="mcdm.heroes.v1/feature.censor.level-8/8th-level-order-feature" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="4">
@@ -2080,7 +2078,7 @@ As an 8th-level [censor](../../Browse/class/censor.md), you gain the following f
 </section>
 </address>
 
-#### 11-Wrath Ability {data-scc="mcdm.heroes.v1/feature.censor.level-8/11-wrath-ability"}
+#### 11-Wrath Ability {data-scc="mcdm.heroes.v1/feature.censor.level-8/11-wrath-ability" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
@@ -2178,11 +2176,11 @@ As an 8th-level [censor](../../Browse/class/censor.md), you gain the following f
 </section>
 </address>
 
-### 9th-Level Features
+### 9th-Level Features {data-search-exclude=""}
 
 As a 9th-level [censor](../../Browse/class/censor.md), you gain the following features.
 
-#### Improved Implement of Wrath {data-scc="mcdm.heroes.v1/feature.censor.level-9/improved-implement-of-wrath"}
+#### Improved Implement of Wrath {data-scc="mcdm.heroes.v1/feature.censor.level-9/improved-implement-of-wrath" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait">
@@ -2195,7 +2193,7 @@ As a 9th-level [censor](../../Browse/class/censor.md), you gain the following fe
 </section>
 </address>
 
-#### 9th-Level Order Ability {data-scc="mcdm.heroes.v1/feature.censor.level-9/9th-level-order-ability"}
+#### 9th-Level Order Ability {data-scc="mcdm.heroes.v1/feature.censor.level-9/9th-level-order-ability" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="3">
@@ -2343,11 +2341,11 @@ As a 9th-level [censor](../../Browse/class/censor.md), you gain the following fe
 </section>
 </address>
 
-### 10th-Level Features
+### 10th-Level Features {data-search-exclude=""}
 
 As a 10th-level [censor](../../Browse/class/censor.md), you gain the following features.
 
-#### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.censor.level-10/characteristic-increase"}
+#### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.censor.level-10/characteristic-increase" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -2359,7 +2357,7 @@ As a 10th-level [censor](../../Browse/class/censor.md), you gain the following f
 </section>
 </address>
 
-#### Perk {data-scc="mcdm.heroes.v1/feature.censor.level-10/perk"}
+#### Perk {data-scc="mcdm.heroes.v1/feature.censor.level-10/perk" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -2371,7 +2369,7 @@ As a 10th-level [censor](../../Browse/class/censor.md), you gain the following f
 </section>
 </address>
 
-#### Skill {data-scc="mcdm.heroes.v1/feature.censor.level-10/skill"}
+#### Skill {data-scc="mcdm.heroes.v1/feature.censor.level-10/skill" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -2383,7 +2381,7 @@ As a 10th-level [censor](../../Browse/class/censor.md), you gain the following f
 </section>
 </address>
 
-#### Templar {data-scc="mcdm.heroes.v1/feature.censor.level-10/templar"}
+#### Templar {data-scc="mcdm.heroes.v1/feature.censor.level-10/templar" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -2397,7 +2395,7 @@ As a 10th-level [censor](../../Browse/class/censor.md), you gain the following f
 </section>
 </address>
 
-#### Virtue {data-scc="mcdm.heroes.v1/feature.censor.level-10/virtue"}
+#### Virtue {data-scc="mcdm.heroes.v1/feature.censor.level-10/virtue" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -2411,7 +2409,7 @@ As a 10th-level [censor](../../Browse/class/censor.md), you gain the following f
 </section>
 </address>
 
-#### Wrath of the Gods {data-scc="mcdm.heroes.v1/feature.censor.level-10/wrath-of-the-gods"}
+#### Wrath of the Gods {data-scc="mcdm.heroes.v1/feature.censor.level-10/wrath-of-the-gods" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -2423,7 +2421,7 @@ As a 10th-level [censor](../../Browse/class/censor.md), you gain the following f
 </section>
 </address>
 
-## Conduit {data-scc="mcdm.heroes.v1/class/conduit"}
+## Conduit {data-scc="mcdm.heroes.v1/class/conduit" data-search-exclude=""}
 
 The power of the gods flows through you! As a vessel for [divine power](../../Browse/feature/conduit/level-10/divine-power.md), you don't just keep your allies in the fight. You make those allies more effective, even as you rain divine energy down upon your foes. Though the deity or [saint](../../Browse/rule/world/saint.md) you serve might have other faithful and clergy, you are special among worshippers, receiving your abilities from the highest source.
 
@@ -2433,7 +2431,7 @@ The power of the gods flows through you! As a vessel for [divine power](../../Br
 >
 > **Dazar**
 
-### Basics
+### Basics {data-search-exclude=""}
 
 **Starting [Characteristics](../../Browse/rule/character/characteristic.md):** You start with an [Intuition](../../Browse/rule/character/intuition.md) of 2, and can choose one of the following arrays for your other [characteristic](../../Browse/rule/character/characteristic.md) scores:
 
@@ -2456,7 +2454,7 @@ The power of the gods flows through you! As a vessel for [divine power](../../Br
 
 **Skills:** Choose any two skills from the [interpersonal](../../Browse/skill/interpersonal/index.md) or [lore](../../Browse/skill/lore/index.md) skill groups (see Skills in Chapter 9: [Tests](tests.md)). (*Quick Build:* [Read Person](../../Browse/skill/interpersonal/read-person.md), Religion.)
 
-###### Conduit Advancement Table
+###### Conduit Advancement Table {data-search-exclude=""}
 
 | Level | Features                                                                                                                             | Abilities                     | Domain Abilities  |
 |-------|--------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|-------------------|
@@ -2471,11 +2469,11 @@ The power of the gods flows through you! As a vessel for [divine power](../../Br
 | 9th   | [Domain Ability](../../Browse/feature/conduit/level-9/9th-level-domain-ability.md), [Faith's Sword](../../Browse/feature/conduit/level-9/faiths-sword.md), [Ordained](../../Browse/feature/conduit/level-9/ordained.md)                                                                                              | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11          |
 | 10th  | [Avatar](../../Browse/feature/conduit/level-10/avatar.md), [Characteristic Increase](../../Browse/feature/conduit/level-10/characteristic-increase.md), [Divine Power](../../Browse/feature/conduit/level-10/divine-power.md), [Most Pious](../../Browse/feature/conduit/level-10/most-pious.md), [Perk](../../Browse/feature/conduit/level-10/perk.md), [Skill Increase](../../Browse/feature/conduit/level-10/skill.md)                                                      | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11          |
 
-### 1st-Level Features
+### 1st-Level Features {data-search-exclude=""}
 
 As a [conduit](../../Browse/class/conduit.md), you gain the following features.
 
-#### Deity and Domains {data-scc="mcdm.heroes.v1/feature.conduit.level-1/deity-and-domains"}
+#### Deity and Domains {data-scc="mcdm.heroes.v1/feature.conduit.level-1/deity-and-domains" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -2488,7 +2486,7 @@ As a [conduit](../../Browse/class/conduit.md), you gain the following features.
 </section>
 </address>
 
-#### Piety {data-scc="mcdm.heroes.v1/feature.conduit.level-1/piety"}
+#### Piety {data-scc="mcdm.heroes.v1/feature.conduit.level-1/piety" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="3">
@@ -2599,7 +2597,7 @@ As a [conduit](../../Browse/class/conduit.md), you gain the following features.
 </section>
 </address>
 
-#### 1st-Level Domain Feature {data-scc="mcdm.heroes.v1/feature.conduit.level-1/1st-level-domain-feature"}
+#### 1st-Level Domain Feature {data-scc="mcdm.heroes.v1/feature.conduit.level-1/1st-level-domain-feature" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="13">
@@ -2741,7 +2739,7 @@ As a [conduit](../../Browse/class/conduit.md), you gain the following features.
 </section>
 </address>
 
-#### Healing Grace {data-scc="mcdm.heroes.v1/feature.conduit.level-1/healing-grace"}
+#### Healing Grace {data-scc="mcdm.heroes.v1/feature.conduit.level-1/healing-grace" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="1" data-grant="the Healing Grace maneuver">
@@ -2772,7 +2770,7 @@ As a [conduit](../../Browse/class/conduit.md), you gain the following features.
 </section>
 </address>
 
-#### Ray of Wrath {data-scc="mcdm.heroes.v1/feature.conduit.level-1/ray-of-wrath"}
+#### Ray of Wrath {data-scc="mcdm.heroes.v1/feature.conduit.level-1/ray-of-wrath" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="1" data-grant="the Ray of Wrath main action">
@@ -2807,7 +2805,7 @@ As a [conduit](../../Browse/class/conduit.md), you gain the following features.
 </section>
 </address>
 
-#### Triggered Action {data-scc="mcdm.heroes.v1/feature.conduit.level-1/triggered-action"}
+#### Triggered Action {data-scc="mcdm.heroes.v1/feature.conduit.level-1/triggered-action" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="2">
@@ -2857,7 +2855,7 @@ As a [conduit](../../Browse/class/conduit.md), you gain the following features.
 </section>
 </address>
 
-#### Prayer {data-scc="mcdm.heroes.v1/feature.conduit.level-1/prayer"}
+#### Prayer {data-scc="mcdm.heroes.v1/feature.conduit.level-1/prayer" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="5">
@@ -2902,7 +2900,7 @@ As a [conduit](../../Browse/class/conduit.md), you gain the following features.
 </section>
 </address>
 
-#### Conduit Ward {data-scc="mcdm.heroes.v1/feature.conduit.level-1/conduit-ward"}
+#### Conduit Ward {data-scc="mcdm.heroes.v1/feature.conduit.level-1/conduit-ward" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="4">
@@ -2940,7 +2938,7 @@ As a [conduit](../../Browse/class/conduit.md), you gain the following features.
 </section>
 </address>
 
-#### Conduit Abilities {data-scc="mcdm.heroes.v1/feature.conduit.level-1/conduit-abilities"}
+#### Conduit Abilities {data-scc="mcdm.heroes.v1/feature.conduit.level-1/conduit-abilities" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="2">
@@ -3278,11 +3276,11 @@ As a [conduit](../../Browse/class/conduit.md), you gain the following features.
 </section>
 </address>
 
-### 2nd-Level Features
+### 2nd-Level Features {data-search-exclude=""}
 
 As a 2nd-level [conduit](../../Browse/class/conduit.md), you gain the following features.
 
-#### The Lists of Heaven {data-scc="mcdm.heroes.v1/feature.conduit.level-2/the-lists-of-heaven"}
+#### The Lists of Heaven {data-scc="mcdm.heroes.v1/feature.conduit.level-2/the-lists-of-heaven" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -3294,7 +3292,7 @@ As a 2nd-level [conduit](../../Browse/class/conduit.md), you gain the following 
 </section>
 </address>
 
-#### Perk {data-scc="mcdm.heroes.v1/feature.conduit.level-2/perk"}
+#### Perk {data-scc="mcdm.heroes.v1/feature.conduit.level-2/perk" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -3306,7 +3304,7 @@ As a 2nd-level [conduit](../../Browse/class/conduit.md), you gain the following 
 </section>
 </address>
 
-#### 2nd-Level Domain Feature {data-scc="mcdm.heroes.v1/feature.conduit.level-2/2nd-level-domain-feature"}
+#### 2nd-Level Domain Feature {data-scc="mcdm.heroes.v1/feature.conduit.level-2/2nd-level-domain-feature" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -3318,7 +3316,7 @@ As a 2nd-level [conduit](../../Browse/class/conduit.md), you gain the following 
 </section>
 </address>
 
-#### 2nd-Level Domain Ability {data-scc="mcdm.heroes.v1/feature.conduit.level-2/2nd-level-domain-ability"}
+#### 2nd-Level Domain Ability {data-scc="mcdm.heroes.v1/feature.conduit.level-2/2nd-level-domain-ability" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="13">
@@ -3514,11 +3512,11 @@ As a 2nd-level [conduit](../../Browse/class/conduit.md), you gain the following 
 </section>
 </address>
 
-### 3rd-Level Features
+### 3rd-Level Features {data-search-exclude=""}
 
 As a 3rd-level [conduit](../../Browse/class/conduit.md), you gain the following features.
 
-#### Minor Miracle {data-scc="mcdm.heroes.v1/feature.conduit.level-3/minor-miracle"}
+#### Minor Miracle {data-scc="mcdm.heroes.v1/feature.conduit.level-3/minor-miracle" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -3531,7 +3529,7 @@ As a 3rd-level [conduit](../../Browse/class/conduit.md), you gain the following 
 </section>
 </address>
 
-#### 7-Piety Ability {data-scc="mcdm.heroes.v1/feature.conduit.level-3/7-piety-ability"}
+#### 7-Piety Ability {data-scc="mcdm.heroes.v1/feature.conduit.level-3/7-piety-ability" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
@@ -3621,11 +3619,11 @@ As a 3rd-level [conduit](../../Browse/class/conduit.md), you gain the following 
 </section>
 </address>
 
-### 4th-Level Features
+### 4th-Level Features {data-search-exclude=""}
 
 As a 4th-level [conduit](../../Browse/class/conduit.md), you gain the following features.
 
-#### Blessed Domain {data-scc="mcdm.heroes.v1/feature.conduit.level-4/blessed-domain"}
+#### Blessed Domain {data-scc="mcdm.heroes.v1/feature.conduit.level-4/blessed-domain" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -3637,7 +3635,7 @@ As a 4th-level [conduit](../../Browse/class/conduit.md), you gain the following 
 </section>
 </address>
 
-#### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.conduit.level-4/characteristic-increase"}
+#### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.conduit.level-4/characteristic-increase" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -3649,7 +3647,7 @@ As a 4th-level [conduit](../../Browse/class/conduit.md), you gain the following 
 </section>
 </address>
 
-#### Perk {data-scc="mcdm.heroes.v1/feature.conduit.level-4/perk"}
+#### Perk {data-scc="mcdm.heroes.v1/feature.conduit.level-4/perk" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -3661,7 +3659,7 @@ As a 4th-level [conduit](../../Browse/class/conduit.md), you gain the following 
 </section>
 </address>
 
-#### Skill {data-scc="mcdm.heroes.v1/feature.conduit.level-4/skill"}
+#### Skill {data-scc="mcdm.heroes.v1/feature.conduit.level-4/skill" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -3673,7 +3671,7 @@ As a 4th-level [conduit](../../Browse/class/conduit.md), you gain the following 
 </section>
 </address>
 
-#### 4th-Level Domain Feature {data-scc="mcdm.heroes.v1/feature.conduit.level-4/4th-level-domain-feature"}
+#### 4th-Level Domain Feature {data-scc="mcdm.heroes.v1/feature.conduit.level-4/4th-level-domain-feature" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="14">
@@ -3779,11 +3777,11 @@ As a 4th-level [conduit](../../Browse/class/conduit.md), you gain the following 
 </section>
 </address>
 
-### 5th-Level Features
+### 5th-Level Features {data-search-exclude=""}
 
 As a 5th-level [conduit](../../Browse/class/conduit.md), you gain the following features.
 
-#### 5th-Level Domain Feature {data-scc="mcdm.heroes.v1/feature.conduit.level-5/5th-level-domain-feature"}
+#### 5th-Level Domain Feature {data-scc="mcdm.heroes.v1/feature.conduit.level-5/5th-level-domain-feature" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -3795,7 +3793,7 @@ As a 5th-level [conduit](../../Browse/class/conduit.md), you gain the following 
 </section>
 </address>
 
-#### 9-Piety Ability {data-scc="mcdm.heroes.v1/feature.conduit.level-5/9-piety-ability"}
+#### 9-Piety Ability {data-scc="mcdm.heroes.v1/feature.conduit.level-5/9-piety-ability" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
@@ -3873,11 +3871,11 @@ As a 5th-level [conduit](../../Browse/class/conduit.md), you gain the following 
 </section>
 </address>
 
-### 6th-Level Features
+### 6th-Level Features {data-search-exclude=""}
 
 As a 6th-level [conduit](../../Browse/class/conduit.md), you gain the following features.
 
-#### Burgeoning Saint {data-scc="mcdm.heroes.v1/feature.conduit.level-6/burgeoning-saint"}
+#### Burgeoning Saint {data-scc="mcdm.heroes.v1/feature.conduit.level-6/burgeoning-saint" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait">
@@ -3890,7 +3888,7 @@ As a 6th-level [conduit](../../Browse/class/conduit.md), you gain the following 
 </section>
 </address>
 
-#### Perk {data-scc="mcdm.heroes.v1/feature.conduit.level-6/perk"}
+#### Perk {data-scc="mcdm.heroes.v1/feature.conduit.level-6/perk" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -3902,7 +3900,7 @@ As a 6th-level [conduit](../../Browse/class/conduit.md), you gain the following 
 </section>
 </address>
 
-#### 6th-Level Domain Ability {data-scc="mcdm.heroes.v1/feature.conduit.level-6/6th-level-domain-ability"}
+#### 6th-Level Domain Ability {data-scc="mcdm.heroes.v1/feature.conduit.level-6/6th-level-domain-ability" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="13">
@@ -4121,11 +4119,11 @@ As a 6th-level [conduit](../../Browse/class/conduit.md), you gain the following 
 </section>
 </address>
 
-### 7th-Level Features
+### 7th-Level Features {data-search-exclude=""}
 
 As a 7th-level [conduit](../../Browse/class/conduit.md), you gain the following features.
 
-#### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.conduit.level-7/characteristic-increase"}
+#### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.conduit.level-7/characteristic-increase" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -4137,7 +4135,7 @@ As a 7th-level [conduit](../../Browse/class/conduit.md), you gain the following 
 </section>
 </address>
 
-#### Faithful's Reward {data-scc="mcdm.heroes.v1/feature.conduit.level-7/faithfuls-reward"}
+#### Faithful's Reward {data-scc="mcdm.heroes.v1/feature.conduit.level-7/faithfuls-reward" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -4149,7 +4147,7 @@ As a 7th-level [conduit](../../Browse/class/conduit.md), you gain the following 
 </section>
 </address>
 
-#### Skill {data-scc="mcdm.heroes.v1/feature.conduit.level-7/skill"}
+#### Skill {data-scc="mcdm.heroes.v1/feature.conduit.level-7/skill" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -4161,7 +4159,7 @@ As a 7th-level [conduit](../../Browse/class/conduit.md), you gain the following 
 </section>
 </address>
 
-#### 7th-Level Domain Feature {data-scc="mcdm.heroes.v1/feature.conduit.level-7/7th-level-domain-feature"}
+#### 7th-Level Domain Feature {data-scc="mcdm.heroes.v1/feature.conduit.level-7/7th-level-domain-feature" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="13">
@@ -4286,11 +4284,11 @@ As a 7th-level [conduit](../../Browse/class/conduit.md), you gain the following 
 </section>
 </address>
 
-### 8th-Level Features
+### 8th-Level Features {data-search-exclude=""}
 
 As an 8th-level [conduit](../../Browse/class/conduit.md), you gain the following features.
 
-#### Perk {data-scc="mcdm.heroes.v1/feature.conduit.level-8/perk"}
+#### Perk {data-scc="mcdm.heroes.v1/feature.conduit.level-8/perk" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -4302,7 +4300,7 @@ As an 8th-level [conduit](../../Browse/class/conduit.md), you gain the following
 </section>
 </address>
 
-#### 8th-Level Domain Feature {data-scc="mcdm.heroes.v1/feature.conduit.level-8/8th-level-domain-feature"}
+#### 8th-Level Domain Feature {data-scc="mcdm.heroes.v1/feature.conduit.level-8/8th-level-domain-feature" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -4314,7 +4312,7 @@ As an 8th-level [conduit](../../Browse/class/conduit.md), you gain the following
 </section>
 </address>
 
-#### 11-Piety Ability {data-scc="mcdm.heroes.v1/feature.conduit.level-8/11-piety-ability"}
+#### 11-Piety Ability {data-scc="mcdm.heroes.v1/feature.conduit.level-8/11-piety-ability" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
@@ -4388,11 +4386,11 @@ As an 8th-level [conduit](../../Browse/class/conduit.md), you gain the following
 </section>
 </address>
 
-### 9th-Level Features
+### 9th-Level Features {data-search-exclude=""}
 
 As a 9th-level [conduit](../../Browse/class/conduit.md), you gain the following features.
 
-#### Faith's Sword {data-scc="mcdm.heroes.v1/feature.conduit.level-9/faiths-sword"}
+#### Faith's Sword {data-scc="mcdm.heroes.v1/feature.conduit.level-9/faiths-sword" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -4404,7 +4402,7 @@ As a 9th-level [conduit](../../Browse/class/conduit.md), you gain the following 
 </section>
 </address>
 
-#### Ordained {data-scc="mcdm.heroes.v1/feature.conduit.level-9/ordained"}
+#### Ordained {data-scc="mcdm.heroes.v1/feature.conduit.level-9/ordained" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -4416,7 +4414,7 @@ As a 9th-level [conduit](../../Browse/class/conduit.md), you gain the following 
 </section>
 </address>
 
-#### 9th-Level Domain Ability {data-scc="mcdm.heroes.v1/feature.conduit.level-9/9th-level-domain-ability"}
+#### 9th-Level Domain Ability {data-scc="mcdm.heroes.v1/feature.conduit.level-9/9th-level-domain-ability" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="13">
@@ -4643,11 +4641,11 @@ As a 9th-level [conduit](../../Browse/class/conduit.md), you gain the following 
 </section>
 </address>
 
-### 10th-Level Features
+### 10th-Level Features {data-search-exclude=""}
 
 As a 10th-level [conduit](../../Browse/class/conduit.md), you gain the following features.
 
-#### Avatar {data-scc="mcdm.heroes.v1/feature.conduit.level-10/avatar"}
+#### Avatar {data-scc="mcdm.heroes.v1/feature.conduit.level-10/avatar" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -4660,7 +4658,7 @@ As a 10th-level [conduit](../../Browse/class/conduit.md), you gain the following
 </section>
 </address>
 
-#### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.conduit.level-10/characteristic-increase"}
+#### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.conduit.level-10/characteristic-increase" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -4672,7 +4670,7 @@ As a 10th-level [conduit](../../Browse/class/conduit.md), you gain the following
 </section>
 </address>
 
-#### Divine Power {data-scc="mcdm.heroes.v1/feature.conduit.level-10/divine-power"}
+#### Divine Power {data-scc="mcdm.heroes.v1/feature.conduit.level-10/divine-power" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -4686,7 +4684,7 @@ As a 10th-level [conduit](../../Browse/class/conduit.md), you gain the following
 </section>
 </address>
 
-#### Most Pious {data-scc="mcdm.heroes.v1/feature.conduit.level-10/most-pious"}
+#### Most Pious {data-scc="mcdm.heroes.v1/feature.conduit.level-10/most-pious" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -4698,7 +4696,7 @@ As a 10th-level [conduit](../../Browse/class/conduit.md), you gain the following
 </section>
 </address>
 
-#### Perk {data-scc="mcdm.heroes.v1/feature.conduit.level-10/perk"}
+#### Perk {data-scc="mcdm.heroes.v1/feature.conduit.level-10/perk" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -4710,7 +4708,7 @@ As a 10th-level [conduit](../../Browse/class/conduit.md), you gain the following
 </section>
 </address>
 
-#### Skill {data-scc="mcdm.heroes.v1/feature.conduit.level-10/skill"}
+#### Skill {data-scc="mcdm.heroes.v1/feature.conduit.level-10/skill" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -4722,7 +4720,7 @@ As a 10th-level [conduit](../../Browse/class/conduit.md), you gain the following
 </section>
 </address>
 
-## Elementalist {data-scc="mcdm.heroes.v1/class/elementalist"}
+## Elementalist {data-scc="mcdm.heroes.v1/class/elementalist" data-search-exclude=""}
 
 Air for movement. Earth for permanence. Fire for destruction. Water for change. Green for growth. Rot for death. Void for the mystery that which cannot be known. Years of study and practice and poring over tomes brought you the revelations that allow you to manipulate these building blocks of reality. Now you use your mastery of the seven elements to destroy, create, and warp the world with magic.
 
@@ -4732,7 +4730,7 @@ Air for movement. Earth for permanence. Fire for destruction. Water for change. 
 >
 > **Embers**
 
-### Basics
+### Basics {data-search-exclude=""}
 
 **Starting [Characteristics](../../Browse/rule/character/characteristic.md):** You start with a [Reason](../../Browse/rule/character/reason.md) of 2, and you can choose one of the following arrays for your other [characteristic](../../Browse/rule/character/characteristic.md) scores:
 
@@ -4755,7 +4753,7 @@ Air for movement. Earth for permanence. Fire for destruction. Water for change. 
 
 **Skills:** You gain the Magic skill (see Skills in Chapter 9: [Tests](tests.md)). Then choose any three skills from the [crafting](../../Browse/skill/crafting/index.md) or [lore](../../Browse/skill/lore/index.md) skill groups. (*Quick Build:* Alchemy, Blacksmithing, History, Magic.)
 
-###### Elementalist Advancement Table
+###### Elementalist Advancement Table {data-search-exclude=""}
 
 | Level  | Features                                                                                                                                                                                            | Abilities                           |
 |--------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|
@@ -4770,11 +4768,11 @@ Air for movement. Earth for permanence. Fire for destruction. Water for change. 
 | 9th    | [Grand Wyrding](../../Browse/feature/elementalist/level-9/grand-wyrding.md), [New 11-Essence Ability](../../Browse/feature/elementalist/level-9/new-11-essence-ability.md)                                                                                                                                                               | Two signature, 3, 5, 5, 7, 9, 9, 11 |
 | 10th   | [Characteristic Increase](../../Browse/feature/elementalist/level-10/characteristic-increase.md), [Breath](../../Browse/feature/elementalist/level-10/breath.md), [Essential Being](../../Browse/feature/elementalist/level-10/essential-being.md), [One](../../Browse/feature/elementalist/level-10/one.md), [Perk](../../Browse/feature/elementalist/level-10/perk.md), [Skill Increase](../../Browse/feature/elementalist/level-10/skill.md)                                                                                                                         | Two signature, 3, 5, 5, 7, 9, 9, 11 |
 
-### 1st-Level Features
+### 1st-Level Features {data-search-exclude=""}
 
 As a 1st-level [elementalist](../../Browse/class/elementalist.md), you gain the following features.
 
-#### Elemental Specialization {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/elemental-specialization"}
+#### Elemental Specialization {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/elemental-specialization" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
@@ -4814,7 +4812,7 @@ As a 1st-level [elementalist](../../Browse/class/elementalist.md), you gain the 
 </section>
 </address>
 
-#### Essence {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/essence"}
+#### Essence {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/essence" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="2">
@@ -4844,7 +4842,7 @@ As a 1st-level [elementalist](../../Browse/class/elementalist.md), you gain the 
 </section>
 </address>
 
-#### Hurl Element {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/hurl-element"}
+#### Hurl Element {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/hurl-element" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="1" data-grant="the Hurl Element main action">
@@ -4879,7 +4877,7 @@ As a 1st-level [elementalist](../../Browse/class/elementalist.md), you gain the 
 </section>
 </address>
 
-#### Persistent Magic {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/persistent-magic"}
+#### Persistent Magic {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/persistent-magic" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -4894,7 +4892,7 @@ As a 1st-level [elementalist](../../Browse/class/elementalist.md), you gain the 
 </section>
 </address>
 
-#### Practical Magic {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/practical-magic"}
+#### Practical Magic {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/practical-magic" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="1" data-grant="the Practical Magic maneuver">
@@ -4921,7 +4919,7 @@ As a 1st-level [elementalist](../../Browse/class/elementalist.md), you gain the 
 </section>
 </address>
 
-#### 1st-Level Specialization Feature {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/1st-level-specialization-feature"}
+#### 1st-Level Specialization Feature {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/1st-level-specialization-feature" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="5">
@@ -5012,7 +5010,7 @@ As a 1st-level [elementalist](../../Browse/class/elementalist.md), you gain the 
 </section>
 </address>
 
-#### Specialization Triggered Action {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/specialization-triggered-action"}
+#### Specialization Triggered Action {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/specialization-triggered-action" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="5">
@@ -5104,7 +5102,7 @@ As a 1st-level [elementalist](../../Browse/class/elementalist.md), you gain the 
 </section>
 </address>
 
-#### Enchantment {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/enchantment"}
+#### Enchantment {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/enchantment" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="5">
@@ -5149,7 +5147,7 @@ As a 1st-level [elementalist](../../Browse/class/elementalist.md), you gain the 
 </section>
 </address>
 
-#### Elementalist Ward {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/elementalist-ward"}
+#### Elementalist Ward {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/elementalist-ward" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="4">
@@ -5187,7 +5185,7 @@ As a 1st-level [elementalist](../../Browse/class/elementalist.md), you gain the 
 </section>
 </address>
 
-#### Elementalist Abilities {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/elementalist-abilities"}
+#### Elementalist Abilities {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/elementalist-abilities" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="2">
@@ -5549,11 +5547,11 @@ As a 1st-level [elementalist](../../Browse/class/elementalist.md), you gain the 
 </section>
 </address>
 
-### 2nd-Level Features
+### 2nd-Level Features {data-search-exclude=""}
 
 As a 2nd-level [elementalist](../../Browse/class/elementalist.md), you gain the following features.
 
-#### Perk {data-scc="mcdm.heroes.v1/feature.elementalist.level-2/perk"}
+#### Perk {data-scc="mcdm.heroes.v1/feature.elementalist.level-2/perk" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -5565,7 +5563,7 @@ As a 2nd-level [elementalist](../../Browse/class/elementalist.md), you gain the 
 </section>
 </address>
 
-#### 2nd-Level Specialization Feature {data-scc="mcdm.heroes.v1/feature.elementalist.level-2/2nd-level-specialization-feature"}
+#### 2nd-Level Specialization Feature {data-scc="mcdm.heroes.v1/feature.elementalist.level-2/2nd-level-specialization-feature" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="5">
@@ -5636,7 +5634,7 @@ As a 2nd-level [elementalist](../../Browse/class/elementalist.md), you gain the 
 </section>
 </address>
 
-#### New 5-Essence Ability {data-scc="mcdm.heroes.v1/feature.elementalist.level-2/new-5-essence-ability"}
+#### New 5-Essence Ability {data-scc="mcdm.heroes.v1/feature.elementalist.level-2/new-5-essence-ability" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
@@ -5726,11 +5724,11 @@ As a 2nd-level [elementalist](../../Browse/class/elementalist.md), you gain the 
 </section>
 </address>
 
-### 3rd-Level Features
+### 3rd-Level Features {data-search-exclude=""}
 
 As a 3rd-level [elementalist](../../Browse/class/elementalist.md), you gain the following features.
 
-#### 3rd-Level Specialization Feature {data-scc="mcdm.heroes.v1/feature.elementalist.level-3/3rd-level-specialization-feature"}
+#### 3rd-Level Specialization Feature {data-scc="mcdm.heroes.v1/feature.elementalist.level-3/3rd-level-specialization-feature" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="5">
@@ -5804,7 +5802,7 @@ As a 3rd-level [elementalist](../../Browse/class/elementalist.md), you gain the 
 </section>
 </address>
 
-#### 7-Essence Ability {data-scc="mcdm.heroes.v1/feature.elementalist.level-3/7-essence-ability"}
+#### 7-Essence Ability {data-scc="mcdm.heroes.v1/feature.elementalist.level-3/7-essence-ability" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
@@ -5906,11 +5904,11 @@ As a 3rd-level [elementalist](../../Browse/class/elementalist.md), you gain the 
 </section>
 </address>
 
-### 4th-Level Features
+### 4th-Level Features {data-search-exclude=""}
 
 As a 4th-level [elementalist](../../Browse/class/elementalist.md), you gain the following features.
 
-#### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.elementalist.level-4/characteristic-increase"}
+#### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.elementalist.level-4/characteristic-increase" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -5922,7 +5920,7 @@ As a 4th-level [elementalist](../../Browse/class/elementalist.md), you gain the 
 </section>
 </address>
 
-#### Font of Essence {data-scc="mcdm.heroes.v1/feature.elementalist.level-4/font-of-essence"}
+#### Font of Essence {data-scc="mcdm.heroes.v1/feature.elementalist.level-4/font-of-essence" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -5934,7 +5932,7 @@ As a 4th-level [elementalist](../../Browse/class/elementalist.md), you gain the 
 </section>
 </address>
 
-#### Mantle of Essence {data-scc="mcdm.heroes.v1/feature.elementalist.level-4/mantle-of-essence"}
+#### Mantle of Essence {data-scc="mcdm.heroes.v1/feature.elementalist.level-4/mantle-of-essence" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="5">
@@ -5978,7 +5976,7 @@ As a 4th-level [elementalist](../../Browse/class/elementalist.md), you gain the 
 </section>
 </address>
 
-#### Perk {data-scc="mcdm.heroes.v1/feature.elementalist.level-4/perk"}
+#### Perk {data-scc="mcdm.heroes.v1/feature.elementalist.level-4/perk" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -5990,7 +5988,7 @@ As a 4th-level [elementalist](../../Browse/class/elementalist.md), you gain the 
 </section>
 </address>
 
-#### Skill {data-scc="mcdm.heroes.v1/feature.elementalist.level-4/skill"}
+#### Skill {data-scc="mcdm.heroes.v1/feature.elementalist.level-4/skill" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -6002,11 +6000,11 @@ As a 4th-level [elementalist](../../Browse/class/elementalist.md), you gain the 
 </section>
 </address>
 
-### 5th-Level Features
+### 5th-Level Features {data-search-exclude=""}
 
 As a 5th-level [elementalist](../../Browse/class/elementalist.md), you gain the following features.
 
-#### 5th-Level Specialization Feature {data-scc="mcdm.heroes.v1/feature.elementalist.level-5/5th-level-specialization-feature"}
+#### 5th-Level Specialization Feature {data-scc="mcdm.heroes.v1/feature.elementalist.level-5/5th-level-specialization-feature" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="5">
@@ -6054,7 +6052,7 @@ As a 5th-level [elementalist](../../Browse/class/elementalist.md), you gain the 
 </section>
 </address>
 
-#### 9-Essence Ability {data-scc="mcdm.heroes.v1/feature.elementalist.level-5/9-essence-ability"}
+#### 9-Essence Ability {data-scc="mcdm.heroes.v1/feature.elementalist.level-5/9-essence-ability" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
@@ -6156,11 +6154,11 @@ As a 5th-level [elementalist](../../Browse/class/elementalist.md), you gain the 
 </section>
 </address>
 
-### 6th-Level Features
+### 6th-Level Features {data-search-exclude=""}
 
 As a 6th-level [elementalist](../../Browse/class/elementalist.md), you gain the following features.
 
-#### Perk {data-scc="mcdm.heroes.v1/feature.elementalist.level-6/perk"}
+#### Perk {data-scc="mcdm.heroes.v1/feature.elementalist.level-6/perk" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -6172,7 +6170,7 @@ As a 6th-level [elementalist](../../Browse/class/elementalist.md), you gain the 
 </section>
 </address>
 
-#### Wyrding {data-scc="mcdm.heroes.v1/feature.elementalist.level-6/wyrding"}
+#### Wyrding {data-scc="mcdm.heroes.v1/feature.elementalist.level-6/wyrding" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait">
@@ -6185,7 +6183,7 @@ As a 6th-level [elementalist](../../Browse/class/elementalist.md), you gain the 
 </section>
 </address>
 
-#### New 9-Essence Ability {data-scc="mcdm.heroes.v1/feature.elementalist.level-6/new-9-essence-ability"}
+#### New 9-Essence Ability {data-scc="mcdm.heroes.v1/feature.elementalist.level-6/new-9-essence-ability" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
@@ -6271,11 +6269,11 @@ As a 6th-level [elementalist](../../Browse/class/elementalist.md), you gain the 
 </section>
 </address>
 
-### 7th-Level Features
+### 7th-Level Features {data-search-exclude=""}
 
 As a 7th-level [elementalist](../../Browse/class/elementalist.md), you gain the following features.
 
-#### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.elementalist.level-7/characteristic-increase"}
+#### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.elementalist.level-7/characteristic-increase" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -6287,7 +6285,7 @@ As a 7th-level [elementalist](../../Browse/class/elementalist.md), you gain the 
 </section>
 </address>
 
-#### Mantle of Quintessence {data-scc="mcdm.heroes.v1/feature.elementalist.level-7/mantle-of-quintessence"}
+#### Mantle of Quintessence {data-scc="mcdm.heroes.v1/feature.elementalist.level-7/mantle-of-quintessence" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -6300,7 +6298,7 @@ As a 7th-level [elementalist](../../Browse/class/elementalist.md), you gain the 
 </section>
 </address>
 
-#### Surging Essence {data-scc="mcdm.heroes.v1/feature.elementalist.level-7/surging-essence"}
+#### Surging Essence {data-scc="mcdm.heroes.v1/feature.elementalist.level-7/surging-essence" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -6312,7 +6310,7 @@ As a 7th-level [elementalist](../../Browse/class/elementalist.md), you gain the 
 </section>
 </address>
 
-#### Skill {data-scc="mcdm.heroes.v1/feature.elementalist.level-7/skill"}
+#### Skill {data-scc="mcdm.heroes.v1/feature.elementalist.level-7/skill" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -6324,11 +6322,11 @@ As a 7th-level [elementalist](../../Browse/class/elementalist.md), you gain the 
 </section>
 </address>
 
-### 8th-Level Features
+### 8th-Level Features {data-search-exclude=""}
 
 As an 8th-level [elementalist](../../Browse/class/elementalist.md), you gain the following features.
 
-#### Perk {data-scc="mcdm.heroes.v1/feature.elementalist.level-8/perk"}
+#### Perk {data-scc="mcdm.heroes.v1/feature.elementalist.level-8/perk" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -6340,11 +6338,11 @@ As an 8th-level [elementalist](../../Browse/class/elementalist.md), you gain the
 </section>
 </address>
 
-#### 8th-Level Specialization Feature {data-scc="mcdm.heroes.v1/feature.elementalist.level-8/8th-level-specialization-feature"}
+#### 8th-Level Specialization Feature {data-scc="mcdm.heroes.v1/feature.elementalist.level-8/8th-level-specialization-feature" data-search-exclude=""}
 
 Your [elemental specialization](../../Browse/feature/elementalist/level-1/elemental-specialization.md) grants you a feature, as shown on the 8th-Level [Elemental Specialization](../../Browse/feature/elementalist/level-1/elemental-specialization.md) Features table.
 
-###### 8th-Level Elemental Specialization Features Table
+###### 8th-Level Elemental Specialization Features Table {data-search-exclude=""}
 
 | Specialization | Feature                |
 |----------------|------------------------|
@@ -6353,7 +6351,7 @@ Your [elemental specialization](../../Browse/feature/elementalist/level-1/elemen
 | Green          | [Chimeric Manifestation](../../Browse/feature/elementalist/level-8/chimeric-manifestation.md) |
 | Void           | [Black Hole Star](../../Browse/feature/elementalist/level-8/black-hole-star.md)        |
 
-##### Black Hole Star {data-scc="mcdm.heroes.v1/feature.elementalist.level-8/black-hole-star" data-subclass="void"}
+##### Black Hole Star {data-scc="mcdm.heroes.v1/feature.elementalist.level-8/black-hole-star" data-subclass="void" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -6366,7 +6364,7 @@ Your [elemental specialization](../../Browse/feature/elementalist/level-1/elemen
 </section>
 </address>
 
-##### Chimeric Manifestation {data-scc="mcdm.heroes.v1/feature.elementalist.level-8/chimeric-manifestation" data-subclass="green"}
+##### Chimeric Manifestation {data-scc="mcdm.heroes.v1/feature.elementalist.level-8/chimeric-manifestation" data-subclass="green" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -6380,7 +6378,7 @@ Your [elemental specialization](../../Browse/feature/elementalist/level-1/elemen
 </section>
 </address>
 
-##### The Flame Primordial {data-scc="mcdm.heroes.v1/feature.elementalist.level-8/the-flame-primordial" data-subclass="fire"}
+##### The Flame Primordial {data-scc="mcdm.heroes.v1/feature.elementalist.level-8/the-flame-primordial" data-subclass="fire" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -6393,11 +6391,11 @@ Your [elemental specialization](../../Browse/feature/elementalist/level-1/elemen
 </section>
 </address>
 
-##### Summon Source of Earth {data-scc="mcdm.heroes.v1/feature.elementalist.level-8/summon-source-of-earth" data-subclass="earth"}
+##### Summon Source of Earth {data-scc="mcdm.heroes.v1/feature.elementalist.level-8/summon-source-of-earth" data-subclass="earth" data-search-exclude=""}
 
 You have the following ability.
 
-###### Summon Source of Earth {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-8/summon-source-of-earth" data-subclass="earth"}
+###### Summon Source of Earth {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-8/summon-source-of-earth" data-subclass="earth" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <article class="sc-ability sc-fil" data-action="main">
@@ -6419,13 +6417,13 @@ You have the following ability.
 </article>
 </address>
 
-###### Source of Earth {data-scc="mcdm.heroes.v1/monster.summon.elementalist.statblock/source-of-earth"}
+###### Source of Earth {data-scc="mcdm.heroes.v1/monster.summon.elementalist.statblock/source-of-earth" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <div class="sb-wrap" data-role="brute" data-creature="source-of-earth"><div class="sb__sticky" aria-hidden="true"><div class="sb__sticky-inner"><div class="sb__sticky-row1"><span class="sb__sticky-id"><span class="sb__sticky-name">Source of Earth</span><span class="sb__sticky-role" data-role="brute">Brute</span></span><span class="sb__sticky-stats"><span class="sb__sticky-defs"><span class="m"><b>2</b>Size</span><span class="m"><b>6</b>Speed</span><span class="m"><b>45</b>Stamina</span><span class="m"><b>5</b>Stability</span><span class="m"><b>5</b>Free Strike</span></span><span class="sb__sticky-chars"><span class="c"><b>+3</b><i>M</i></span><span class="c"><b>+1</b><i>A</i></span><span class="c"><b>-5</b><i>R</i></span><span class="c"><b>-5</b><i>I</i></span><span class="c"><b>-3</b><i>P</i></span></span></span></div><div class="sb__sticky-row2"><span class="sm"><b>Movement</b>Burrow</span><span class="sm"><b>Immunity</b>—</span><span class="sm"><b>Weakness</b>—</span></div></div></div><article class="sb md-typeset" data-role="brute"><header class="sc-head sb__head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Monster</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Source of Earth</h2><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Elemental</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 8</div><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini" data-role="brute">Brute</div><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">EV -</div></div></header><div class="sb__defenses"><div class="sb__stat"><span class="v">2</span><span class="l">Size</span></div><div class="sb__stat"><span class="v">6</span><span class="l">Speed</span></div><div class="sb__stat"><span class="v">45</span><span class="l">Stamina</span></div><div class="sb__stat"><span class="v">5</span><span class="l">Stability</span></div><div class="sb__stat"><span class="v">5</span><span class="l">Free Strike</span></div></div><div class="sb__meta"><div class="sb__field sb__field--meta"><span class="sb__field-l">Immunity</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Weakness</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Movement</span><span class="sb__field-v">Burrow</span></div></div><div class="sb__chars"><div class="sb__char"><span class="sb__char-box">M</span><span class="sb__char-v">+3</span><span class="sb__char-l">Might</span></div><div class="sb__char"><span class="sb__char-box">A</span><span class="sb__char-v">+1</span><span class="sb__char-l">Agility</span></div><div class="sb__char"><span class="sb__char-box">R</span><span class="sb__char-v">-5</span><span class="sb__char-l">Reason</span></div><div class="sb__char"><span class="sb__char-box">I</span><span class="sb__char-v">-5</span><span class="sb__char-l">Intuition</span></div><div class="sb__char"><span class="sb__char-box">P</span><span class="sb__char-v">-3</span><span class="sb__char-l">Presence</span></div></div><div class="sb__features"><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Earthwalk</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div><p class="sb__feat-body"><a class="sb-term" href="../../../Browse/movement/difficult-terrain/">Difficult terrain</a> composed of earth and stone doesn't cost the source extra movement.</p></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Tunneler</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div><p class="sb__feat-body">When the source burrows, they create a <a class="sb-term" href="../../../Browse/rule/character/size/">size</a> 2 tunnel.</p></article><article class="sc-ability sb__feat" data-action="passive" data-kind="passive"><div class="sb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="sb__feat-icon"><span class="sb__feat-glyph">*</span></span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Earth Harness</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div><p class="sb__feat-body">A creature that has the <a class="sb-term" href="../../../Browse/feature/ability/elementalist/level-3/earth-accepts-me/">Earth Accepts Me</a> ability can use it as a free action to meld into the source.</p></article><article class="sc-ability sb__feat" data-action="main" data-kind="ability"><div class="sb__feat-head"><header class="sc-head"><div class="sc-head__stack"><span class="sb__feat-icon"><span class="sb__feat-glyph">l</span></span><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Boulder Bash</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header></div><div class="sb__ku"><div class="sb__field sb__field--kw"><span class="sb__field-l">Keywords</span><span class="sb__field-v"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></span></div><div class="sb__field sb__field--usage"><span class="sb__field-l">Action</span><span class="sb__field-v">Signature</span></div></div><div class="sb__dt"><div class="sb__field sb__field--dist"><span class="sb__field-l">Distance</span><span class="sb__field-v">Melee 2 or ranged 10</span></div><div class="sb__field sb__field--tgt"><span class="sb__field-l">Target</span><span class="sb__field-v">One creature or object</span></div></div><div class="sc-ability__pr"><div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll</span><span class="chars">+ 3</span></div><div class="sc-ability__pr-rows"><div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 damage; <a class="sb-term" href="../../../Browse/movement/forced-movement/">push</a> 3</span></div><div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 damage; <a class="sb-term" href="../../../Browse/movement/forced-movement/">push</a> 4</span></div><div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">12 damage; <a class="sb-term" href="../../../Browse/movement/forced-movement/">push</a> 5</span></div></div></div></article></div></article></div>
 </address>
 
-#### 11-Essence Ability {data-scc="mcdm.heroes.v1/feature.elementalist.level-8/11-essence-ability"}
+#### 11-Essence Ability {data-scc="mcdm.heroes.v1/feature.elementalist.level-8/11-essence-ability" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
@@ -6507,11 +6505,11 @@ You have the following ability.
 </section>
 </address>
 
-### 9th-Level Features
+### 9th-Level Features {data-search-exclude=""}
 
 As a 9th-level [elementalist](../../Browse/class/elementalist.md), you gain the following features.
 
-#### Grand Wyrding {data-scc="mcdm.heroes.v1/feature.elementalist.level-9/grand-wyrding"}
+#### Grand Wyrding {data-scc="mcdm.heroes.v1/feature.elementalist.level-9/grand-wyrding" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -6524,7 +6522,7 @@ As a 9th-level [elementalist](../../Browse/class/elementalist.md), you gain the 
 </section>
 </address>
 
-#### New 11-Essence Ability {data-scc="mcdm.heroes.v1/feature.elementalist.level-9/new-11-essence-ability"}
+#### New 11-Essence Ability {data-scc="mcdm.heroes.v1/feature.elementalist.level-9/new-11-essence-ability" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
@@ -6610,11 +6608,11 @@ As a 9th-level [elementalist](../../Browse/class/elementalist.md), you gain the 
 </section>
 </address>
 
-### 10th-Level Features
+### 10th-Level Features {data-search-exclude=""}
 
 As a 10th-level [elementalist](../../Browse/class/elementalist.md), you gain the following features.
 
-#### Breath {data-scc="mcdm.heroes.v1/feature.elementalist.level-10/breath"}
+#### Breath {data-scc="mcdm.heroes.v1/feature.elementalist.level-10/breath" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -6627,7 +6625,7 @@ As a 10th-level [elementalist](../../Browse/class/elementalist.md), you gain the
 </section>
 </address>
 
-#### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.elementalist.level-10/characteristic-increase"}
+#### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.elementalist.level-10/characteristic-increase" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -6639,7 +6637,7 @@ As a 10th-level [elementalist](../../Browse/class/elementalist.md), you gain the
 </section>
 </address>
 
-#### Essential Being {data-scc="mcdm.heroes.v1/feature.elementalist.level-10/essential-being"}
+#### Essential Being {data-scc="mcdm.heroes.v1/feature.elementalist.level-10/essential-being" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -6651,7 +6649,7 @@ As a 10th-level [elementalist](../../Browse/class/elementalist.md), you gain the
 </section>
 </address>
 
-#### One {data-scc="mcdm.heroes.v1/feature.elementalist.level-10/one"}
+#### One {data-scc="mcdm.heroes.v1/feature.elementalist.level-10/one" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="5">
@@ -6700,7 +6698,7 @@ As a 10th-level [elementalist](../../Browse/class/elementalist.md), you gain the
 </section>
 </address>
 
-#### Perk {data-scc="mcdm.heroes.v1/feature.elementalist.level-10/perk"}
+#### Perk {data-scc="mcdm.heroes.v1/feature.elementalist.level-10/perk" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -6712,7 +6710,7 @@ As a 10th-level [elementalist](../../Browse/class/elementalist.md), you gain the
 </section>
 </address>
 
-#### Skill {data-scc="mcdm.heroes.v1/feature.elementalist.level-10/skill"}
+#### Skill {data-scc="mcdm.heroes.v1/feature.elementalist.level-10/skill" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -6724,7 +6722,7 @@ As a 10th-level [elementalist](../../Browse/class/elementalist.md), you gain the
 </section>
 </address>
 
-## Fury {data-scc="mcdm.heroes.v1/class/fury"}
+## Fury {data-scc="mcdm.heroes.v1/class/fury" data-search-exclude=""}
 
 You do not temper the heat of battle within you. You unleash it! Your experience in the wild taught you the secrets of predators, and now, like the raptor, the [panther](../../Browse/kit/panther.md), the wolf, you channel [unfettered](../../Browse/feature/fury/level-5/unfettered.md) anger into martial prowess. Primordial Chaos is your ally. Let others use finesse to clean up the wreckage left in your wake.
 
@@ -6734,7 +6732,7 @@ You do not temper the heat of battle within you. You unleash it! Your experience
 >
 > **Khorva**
 
-### Basics
+### Basics {data-search-exclude=""}
 
 **Starting [Characteristics](../../Browse/rule/character/characteristic.md):** You start with a [Might](../../Browse/rule/character/might.md) of 2 and an [Agility](../../Browse/rule/character/agility.md) of 2, and you can choose one of the following arrays for your other [characteristic](../../Browse/rule/character/characteristic.md) scores:
 
@@ -6756,7 +6754,7 @@ You do not temper the heat of battle within you. You unleash it! Your experience
 
 **Skills:** You gain the [Nature](../../Browse/skill/lore/nature.md) skill (see Skills in Chapter 9: [Tests](tests.md)). Then choose any two skills from the [exploration](../../Browse/skill/exploration/index.md) or [intrigue](../../Browse/skill/intrigue/index.md) skill groups. (*Quick Build:* Alertness, Jump, Nature.)
 
-###### Fury Advancement Table
+###### Fury Advancement Table {data-search-exclude=""}
 
 | Level | Features                                                                                                                        | Abilities                 | Aspect Abilities |
 |-------|---------------------------------------------------------------------------------------------------------------------------------|---------------------------|------------------|
@@ -6771,11 +6769,11 @@ You do not temper the heat of battle within you. You unleash it! Your experience
 | 9th   | [Harbinger of the Primordial Chaos](../../Browse/feature/fury/level-9/harbinger-of-the-primordial-chaos.md), [Aspect Ability](../../Browse/feature/fury/level-9/9th-level-aspect-ability.md)                                                                               | Signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
 | 10th  | [Chaos Incarnate](../../Browse/feature/fury/level-10/chaos-incarnate.md), [Characteristic Increase](../../Browse/feature/fury/level-10/characteristic-increase.md), [Growing Ferocity Improvement](../../Browse/feature/fury/level-10/growing-ferocity-improvement.md), [Perk](../../Browse/feature/fury/level-10/perk.md), [Primordial Ferocity](../../Browse/feature/fury/level-10/primordial-ferocity.md), [Primordial Power](../../Browse/feature/fury/level-10/primordial-power.md), [Skill](../../Browse/feature/fury/level-10/skill.md)      | Signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
 
-### 1st-Level Features
+### 1st-Level Features {data-search-exclude=""}
 
 As a 1st-level [fury](../../Browse/class/fury.md), you gain the following features.
 
-#### Primordial Aspect {data-scc="mcdm.heroes.v1/feature.fury.level-1/primordial-aspect"}
+#### Primordial Aspect {data-scc="mcdm.heroes.v1/feature.fury.level-1/primordial-aspect" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -6789,7 +6787,7 @@ As a 1st-level [fury](../../Browse/class/fury.md), you gain the following featur
 </section>
 </address>
 
-#### Ferocity {data-scc="mcdm.heroes.v1/feature.fury.level-1/ferocity"}
+#### Ferocity {data-scc="mcdm.heroes.v1/feature.fury.level-1/ferocity" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="2">
@@ -6819,7 +6817,7 @@ As a 1st-level [fury](../../Browse/class/fury.md), you gain the following featur
 </section>
 </address>
 
-#### Growing Ferocity {data-scc="mcdm.heroes.v1/feature.fury.level-1/growing-ferocity"}
+#### Growing Ferocity {data-scc="mcdm.heroes.v1/feature.fury.level-1/growing-ferocity" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="2">
@@ -6846,7 +6844,7 @@ As a 1st-level [fury](../../Browse/class/fury.md), you gain the following featur
 </section>
 </address>
 
-#### 1st-Level Aspect Features {data-scc="mcdm.heroes.v1/feature.fury.level-1/1st-level-aspect-features"}
+#### 1st-Level Aspect Features {data-scc="mcdm.heroes.v1/feature.fury.level-1/1st-level-aspect-features" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="6">
@@ -6898,7 +6896,7 @@ As a 1st-level [fury](../../Browse/class/fury.md), you gain the following featur
 </section>
 </address>
 
-#### Aspect Triggered Action {data-scc="mcdm.heroes.v1/feature.fury.level-1/aspect-triggered-action"}
+#### Aspect Triggered Action {data-scc="mcdm.heroes.v1/feature.fury.level-1/aspect-triggered-action" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="4">
@@ -6970,7 +6968,7 @@ As a 1st-level [fury](../../Browse/class/fury.md), you gain the following featur
 </section>
 </address>
 
-#### Mighty Leaps {data-scc="mcdm.heroes.v1/feature.fury.level-1/mighty-leaps"}
+#### Mighty Leaps {data-scc="mcdm.heroes.v1/feature.fury.level-1/mighty-leaps" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -6982,7 +6980,7 @@ As a 1st-level [fury](../../Browse/class/fury.md), you gain the following featur
 </section>
 </address>
 
-#### Fury Abilities {data-scc="mcdm.heroes.v1/feature.fury.level-1/fury-abilities"}
+#### Fury Abilities {data-scc="mcdm.heroes.v1/feature.fury.level-1/fury-abilities" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="2">
@@ -7256,11 +7254,11 @@ As a 1st-level [fury](../../Browse/class/fury.md), you gain the following featur
 </section>
 </address>
 
-### 2nd-Level Features
+### 2nd-Level Features {data-search-exclude=""}
 
 As a 2nd-level [fury](../../Browse/class/fury.md), you gain the following features.
 
-#### Perk {data-scc="mcdm.heroes.v1/feature.fury.level-2/perk"}
+#### Perk {data-scc="mcdm.heroes.v1/feature.fury.level-2/perk" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -7272,7 +7270,7 @@ As a 2nd-level [fury](../../Browse/class/fury.md), you gain the following featur
 </section>
 </address>
 
-#### 2nd-Level Aspect Feature {data-scc="mcdm.heroes.v1/feature.fury.level-2/2nd-level-aspect-feature"}
+#### 2nd-Level Aspect Feature {data-scc="mcdm.heroes.v1/feature.fury.level-2/2nd-level-aspect-feature" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="4">
@@ -7310,7 +7308,7 @@ As a 2nd-level [fury](../../Browse/class/fury.md), you gain the following featur
 </section>
 </address>
 
-#### 2nd-Level Aspect Ability {data-scc="mcdm.heroes.v1/feature.fury.level-2/2nd-level-aspect-ability"}
+#### 2nd-Level Aspect Ability {data-scc="mcdm.heroes.v1/feature.fury.level-2/2nd-level-aspect-ability" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="3">
@@ -7462,11 +7460,11 @@ As a 2nd-level [fury](../../Browse/class/fury.md), you gain the following featur
 </section>
 </address>
 
-### 3rd-Level Features
+### 3rd-Level Features {data-search-exclude=""}
 
 As a 3rd-level [fury](../../Browse/class/fury.md), you gain the following features.
 
-#### 3rd-Level Aspect Feature {data-scc="mcdm.heroes.v1/feature.fury.level-3/3rd-level-aspect-feature"}
+#### 3rd-Level Aspect Feature {data-scc="mcdm.heroes.v1/feature.fury.level-3/3rd-level-aspect-feature" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="4">
@@ -7506,7 +7504,7 @@ As a 3rd-level [fury](../../Browse/class/fury.md), you gain the following featur
 </section>
 </address>
 
-#### 7-Ferocity Ability {data-scc="mcdm.heroes.v1/feature.fury.level-3/7-ferocity-ability"}
+#### 7-Ferocity Ability {data-scc="mcdm.heroes.v1/feature.fury.level-3/7-ferocity-ability" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
@@ -7572,11 +7570,11 @@ As a 3rd-level [fury](../../Browse/class/fury.md), you gain the following featur
 </section>
 </address>
 
-### 4th-Level Features
+### 4th-Level Features {data-search-exclude=""}
 
 As a 4th-level [fury](../../Browse/class/fury.md), you gain the following features.
 
-#### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.fury.level-4/characteristic-increase"}
+#### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.fury.level-4/characteristic-increase" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -7588,7 +7586,7 @@ As a 4th-level [fury](../../Browse/class/fury.md), you gain the following featur
 </section>
 </address>
 
-#### Damaging Ferocity {data-scc="mcdm.heroes.v1/feature.fury.level-4/damaging-ferocity"}
+#### Damaging Ferocity {data-scc="mcdm.heroes.v1/feature.fury.level-4/damaging-ferocity" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -7600,7 +7598,7 @@ As a 4th-level [fury](../../Browse/class/fury.md), you gain the following featur
 </section>
 </address>
 
-#### Growing Ferocity Improvement {data-scc="mcdm.heroes.v1/feature.fury.level-4/growing-ferocity-improvement"}
+#### Growing Ferocity Improvement {data-scc="mcdm.heroes.v1/feature.fury.level-4/growing-ferocity-improvement" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -7612,7 +7610,7 @@ As a 4th-level [fury](../../Browse/class/fury.md), you gain the following featur
 </section>
 </address>
 
-#### Perk {data-scc="mcdm.heroes.v1/feature.fury.level-4/perk"}
+#### Perk {data-scc="mcdm.heroes.v1/feature.fury.level-4/perk" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -7624,7 +7622,7 @@ As a 4th-level [fury](../../Browse/class/fury.md), you gain the following featur
 </section>
 </address>
 
-#### Primordial Attunement {data-scc="mcdm.heroes.v1/feature.fury.level-4/primordial-attunement"}
+#### Primordial Attunement {data-scc="mcdm.heroes.v1/feature.fury.level-4/primordial-attunement" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -7636,7 +7634,7 @@ As a 4th-level [fury](../../Browse/class/fury.md), you gain the following featur
 </section>
 </address>
 
-#### Primordial Strike {data-scc="mcdm.heroes.v1/feature.fury.level-4/primordial-strike"}
+#### Primordial Strike {data-scc="mcdm.heroes.v1/feature.fury.level-4/primordial-strike" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -7648,7 +7646,7 @@ As a 4th-level [fury](../../Browse/class/fury.md), you gain the following featur
 </section>
 </address>
 
-#### Skill {data-scc="mcdm.heroes.v1/feature.fury.level-4/skill"}
+#### Skill {data-scc="mcdm.heroes.v1/feature.fury.level-4/skill" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -7660,11 +7658,11 @@ As a 4th-level [fury](../../Browse/class/fury.md), you gain the following featur
 </section>
 </address>
 
-### 5th-Level Features
+### 5th-Level Features {data-search-exclude=""}
 
 As a 5th-level [fury](../../Browse/class/fury.md), you gain the following features.
 
-#### 5th-Level Aspect Feature {data-scc="mcdm.heroes.v1/feature.fury.level-5/5th-level-aspect-feature"}
+#### 5th-Level Aspect Feature {data-scc="mcdm.heroes.v1/feature.fury.level-5/5th-level-aspect-feature" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="4">
@@ -7702,7 +7700,7 @@ As a 5th-level [fury](../../Browse/class/fury.md), you gain the following featur
 </section>
 </address>
 
-#### 9-Ferocity Ability {data-scc="mcdm.heroes.v1/feature.fury.level-5/9-ferocity-ability"}
+#### 9-Ferocity Ability {data-scc="mcdm.heroes.v1/feature.fury.level-5/9-ferocity-ability" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
@@ -7804,11 +7802,11 @@ As a 5th-level [fury](../../Browse/class/fury.md), you gain the following featur
 </section>
 </address>
 
-### 6th-Level Features
+### 6th-Level Features {data-search-exclude=""}
 
 As a 6th-level [fury](../../Browse/class/fury.md), you gain the following features.
 
-#### Marauder of the Primordial Chaos {data-scc="mcdm.heroes.v1/feature.fury.level-6/marauder-of-the-primordial-chaos" data-subclass="stormwight"}
+#### Marauder of the Primordial Chaos {data-scc="mcdm.heroes.v1/feature.fury.level-6/marauder-of-the-primordial-chaos" data-subclass="stormwight" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -7821,7 +7819,7 @@ As a 6th-level [fury](../../Browse/class/fury.md), you gain the following featur
 </section>
 </address>
 
-#### Primordial Portal {data-scc="mcdm.heroes.v1/feature.fury.level-6/primordial-portal"}
+#### Primordial Portal {data-scc="mcdm.heroes.v1/feature.fury.level-6/primordial-portal" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -7834,7 +7832,7 @@ As a 6th-level [fury](../../Browse/class/fury.md), you gain the following featur
 </section>
 </address>
 
-#### Perk {data-scc="mcdm.heroes.v1/feature.fury.level-6/perk"}
+#### Perk {data-scc="mcdm.heroes.v1/feature.fury.level-6/perk" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -7846,7 +7844,7 @@ As a 6th-level [fury](../../Browse/class/fury.md), you gain the following featur
 </section>
 </address>
 
-#### 6th-Level Aspect Ability {data-scc="mcdm.heroes.v1/feature.fury.level-6/6th-level-aspect-ability"}
+#### 6th-Level Aspect Ability {data-scc="mcdm.heroes.v1/feature.fury.level-6/6th-level-aspect-ability" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="3">
@@ -8006,11 +8004,11 @@ As a 6th-level [fury](../../Browse/class/fury.md), you gain the following featur
 </section>
 </address>
 
-### 7th-Level Features
+### 7th-Level Features {data-search-exclude=""}
 
 As a 7th-level [fury](../../Browse/class/fury.md), you gain the following features.
 
-#### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.fury.level-7/characteristic-increase"}
+#### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.fury.level-7/characteristic-increase" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -8022,7 +8020,7 @@ As a 7th-level [fury](../../Browse/class/fury.md), you gain the following featur
 </section>
 </address>
 
-#### Elemental Form {data-scc="mcdm.heroes.v1/feature.fury.level-7/elemental-form"}
+#### Elemental Form {data-scc="mcdm.heroes.v1/feature.fury.level-7/elemental-form" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -8035,7 +8033,7 @@ As a 7th-level [fury](../../Browse/class/fury.md), you gain the following featur
 </section>
 </address>
 
-#### Greater Ferocity {data-scc="mcdm.heroes.v1/feature.fury.level-7/greater-ferocity"}
+#### Greater Ferocity {data-scc="mcdm.heroes.v1/feature.fury.level-7/greater-ferocity" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -8047,7 +8045,7 @@ As a 7th-level [fury](../../Browse/class/fury.md), you gain the following featur
 </section>
 </address>
 
-#### Growing Ferocity Improvement {data-scc="mcdm.heroes.v1/feature.fury.level-7/growing-ferocity-improvement"}
+#### Growing Ferocity Improvement {data-scc="mcdm.heroes.v1/feature.fury.level-7/growing-ferocity-improvement" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -8059,7 +8057,7 @@ As a 7th-level [fury](../../Browse/class/fury.md), you gain the following featur
 </section>
 </address>
 
-#### Skill {data-scc="mcdm.heroes.v1/feature.fury.level-7/skill"}
+#### Skill {data-scc="mcdm.heroes.v1/feature.fury.level-7/skill" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -8071,11 +8069,11 @@ As a 7th-level [fury](../../Browse/class/fury.md), you gain the following featur
 </section>
 </address>
 
-### 8th-Level Features
+### 8th-Level Features {data-search-exclude=""}
 
 As an 8th-level [fury](../../Browse/class/fury.md), you gain the following features.
 
-#### Perk {data-scc="mcdm.heroes.v1/feature.fury.level-8/perk"}
+#### Perk {data-scc="mcdm.heroes.v1/feature.fury.level-8/perk" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -8087,7 +8085,7 @@ As an 8th-level [fury](../../Browse/class/fury.md), you gain the following featu
 </section>
 </address>
 
-#### 8th-Level Aspect Feature {data-scc="mcdm.heroes.v1/feature.fury.level-8/8th-level-aspect-feature"}
+#### 8th-Level Aspect Feature {data-scc="mcdm.heroes.v1/feature.fury.level-8/8th-level-aspect-feature" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="4">
@@ -8125,7 +8123,7 @@ As an 8th-level [fury](../../Browse/class/fury.md), you gain the following featu
 </section>
 </address>
 
-#### 11-Ferocity Ability {data-scc="mcdm.heroes.v1/feature.fury.level-8/11-ferocity-ability"}
+#### 11-Ferocity Ability {data-scc="mcdm.heroes.v1/feature.fury.level-8/11-ferocity-ability" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
@@ -8207,11 +8205,11 @@ As an 8th-level [fury](../../Browse/class/fury.md), you gain the following featu
 </section>
 </address>
 
-### 9th-Level Features
+### 9th-Level Features {data-search-exclude=""}
 
 As a 9th-level [fury](../../Browse/class/fury.md), you gain the following features.
 
-#### Harbinger of the Primordial Chaos {data-scc="mcdm.heroes.v1/feature.fury.level-9/harbinger-of-the-primordial-chaos"}
+#### Harbinger of the Primordial Chaos {data-scc="mcdm.heroes.v1/feature.fury.level-9/harbinger-of-the-primordial-chaos" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -8223,7 +8221,7 @@ As a 9th-level [fury](../../Browse/class/fury.md), you gain the following featur
 </section>
 </address>
 
-#### 9th-Level Aspect Ability {data-scc="mcdm.heroes.v1/feature.fury.level-9/9th-level-aspect-ability"}
+#### 9th-Level Aspect Ability {data-scc="mcdm.heroes.v1/feature.fury.level-9/9th-level-aspect-ability" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="3">
@@ -8383,11 +8381,11 @@ As a 9th-level [fury](../../Browse/class/fury.md), you gain the following featur
 </section>
 </address>
 
-### 10th-Level Features
+### 10th-Level Features {data-search-exclude=""}
 
 As a 10th-level [fury](../../Browse/class/fury.md), you gain the following features.
 
-#### Chaos Incarnate {data-scc="mcdm.heroes.v1/feature.fury.level-10/chaos-incarnate"}
+#### Chaos Incarnate {data-scc="mcdm.heroes.v1/feature.fury.level-10/chaos-incarnate" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -8401,7 +8399,7 @@ As a 10th-level [fury](../../Browse/class/fury.md), you gain the following featu
 </section>
 </address>
 
-#### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.fury.level-10/characteristic-increase"}
+#### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.fury.level-10/characteristic-increase" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -8413,7 +8411,7 @@ As a 10th-level [fury](../../Browse/class/fury.md), you gain the following featu
 </section>
 </address>
 
-#### Growing Ferocity Improvement {data-scc="mcdm.heroes.v1/feature.fury.level-10/growing-ferocity-improvement"}
+#### Growing Ferocity Improvement {data-scc="mcdm.heroes.v1/feature.fury.level-10/growing-ferocity-improvement" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -8425,7 +8423,7 @@ As a 10th-level [fury](../../Browse/class/fury.md), you gain the following featu
 </section>
 </address>
 
-#### Perk {data-scc="mcdm.heroes.v1/feature.fury.level-10/perk"}
+#### Perk {data-scc="mcdm.heroes.v1/feature.fury.level-10/perk" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -8437,7 +8435,7 @@ As a 10th-level [fury](../../Browse/class/fury.md), you gain the following featu
 </section>
 </address>
 
-#### Primordial Ferocity {data-scc="mcdm.heroes.v1/feature.fury.level-10/primordial-ferocity"}
+#### Primordial Ferocity {data-scc="mcdm.heroes.v1/feature.fury.level-10/primordial-ferocity" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -8449,7 +8447,7 @@ As a 10th-level [fury](../../Browse/class/fury.md), you gain the following featu
 </section>
 </address>
 
-#### Primordial Power {data-scc="mcdm.heroes.v1/feature.fury.level-10/primordial-power"}
+#### Primordial Power {data-scc="mcdm.heroes.v1/feature.fury.level-10/primordial-power" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -8464,7 +8462,7 @@ As a 10th-level [fury](../../Browse/class/fury.md), you gain the following featu
 </section>
 </address>
 
-#### Skill {data-scc="mcdm.heroes.v1/feature.fury.level-10/skill"}
+#### Skill {data-scc="mcdm.heroes.v1/feature.fury.level-10/skill" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -8476,11 +8474,11 @@ As a 10th-level [fury](../../Browse/class/fury.md), you gain the following featu
 </section>
 </address>
 
-### Stormwight Kits
+### Stormwight Kits {data-search-exclude=""}
 
 The stormwight [primordial aspect](../../Browse/feature/fury/level-1/primordial-aspect.md) lets you channel your ferocity into the form of an animal and grants you knowledge of one stormwight kit of your choice. You can master additional [stormwight kits](../../Browse/feature/fury/stormwight-kits/kit-features.md) through play, changing them out during a [respite](../../Browse/rule/resource/respite.md) as with any other kit (see Chapter 6: [Kits](kits.md)).
 
-#### Kit Features {data-scc="mcdm.heroes.v1/feature.fury.stormwight-kits/kit-features"}
+#### Kit Features {data-scc="mcdm.heroes.v1/feature.fury.stormwight-kits/kit-features" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="7">
@@ -8552,11 +8550,11 @@ The stormwight [primordial aspect](../../Browse/feature/fury/level-1/primordial-
 </section>
 </address>
 
-#### Boren {data-scc="mcdm.heroes.v1/kit/boren"}
+#### Boren {data-scc="mcdm.heroes.v1/kit/boren" data-search-exclude=""}
 
 With this stormwight kit, you channel your [primordial ferocity](../../Browse/feature/fury/level-10/primordial-ferocity.md) into the form of a bear, becoming large, durable, and imposing. [Boren](../../Browse/kit/boren.md) are tied to the craggy, rocky north, and this aspect is associated with the blizzard's bitter cold.
 
-##### Aspect Benefits {data-scc="mcdm.heroes.v1/feature.fury.boren/aspect-benefits"}
+##### Aspect Benefits {data-scc="mcdm.heroes.v1/feature.fury.boren/aspect-benefits" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -8568,7 +8566,7 @@ With this stormwight kit, you channel your [primordial ferocity](../../Browse/fe
 </section>
 </address>
 
-##### Animal Form: Bear {data-scc="mcdm.heroes.v1/feature.fury.boren/animal-form-bear"}
+##### Animal Form: Bear {data-scc="mcdm.heroes.v1/feature.fury.boren/animal-form-bear" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -8580,7 +8578,7 @@ With this stormwight kit, you channel your [primordial ferocity](../../Browse/fe
 </section>
 </address>
 
-##### Hybrid Form: Bear {data-scc="mcdm.heroes.v1/feature.fury.boren/hybrid-form-bear"}
+##### Hybrid Form: Bear {data-scc="mcdm.heroes.v1/feature.fury.boren/hybrid-form-bear" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -8592,7 +8590,7 @@ With this stormwight kit, you channel your [primordial ferocity](../../Browse/fe
 </section>
 </address>
 
-##### Primordial Storm: Blizzard {data-scc="mcdm.heroes.v1/feature.fury.boren/primordial-storm-blizzard"}
+##### Primordial Storm: Blizzard {data-scc="mcdm.heroes.v1/feature.fury.boren/primordial-storm-blizzard" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -8604,7 +8602,7 @@ With this stormwight kit, you channel your [primordial ferocity](../../Browse/fe
 </section>
 </address>
 
-##### Kit Bonuses {data-scc="mcdm.heroes.v1/feature.fury.boren/kit-bonuses"}
+##### Kit Bonuses {data-scc="mcdm.heroes.v1/feature.fury.boren/kit-bonuses" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait">
@@ -8616,9 +8614,9 @@ With this stormwight kit, you channel your [primordial ferocity](../../Browse/fe
 </section>
 </address>
 
-##### Signature Ability
+##### Signature Ability {data-search-exclude=""}
 
-###### Bear Claws {data-scc="mcdm.heroes.v1/feature.ability.boren/bear-claws"}
+###### Bear Claws {data-scc="mcdm.heroes.v1/feature.ability.boren/bear-claws" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <article class="sc-ability sc-fil" data-action="main" data-conditions="grabbed">
@@ -8640,7 +8638,7 @@ With this stormwight kit, you channel your [primordial ferocity](../../Browse/fe
 </article>
 </address>
 
-##### Growing Ferocity {data-scc="mcdm.heroes.v1/feature.fury.boren/growing-ferocity"}
+##### Growing Ferocity {data-scc="mcdm.heroes.v1/feature.fury.boren/growing-ferocity" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="1">
@@ -8660,11 +8658,11 @@ With this stormwight kit, you channel your [primordial ferocity](../../Browse/fe
 </section>
 </address>
 
-#### Corven {data-scc="mcdm.heroes.v1/kit/corven"}
+#### Corven {data-scc="mcdm.heroes.v1/kit/corven" data-search-exclude=""}
 
 With this stormwight kit, you channel your [primordial ferocity](../../Browse/feature/fury/level-10/primordial-ferocity.md) into the form of a crow, becoming stealthy and quick. [Corven](../../Browse/kit/corven.md) are tied to the mountain passes and the hot winds that flow through them. This aspect is associated with the warm and fast-rising anabatic wind.
 
-##### Aspect Benefits {data-scc="mcdm.heroes.v1/feature.fury.corven/aspect-benefits"}
+##### Aspect Benefits {data-scc="mcdm.heroes.v1/feature.fury.corven/aspect-benefits" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -8676,7 +8674,7 @@ With this stormwight kit, you channel your [primordial ferocity](../../Browse/fe
 </section>
 </address>
 
-##### Animal Form: Crow {data-scc="mcdm.heroes.v1/feature.fury.corven/animal-form-crow"}
+##### Animal Form: Crow {data-scc="mcdm.heroes.v1/feature.fury.corven/animal-form-crow" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -8688,7 +8686,7 @@ With this stormwight kit, you channel your [primordial ferocity](../../Browse/fe
 </section>
 </address>
 
-##### Hybrid Form: Crow {data-scc="mcdm.heroes.v1/feature.fury.corven/hybrid-form-crow"}
+##### Hybrid Form: Crow {data-scc="mcdm.heroes.v1/feature.fury.corven/hybrid-form-crow" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -8700,7 +8698,7 @@ With this stormwight kit, you channel your [primordial ferocity](../../Browse/fe
 </section>
 </address>
 
-##### Primordial Storm: Anabatic Wind {data-scc="mcdm.heroes.v1/feature.fury.corven/primordial-storm-anabatic-wind"}
+##### Primordial Storm: Anabatic Wind {data-scc="mcdm.heroes.v1/feature.fury.corven/primordial-storm-anabatic-wind" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -8712,7 +8710,7 @@ With this stormwight kit, you channel your [primordial ferocity](../../Browse/fe
 </section>
 </address>
 
-##### Kit Bonuses {data-scc="mcdm.heroes.v1/feature.fury.corven/kit-bonuses"}
+##### Kit Bonuses {data-scc="mcdm.heroes.v1/feature.fury.corven/kit-bonuses" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait">
@@ -8724,9 +8722,9 @@ With this stormwight kit, you channel your [primordial ferocity](../../Browse/fe
 </section>
 </address>
 
-##### Signature Ability
+##### Signature Ability {data-search-exclude=""}
 
-###### Wing Buffet {data-scc="mcdm.heroes.v1/feature.ability.corven/wing-buffet"}
+###### Wing Buffet {data-scc="mcdm.heroes.v1/feature.ability.corven/wing-buffet" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <article class="sc-ability sc-fil" data-action="main">
@@ -8752,7 +8750,7 @@ With this stormwight kit, you channel your [primordial ferocity](../../Browse/fe
 </article>
 </address>
 
-##### Growing Ferocity {data-scc="mcdm.heroes.v1/feature.fury.corven/growing-ferocity"}
+##### Growing Ferocity {data-scc="mcdm.heroes.v1/feature.fury.corven/growing-ferocity" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="1">
@@ -8772,11 +8770,11 @@ With this stormwight kit, you channel your [primordial ferocity](../../Browse/fe
 </section>
 </address>
 
-#### Raden {data-scc="mcdm.heroes.v1/kit/raden"}
+#### Raden {data-scc="mcdm.heroes.v1/kit/raden" data-search-exclude=""}
 
 With this stormwight kit, you channel your [primordial ferocity](../../Browse/feature/fury/level-10/primordial-ferocity.md) into the form of a rat, becoming mobile and elusive. [Raden](../../Browse/kit/raden.md) are associated with the wild nature of the rat, before cities became their habitat. This aspect is associated with the rat flood—a surge of corrupted water that draws forth hordes of rats.
 
-##### Aspect Benefits {data-scc="mcdm.heroes.v1/feature.fury.raden/aspect-benefits"}
+##### Aspect Benefits {data-scc="mcdm.heroes.v1/feature.fury.raden/aspect-benefits" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -8788,7 +8786,7 @@ With this stormwight kit, you channel your [primordial ferocity](../../Browse/fe
 </section>
 </address>
 
-##### Animal Form: Rat {data-scc="mcdm.heroes.v1/feature.fury.raden/animal-form-rat"}
+##### Animal Form: Rat {data-scc="mcdm.heroes.v1/feature.fury.raden/animal-form-rat" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -8800,7 +8798,7 @@ With this stormwight kit, you channel your [primordial ferocity](../../Browse/fe
 </section>
 </address>
 
-##### Hybrid Form: Rat {data-scc="mcdm.heroes.v1/feature.fury.raden/hybrid-form-rat"}
+##### Hybrid Form: Rat {data-scc="mcdm.heroes.v1/feature.fury.raden/hybrid-form-rat" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -8812,7 +8810,7 @@ With this stormwight kit, you channel your [primordial ferocity](../../Browse/fe
 </section>
 </address>
 
-##### Primordial Storm: Rat Flood {data-scc="mcdm.heroes.v1/feature.fury.raden/primordial-storm-rat-flood"}
+##### Primordial Storm: Rat Flood {data-scc="mcdm.heroes.v1/feature.fury.raden/primordial-storm-rat-flood" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -8824,7 +8822,7 @@ With this stormwight kit, you channel your [primordial ferocity](../../Browse/fe
 </section>
 </address>
 
-##### Kit Bonuses {data-scc="mcdm.heroes.v1/feature.fury.raden/kit-bonuses"}
+##### Kit Bonuses {data-scc="mcdm.heroes.v1/feature.fury.raden/kit-bonuses" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait">
@@ -8836,9 +8834,9 @@ With this stormwight kit, you channel your [primordial ferocity](../../Browse/fe
 </section>
 </address>
 
-##### Signature Ability
+##### Signature Ability {data-search-exclude=""}
 
-###### Driving Pounce {data-scc="mcdm.heroes.v1/feature.ability.raden/driving-pounce"}
+###### Driving Pounce {data-scc="mcdm.heroes.v1/feature.ability.raden/driving-pounce" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <article class="sc-ability sc-fil" data-action="main">
@@ -8864,7 +8862,7 @@ With this stormwight kit, you channel your [primordial ferocity](../../Browse/fe
 </article>
 </address>
 
-##### Growing Ferocity {data-scc="mcdm.heroes.v1/feature.fury.raden/growing-ferocity"}
+##### Growing Ferocity {data-scc="mcdm.heroes.v1/feature.fury.raden/growing-ferocity" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="1">
@@ -8884,11 +8882,11 @@ With this stormwight kit, you channel your [primordial ferocity](../../Browse/fe
 </section>
 </address>
 
-#### Vuken {data-scc="mcdm.heroes.v1/kit/vuken"}
+#### Vuken {data-scc="mcdm.heroes.v1/kit/vuken" data-search-exclude=""}
 
 With this stormwight kit, you channel your [primordial ferocity](../../Browse/feature/fury/level-10/primordial-ferocity.md) into the form of a wolf, becoming a fleet-footed hunter. [Vuken](../../Browse/kit/vuken.md) are tied to forests and open steppes, and this aspect is associated with the thunderstorm.
 
-##### Aspect Benefits {data-scc="mcdm.heroes.v1/feature.fury.vuken/aspect-benefits"}
+##### Aspect Benefits {data-scc="mcdm.heroes.v1/feature.fury.vuken/aspect-benefits" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -8900,7 +8898,7 @@ With this stormwight kit, you channel your [primordial ferocity](../../Browse/fe
 </section>
 </address>
 
-##### Animal Form: Wolf {data-scc="mcdm.heroes.v1/feature.fury.vuken/animal-form-wolf"}
+##### Animal Form: Wolf {data-scc="mcdm.heroes.v1/feature.fury.vuken/animal-form-wolf" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -8912,7 +8910,7 @@ With this stormwight kit, you channel your [primordial ferocity](../../Browse/fe
 </section>
 </address>
 
-##### Hybrid Form: Wolf {data-scc="mcdm.heroes.v1/feature.fury.vuken/hybrid-form-wolf"}
+##### Hybrid Form: Wolf {data-scc="mcdm.heroes.v1/feature.fury.vuken/hybrid-form-wolf" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -8924,7 +8922,7 @@ With this stormwight kit, you channel your [primordial ferocity](../../Browse/fe
 </section>
 </address>
 
-##### Primordial Storm: Lightning Storm {data-scc="mcdm.heroes.v1/feature.fury.vuken/primordial-storm-lightning-storm"}
+##### Primordial Storm: Lightning Storm {data-scc="mcdm.heroes.v1/feature.fury.vuken/primordial-storm-lightning-storm" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -8936,7 +8934,7 @@ With this stormwight kit, you channel your [primordial ferocity](../../Browse/fe
 </section>
 </address>
 
-##### Kit Bonuses {data-scc="mcdm.heroes.v1/feature.fury.vuken/kit-bonuses"}
+##### Kit Bonuses {data-scc="mcdm.heroes.v1/feature.fury.vuken/kit-bonuses" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait">
@@ -8948,9 +8946,9 @@ With this stormwight kit, you channel your [primordial ferocity](../../Browse/fe
 </section>
 </address>
 
-##### Signature Ability
+##### Signature Ability {data-search-exclude=""}
 
-###### Unbalancing Attack {data-scc="mcdm.heroes.v1/feature.ability.vuken/unbalancing-attack"}
+###### Unbalancing Attack {data-scc="mcdm.heroes.v1/feature.ability.vuken/unbalancing-attack" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <article class="sc-ability sc-fil" data-action="main" data-conditions="prone">
@@ -8972,7 +8970,7 @@ With this stormwight kit, you channel your [primordial ferocity](../../Browse/fe
 </article>
 </address>
 
-##### Growing Ferocity {data-scc="mcdm.heroes.v1/feature.fury.vuken/growing-ferocity"}
+##### Growing Ferocity {data-scc="mcdm.heroes.v1/feature.fury.vuken/growing-ferocity" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="1">
@@ -8992,7 +8990,7 @@ With this stormwight kit, you channel your [primordial ferocity](../../Browse/fe
 </section>
 </address>
 
-## Null {data-scc="mcdm.heroes.v1/class/null"}
+## Null {data-scc="mcdm.heroes.v1/class/null" data-search-exclude=""}
 
 The mind is not separate from the body. Perfection of one requires perfection of the other. You strive for perfect discipline, perfect order, mastery over mind and body, becoming an unarmed psionic warrior who dampens and absorbs magic and psionics. You require no weapons, no tools. You suffice.
 
@@ -9002,7 +9000,7 @@ The mind is not separate from the body. Perfection of one requires perfection of
 >
 > **Ardashir**
 
-### Basics
+### Basics {data-search-exclude=""}
 
 **Starting [Characteristics](../../Browse/rule/character/characteristic.md):** You start with an [Agility](../../Browse/rule/character/agility.md) of 2 and an [Intuition](../../Browse/rule/character/intuition.md) of 2, and you can choose one of the following arrays for your other [characteristic](../../Browse/rule/character/characteristic.md) scores:
 
@@ -9024,7 +9022,7 @@ The mind is not separate from the body. Perfection of one requires perfection of
 
 **Skills:** You gain the [Psionics](../../Browse/skill/lore/psionics.md) skill (see Skills in Chapter 9: [Tests](tests.md)). Then choose any two skills from the [interpersonal](../../Browse/skill/interpersonal/index.md) or [lore](../../Browse/skill/lore/index.md) skill groups. (*Quick Build:* Psionics, [Read Person](../../Browse/skill/interpersonal/read-person.md), Timescape.)
 
-###### Null Advancement Table
+###### Null Advancement Table {data-search-exclude=""}
 
 | Level | Features                                                                                                                                            | Abilities                     | Tradition Abilities |
 |-------|-----------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|---------------------|
@@ -9039,11 +9037,11 @@ The mind is not separate from the body. Perfection of one requires perfection of
 | 9th   | [I Am the Weapon](../../Browse/feature/null/level-9/i-am-the-weapon.md), [Tradition Ability](../../Browse/feature/null/level-9/9th-level-tradition-ability.md)                                                                                                                  | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
 | 10th  | [Characteristic Increase](../../Browse/feature/null/level-10/characteristic-increase.md), [Discipline Mastery Improvement](../../Browse/feature/null/level-10/discipline-mastery-improvement.md), [Manifold Body](../../Browse/feature/null/level-10/manifold-body.md), [Manifold Resonance](../../Browse/feature/null/level-10/manifold-resonance.md), [Order](../../Browse/feature/null/level-10/order.md), [Perk](../../Browse/feature/null/level-10/perk.md), [Skill](../../Browse/feature/null/level-10/skill.md)                                      | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
 
-### 1st-Level Features
+### 1st-Level Features {data-search-exclude=""}
 
 As a 1st-level [null](../../Browse/class/null.md), you gain the following features.
 
-#### Null Tradition {data-scc="mcdm.heroes.v1/feature.null.level-1/null-tradition"}
+#### Null Tradition {data-scc="mcdm.heroes.v1/feature.null.level-1/null-tradition" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -9057,7 +9055,7 @@ As a 1st-level [null](../../Browse/class/null.md), you gain the following featur
 </section>
 </address>
 
-#### Discipline {data-scc="mcdm.heroes.v1/feature.null.level-1/discipline"}
+#### Discipline {data-scc="mcdm.heroes.v1/feature.null.level-1/discipline" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="2">
@@ -9086,7 +9084,7 @@ As a 1st-level [null](../../Browse/class/null.md), you gain the following featur
 </section>
 </address>
 
-#### Null Field {data-scc="mcdm.heroes.v1/feature.null.level-1/null-field"}
+#### Null Field {data-scc="mcdm.heroes.v1/feature.null.level-1/null-field" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="1" data-grant="the Null Field maneuver">
@@ -9113,7 +9111,7 @@ As a 1st-level [null](../../Browse/class/null.md), you gain the following featur
 </section>
 </address>
 
-#### Inertial Shield {data-scc="mcdm.heroes.v1/feature.null.level-1/inertial-shield"}
+#### Inertial Shield {data-scc="mcdm.heroes.v1/feature.null.level-1/inertial-shield" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="1" data-grant="the Inertial Shield triggered action">
@@ -9145,7 +9143,7 @@ As a 1st-level [null](../../Browse/class/null.md), you gain the following featur
 </section>
 </address>
 
-#### Discipline Mastery {data-scc="mcdm.heroes.v1/feature.null.level-1/discipline-mastery"}
+#### Discipline Mastery {data-scc="mcdm.heroes.v1/feature.null.level-1/discipline-mastery" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="3">
@@ -9205,7 +9203,7 @@ As a 1st-level [null](../../Browse/class/null.md), you gain the following featur
 </section>
 </address>
 
-#### Null Speed {data-scc="mcdm.heroes.v1/feature.null.level-1/null-speed"}
+#### Null Speed {data-scc="mcdm.heroes.v1/feature.null.level-1/null-speed" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -9217,7 +9215,7 @@ As a 1st-level [null](../../Browse/class/null.md), you gain the following featur
 </section>
 </address>
 
-#### Psionic Augmentation {data-scc="mcdm.heroes.v1/feature.null.level-1/psionic-augmentation"}
+#### Psionic Augmentation {data-scc="mcdm.heroes.v1/feature.null.level-1/psionic-augmentation" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="3">
@@ -9249,7 +9247,7 @@ As a 1st-level [null](../../Browse/class/null.md), you gain the following featur
 </section>
 </address>
 
-#### Psionic Martial Arts {data-scc="mcdm.heroes.v1/feature.null.level-1/psionic-martial-arts"}
+#### Psionic Martial Arts {data-scc="mcdm.heroes.v1/feature.null.level-1/psionic-martial-arts" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -9261,7 +9259,7 @@ As a 1st-level [null](../../Browse/class/null.md), you gain the following featur
 </section>
 </address>
 
-#### Null Abilities {data-scc="mcdm.heroes.v1/feature.null.level-1/null-abilities"}
+#### Null Abilities {data-scc="mcdm.heroes.v1/feature.null.level-1/null-abilities" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="2">
@@ -9611,11 +9609,11 @@ As a 1st-level [null](../../Browse/class/null.md), you gain the following featur
 </section>
 </address>
 
-### 2nd-Level Features
+### 2nd-Level Features {data-search-exclude=""}
 
 As a 2nd-level [null](../../Browse/class/null.md), you gain the following features.
 
-#### Perk {data-scc="mcdm.heroes.v1/feature.null.level-2/perk"}
+#### Perk {data-scc="mcdm.heroes.v1/feature.null.level-2/perk" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -9627,7 +9625,7 @@ As a 2nd-level [null](../../Browse/class/null.md), you gain the following featur
 </section>
 </address>
 
-#### 2nd-Level Tradition Feature {data-scc="mcdm.heroes.v1/feature.null.level-2/2nd-level-tradition-feature"}
+#### 2nd-Level Tradition Feature {data-scc="mcdm.heroes.v1/feature.null.level-2/2nd-level-tradition-feature" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="4">
@@ -9666,7 +9664,7 @@ As a 2nd-level [null](../../Browse/class/null.md), you gain the following featur
 </section>
 </address>
 
-#### 2nd-Level Tradition Ability {data-scc="mcdm.heroes.v1/feature.null.level-2/2nd-level-tradition-ability"}
+#### 2nd-Level Tradition Ability {data-scc="mcdm.heroes.v1/feature.null.level-2/2nd-level-tradition-ability" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="3">
@@ -9802,11 +9800,11 @@ As a 2nd-level [null](../../Browse/class/null.md), you gain the following featur
 </section>
 </address>
 
-### 3rd-Level Features
+### 3rd-Level Features {data-search-exclude=""}
 
 As a 3rd-level [null](../../Browse/class/null.md), you gain the following features.
 
-#### Psionic Leap {data-scc="mcdm.heroes.v1/feature.null.level-3/psionic-leap"}
+#### Psionic Leap {data-scc="mcdm.heroes.v1/feature.null.level-3/psionic-leap" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -9818,7 +9816,7 @@ As a 3rd-level [null](../../Browse/class/null.md), you gain the following featur
 </section>
 </address>
 
-#### Reorder {data-scc="mcdm.heroes.v1/feature.null.level-3/reorder"}
+#### Reorder {data-scc="mcdm.heroes.v1/feature.null.level-3/reorder" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -9830,7 +9828,7 @@ As a 3rd-level [null](../../Browse/class/null.md), you gain the following featur
 </section>
 </address>
 
-#### 7-Discipline Ability {data-scc="mcdm.heroes.v1/feature.null.level-3/7-discipline-ability"}
+#### 7-Discipline Ability {data-scc="mcdm.heroes.v1/feature.null.level-3/7-discipline-ability" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
@@ -9896,11 +9894,11 @@ As a 3rd-level [null](../../Browse/class/null.md), you gain the following featur
 </section>
 </address>
 
-### 4th-Level Features
+### 4th-Level Features {data-search-exclude=""}
 
 As a 4th-level [null](../../Browse/class/null.md), you gain the following features.
 
-#### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.null.level-4/characteristic-increase"}
+#### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.null.level-4/characteristic-increase" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -9912,7 +9910,7 @@ As a 4th-level [null](../../Browse/class/null.md), you gain the following featur
 </section>
 </address>
 
-#### Discipline Mastery Improvement {data-scc="mcdm.heroes.v1/feature.null.level-4/discipline-mastery-improvement"}
+#### Discipline Mastery Improvement {data-scc="mcdm.heroes.v1/feature.null.level-4/discipline-mastery-improvement" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -9924,7 +9922,7 @@ As a 4th-level [null](../../Browse/class/null.md), you gain the following featur
 </section>
 </address>
 
-#### Enhanced Null Field {data-scc="mcdm.heroes.v1/feature.null.level-4/enhanced-null-field"}
+#### Enhanced Null Field {data-scc="mcdm.heroes.v1/feature.null.level-4/enhanced-null-field" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -9936,7 +9934,7 @@ As a 4th-level [null](../../Browse/class/null.md), you gain the following featur
 </section>
 </address>
 
-#### Perk {data-scc="mcdm.heroes.v1/feature.null.level-4/perk"}
+#### Perk {data-scc="mcdm.heroes.v1/feature.null.level-4/perk" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -9948,7 +9946,7 @@ As a 4th-level [null](../../Browse/class/null.md), you gain the following featur
 </section>
 </address>
 
-#### Regenerative Field {data-scc="mcdm.heroes.v1/feature.null.level-4/regenerative-field"}
+#### Regenerative Field {data-scc="mcdm.heroes.v1/feature.null.level-4/regenerative-field" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -9960,7 +9958,7 @@ As a 4th-level [null](../../Browse/class/null.md), you gain the following featur
 </section>
 </address>
 
-#### Skill {data-scc="mcdm.heroes.v1/feature.null.level-4/skill"}
+#### Skill {data-scc="mcdm.heroes.v1/feature.null.level-4/skill" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -9972,11 +9970,11 @@ As a 4th-level [null](../../Browse/class/null.md), you gain the following featur
 </section>
 </address>
 
-### 5th-Level Features
+### 5th-Level Features {data-search-exclude=""}
 
 As a 5th-level [null](../../Browse/class/null.md), you gain the following features.
 
-#### 5th-Level Tradition Feature {data-scc="mcdm.heroes.v1/feature.null.level-5/5th-level-tradition-feature"}
+#### 5th-Level Tradition Feature {data-scc="mcdm.heroes.v1/feature.null.level-5/5th-level-tradition-feature" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="4">
@@ -10014,7 +10012,7 @@ As a 5th-level [null](../../Browse/class/null.md), you gain the following featur
 </section>
 </address>
 
-#### 9-Discipline Ability {data-scc="mcdm.heroes.v1/feature.null.level-5/9-discipline-ability"}
+#### 9-Discipline Ability {data-scc="mcdm.heroes.v1/feature.null.level-5/9-discipline-ability" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
@@ -10100,11 +10098,11 @@ As a 5th-level [null](../../Browse/class/null.md), you gain the following featur
 </section>
 </address>
 
-### 6th-Level Features
+### 6th-Level Features {data-search-exclude=""}
 
 As a 6th-level [null](../../Browse/class/null.md), you gain the following features.
 
-#### Elemental Absorption {data-scc="mcdm.heroes.v1/feature.null.level-6/elemental-absorption"}
+#### Elemental Absorption {data-scc="mcdm.heroes.v1/feature.null.level-6/elemental-absorption" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -10116,7 +10114,7 @@ As a 6th-level [null](../../Browse/class/null.md), you gain the following featur
 </section>
 </address>
 
-#### Elemental Buffer {data-scc="mcdm.heroes.v1/feature.null.level-6/elemental-buffer"}
+#### Elemental Buffer {data-scc="mcdm.heroes.v1/feature.null.level-6/elemental-buffer" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -10128,7 +10126,7 @@ As a 6th-level [null](../../Browse/class/null.md), you gain the following featur
 </section>
 </address>
 
-#### Perk {data-scc="mcdm.heroes.v1/feature.null.level-6/perk"}
+#### Perk {data-scc="mcdm.heroes.v1/feature.null.level-6/perk" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -10140,7 +10138,7 @@ As a 6th-level [null](../../Browse/class/null.md), you gain the following featur
 </section>
 </address>
 
-#### 6th-Level Tradition Ability {data-scc="mcdm.heroes.v1/feature.null.level-6/6th-level-tradition-ability"}
+#### 6th-Level Tradition Ability {data-scc="mcdm.heroes.v1/feature.null.level-6/6th-level-tradition-ability" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="3">
@@ -10280,11 +10278,11 @@ As a 6th-level [null](../../Browse/class/null.md), you gain the following featur
 </section>
 </address>
 
-### 7th-Level Features
+### 7th-Level Features {data-search-exclude=""}
 
 As a 7th-level [null](../../Browse/class/null.md), you gain the following features.
 
-#### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.null.level-7/characteristic-increase"}
+#### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.null.level-7/characteristic-increase" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -10296,7 +10294,7 @@ As a 7th-level [null](../../Browse/class/null.md), you gain the following featur
 </section>
 </address>
 
-#### Discipline Mastery Improvement {data-scc="mcdm.heroes.v1/feature.null.level-7/discipline-mastery-improvement"}
+#### Discipline Mastery Improvement {data-scc="mcdm.heroes.v1/feature.null.level-7/discipline-mastery-improvement" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -10308,7 +10306,7 @@ As a 7th-level [null](../../Browse/class/null.md), you gain the following featur
 </section>
 </address>
 
-#### Psi Boost {data-scc="mcdm.heroes.v1/feature.null.level-7/psi-boost"}
+#### Psi Boost {data-scc="mcdm.heroes.v1/feature.null.level-7/psi-boost" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="7">
@@ -10364,7 +10362,7 @@ As a 7th-level [null](../../Browse/class/null.md), you gain the following featur
 </section>
 </address>
 
-#### Improved Body {data-scc="mcdm.heroes.v1/feature.null.level-7/improved-body"}
+#### Improved Body {data-scc="mcdm.heroes.v1/feature.null.level-7/improved-body" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -10376,7 +10374,7 @@ As a 7th-level [null](../../Browse/class/null.md), you gain the following featur
 </section>
 </address>
 
-#### Skill {data-scc="mcdm.heroes.v1/feature.null.level-7/skill"}
+#### Skill {data-scc="mcdm.heroes.v1/feature.null.level-7/skill" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -10388,11 +10386,11 @@ As a 7th-level [null](../../Browse/class/null.md), you gain the following featur
 </section>
 </address>
 
-### 8th-Level Features
+### 8th-Level Features {data-search-exclude=""}
 
 As an 8th-level [null](../../Browse/class/null.md), you gain the following features.
 
-#### Perk {data-scc="mcdm.heroes.v1/feature.null.level-8/perk"}
+#### Perk {data-scc="mcdm.heroes.v1/feature.null.level-8/perk" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -10404,7 +10402,7 @@ As an 8th-level [null](../../Browse/class/null.md), you gain the following featu
 </section>
 </address>
 
-#### 8th-Level Tradition Feature {data-scc="mcdm.heroes.v1/feature.null.level-8/8th-level-tradition-feature"}
+#### 8th-Level Tradition Feature {data-scc="mcdm.heroes.v1/feature.null.level-8/8th-level-tradition-feature" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="4">
@@ -10442,7 +10440,7 @@ As an 8th-level [null](../../Browse/class/null.md), you gain the following featu
 </section>
 </address>
 
-#### 11-Discipline Ability {data-scc="mcdm.heroes.v1/feature.null.level-8/11-discipline-ability"}
+#### 11-Discipline Ability {data-scc="mcdm.heroes.v1/feature.null.level-8/11-discipline-ability" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
@@ -10532,11 +10530,11 @@ As an 8th-level [null](../../Browse/class/null.md), you gain the following featu
 </section>
 </address>
 
-### 9th-Level Features
+### 9th-Level Features {data-search-exclude=""}
 
 As a 9th-level [null](../../Browse/class/null.md), you gain the following features.
 
-#### I Am the Weapon {data-scc="mcdm.heroes.v1/feature.null.level-9/i-am-the-weapon"}
+#### I Am the Weapon {data-scc="mcdm.heroes.v1/feature.null.level-9/i-am-the-weapon" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -10548,7 +10546,7 @@ As a 9th-level [null](../../Browse/class/null.md), you gain the following featur
 </section>
 </address>
 
-#### 9th-Level Tradition Ability {data-scc="mcdm.heroes.v1/feature.null.level-9/9th-level-tradition-ability"}
+#### 9th-Level Tradition Ability {data-scc="mcdm.heroes.v1/feature.null.level-9/9th-level-tradition-ability" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="3">
@@ -10708,11 +10706,11 @@ As a 9th-level [null](../../Browse/class/null.md), you gain the following featur
 </section>
 </address>
 
-### 10th-Level Features
+### 10th-Level Features {data-search-exclude=""}
 
 As a 10th-level [null](../../Browse/class/null.md), you gain the following features.
 
-#### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.null.level-10/characteristic-increase"}
+#### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.null.level-10/characteristic-increase" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -10724,7 +10722,7 @@ As a 10th-level [null](../../Browse/class/null.md), you gain the following featu
 </section>
 </address>
 
-#### Discipline Mastery Improvement {data-scc="mcdm.heroes.v1/feature.null.level-10/discipline-mastery-improvement"}
+#### Discipline Mastery Improvement {data-scc="mcdm.heroes.v1/feature.null.level-10/discipline-mastery-improvement" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -10736,7 +10734,7 @@ As a 10th-level [null](../../Browse/class/null.md), you gain the following featu
 </section>
 </address>
 
-#### Manifold Body {data-scc="mcdm.heroes.v1/feature.null.level-10/manifold-body"}
+#### Manifold Body {data-scc="mcdm.heroes.v1/feature.null.level-10/manifold-body" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -10748,7 +10746,7 @@ As a 10th-level [null](../../Browse/class/null.md), you gain the following featu
 </section>
 </address>
 
-#### Manifold Resonance {data-scc="mcdm.heroes.v1/feature.null.level-10/manifold-resonance"}
+#### Manifold Resonance {data-scc="mcdm.heroes.v1/feature.null.level-10/manifold-resonance" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -10761,7 +10759,7 @@ As a 10th-level [null](../../Browse/class/null.md), you gain the following featu
 </section>
 </address>
 
-#### Order {data-scc="mcdm.heroes.v1/feature.null.level-10/order"}
+#### Order {data-scc="mcdm.heroes.v1/feature.null.level-10/order" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -10775,7 +10773,7 @@ As a 10th-level [null](../../Browse/class/null.md), you gain the following featu
 </section>
 </address>
 
-#### Perk {data-scc="mcdm.heroes.v1/feature.null.level-10/perk"}
+#### Perk {data-scc="mcdm.heroes.v1/feature.null.level-10/perk" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -10787,7 +10785,7 @@ As a 10th-level [null](../../Browse/class/null.md), you gain the following featu
 </section>
 </address>
 
-#### Skill {data-scc="mcdm.heroes.v1/feature.null.level-10/skill"}
+#### Skill {data-scc="mcdm.heroes.v1/feature.null.level-10/skill" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -10799,7 +10797,7 @@ As a 10th-level [null](../../Browse/class/null.md), you gain the following featu
 </section>
 </address>
 
-## Shadow {data-scc="mcdm.heroes.v1/class/shadow"}
+## Shadow {data-scc="mcdm.heroes.v1/class/shadow" data-search-exclude=""}
 
 Subtlety is your art, the tip of the blade your brush. You studied at a secret college, specializing in alchemy, illusion, or [shadow](../../Browse/class/shadow.md)-magics. Your training and knowledge place you among the elite ranks of assassins, spies, and commandos. But more potent than any weapon or sorcery is your insight into your enemies' weaknesses.
 
@@ -10809,7 +10807,7 @@ Subtlety is your art, the tip of the blade your brush. You studied at a secret c
 >
 > **Motto of the College of Black Ash**
 
-### Basics
+### Basics {data-search-exclude=""}
 
 **Starting [Characteristics](../../Browse/rule/character/characteristic.md):** You start with an [Agility](../../Browse/rule/character/agility.md) of 2, and you can choose one of the following arrays for your other [characteristic](../../Browse/rule/character/characteristic.md) scores:
 
@@ -10832,7 +10830,7 @@ Subtlety is your art, the tip of the blade your brush. You studied at a secret c
 
 **Skills:** You gain the Hide and Sneak skills (see Skills in Chapter 9: [Tests](tests.md)). Then choose any five skills from Criminal Underworld or the skills of the [exploration](../../Browse/skill/exploration/index.md), [interpersonal](../../Browse/skill/interpersonal/index.md), or [intrigue](../../Browse/skill/intrigue/index.md) skill groups. (*Quick Build:*  Criminal Underworld, Hide, Lie, Pick Lock, Pick Pocket, Sabotage, Sneak.)
 
-###### Shadow Advancement Table
+###### Shadow Advancement Table {data-search-exclude=""}
 
 | Level | Features                                                                                                            | Abilities                 | College Abilities |
 |-------|---------------------------------------------------------------------------------------------------------------------|---------------------------|-------------------|
@@ -10847,11 +10845,11 @@ Subtlety is your art, the tip of the blade your brush. You studied at a secret c
 | 9th   | [Gloom Squad](../../Browse/feature/shadow/level-9/gloom-squad.md), [College Ability](../../Browse/feature/shadow/level-9/9th-level-college-ability.md)                                                                                        | Signature, 3, 5, 7, 9, 11 | 5, 9, 11          |
 | 10th  | [Characteristic Increase](../../Browse/feature/shadow/level-10/characteristic-increase.md), [Death Pool](../../Browse/feature/shadow/level-10/death-pool.md), [Perk](../../Browse/feature/shadow/level-10/perk.md), [Skill](../../Browse/feature/shadow/level-10/skill.md), [Careful Observation Improvement](../../Browse/feature/shadow/level-10/careful-observation-improvement.md), [Improved Umbral Form](../../Browse/feature/shadow/level-10/improved-umbral-form.md), [Subterfuge](../../Browse/feature/shadow/level-10/subterfuge.md) | Signature, 3, 5, 7, 9, 11 | 5, 9, 11          |
 
-### 1st-Level Features
+### 1st-Level Features {data-search-exclude=""}
 
 As a 1st-level [shadow](../../Browse/class/shadow.md), you gain the following features.
 
-#### Shadow College {data-scc="mcdm.heroes.v1/feature.shadow.level-1/shadow-college"}
+#### Shadow College {data-scc="mcdm.heroes.v1/feature.shadow.level-1/shadow-college" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -10866,7 +10864,7 @@ As a 1st-level [shadow](../../Browse/class/shadow.md), you gain the following fe
 </section>
 </address>
 
-#### Insight {data-scc="mcdm.heroes.v1/feature.shadow.level-1/insight"}
+#### Insight {data-scc="mcdm.heroes.v1/feature.shadow.level-1/insight" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="2">
@@ -10896,7 +10894,7 @@ As a 1st-level [shadow](../../Browse/class/shadow.md), you gain the following fe
 </section>
 </address>
 
-#### 1st-Level College Features {data-scc="mcdm.heroes.v1/feature.shadow.level-1/1st-level-college-features"}
+#### 1st-Level College Features {data-scc="mcdm.heroes.v1/feature.shadow.level-1/1st-level-college-features" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="5">
@@ -10987,7 +10985,7 @@ As a 1st-level [shadow](../../Browse/class/shadow.md), you gain the following fe
 </section>
 </address>
 
-#### College Triggered Action {data-scc="mcdm.heroes.v1/feature.shadow.level-1/college-triggered-action"}
+#### College Triggered Action {data-scc="mcdm.heroes.v1/feature.shadow.level-1/college-triggered-action" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="4">
@@ -11059,7 +11057,7 @@ As a 1st-level [shadow](../../Browse/class/shadow.md), you gain the following fe
 </section>
 </address>
 
-#### Hesitation Is Weakness {data-scc="mcdm.heroes.v1/feature.shadow.level-1/hesitation-is-weakness"}
+#### Hesitation Is Weakness {data-scc="mcdm.heroes.v1/feature.shadow.level-1/hesitation-is-weakness" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="1" data-grant="the Hesitation Is Weakness free triggered action">
@@ -11089,7 +11087,7 @@ As a 1st-level [shadow](../../Browse/class/shadow.md), you gain the following fe
 </section>
 </address>
 
-#### Kit {data-scc="mcdm.heroes.v1/feature.shadow.level-1/kit"}
+#### Kit {data-scc="mcdm.heroes.v1/feature.shadow.level-1/kit" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -11101,7 +11099,7 @@ As a 1st-level [shadow](../../Browse/class/shadow.md), you gain the following fe
 </section>
 </address>
 
-#### Shadow Abilities {data-scc="mcdm.heroes.v1/feature.shadow.level-1/shadow-abilities"}
+#### Shadow Abilities {data-scc="mcdm.heroes.v1/feature.shadow.level-1/shadow-abilities" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="3">
@@ -11373,11 +11371,11 @@ As a 1st-level [shadow](../../Browse/class/shadow.md), you gain the following fe
 </section>
 </address>
 
-### 2nd-Level Features
+### 2nd-Level Features {data-search-exclude=""}
 
 As a 2nd-level [shadow](../../Browse/class/shadow.md), you gain the following features.
 
-#### Perk {data-scc="mcdm.heroes.v1/feature.shadow.level-2/perk"}
+#### Perk {data-scc="mcdm.heroes.v1/feature.shadow.level-2/perk" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -11389,7 +11387,7 @@ As a 2nd-level [shadow](../../Browse/class/shadow.md), you gain the following fe
 </section>
 </address>
 
-#### 2nd-Level College Feature {data-scc="mcdm.heroes.v1/feature.shadow.level-2/2nd-level-college-feature"}
+#### 2nd-Level College Feature {data-scc="mcdm.heroes.v1/feature.shadow.level-2/2nd-level-college-feature" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="4">
@@ -11428,7 +11426,7 @@ As a 2nd-level [shadow](../../Browse/class/shadow.md), you gain the following fe
 </section>
 </address>
 
-#### 2nd-Level College Ability {data-scc="mcdm.heroes.v1/feature.shadow.level-2/2nd-level-college-ability"}
+#### 2nd-Level College Ability {data-scc="mcdm.heroes.v1/feature.shadow.level-2/2nd-level-college-ability" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="3">
@@ -11579,11 +11577,11 @@ As a 2nd-level [shadow](../../Browse/class/shadow.md), you gain the following fe
 </section>
 </address>
 
-### 3rd-Level Features
+### 3rd-Level Features {data-search-exclude=""}
 
 As a 3rd-level [shadow](../../Browse/class/shadow.md), you gain the following features.
 
-#### Careful Observation {data-scc="mcdm.heroes.v1/feature.shadow.level-3/careful-observation"}
+#### Careful Observation {data-scc="mcdm.heroes.v1/feature.shadow.level-3/careful-observation" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="1" data-grant="the Careful Observation maneuver">
@@ -11610,7 +11608,7 @@ As a 3rd-level [shadow](../../Browse/class/shadow.md), you gain the following fe
 </section>
 </address>
 
-#### 7-Insight Ability {data-scc="mcdm.heroes.v1/feature.shadow.level-3/7-insight-ability"}
+#### 7-Insight Ability {data-scc="mcdm.heroes.v1/feature.shadow.level-3/7-insight-ability" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
@@ -11691,11 +11689,11 @@ As a 3rd-level [shadow](../../Browse/class/shadow.md), you gain the following fe
 </section>
 </address>
 
-### 4th-Level Features
+### 4th-Level Features {data-search-exclude=""}
 
 As a 4th-level [shadow](../../Browse/class/shadow.md), you gain the following features.
 
-#### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.shadow.level-4/characteristic-increase"}
+#### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.shadow.level-4/characteristic-increase" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -11707,7 +11705,7 @@ As a 4th-level [shadow](../../Browse/class/shadow.md), you gain the following fe
 </section>
 </address>
 
-#### Keep It Down {data-scc="mcdm.heroes.v1/feature.shadow.level-4/keep-it-down"}
+#### Keep It Down {data-scc="mcdm.heroes.v1/feature.shadow.level-4/keep-it-down" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -11719,7 +11717,7 @@ As a 4th-level [shadow](../../Browse/class/shadow.md), you gain the following fe
 </section>
 </address>
 
-#### Night Watch {data-scc="mcdm.heroes.v1/feature.shadow.level-4/night-watch"}
+#### Night Watch {data-scc="mcdm.heroes.v1/feature.shadow.level-4/night-watch" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="1" data-grant="the Night Watch triggered action">
@@ -11751,7 +11749,7 @@ As a 4th-level [shadow](../../Browse/class/shadow.md), you gain the following fe
 </section>
 </address>
 
-#### Perk {data-scc="mcdm.heroes.v1/feature.shadow.level-4/perk"}
+#### Perk {data-scc="mcdm.heroes.v1/feature.shadow.level-4/perk" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -11763,7 +11761,7 @@ As a 4th-level [shadow](../../Browse/class/shadow.md), you gain the following fe
 </section>
 </address>
 
-#### Skill {data-scc="mcdm.heroes.v1/feature.shadow.level-4/skill"}
+#### Skill {data-scc="mcdm.heroes.v1/feature.shadow.level-4/skill" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -11775,7 +11773,7 @@ As a 4th-level [shadow](../../Browse/class/shadow.md), you gain the following fe
 </section>
 </address>
 
-#### Surge of Insight {data-scc="mcdm.heroes.v1/feature.shadow.level-4/surge-of-insight"}
+#### Surge of Insight {data-scc="mcdm.heroes.v1/feature.shadow.level-4/surge-of-insight" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -11787,11 +11785,11 @@ As a 4th-level [shadow](../../Browse/class/shadow.md), you gain the following fe
 </section>
 </address>
 
-### 5th-Level Features
+### 5th-Level Features {data-search-exclude=""}
 
 As a 5th-level [shadow](../../Browse/class/shadow.md), you gain the following features.
 
-#### 5th-Level College Feature {data-scc="mcdm.heroes.v1/feature.shadow.level-5/5th-level-college-feature"}
+#### 5th-Level College Feature {data-scc="mcdm.heroes.v1/feature.shadow.level-5/5th-level-college-feature" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="4">
@@ -11832,7 +11830,7 @@ As a 5th-level [shadow](../../Browse/class/shadow.md), you gain the following fe
 </section>
 </address>
 
-#### 9-Insight Ability {data-scc="mcdm.heroes.v1/feature.shadow.level-5/9-insight-ability"}
+#### 9-Insight Ability {data-scc="mcdm.heroes.v1/feature.shadow.level-5/9-insight-ability" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
@@ -11922,11 +11920,11 @@ As a 5th-level [shadow](../../Browse/class/shadow.md), you gain the following fe
 </section>
 </address>
 
-### 6th-Level Features
+### 6th-Level Features {data-search-exclude=""}
 
 As a 6th-level [shadow](../../Browse/class/shadow.md), you gain the following features.
 
-#### Perk {data-scc="mcdm.heroes.v1/feature.shadow.level-6/perk"}
+#### Perk {data-scc="mcdm.heroes.v1/feature.shadow.level-6/perk" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -11938,7 +11936,7 @@ As a 6th-level [shadow](../../Browse/class/shadow.md), you gain the following fe
 </section>
 </address>
 
-#### Umbral Form {data-scc="mcdm.heroes.v1/feature.shadow.level-6/umbral-form"}
+#### Umbral Form {data-scc="mcdm.heroes.v1/feature.shadow.level-6/umbral-form" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait">
@@ -11951,7 +11949,7 @@ As a 6th-level [shadow](../../Browse/class/shadow.md), you gain the following fe
 </section>
 </address>
 
-#### 6th-Level College Ability {data-scc="mcdm.heroes.v1/feature.shadow.level-6/6th-level-college-ability"}
+#### 6th-Level College Ability {data-scc="mcdm.heroes.v1/feature.shadow.level-6/6th-level-college-ability" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="3">
@@ -12091,11 +12089,11 @@ As a 6th-level [shadow](../../Browse/class/shadow.md), you gain the following fe
 </section>
 </address>
 
-### 7th-Level Features
+### 7th-Level Features {data-search-exclude=""}
 
 As a 7th-level [shadow](../../Browse/class/shadow.md), you gain the following features.
 
-#### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.shadow.level-7/characteristic-increase"}
+#### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.shadow.level-7/characteristic-increase" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -12107,7 +12105,7 @@ As a 7th-level [shadow](../../Browse/class/shadow.md), you gain the following fe
 </section>
 </address>
 
-#### Keen Insight {data-scc="mcdm.heroes.v1/feature.shadow.level-7/keen-insight"}
+#### Keen Insight {data-scc="mcdm.heroes.v1/feature.shadow.level-7/keen-insight" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -12119,7 +12117,7 @@ As a 7th-level [shadow](../../Browse/class/shadow.md), you gain the following fe
 </section>
 </address>
 
-#### Skill {data-scc="mcdm.heroes.v1/feature.shadow.level-7/skill"}
+#### Skill {data-scc="mcdm.heroes.v1/feature.shadow.level-7/skill" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -12131,7 +12129,7 @@ As a 7th-level [shadow](../../Browse/class/shadow.md), you gain the following fe
 </section>
 </address>
 
-#### Careful Observation Improvement {data-scc="mcdm.heroes.v1/feature.shadow.level-7/careful-observation-improvement"}
+#### Careful Observation Improvement {data-scc="mcdm.heroes.v1/feature.shadow.level-7/careful-observation-improvement" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -12143,7 +12141,7 @@ As a 7th-level [shadow](../../Browse/class/shadow.md), you gain the following fe
 </section>
 </address>
 
-#### Ventriloquist {data-scc="mcdm.heroes.v1/feature.shadow.level-7/ventriloquist"}
+#### Ventriloquist {data-scc="mcdm.heroes.v1/feature.shadow.level-7/ventriloquist" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -12155,11 +12153,11 @@ As a 7th-level [shadow](../../Browse/class/shadow.md), you gain the following fe
 </section>
 </address>
 
-### 8th-Level Features
+### 8th-Level Features {data-search-exclude=""}
 
 As an 8th-level [shadow](../../Browse/class/shadow.md), you gain the following features.
 
-#### Perk {data-scc="mcdm.heroes.v1/feature.shadow.level-8/perk"}
+#### Perk {data-scc="mcdm.heroes.v1/feature.shadow.level-8/perk" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -12171,7 +12169,7 @@ As an 8th-level [shadow](../../Browse/class/shadow.md), you gain the following f
 </section>
 </address>
 
-#### 8th-Level College Feature {data-scc="mcdm.heroes.v1/feature.shadow.level-8/8th-level-college-feature"}
+#### 8th-Level College Feature {data-scc="mcdm.heroes.v1/feature.shadow.level-8/8th-level-college-feature" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="4">
@@ -12225,7 +12223,7 @@ As an 8th-level [shadow](../../Browse/class/shadow.md), you gain the following f
 </section>
 </address>
 
-#### 11-Insight Ability {data-scc="mcdm.heroes.v1/feature.shadow.level-8/11-insight-ability"}
+#### 11-Insight Ability {data-scc="mcdm.heroes.v1/feature.shadow.level-8/11-insight-ability" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
@@ -12307,11 +12305,11 @@ As an 8th-level [shadow](../../Browse/class/shadow.md), you gain the following f
 </section>
 </address>
 
-### 9th-Level Features
+### 9th-Level Features {data-search-exclude=""}
 
 As a 9th-level [shadow](../../Browse/class/shadow.md), you gain the following features.
 
-#### Gloom Squad {data-scc="mcdm.heroes.v1/feature.shadow.level-9/gloom-squad"}
+#### Gloom Squad {data-scc="mcdm.heroes.v1/feature.shadow.level-9/gloom-squad" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -12324,7 +12322,7 @@ As a 9th-level [shadow](../../Browse/class/shadow.md), you gain the following fe
 </section>
 </address>
 
-#### 9th-Level College Ability {data-scc="mcdm.heroes.v1/feature.shadow.level-9/9th-level-college-ability"}
+#### 9th-Level College Ability {data-scc="mcdm.heroes.v1/feature.shadow.level-9/9th-level-college-ability" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="3">
@@ -12480,11 +12478,11 @@ As a 9th-level [shadow](../../Browse/class/shadow.md), you gain the following fe
 </section>
 </address>
 
-### 10th-Level Features
+### 10th-Level Features {data-search-exclude=""}
 
 As a 10th-level [shadow](../../Browse/class/shadow.md), you gain the following features.
 
-#### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.shadow.level-10/characteristic-increase"}
+#### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.shadow.level-10/characteristic-increase" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -12496,7 +12494,7 @@ As a 10th-level [shadow](../../Browse/class/shadow.md), you gain the following f
 </section>
 </address>
 
-#### Death Pool {data-scc="mcdm.heroes.v1/feature.shadow.level-10/death-pool"}
+#### Death Pool {data-scc="mcdm.heroes.v1/feature.shadow.level-10/death-pool" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -12508,7 +12506,7 @@ As a 10th-level [shadow](../../Browse/class/shadow.md), you gain the following f
 </section>
 </address>
 
-#### Perk {data-scc="mcdm.heroes.v1/feature.shadow.level-10/perk"}
+#### Perk {data-scc="mcdm.heroes.v1/feature.shadow.level-10/perk" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -12520,7 +12518,7 @@ As a 10th-level [shadow](../../Browse/class/shadow.md), you gain the following f
 </section>
 </address>
 
-#### Skill {data-scc="mcdm.heroes.v1/feature.shadow.level-10/skill"}
+#### Skill {data-scc="mcdm.heroes.v1/feature.shadow.level-10/skill" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -12532,7 +12530,7 @@ As a 10th-level [shadow](../../Browse/class/shadow.md), you gain the following f
 </section>
 </address>
 
-#### Careful Observation Improvement {data-scc="mcdm.heroes.v1/feature.shadow.level-10/careful-observation-improvement"}
+#### Careful Observation Improvement {data-scc="mcdm.heroes.v1/feature.shadow.level-10/careful-observation-improvement" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -12544,7 +12542,7 @@ As a 10th-level [shadow](../../Browse/class/shadow.md), you gain the following f
 </section>
 </address>
 
-#### Improved Umbral Form {data-scc="mcdm.heroes.v1/feature.shadow.level-10/improved-umbral-form"}
+#### Improved Umbral Form {data-scc="mcdm.heroes.v1/feature.shadow.level-10/improved-umbral-form" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -12557,7 +12555,7 @@ As a 10th-level [shadow](../../Browse/class/shadow.md), you gain the following f
 </section>
 </address>
 
-#### Subterfuge {data-scc="mcdm.heroes.v1/feature.shadow.level-10/subterfuge"}
+#### Subterfuge {data-scc="mcdm.heroes.v1/feature.shadow.level-10/subterfuge" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -12571,7 +12569,7 @@ As a 10th-level [shadow](../../Browse/class/shadow.md), you gain the following f
 </section>
 </address>
 
-## Tactician {data-scc="mcdm.heroes.v1/class/tactician"}
+## Tactician {data-scc="mcdm.heroes.v1/class/tactician" data-search-exclude=""}
 
 Strategist. Defender. Leader. With weapon in hand, you lead allies into the maw of battle, barking out commands that inspire your fellow heroes to move faster and strike more precisely. All the while, you stand between your compatriots and death, taunting the [followers](../../Browse/rule/general/follower.md) of evil to best you if they can.
 
@@ -12581,7 +12579,7 @@ Strategist. Defender. Leader. With weapon in hand, you lead allies into the maw 
 >
 > **Sir John of Tor**
 
-### Basics
+### Basics {data-search-exclude=""}
 
 **Starting [Characteristics](../../Browse/rule/character/characteristic.md):** You start with a [Might](../../Browse/rule/character/might.md) of 2 and a [Reason](../../Browse/rule/character/reason.md) of 2, and you can choose one of the following arrays for your other [characteristic](../../Browse/rule/character/characteristic.md) scores:
 
@@ -12603,7 +12601,7 @@ Strategist. Defender. Leader. With weapon in hand, you lead allies into the maw 
 
 **Skills:** You gain the [Lead](../../Browse/skill/interpersonal/lead.md) skill (see Skills in Chapter 9: [Tests](tests.md)). Then choose any two skills from Alertness, Architecture, Blacksmithing, Brag, Culture, Empathize, Fletching, Mechanics, Monsters, Search, Strategy, or the skills of the [exploration skill group](../../Browse/skill/exploration/index.md). (*Quick Build:* Lead, Monsters, Strategy.)
 
-###### Tactician Advancement Table
+###### Tactician Advancement Table {data-search-exclude=""}
 
 | Level | Features                                                                                                                    | Abilities      | Doctrine Abilities |
 |-------|-----------------------------------------------------------------------------------------------------------------------------|----------------|--------------------|
@@ -12618,11 +12616,11 @@ Strategist. Defender. Leader. With weapon in hand, you lead allies into the maw 
 | 9th   | [Grandmaster of Arms](../../Browse/feature/tactician/level-9/grandmaster-of-arms.md), [Doctrine Ability](../../Browse/feature/tactician/level-9/9th-level-doctrine-ability.md)                                                                                       | 3, 5, 7, 9, 11 | 5, 9, 11           |
 | 10th  | [Characteristic Increase](../../Browse/feature/tactician/level-10/characteristic-increase.md), [Command](../../Browse/feature/tactician/level-10/command.md), [Perk](../../Browse/feature/tactician/level-10/perk.md), [Skill](../../Browse/feature/tactician/level-10/skill.md), [True Focus](../../Browse/feature/tactician/level-10/true-focus.md), [Warmaster](../../Browse/feature/tactician/level-10/warmaster.md)                                                        | 3, 5, 7, 9, 11 | 5, 9, 11           |
 
-### 1st-Level Features
+### 1st-Level Features {data-search-exclude=""}
 
 As a 1st-level [tactician](../../Browse/class/tactician.md), you gain the following features.
 
-#### Tactical Doctrine {data-scc="mcdm.heroes.v1/feature.tactician.level-1/tactical-doctrine"}
+#### Tactical Doctrine {data-scc="mcdm.heroes.v1/feature.tactician.level-1/tactical-doctrine" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -12636,7 +12634,7 @@ As a 1st-level [tactician](../../Browse/class/tactician.md), you gain the follow
 </section>
 </address>
 
-#### Focus {data-scc="mcdm.heroes.v1/feature.tactician.level-1/focus"}
+#### Focus {data-scc="mcdm.heroes.v1/feature.tactician.level-1/focus" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="2">
@@ -12666,7 +12664,7 @@ As a 1st-level [tactician](../../Browse/class/tactician.md), you gain the follow
 </section>
 </address>
 
-#### 1st-Level Doctrine Feature {data-scc="mcdm.heroes.v1/feature.tactician.level-1/1st-level-doctrine-feature"}
+#### 1st-Level Doctrine Feature {data-scc="mcdm.heroes.v1/feature.tactician.level-1/1st-level-doctrine-feature" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="4">
@@ -12722,7 +12720,7 @@ As a 1st-level [tactician](../../Browse/class/tactician.md), you gain the follow
 </section>
 </address>
 
-#### Doctrine Triggered Action {data-scc="mcdm.heroes.v1/feature.tactician.level-1/doctrine-triggered-action"}
+#### Doctrine Triggered Action {data-scc="mcdm.heroes.v1/feature.tactician.level-1/doctrine-triggered-action" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="4">
@@ -12796,7 +12794,7 @@ As a 1st-level [tactician](../../Browse/class/tactician.md), you gain the follow
 </section>
 </address>
 
-#### Field Arsenal {data-scc="mcdm.heroes.v1/feature.tactician.level-1/field-arsenal"}
+#### Field Arsenal {data-scc="mcdm.heroes.v1/feature.tactician.level-1/field-arsenal" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -12812,7 +12810,7 @@ As a 1st-level [tactician](../../Browse/class/tactician.md), you gain the follow
 </section>
 </address>
 
-#### Mark {data-scc="mcdm.heroes.v1/feature.tactician.level-1/mark"}
+#### Mark {data-scc="mcdm.heroes.v1/feature.tactician.level-1/mark" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="1" data-grant="the Mark maneuver">
@@ -12839,7 +12837,7 @@ As a 1st-level [tactician](../../Browse/class/tactician.md), you gain the follow
 </section>
 </address>
 
-#### Strike Now {data-scc="mcdm.heroes.v1/feature.tactician.level-1/strike-now"}
+#### Strike Now {data-scc="mcdm.heroes.v1/feature.tactician.level-1/strike-now" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="1" data-grant="the &#34;Strike Now!&#34; main action">
@@ -12867,7 +12865,7 @@ As a 1st-level [tactician](../../Browse/class/tactician.md), you gain the follow
 </section>
 </address>
 
-#### Tactician Abilities {data-scc="mcdm.heroes.v1/feature.tactician.level-1/tactician-abilities"}
+#### Tactician Abilities {data-scc="mcdm.heroes.v1/feature.tactician.level-1/tactician-abilities" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="2">
@@ -12965,7 +12963,7 @@ As a 1st-level [tactician](../../Browse/class/tactician.md), you gain the follow
 </section>
 </address>
 
-#### 5-Focus Ability {data-scc="mcdm.heroes.v1/feature.tactician.level-1/5-focus-ability"}
+#### 5-Focus Ability {data-scc="mcdm.heroes.v1/feature.tactician.level-1/5-focus-ability" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
@@ -13051,11 +13049,11 @@ As a 1st-level [tactician](../../Browse/class/tactician.md), you gain the follow
 </section>
 </address>
 
-### 2nd-Level Features
+### 2nd-Level Features {data-search-exclude=""}
 
 As a 2nd-level [tactician](../../Browse/class/tactician.md), you gain the following features.
 
-#### Perk {data-scc="mcdm.heroes.v1/feature.tactician.level-2/perk"}
+#### Perk {data-scc="mcdm.heroes.v1/feature.tactician.level-2/perk" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -13067,7 +13065,7 @@ As a 2nd-level [tactician](../../Browse/class/tactician.md), you gain the follow
 </section>
 </address>
 
-#### 2nd-Level Doctrine Feature {data-scc="mcdm.heroes.v1/feature.tactician.level-2/2nd-level-doctrine-feature"}
+#### 2nd-Level Doctrine Feature {data-scc="mcdm.heroes.v1/feature.tactician.level-2/2nd-level-doctrine-feature" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="4">
@@ -13106,7 +13104,7 @@ As a 2nd-level [tactician](../../Browse/class/tactician.md), you gain the follow
 </section>
 </address>
 
-#### 2nd-Level Doctrine Ability {data-scc="mcdm.heroes.v1/feature.tactician.level-2/2nd-level-doctrine-ability"}
+#### 2nd-Level Doctrine Ability {data-scc="mcdm.heroes.v1/feature.tactician.level-2/2nd-level-doctrine-ability" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="3">
@@ -13258,11 +13256,11 @@ As a 2nd-level [tactician](../../Browse/class/tactician.md), you gain the follow
 </section>
 </address>
 
-### 3rd-Level Features
+### 3rd-Level Features {data-search-exclude=""}
 
 As a 3rd-level [tactician](../../Browse/class/tactician.md), you gain the following features.
 
-#### Out of Position {data-scc="mcdm.heroes.v1/feature.tactician.level-3/out-of-position"}
+#### Out of Position {data-scc="mcdm.heroes.v1/feature.tactician.level-3/out-of-position" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -13274,7 +13272,7 @@ As a 3rd-level [tactician](../../Browse/class/tactician.md), you gain the follow
 </section>
 </address>
 
-#### 7-Focus Ability {data-scc="mcdm.heroes.v1/feature.tactician.level-3/7-focus-ability"}
+#### 7-Focus Ability {data-scc="mcdm.heroes.v1/feature.tactician.level-3/7-focus-ability" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
@@ -13336,11 +13334,11 @@ As a 3rd-level [tactician](../../Browse/class/tactician.md), you gain the follow
 </section>
 </address>
 
-### 4th-Level Features
+### 4th-Level Features {data-search-exclude=""}
 
 As a 4th-level [tactician](../../Browse/class/tactician.md), you gain the following features.
 
-#### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.tactician.level-4/characteristic-increase"}
+#### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.tactician.level-4/characteristic-increase" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -13352,7 +13350,7 @@ As a 4th-level [tactician](../../Browse/class/tactician.md), you gain the follow
 </section>
 </address>
 
-#### Focus on Their Weaknesses {data-scc="mcdm.heroes.v1/feature.tactician.level-4/focus-on-their-weaknesses"}
+#### Focus on Their Weaknesses {data-scc="mcdm.heroes.v1/feature.tactician.level-4/focus-on-their-weaknesses" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -13364,7 +13362,7 @@ As a 4th-level [tactician](../../Browse/class/tactician.md), you gain the follow
 </section>
 </address>
 
-#### Improved Field Arsenal {data-scc="mcdm.heroes.v1/feature.tactician.level-4/improved-field-arsenal"}
+#### Improved Field Arsenal {data-scc="mcdm.heroes.v1/feature.tactician.level-4/improved-field-arsenal" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -13376,7 +13374,7 @@ As a 4th-level [tactician](../../Browse/class/tactician.md), you gain the follow
 </section>
 </address>
 
-#### Perk {data-scc="mcdm.heroes.v1/feature.tactician.level-4/perk"}
+#### Perk {data-scc="mcdm.heroes.v1/feature.tactician.level-4/perk" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -13388,7 +13386,7 @@ As a 4th-level [tactician](../../Browse/class/tactician.md), you gain the follow
 </section>
 </address>
 
-#### Skill {data-scc="mcdm.heroes.v1/feature.tactician.level-4/skill"}
+#### Skill {data-scc="mcdm.heroes.v1/feature.tactician.level-4/skill" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -13400,11 +13398,11 @@ As a 4th-level [tactician](../../Browse/class/tactician.md), you gain the follow
 </section>
 </address>
 
-### 5th-Level Features
+### 5th-Level Features {data-search-exclude=""}
 
 As a 5th-level [tactician](../../Browse/class/tactician.md), you gain the following features.
 
-#### 5th-Level Doctrine Features {data-scc="mcdm.heroes.v1/feature.tactician.level-5/5th-level-doctrine-features"}
+#### 5th-Level Doctrine Features {data-scc="mcdm.heroes.v1/feature.tactician.level-5/5th-level-doctrine-features" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="7">
@@ -13460,7 +13458,7 @@ As a 5th-level [tactician](../../Browse/class/tactician.md), you gain the follow
 </section>
 </address>
 
-#### 9-Focus Ability {data-scc="mcdm.heroes.v1/feature.tactician.level-5/9-focus-ability"}
+#### 9-Focus Ability {data-scc="mcdm.heroes.v1/feature.tactician.level-5/9-focus-ability" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
@@ -13534,11 +13532,11 @@ As a 5th-level [tactician](../../Browse/class/tactician.md), you gain the follow
 </section>
 </address>
 
-### 6th-Level Features
+### 6th-Level Features {data-search-exclude=""}
 
 As a 6th-level [tactician](../../Browse/class/tactician.md), you gain the following features.
 
-#### Master of Arms {data-scc="mcdm.heroes.v1/feature.tactician.level-6/master-of-arms"}
+#### Master of Arms {data-scc="mcdm.heroes.v1/feature.tactician.level-6/master-of-arms" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -13550,7 +13548,7 @@ As a 6th-level [tactician](../../Browse/class/tactician.md), you gain the follow
 </section>
 </address>
 
-#### Perk {data-scc="mcdm.heroes.v1/feature.tactician.level-6/perk"}
+#### Perk {data-scc="mcdm.heroes.v1/feature.tactician.level-6/perk" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -13562,7 +13560,7 @@ As a 6th-level [tactician](../../Browse/class/tactician.md), you gain the follow
 </section>
 </address>
 
-#### 6th-Level Doctrine Ability {data-scc="mcdm.heroes.v1/feature.tactician.level-6/6th-level-doctrine-ability"}
+#### 6th-Level Doctrine Ability {data-scc="mcdm.heroes.v1/feature.tactician.level-6/6th-level-doctrine-ability" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="3">
@@ -13714,11 +13712,11 @@ As a 6th-level [tactician](../../Browse/class/tactician.md), you gain the follow
 </section>
 </address>
 
-### 7th-Level Features
+### 7th-Level Features {data-search-exclude=""}
 
 As a 7th-level [tactician](../../Browse/class/tactician.md), you gain the following features.
 
-#### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.tactician.level-7/characteristic-increase"}
+#### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.tactician.level-7/characteristic-increase" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -13730,7 +13728,7 @@ As a 7th-level [tactician](../../Browse/class/tactician.md), you gain the follow
 </section>
 </address>
 
-#### Heightened Focus {data-scc="mcdm.heroes.v1/feature.tactician.level-7/heightened-focus"}
+#### Heightened Focus {data-scc="mcdm.heroes.v1/feature.tactician.level-7/heightened-focus" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -13742,7 +13740,7 @@ As a 7th-level [tactician](../../Browse/class/tactician.md), you gain the follow
 </section>
 </address>
 
-#### Seize the Initiative {data-scc="mcdm.heroes.v1/feature.tactician.level-7/seize-the-initiative"}
+#### Seize the Initiative {data-scc="mcdm.heroes.v1/feature.tactician.level-7/seize-the-initiative" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -13754,7 +13752,7 @@ As a 7th-level [tactician](../../Browse/class/tactician.md), you gain the follow
 </section>
 </address>
 
-#### Skill {data-scc="mcdm.heroes.v1/feature.tactician.level-7/skill"}
+#### Skill {data-scc="mcdm.heroes.v1/feature.tactician.level-7/skill" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -13766,7 +13764,7 @@ As a 7th-level [tactician](../../Browse/class/tactician.md), you gain the follow
 </section>
 </address>
 
-#### 7th-Level Doctrine Feature {data-scc="mcdm.heroes.v1/feature.tactician.level-7/7th-level-doctrine-feature"}
+#### 7th-Level Doctrine Feature {data-scc="mcdm.heroes.v1/feature.tactician.level-7/7th-level-doctrine-feature" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="4">
@@ -13804,11 +13802,11 @@ As a 7th-level [tactician](../../Browse/class/tactician.md), you gain the follow
 </section>
 </address>
 
-### 8th-Level Features
+### 8th-Level Features {data-search-exclude=""}
 
 As an 8th-level [tactician](../../Browse/class/tactician.md), you gain the following features.
 
-#### Perk {data-scc="mcdm.heroes.v1/feature.tactician.level-8/perk"}
+#### Perk {data-scc="mcdm.heroes.v1/feature.tactician.level-8/perk" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -13820,7 +13818,7 @@ As an 8th-level [tactician](../../Browse/class/tactician.md), you gain the follo
 </section>
 </address>
 
-#### 8th-Level Doctrine Feature {data-scc="mcdm.heroes.v1/feature.tactician.level-8/8th-level-doctrine-feature"}
+#### 8th-Level Doctrine Feature {data-scc="mcdm.heroes.v1/feature.tactician.level-8/8th-level-doctrine-feature" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="4">
@@ -13861,7 +13859,7 @@ As an 8th-level [tactician](../../Browse/class/tactician.md), you gain the follo
 </section>
 </address>
 
-#### 11-Focus Ability {data-scc="mcdm.heroes.v1/feature.tactician.level-8/11-focus-ability"}
+#### 11-Focus Ability {data-scc="mcdm.heroes.v1/feature.tactician.level-8/11-focus-ability" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
@@ -13939,11 +13937,11 @@ As an 8th-level [tactician](../../Browse/class/tactician.md), you gain the follo
 </section>
 </address>
 
-### 9th-Level Features
+### 9th-Level Features {data-search-exclude=""}
 
 As a 9th-level [tactician](../../Browse/class/tactician.md), you gain the following features.
 
-#### Grandmaster of Arms {data-scc="mcdm.heroes.v1/feature.tactician.level-9/grandmaster-of-arms"}
+#### Grandmaster of Arms {data-scc="mcdm.heroes.v1/feature.tactician.level-9/grandmaster-of-arms" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -13955,7 +13953,7 @@ As a 9th-level [tactician](../../Browse/class/tactician.md), you gain the follow
 </section>
 </address>
 
-#### 9th-Level Doctrine Ability {data-scc="mcdm.heroes.v1/feature.tactician.level-9/9th-level-doctrine-ability"}
+#### 9th-Level Doctrine Ability {data-scc="mcdm.heroes.v1/feature.tactician.level-9/9th-level-doctrine-ability" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="3">
@@ -14102,11 +14100,11 @@ As a 9th-level [tactician](../../Browse/class/tactician.md), you gain the follow
 </section>
 </address>
 
-### 10th-Level Features
+### 10th-Level Features {data-search-exclude=""}
 
 As a 10th-level [tactician](../../Browse/class/tactician.md), you gain the following features.
 
-#### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.tactician.level-10/characteristic-increase"}
+#### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.tactician.level-10/characteristic-increase" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -14118,7 +14116,7 @@ As a 10th-level [tactician](../../Browse/class/tactician.md), you gain the follo
 </section>
 </address>
 
-#### Command {data-scc="mcdm.heroes.v1/feature.tactician.level-10/command"}
+#### Command {data-scc="mcdm.heroes.v1/feature.tactician.level-10/command" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -14132,7 +14130,7 @@ As a 10th-level [tactician](../../Browse/class/tactician.md), you gain the follo
 </section>
 </address>
 
-#### Perk {data-scc="mcdm.heroes.v1/feature.tactician.level-10/perk"}
+#### Perk {data-scc="mcdm.heroes.v1/feature.tactician.level-10/perk" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -14144,7 +14142,7 @@ As a 10th-level [tactician](../../Browse/class/tactician.md), you gain the follo
 </section>
 </address>
 
-#### Skill {data-scc="mcdm.heroes.v1/feature.tactician.level-10/skill"}
+#### Skill {data-scc="mcdm.heroes.v1/feature.tactician.level-10/skill" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -14156,7 +14154,7 @@ As a 10th-level [tactician](../../Browse/class/tactician.md), you gain the follo
 </section>
 </address>
 
-#### True Focus {data-scc="mcdm.heroes.v1/feature.tactician.level-10/true-focus"}
+#### True Focus {data-scc="mcdm.heroes.v1/feature.tactician.level-10/true-focus" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -14168,7 +14166,7 @@ As a 10th-level [tactician](../../Browse/class/tactician.md), you gain the follo
 </section>
 </address>
 
-#### Warmaster {data-scc="mcdm.heroes.v1/feature.tactician.level-10/warmaster"}
+#### Warmaster {data-scc="mcdm.heroes.v1/feature.tactician.level-10/warmaster" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -14181,7 +14179,7 @@ As a 10th-level [tactician](../../Browse/class/tactician.md), you gain the follo
 </section>
 </address>
 
-## Talent {data-scc="mcdm.heroes.v1/class/talent"}
+## Talent {data-scc="mcdm.heroes.v1/class/talent" data-search-exclude=""}
 
 A rare few people are born with the potential to harness psionic power, but only those who experience an awakening, a significant event that activates a [talent's](../../Browse/class/talent.md) abilities, can tap into the mind's full potential. You are one of those people—a master of psionics and a source of incredible power created through sheer force of will. You can move and change matter, time, gravity, the laws of physics, or another creature's mind.
 
@@ -14191,7 +14189,7 @@ A rare few people are born with the potential to harness psionic power, but only
 >
 > **Khorva**
 
-### Basics
+### Basics {data-search-exclude=""}
 
 **Starting [Characteristics](../../Browse/rule/character/characteristic.md):** You start with a [Reason](../../Browse/rule/character/reason.md) of 2 and a [Presence](../../Browse/rule/character/presence.md) of 2, and you can choose one of the following arrays for your other [characteristic](../../Browse/rule/character/characteristic.md) scores:
 
@@ -14213,7 +14211,7 @@ A rare few people are born with the potential to harness psionic power, but only
 
 **Skills:** You gain the Psionics and [Read Person](../../Browse/skill/interpersonal/read-person.md) skills (see Skills in Chapter 9: [Tests](tests.md)). Then choose any two skills from the [interpersonal](../../Browse/skill/interpersonal/index.md) or [lore](../../Browse/skill/lore/index.md) skill groups. (*Quick Build:* Empathize, Psionics, [Read Person](../../Browse/skill/interpersonal/read-person.md), Timescape.)
 
-###### Talent Advancement Table
+###### Talent Advancement Table {data-search-exclude=""}
 
 | Level | Features                                                                                                                                     | Abilities                     | Tradition Abilities |
 |-------|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|---------------------|
@@ -14228,11 +14226,11 @@ A rare few people are born with the potential to harness psionic power, but only
 | 9th   | [Fortress of Perfect Thought](../../Browse/feature/talent/level-9/fortress-of-perfect-thought.md), [Tradition Ability](../../Browse/feature/talent/level-9/9th-level-tradition-ability.md)                                                                                               | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
 | 10th  | [Characteristic Increase](../../Browse/feature/talent/level-10/characteristic-increase.md), [Clear Mind](../../Browse/feature/talent/level-10/clear-mind.md), [Omnisensory](../../Browse/feature/talent/level-10/omnisensory.md), [Perk](../../Browse/feature/talent/level-10/perk.md), [Psion](../../Browse/feature/talent/level-10/psion.md), [Skill](../../Browse/feature/talent/level-10/skill.md), [Vision](../../Browse/feature/talent/level-10/vision.md)                                                                 | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
 
-### 1st-Level Features
+### 1st-Level Features {data-search-exclude=""}
 
 As a 1st-level [talent](../../Browse/class/talent.md), you gain the following features.
 
-#### Talent Tradition {data-scc="mcdm.heroes.v1/feature.talent.level-1/talent-tradition"}
+#### Talent Tradition {data-scc="mcdm.heroes.v1/feature.talent.level-1/talent-tradition" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait">
@@ -14246,7 +14244,7 @@ As a 1st-level [talent](../../Browse/class/talent.md), you gain the following fe
 </section>
 </address>
 
-#### Clarity and Strain {data-scc="mcdm.heroes.v1/feature.talent.level-1/clarity-and-strain"}
+#### Clarity and Strain {data-scc="mcdm.heroes.v1/feature.talent.level-1/clarity-and-strain" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="2">
@@ -14278,7 +14276,7 @@ As a 1st-level [talent](../../Browse/class/talent.md), you gain the following fe
 </section>
 </address>
 
-#### Mind Spike {data-scc="mcdm.heroes.v1/feature.talent.level-1/mind-spike"}
+#### Mind Spike {data-scc="mcdm.heroes.v1/feature.talent.level-1/mind-spike" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="1" data-grant="the Mind Spike main action">
@@ -14313,7 +14311,7 @@ As a 1st-level [talent](../../Browse/class/talent.md), you gain the following fe
 </section>
 </address>
 
-#### Psionic Augmentation {data-scc="mcdm.heroes.v1/feature.talent.level-1/psionic-augmentation"}
+#### Psionic Augmentation {data-scc="mcdm.heroes.v1/feature.talent.level-1/psionic-augmentation" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="5">
@@ -14358,7 +14356,7 @@ As a 1st-level [talent](../../Browse/class/talent.md), you gain the following fe
 </section>
 </address>
 
-#### Talent Ward {data-scc="mcdm.heroes.v1/feature.talent.level-1/talent-ward"}
+#### Talent Ward {data-scc="mcdm.heroes.v1/feature.talent.level-1/talent-ward" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="4">
@@ -14396,7 +14394,7 @@ As a 1st-level [talent](../../Browse/class/talent.md), you gain the following fe
 </section>
 </address>
 
-#### Telepathic Speech {data-scc="mcdm.heroes.v1/feature.talent.level-1/telepathic-speech"}
+#### Telepathic Speech {data-scc="mcdm.heroes.v1/feature.talent.level-1/telepathic-speech" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -14408,7 +14406,7 @@ As a 1st-level [talent](../../Browse/class/talent.md), you gain the following fe
 </section>
 </address>
 
-#### 1st-Level Tradition Features {data-scc="mcdm.heroes.v1/feature.talent.level-1/1st-level-tradition-features"}
+#### 1st-Level Tradition Features {data-scc="mcdm.heroes.v1/feature.talent.level-1/1st-level-tradition-features" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="7">
@@ -14570,7 +14568,7 @@ As a 1st-level [talent](../../Browse/class/talent.md), you gain the following fe
 </section>
 </address>
 
-#### Talent Abilities {data-scc="mcdm.heroes.v1/feature.talent.level-1/talent-abilities"}
+#### Talent Abilities {data-scc="mcdm.heroes.v1/feature.talent.level-1/talent-abilities" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="2">
@@ -14944,11 +14942,11 @@ As a 1st-level [talent](../../Browse/class/talent.md), you gain the following fe
 </section>
 </address>
 
-### 2nd-Level Features
+### 2nd-Level Features {data-search-exclude=""}
 
 As a 2nd-level [talent](../../Browse/class/talent.md), you gain the following features.
 
-#### Perk {data-scc="mcdm.heroes.v1/feature.talent.level-2/perk"}
+#### Perk {data-scc="mcdm.heroes.v1/feature.talent.level-2/perk" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -14960,7 +14958,7 @@ As a 2nd-level [talent](../../Browse/class/talent.md), you gain the following fe
 </section>
 </address>
 
-#### 2nd-Level Tradition Feature {data-scc="mcdm.heroes.v1/feature.talent.level-2/2nd-level-tradition-feature"}
+#### 2nd-Level Tradition Feature {data-scc="mcdm.heroes.v1/feature.talent.level-2/2nd-level-tradition-feature" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="4">
@@ -14998,7 +14996,7 @@ As a 2nd-level [talent](../../Browse/class/talent.md), you gain the following fe
 </section>
 </address>
 
-#### 2nd-Level Tradition Ability {data-scc="mcdm.heroes.v1/feature.talent.level-2/2nd-level-tradition-ability"}
+#### 2nd-Level Tradition Ability {data-scc="mcdm.heroes.v1/feature.talent.level-2/2nd-level-tradition-ability" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="3">
@@ -15174,23 +15172,23 @@ As a 2nd-level [talent](../../Browse/class/talent.md), you gain the following fe
 </section>
 </address>
 
-### 3rd-Level Features
+### 3rd-Level Features {data-search-exclude=""}
 
 As a 3rd-level [talent](../../Browse/class/talent.md), you gain the following features.
 
-#### Scan {data-scc="mcdm.heroes.v1/feature.talent.level-3/scan"}
+#### Scan {data-scc="mcdm.heroes.v1/feature.talent.level-3/scan" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Scan</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Talent</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-eyebrow sc-head__slot--chip">Level 3</div></div></header>
 <div class="sc-trait__body">
-<p>You can extend your psionic senses beyond their usual range. Once on each of your <a href="../../../Browse/rule/combat/turn/">turns</a>, you can search for hidden creatures as a <a href="../../../Browse/rule/combat/free-maneuver/">free maneuver</a> (see Hide and Sneak in Chapter 9: <a href="../tests/">Tests</a>). Additionally, once you establish <a href="../../../Browse/rule/combat/line-of-effect/">line of effect</a> to a thinking creature within <a href="../../../Browse/rule/combat/distance/">distance</a> of your <a href="../../../Browse/feature/ability/talent/level-1/mind-spike/">Mind Spike</a> ability, you always have <a href="../../../Browse/rule/combat/line-of-effect/">line of effect</a> to that creature until they move beyond that <a href="../../../Browse/rule/combat/distance/">distance</a>.</p>
+<p>You can extend your psionic senses beyond their usual range. Once on each of your <a href="../../../Browse/rule/combat/turn/">turns</a>, you can search for hidden creatures as a <a href="../../../Browse/rule/combat/free-maneuver/">free maneuver</a> (see <a href="../../../Browse/rule/test/hide-and-sneak/">Hide and Sneak</a> in Chapter 9: <a href="../tests/">Tests</a>). Additionally, once you establish <a href="../../../Browse/rule/combat/line-of-effect/">line of effect</a> to a thinking creature within <a href="../../../Browse/rule/combat/distance/">distance</a> of your <a href="../../../Browse/feature/ability/talent/level-1/mind-spike/">Mind Spike</a> ability, you always have <a href="../../../Browse/rule/combat/line-of-effect/">line of effect</a> to that creature until they move beyond that <a href="../../../Browse/rule/combat/distance/">distance</a>.</p>
 </div>
 </section>
 </address>
 
-#### 7-Clarity Ability {data-scc="mcdm.heroes.v1/feature.talent.level-3/7-clarity-ability"}
+#### 7-Clarity Ability {data-scc="mcdm.heroes.v1/feature.talent.level-3/7-clarity-ability" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
@@ -15296,11 +15294,11 @@ As a 3rd-level [talent](../../Browse/class/talent.md), you gain the following fe
 </section>
 </address>
 
-### 4th-Level Features
+### 4th-Level Features {data-search-exclude=""}
 
 As a 4th-level [talent](../../Browse/class/talent.md), you gain the following features.
 
-#### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.talent.level-4/characteristic-increase"}
+#### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.talent.level-4/characteristic-increase" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -15312,7 +15310,7 @@ As a 4th-level [talent](../../Browse/class/talent.md), you gain the following fe
 </section>
 </address>
 
-#### Mind Projection {data-scc="mcdm.heroes.v1/feature.talent.level-4/mind-projection"}
+#### Mind Projection {data-scc="mcdm.heroes.v1/feature.talent.level-4/mind-projection" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -15325,7 +15323,7 @@ As a 4th-level [talent](../../Browse/class/talent.md), you gain the following fe
 </section>
 </address>
 
-#### Mind Recovery {data-scc="mcdm.heroes.v1/feature.talent.level-4/mind-recovery"}
+#### Mind Recovery {data-scc="mcdm.heroes.v1/feature.talent.level-4/mind-recovery" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -15338,7 +15336,7 @@ As a 4th-level [talent](../../Browse/class/talent.md), you gain the following fe
 </section>
 </address>
 
-#### Perk {data-scc="mcdm.heroes.v1/feature.talent.level-4/perk"}
+#### Perk {data-scc="mcdm.heroes.v1/feature.talent.level-4/perk" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -15350,7 +15348,7 @@ As a 4th-level [talent](../../Browse/class/talent.md), you gain the following fe
 </section>
 </address>
 
-#### Skill {data-scc="mcdm.heroes.v1/feature.talent.level-4/skill"}
+#### Skill {data-scc="mcdm.heroes.v1/feature.talent.level-4/skill" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -15362,7 +15360,7 @@ As a 4th-level [talent](../../Browse/class/talent.md), you gain the following fe
 </section>
 </address>
 
-#### Suspensor Field {data-scc="mcdm.heroes.v1/feature.talent.level-4/suspensor-field"}
+#### Suspensor Field {data-scc="mcdm.heroes.v1/feature.talent.level-4/suspensor-field" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -15375,11 +15373,11 @@ As a 4th-level [talent](../../Browse/class/talent.md), you gain the following fe
 </section>
 </address>
 
-### 5th-Level Features
+### 5th-Level Features {data-search-exclude=""}
 
 As a 5th-level [talent](../../Browse/class/talent.md), you gain the following features.
 
-#### 5th-Level Tradition Features {data-scc="mcdm.heroes.v1/feature.talent.level-5/5th-level-tradition-features"}
+#### 5th-Level Tradition Features {data-scc="mcdm.heroes.v1/feature.talent.level-5/5th-level-tradition-features" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="7">
@@ -15435,7 +15433,7 @@ As a 5th-level [talent](../../Browse/class/talent.md), you gain the following fe
 </section>
 </address>
 
-#### 9-Clarity Ability {data-scc="mcdm.heroes.v1/feature.talent.level-5/9-clarity-ability"}
+#### 9-Clarity Ability {data-scc="mcdm.heroes.v1/feature.talent.level-5/9-clarity-ability" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
@@ -15541,11 +15539,11 @@ As a 5th-level [talent](../../Browse/class/talent.md), you gain the following fe
 </section>
 </address>
 
-### 6th-Level Features
+### 6th-Level Features {data-search-exclude=""}
 
 As a 6th-level [talent](../../Browse/class/talent.md), you gain the following features.
 
-#### Perk {data-scc="mcdm.heroes.v1/feature.talent.level-6/perk"}
+#### Perk {data-scc="mcdm.heroes.v1/feature.talent.level-6/perk" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -15557,7 +15555,7 @@ As a 6th-level [talent](../../Browse/class/talent.md), you gain the following fe
 </section>
 </address>
 
-#### Psi Boost {data-scc="mcdm.heroes.v1/feature.talent.level-6/psi-boost"}
+#### Psi Boost {data-scc="mcdm.heroes.v1/feature.talent.level-6/psi-boost" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="7">
@@ -15613,7 +15611,7 @@ As a 6th-level [talent](../../Browse/class/talent.md), you gain the following fe
 </section>
 </address>
 
-#### 6th-Level Tradition Ability {data-scc="mcdm.heroes.v1/feature.talent.level-6/6th-level-tradition-ability"}
+#### 6th-Level Tradition Ability {data-scc="mcdm.heroes.v1/feature.talent.level-6/6th-level-tradition-ability" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="3">
@@ -15793,11 +15791,11 @@ As a 6th-level [talent](../../Browse/class/talent.md), you gain the following fe
 </section>
 </address>
 
-### 7th-Level Features
+### 7th-Level Features {data-search-exclude=""}
 
 As a 7th-level [talent](../../Browse/class/talent.md), you gain the following features.
 
-#### Ancestral Memory {data-scc="mcdm.heroes.v1/feature.talent.level-7/ancestral-memory"}
+#### Ancestral Memory {data-scc="mcdm.heroes.v1/feature.talent.level-7/ancestral-memory" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -15809,7 +15807,7 @@ As a 7th-level [talent](../../Browse/class/talent.md), you gain the following fe
 </section>
 </address>
 
-#### Cascading Strain {data-scc="mcdm.heroes.v1/feature.talent.level-7/cascading-strain"}
+#### Cascading Strain {data-scc="mcdm.heroes.v1/feature.talent.level-7/cascading-strain" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -15821,7 +15819,7 @@ As a 7th-level [talent](../../Browse/class/talent.md), you gain the following fe
 </section>
 </address>
 
-#### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.talent.level-7/characteristic-increase"}
+#### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.talent.level-7/characteristic-increase" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -15833,7 +15831,7 @@ As a 7th-level [talent](../../Browse/class/talent.md), you gain the following fe
 </section>
 </address>
 
-#### Lucid Mind {data-scc="mcdm.heroes.v1/feature.talent.level-7/lucid-mind"}
+#### Lucid Mind {data-scc="mcdm.heroes.v1/feature.talent.level-7/lucid-mind" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -15845,7 +15843,7 @@ As a 7th-level [talent](../../Browse/class/talent.md), you gain the following fe
 </section>
 </address>
 
-#### Skill {data-scc="mcdm.heroes.v1/feature.talent.level-7/skill"}
+#### Skill {data-scc="mcdm.heroes.v1/feature.talent.level-7/skill" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -15857,11 +15855,11 @@ As a 7th-level [talent](../../Browse/class/talent.md), you gain the following fe
 </section>
 </address>
 
-### 8th-Level Features
+### 8th-Level Features {data-search-exclude=""}
 
 As an 8th-level [talent](../../Browse/class/talent.md), you gain the following features.
 
-#### Perk {data-scc="mcdm.heroes.v1/feature.talent.level-8/perk"}
+#### Perk {data-scc="mcdm.heroes.v1/feature.talent.level-8/perk" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -15873,7 +15871,7 @@ As an 8th-level [talent](../../Browse/class/talent.md), you gain the following f
 </section>
 </address>
 
-#### 8th-Level Tradition Features {data-scc="mcdm.heroes.v1/feature.talent.level-8/8th-level-tradition-features"}
+#### 8th-Level Tradition Features {data-scc="mcdm.heroes.v1/feature.talent.level-8/8th-level-tradition-features" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="7">
@@ -15968,7 +15966,7 @@ As an 8th-level [talent](../../Browse/class/talent.md), you gain the following f
 </section>
 </address>
 
-#### 11-Clarity Ability {data-scc="mcdm.heroes.v1/feature.talent.level-8/11-clarity-ability"}
+#### 11-Clarity Ability {data-scc="mcdm.heroes.v1/feature.talent.level-8/11-clarity-ability" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
@@ -16066,11 +16064,11 @@ As an 8th-level [talent](../../Browse/class/talent.md), you gain the following f
 </section>
 </address>
 
-### 9th-Level Features
+### 9th-Level Features {data-search-exclude=""}
 
 As a 9th-level [talent](../../Browse/class/talent.md), you gain the following features.
 
-#### Fortress of Perfect Thought {data-scc="mcdm.heroes.v1/feature.talent.level-9/fortress-of-perfect-thought"}
+#### Fortress of Perfect Thought {data-scc="mcdm.heroes.v1/feature.talent.level-9/fortress-of-perfect-thought" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait">
@@ -16083,7 +16081,7 @@ As a 9th-level [talent](../../Browse/class/talent.md), you gain the following fe
 </section>
 </address>
 
-#### 9th-Level Tradition Ability {data-scc="mcdm.heroes.v1/feature.talent.level-9/9th-level-tradition-ability"}
+#### 9th-Level Tradition Ability {data-scc="mcdm.heroes.v1/feature.talent.level-9/9th-level-tradition-ability" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="3">
@@ -16259,11 +16257,11 @@ As a 9th-level [talent](../../Browse/class/talent.md), you gain the following fe
 </section>
 </address>
 
-### 10th-Level Features
+### 10th-Level Features {data-search-exclude=""}
 
 As a 10th-level [talent](../../Browse/class/talent.md), you gain the following features.
 
-#### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.talent.level-10/characteristic-increase"}
+#### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.talent.level-10/characteristic-increase" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -16275,7 +16273,7 @@ As a 10th-level [talent](../../Browse/class/talent.md), you gain the following f
 </section>
 </address>
 
-#### Clear Mind {data-scc="mcdm.heroes.v1/feature.talent.level-10/clear-mind"}
+#### Clear Mind {data-scc="mcdm.heroes.v1/feature.talent.level-10/clear-mind" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -16287,7 +16285,7 @@ As a 10th-level [talent](../../Browse/class/talent.md), you gain the following f
 </section>
 </address>
 
-#### Omnisensory {data-scc="mcdm.heroes.v1/feature.talent.level-10/omnisensory"}
+#### Omnisensory {data-scc="mcdm.heroes.v1/feature.talent.level-10/omnisensory" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -16299,7 +16297,7 @@ As a 10th-level [talent](../../Browse/class/talent.md), you gain the following f
 </section>
 </address>
 
-#### Perk {data-scc="mcdm.heroes.v1/feature.talent.level-10/perk"}
+#### Perk {data-scc="mcdm.heroes.v1/feature.talent.level-10/perk" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -16311,7 +16309,7 @@ As a 10th-level [talent](../../Browse/class/talent.md), you gain the following f
 </section>
 </address>
 
-#### Psion {data-scc="mcdm.heroes.v1/feature.talent.level-10/psion"}
+#### Psion {data-scc="mcdm.heroes.v1/feature.talent.level-10/psion" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -16324,7 +16322,7 @@ As a 10th-level [talent](../../Browse/class/talent.md), you gain the following f
 </section>
 </address>
 
-#### Skill {data-scc="mcdm.heroes.v1/feature.talent.level-10/skill"}
+#### Skill {data-scc="mcdm.heroes.v1/feature.talent.level-10/skill" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -16336,7 +16334,7 @@ As a 10th-level [talent](../../Browse/class/talent.md), you gain the following f
 </section>
 </address>
 
-#### Vision {data-scc="mcdm.heroes.v1/feature.talent.level-10/vision"}
+#### Vision {data-scc="mcdm.heroes.v1/feature.talent.level-10/vision" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -16350,7 +16348,7 @@ As a 10th-level [talent](../../Browse/class/talent.md), you gain the following f
 </section>
 </address>
 
-## Troubadour {data-scc="mcdm.heroes.v1/class/troubadour"}
+## Troubadour {data-scc="mcdm.heroes.v1/class/troubadour" data-search-exclude=""}
 
 The whole world's a stage, and everyone on it, an actor. No one knows this better than the [troubadour](../../Browse/class/troubadour.md). You find energy in the drama of everyday life and know how to draw spectacle forth from even the most mundane of situations. You accent highs and deepen lows in service to whoever might witness your performance.
 
@@ -16360,7 +16358,7 @@ The whole world's a stage, and everyone on it, an actor. No one knows this bette
 >
 > **Jackson Bootblack**
 
-### Basics
+### Basics {data-search-exclude=""}
 
 **Starting [Characteristics](../../Browse/rule/character/characteristic.md):** You start with an [Agility](../../Browse/rule/character/agility.md) of 2 and a [Presence](../../Browse/rule/character/presence.md) of 2, and you can choose one of the following arrays for your other [characteristic](../../Browse/rule/character/characteristic.md) scores:
 
@@ -16382,7 +16380,7 @@ The whole world's a stage, and everyone on it, an actor. No one knows this bette
 
 **Skills:** You gain the [Read Person](../../Browse/skill/interpersonal/read-person.md) skill (see Skills in Chapter 9: [Tests](tests.md)). Then choose two skills from the [interpersonal skill group](../../Browse/skill/interpersonal/index.md) and one skill from the [intrigue](../../Browse/skill/intrigue/index.md) or [lore](../../Browse/skill/lore/index.md) skill groups. (*Quick Build:* Brag, Flirt, [Read Person](../../Browse/skill/interpersonal/read-person.md), Rumors.)
 
-###### Troubadour Advancement Table
+###### Troubadour Advancement Table {data-search-exclude=""}
 
 | Level | Features                                                                                                                        | Abilities                 | Class Act Abilities |
 |-------|---------------------------------------------------------------------------------------------------------------------------------|---------------------------|---------------------|
@@ -16397,11 +16395,11 @@ The whole world's a stage, and everyone on it, an actor. No one knows this bette
 | 9th   | [Roar of the Crowd](../../Browse/feature/troubadour/level-9/roar-of-the-crowd.md), [Class Act Ability](../../Browse/feature/troubadour/level-9/9th-level-class-act-ability.md)                                                                                            | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
 | 10th  | [Applause](../../Browse/feature/troubadour/level-10/applause.md), [Characteristic Increase](../../Browse/feature/troubadour/level-10/characteristic-increase.md), [Dramaturgy](../../Browse/feature/troubadour/level-10/dramaturgy.md), [Greatest of All Time](../../Browse/feature/troubadour/level-10/greatest-of-all-time.md), [Perk](../../Browse/feature/troubadour/level-10/perk.md), [Skill](../../Browse/feature/troubadour/level-10/skill.md)                                                | Signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
 
-### 1st-Level Features
+### 1st-Level Features {data-search-exclude=""}
 
 As a 1st-level [troubadour](../../Browse/class/troubadour.md), you gain the following features.
 
-#### Troubadour Class Act {data-scc="mcdm.heroes.v1/feature.troubadour.level-1/troubadour-class-act"}
+#### Troubadour Class Act {data-scc="mcdm.heroes.v1/feature.troubadour.level-1/troubadour-class-act" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -16415,7 +16413,7 @@ As a 1st-level [troubadour](../../Browse/class/troubadour.md), you gain the foll
 </section>
 </address>
 
-#### Drama {data-scc="mcdm.heroes.v1/feature.troubadour.level-1/drama"}
+#### Drama {data-scc="mcdm.heroes.v1/feature.troubadour.level-1/drama" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="2">
@@ -16447,7 +16445,7 @@ As a 1st-level [troubadour](../../Browse/class/troubadour.md), you gain the foll
 </section>
 </address>
 
-#### Kit {data-scc="mcdm.heroes.v1/feature.troubadour.level-1/kit"}
+#### Kit {data-scc="mcdm.heroes.v1/feature.troubadour.level-1/kit" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -16459,7 +16457,7 @@ As a 1st-level [troubadour](../../Browse/class/troubadour.md), you gain the foll
 </section>
 </address>
 
-#### Scene Partner {data-scc="mcdm.heroes.v1/feature.troubadour.level-1/scene-partner"}
+#### Scene Partner {data-scc="mcdm.heroes.v1/feature.troubadour.level-1/scene-partner" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -16472,7 +16470,7 @@ As a 1st-level [troubadour](../../Browse/class/troubadour.md), you gain the foll
 </section>
 </address>
 
-#### Routines {data-scc="mcdm.heroes.v1/feature.troubadour.level-1/routines"}
+#### Routines {data-scc="mcdm.heroes.v1/feature.troubadour.level-1/routines" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="2">
@@ -16513,7 +16511,7 @@ As a 1st-level [troubadour](../../Browse/class/troubadour.md), you gain the foll
 </section>
 </address>
 
-#### 1st-Level Class Act Features {data-scc="mcdm.heroes.v1/feature.troubadour.level-1/1st-level-class-act-features"}
+#### 1st-Level Class Act Features {data-scc="mcdm.heroes.v1/feature.troubadour.level-1/1st-level-class-act-features" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="7">
@@ -16685,7 +16683,7 @@ As a 1st-level [troubadour](../../Browse/class/troubadour.md), you gain the foll
 </section>
 </address>
 
-#### Class Act Triggered Action {data-scc="mcdm.heroes.v1/feature.troubadour.level-1/class-act-triggered-action"}
+#### Class Act Triggered Action {data-scc="mcdm.heroes.v1/feature.troubadour.level-1/class-act-triggered-action" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="4">
@@ -16758,7 +16756,7 @@ As a 1st-level [troubadour](../../Browse/class/troubadour.md), you gain the foll
 </section>
 </address>
 
-#### Troubadour Abilities {data-scc="mcdm.heroes.v1/feature.troubadour.level-1/troubadour-abilities"}
+#### Troubadour Abilities {data-scc="mcdm.heroes.v1/feature.troubadour.level-1/troubadour-abilities" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -16770,7 +16768,7 @@ As a 1st-level [troubadour](../../Browse/class/troubadour.md), you gain the foll
 </section>
 </address>
 
-#### Signature Ability {data-scc="mcdm.heroes.v1/feature.troubadour.level-1/signature-ability"}
+#### Signature Ability {data-scc="mcdm.heroes.v1/feature.troubadour.level-1/signature-ability" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--section" data-action="trait" data-sub="5">
@@ -17031,11 +17029,11 @@ As a 1st-level [troubadour](../../Browse/class/troubadour.md), you gain the foll
 </section>
 </address>
 
-### 2nd-Level Features
+### 2nd-Level Features {data-search-exclude=""}
 
 As a 2nd-level [troubadour](../../Browse/class/troubadour.md), you gain the following features.
 
-#### Appeal to the Muses {data-scc="mcdm.heroes.v1/feature.troubadour.level-2/appeal-to-the-muses"}
+#### Appeal to the Muses {data-scc="mcdm.heroes.v1/feature.troubadour.level-2/appeal-to-the-muses" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -17049,7 +17047,7 @@ As a 2nd-level [troubadour](../../Browse/class/troubadour.md), you gain the foll
 </section>
 </address>
 
-#### Invocation {data-scc="mcdm.heroes.v1/feature.troubadour.level-2/invocation"}
+#### Invocation {data-scc="mcdm.heroes.v1/feature.troubadour.level-2/invocation" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="3">
@@ -17083,7 +17081,7 @@ As a 2nd-level [troubadour](../../Browse/class/troubadour.md), you gain the foll
 </section>
 </address>
 
-#### Perk {data-scc="mcdm.heroes.v1/feature.troubadour.level-2/perk"}
+#### Perk {data-scc="mcdm.heroes.v1/feature.troubadour.level-2/perk" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -17095,7 +17093,7 @@ As a 2nd-level [troubadour](../../Browse/class/troubadour.md), you gain the foll
 </section>
 </address>
 
-#### 2nd-Level Class Act Ability {data-scc="mcdm.heroes.v1/feature.troubadour.level-2/2nd-level-class-act-ability"}
+#### 2nd-Level Class Act Ability {data-scc="mcdm.heroes.v1/feature.troubadour.level-2/2nd-level-class-act-ability" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="3">
@@ -17227,11 +17225,11 @@ As a 2nd-level [troubadour](../../Browse/class/troubadour.md), you gain the foll
 </section>
 </address>
 
-### 3rd-Level Features
+### 3rd-Level Features {data-search-exclude=""}
 
 As a 3rd-level [troubadour](../../Browse/class/troubadour.md), you gain the following features.
 
-#### 3rd-Level Class Act Feature {data-scc="mcdm.heroes.v1/feature.troubadour.level-3/3rd-level-class-act-feature"}
+#### 3rd-Level Class Act Feature {data-scc="mcdm.heroes.v1/feature.troubadour.level-3/3rd-level-class-act-feature" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="4">
@@ -17273,7 +17271,7 @@ As a 3rd-level [troubadour](../../Browse/class/troubadour.md), you gain the foll
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While this performance is active, each target who starts their <a href="../../../Browse/rule/combat/turn/">turn</a> in the area doesn&#39;t take a <a href="../../../Browse/rule/dice/bane/">bane</a> on <a href="../../../Browse/rule/combat/strike/">strikes</a> against creatures with <a href="../../../Browse/rule/combat/concealment/">concealment</a>. Once during their <a href="../../../Browse/rule/combat/turn/">turn</a>, they can search for hidden creatures as a <a href="../../../Browse/rule/combat/free-maneuver/">free maneuver</a> (see Hide and Sneak in Chapter 9: <a href="../tests/">Tests</a>).</p></div>
+<div class="sc-ability__section-body"><p>While this performance is active, each target who starts their <a href="../../../Browse/rule/combat/turn/">turn</a> in the area doesn&#39;t take a <a href="../../../Browse/rule/dice/bane/">bane</a> on <a href="../../../Browse/rule/combat/strike/">strikes</a> against creatures with <a href="../../../Browse/rule/combat/concealment/">concealment</a>. Once during their <a href="../../../Browse/rule/combat/turn/">turn</a>, they can search for hidden creatures as a <a href="../../../Browse/rule/combat/free-maneuver/">free maneuver</a> (see <a href="../../../Browse/rule/test/hide-and-sneak/">Hide and Sneak</a> in Chapter 9: <a href="../tests/">Tests</a>).</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="none" data-conditions="bleeding">
@@ -17297,7 +17295,7 @@ As a 3rd-level [troubadour](../../Browse/class/troubadour.md), you gain the foll
 </section>
 </address>
 
-#### 7-Drama Ability {data-scc="mcdm.heroes.v1/feature.troubadour.level-3/7-drama-ability"}
+#### 7-Drama Ability {data-scc="mcdm.heroes.v1/feature.troubadour.level-3/7-drama-ability" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
@@ -17387,11 +17385,11 @@ As a 3rd-level [troubadour](../../Browse/class/troubadour.md), you gain the foll
 </section>
 </address>
 
-### 4th-Level Features
+### 4th-Level Features {data-search-exclude=""}
 
 As a 4th-level [troubadour](../../Browse/class/troubadour.md), you gain the following features.
 
-#### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.troubadour.level-4/characteristic-increase"}
+#### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.troubadour.level-4/characteristic-increase" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -17403,7 +17401,7 @@ As a 4th-level [troubadour](../../Browse/class/troubadour.md), you gain the foll
 </section>
 </address>
 
-#### Melodrama {data-scc="mcdm.heroes.v1/feature.troubadour.level-4/melodrama"}
+#### Melodrama {data-scc="mcdm.heroes.v1/feature.troubadour.level-4/melodrama" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait">
@@ -17417,7 +17415,7 @@ As a 4th-level [troubadour](../../Browse/class/troubadour.md), you gain the foll
 </section>
 </address>
 
-#### Perk {data-scc="mcdm.heroes.v1/feature.troubadour.level-4/perk"}
+#### Perk {data-scc="mcdm.heroes.v1/feature.troubadour.level-4/perk" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -17429,7 +17427,7 @@ As a 4th-level [troubadour](../../Browse/class/troubadour.md), you gain the foll
 </section>
 </address>
 
-#### Skill {data-scc="mcdm.heroes.v1/feature.troubadour.level-4/skill"}
+#### Skill {data-scc="mcdm.heroes.v1/feature.troubadour.level-4/skill" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -17441,7 +17439,7 @@ As a 4th-level [troubadour](../../Browse/class/troubadour.md), you gain the foll
 </section>
 </address>
 
-#### Zeitgeist {data-scc="mcdm.heroes.v1/feature.troubadour.level-4/zeitgeist"}
+#### Zeitgeist {data-scc="mcdm.heroes.v1/feature.troubadour.level-4/zeitgeist" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait" data-sub="3">
@@ -17480,11 +17478,11 @@ As a 4th-level [troubadour](../../Browse/class/troubadour.md), you gain the foll
 </section>
 </address>
 
-### 5th-Level Features
+### 5th-Level Features {data-search-exclude=""}
 
 As a 5th-level [troubadour](../../Browse/class/troubadour.md), you gain the following features.
 
-#### 5th-Level Class Act Feature {data-scc="mcdm.heroes.v1/feature.troubadour.level-5/5th-level-class-act-feature"}
+#### 5th-Level Class Act Feature {data-scc="mcdm.heroes.v1/feature.troubadour.level-5/5th-level-class-act-feature" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="3">
@@ -17584,7 +17582,7 @@ As a 5th-level [troubadour](../../Browse/class/troubadour.md), you gain the foll
 </section>
 </address>
 
-#### 9-Drama Ability {data-scc="mcdm.heroes.v1/feature.troubadour.level-5/9-drama-ability"}
+#### 9-Drama Ability {data-scc="mcdm.heroes.v1/feature.troubadour.level-5/9-drama-ability" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
@@ -17662,11 +17660,11 @@ As a 5th-level [troubadour](../../Browse/class/troubadour.md), you gain the foll
 </section>
 </address>
 
-### 6th-Level Features
+### 6th-Level Features {data-search-exclude=""}
 
 As a 6th-level [troubadour](../../Browse/class/troubadour.md), you gain the following features.
 
-#### Perk {data-scc="mcdm.heroes.v1/feature.troubadour.level-6/perk"}
+#### Perk {data-scc="mcdm.heroes.v1/feature.troubadour.level-6/perk" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -17678,7 +17676,7 @@ As a 6th-level [troubadour](../../Browse/class/troubadour.md), you gain the foll
 </section>
 </address>
 
-#### Spotlight {data-scc="mcdm.heroes.v1/feature.troubadour.level-6/spotlight"}
+#### Spotlight {data-scc="mcdm.heroes.v1/feature.troubadour.level-6/spotlight" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="1" data-grant="the Spotlight no action">
@@ -17705,7 +17703,7 @@ As a 6th-level [troubadour](../../Browse/class/troubadour.md), you gain the foll
 </section>
 </address>
 
-#### 6th-Level Class Act Ability {data-scc="mcdm.heroes.v1/feature.troubadour.level-6/6th-level-class-act-ability"}
+#### 6th-Level Class Act Ability {data-scc="mcdm.heroes.v1/feature.troubadour.level-6/6th-level-class-act-ability" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="3">
@@ -17837,11 +17835,11 @@ As a 6th-level [troubadour](../../Browse/class/troubadour.md), you gain the foll
 </section>
 </address>
 
-### 7th-Level Features
+### 7th-Level Features {data-search-exclude=""}
 
 As a 7th-level [troubadour](../../Browse/class/troubadour.md), you gain the following features.
 
-#### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.troubadour.level-7/characteristic-increase"}
+#### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.troubadour.level-7/characteristic-increase" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -17853,7 +17851,7 @@ As a 7th-level [troubadour](../../Browse/class/troubadour.md), you gain the foll
 </section>
 </address>
 
-#### Equal Billing {data-scc="mcdm.heroes.v1/feature.troubadour.level-7/equal-billing"}
+#### Equal Billing {data-scc="mcdm.heroes.v1/feature.troubadour.level-7/equal-billing" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -17866,7 +17864,7 @@ As a 7th-level [troubadour](../../Browse/class/troubadour.md), you gain the foll
 </section>
 </address>
 
-#### A Muse's Muse {data-scc="mcdm.heroes.v1/feature.troubadour.level-7/a-muses-muse"}
+#### A Muse's Muse {data-scc="mcdm.heroes.v1/feature.troubadour.level-7/a-muses-muse" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -17878,7 +17876,7 @@ As a 7th-level [troubadour](../../Browse/class/troubadour.md), you gain the foll
 </section>
 </address>
 
-#### Skill {data-scc="mcdm.heroes.v1/feature.troubadour.level-7/skill"}
+#### Skill {data-scc="mcdm.heroes.v1/feature.troubadour.level-7/skill" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -17890,11 +17888,11 @@ As a 7th-level [troubadour](../../Browse/class/troubadour.md), you gain the foll
 </section>
 </address>
 
-### 8th-Level Features
+### 8th-Level Features {data-search-exclude=""}
 
 As an 8th-level [troubadour](../../Browse/class/troubadour.md), you gain the following features.
 
-#### Perk {data-scc="mcdm.heroes.v1/feature.troubadour.level-8/perk"}
+#### Perk {data-scc="mcdm.heroes.v1/feature.troubadour.level-8/perk" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -17906,7 +17904,7 @@ As an 8th-level [troubadour](../../Browse/class/troubadour.md), you gain the fol
 </section>
 </address>
 
-#### 8th-Level Class Act Feature {data-scc="mcdm.heroes.v1/feature.troubadour.level-8/8th-level-class-act-feature"}
+#### 8th-Level Class Act Feature {data-scc="mcdm.heroes.v1/feature.troubadour.level-8/8th-level-class-act-feature" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="4">
@@ -17973,7 +17971,7 @@ As an 8th-level [troubadour](../../Browse/class/troubadour.md), you gain the fol
 </section>
 </address>
 
-#### 11-Drama Ability {data-scc="mcdm.heroes.v1/feature.troubadour.level-8/11-drama-ability"}
+#### 11-Drama Ability {data-scc="mcdm.heroes.v1/feature.troubadour.level-8/11-drama-ability" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="4">
@@ -18047,11 +18045,11 @@ As an 8th-level [troubadour](../../Browse/class/troubadour.md), you gain the fol
 </section>
 </address>
 
-### 9th-Level Features
+### 9th-Level Features {data-search-exclude=""}
 
 As a 9th-level [troubadour](../../Browse/class/troubadour.md), you gain the following features.
 
-#### Roar of the Crowd {data-scc="mcdm.heroes.v1/feature.troubadour.level-9/roar-of-the-crowd"}
+#### Roar of the Crowd {data-scc="mcdm.heroes.v1/feature.troubadour.level-9/roar-of-the-crowd" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -18064,7 +18062,7 @@ As a 9th-level [troubadour](../../Browse/class/troubadour.md), you gain the foll
 </section>
 </address>
 
-#### 9th-Level Class Act Ability {data-scc="mcdm.heroes.v1/feature.troubadour.level-9/9th-level-class-act-ability"}
+#### 9th-Level Class Act Ability {data-scc="mcdm.heroes.v1/feature.troubadour.level-9/9th-level-class-act-ability" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead sc-trait--section" data-action="trait" data-sub="3">
@@ -18220,11 +18218,11 @@ As a 9th-level [troubadour](../../Browse/class/troubadour.md), you gain the foll
 </section>
 </address>
 
-### 10th-Level Features
+### 10th-Level Features {data-search-exclude=""}
 
 As a 10th-level [troubadour](../../Browse/class/troubadour.md), you gain the following features.
 
-#### Applause {data-scc="mcdm.heroes.v1/feature.troubadour.level-10/applause"}
+#### Applause {data-scc="mcdm.heroes.v1/feature.troubadour.level-10/applause" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -18238,7 +18236,7 @@ As a 10th-level [troubadour](../../Browse/class/troubadour.md), you gain the fol
 </section>
 </address>
 
-#### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.troubadour.level-10/characteristic-increase"}
+#### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.troubadour.level-10/characteristic-increase" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -18250,7 +18248,7 @@ As a 10th-level [troubadour](../../Browse/class/troubadour.md), you gain the fol
 </section>
 </address>
 
-#### Dramaturgy {data-scc="mcdm.heroes.v1/feature.troubadour.level-10/dramaturgy"}
+#### Dramaturgy {data-scc="mcdm.heroes.v1/feature.troubadour.level-10/dramaturgy" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -18262,7 +18260,7 @@ As a 10th-level [troubadour](../../Browse/class/troubadour.md), you gain the fol
 </section>
 </address>
 
-#### Greatest of All Time {data-scc="mcdm.heroes.v1/feature.troubadour.level-10/greatest-of-all-time"}
+#### Greatest of All Time {data-scc="mcdm.heroes.v1/feature.troubadour.level-10/greatest-of-all-time" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -18274,7 +18272,7 @@ As a 10th-level [troubadour](../../Browse/class/troubadour.md), you gain the fol
 </section>
 </address>
 
-#### Perk {data-scc="mcdm.heroes.v1/feature.troubadour.level-10/perk"}
+#### Perk {data-scc="mcdm.heroes.v1/feature.troubadour.level-10/perk" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -18286,7 +18284,7 @@ As a 10th-level [troubadour](../../Browse/class/troubadour.md), you gain the fol
 </section>
 </address>
 
-#### Skill {data-scc="mcdm.heroes.v1/feature.troubadour.level-10/skill"}
+#### Skill {data-scc="mcdm.heroes.v1/feature.troubadour.level-10/skill" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">

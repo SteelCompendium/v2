@@ -1,8 +1,6 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-search:
-  exclude: true
 name: Negotiation
 order: 11
 scc: mcdm.heroes.v1/chapter/negotiation
@@ -51,29 +49,29 @@ Negotiation is about persuading someone to help you willingly because you've con
 
 During negotiation, the Director assigns [NPCs](../../Browse/rule/general/npc.md) four temporary statistics and features—[interest](../../Browse/rule/negotiation/interest.md), [patience](../../Browse/rule/negotiation/patience.md), [motivations](../../Browse/rule/negotiation/motivation.md), and [pitfalls](../../Browse/rule/negotiation/pitfall.md). The heroes can strike a favorable deal if they maximize an [NPC](../../Browse/rule/general/npc.md)'s [interest](../../Browse/rule/negotiation/interest.md) by making arguments that invoke the [NPC](../../Browse/rule/general/npc.md)'s [motivations](../../Browse/rule/negotiation/motivation.md) and avoid their [pitfalls](../../Browse/rule/negotiation/pitfall.md)—but they have to do all that before the [NPC](../../Browse/rule/general/npc.md)'s [patience](../../Browse/rule/negotiation/patience.md) wears out.
 
-#### Interest {data-scc="mcdm.heroes.v1/rule.negotiation/interest"}
+#### Interest {data-scc="mcdm.heroes.v1/rule.negotiation/interest" data-search-exclude=""}
 
 An [NPC](../../Browse/rule/general/npc.md)'s interest represents how eager they are to make a deal with the heroes. Interest is graded on a scale of 0 (no interest) to 5 (the most possible interest). When a negotiation begins, an [NPC](../../Browse/rule/general/npc.md)'s interest is between 1 and 4. If the [NPC](../../Browse/rule/general/npc.md)'s interest goes to 5, they make a final offer and the negotiation ends (see Keep Going or Stop, below). If the [NPC](../../Browse/rule/general/npc.md)'s interest drops to 0, they end a negotiation without offering the heroes any deal.
 
 Interest increases and decreases during the negotiation based on the arguments the heroes make.
 
-#### Patience {data-scc="mcdm.heroes.v1/rule.negotiation/patience"}
+#### Patience {data-scc="mcdm.heroes.v1/rule.negotiation/patience" data-search-exclude=""}
 
 An [NPC](../../Browse/rule/general/npc.md)'s patience represents how much time and effort they're willing to devote to a negotiation. Patience is graded on a scale of 0 to 5, with each [NPC](../../Browse/rule/general/npc.md) starting a negotiation with their patience higher than 0. If an [NPC](../../Browse/rule/general/npc.md)'s patience reaches 0, the [NPC](../../Browse/rule/general/npc.md) makes a final offer and negotiation ends (see Keep Going or Stop).
 
 Patience can decrease each time the heroes make an argument during a negotiation.
 
-##### Language and Patience
+##### Language and Patience {data-search-exclude=""}
 
 If one or more heroes negotiating with an [NPC](../../Browse/rule/general/npc.md) can communicate in the [NPC](../../Browse/rule/general/npc.md)'s native language (not including Caelian), then the [NPC](../../Browse/rule/general/npc.md)'s patience increases by 1 at the start of the negotiation (to a maximum of 5). If three or more heroes negotiating with an [NPC](../../Browse/rule/general/npc.md) can communicate in the [NPC](../../Browse/rule/general/npc.md)'s native language, the [NPC](../../Browse/rule/general/npc.md)'s patience increases by 2 (to a maximum of 5). Chapter 4: [Background](background.md) has information on some of the languages in the game.
 
-#### Motivations {data-scc="mcdm.heroes.v1/rule.negotiation/motivation"}
+#### Motivations {data-scc="mcdm.heroes.v1/rule.negotiation/motivation" data-search-exclude=""}
 
-Each [NPC](../../Browse/rule/general/npc.md) has at least two motivations the heroes can appeal to with their arguments. Arguments that appeal to an [NPC](../../Browse/rule/general/npc.md)'s motivation require an easier [power roll](../../Browse/rule/dice/power-roll.md) to increase the [NPC](../../Browse/rule/general/npc.md)'s [interest](../../Browse/rule/negotiation/interest.md). Arguments that don't appeal to a motivation require a more difficult [power roll](../../Browse/rule/dice/power-roll.md). See Making Arguments below for more information.
+Each [NPC](../../Browse/rule/general/npc.md) has at least two motivations the heroes can appeal to with their arguments. Arguments that appeal to an [NPC](../../Browse/rule/general/npc.md)'s motivation require an easier [power roll](../../Browse/rule/dice/power-roll.md) to increase the [NPC](../../Browse/rule/general/npc.md)'s [interest](../../Browse/rule/negotiation/interest.md). Arguments that don't appeal to a motivation require a more difficult [power roll](../../Browse/rule/dice/power-roll.md). See [Making Arguments](../../Browse/rule/negotiation/argument.md) below for more information.
 
 Each motivation can be successfully appealed to only once during a negotiation. To successfully appeal to a motivation, the heroes must use the motivation in an argument without mentioning one of the [NPC](../../Browse/rule/general/npc.md)'s [pitfalls](../../Browse/rule/negotiation/pitfall.md) or being caught in a lie.
 
-#### Pitfalls {data-scc="mcdm.heroes.v1/rule.negotiation/pitfall"}
+#### Pitfalls {data-scc="mcdm.heroes.v1/rule.negotiation/pitfall" data-search-exclude=""}
 
 Pitfalls are [motivations](../../Browse/rule/negotiation/motivation.md) that spark ire, discomfort, shame, fear, or some other negative response in an [NPC](../../Browse/rule/general/npc.md). Using a pitfall in an argument causes an [NPC](../../Browse/rule/general/npc.md)'s [interest](../../Browse/rule/negotiation/interest.md) and [patience](../../Browse/rule/negotiation/patience.md) to wane. Each [NPC](../../Browse/rule/general/npc.md) has at least one pitfall, and many have at least two.
 
@@ -83,7 +81,7 @@ Pitfalls and [motivations](../../Browse/rule/negotiation/motivation.md) are two 
 
 An [NPC](../../Browse/rule/general/npc.md) can have any of the following twelve [motivations](../../Browse/rule/negotiation/motivation.md) or pitfalls.
 
-##### Benevolence {data-scc="mcdm.heroes.v1/negotiation/benevolence"}
+##### Benevolence {data-scc="mcdm.heroes.v1/negotiation/benevolence" data-search-exclude=""}
 
 An [NPC](../../Browse/rule/general/npc.md) with the [benevolence](../../Browse/negotiation/benevolence.md) [motivation](../../Browse/rule/negotiation/motivation.md) believes in sharing what they have with others. However, an [NPC](../../Browse/rule/general/npc.md) involved in a negotiation must be limited in their benevolence, so that they don't just give the heroes what they need.
 
@@ -96,7 +94,7 @@ Arguments that appeal to a [benevolence](../../Browse/negotiation/benevolence.md
 - "If you lend us the Sword of Agathor, we can make [Capital](../../Browse/rule/world/capital.md) safer for your guild by using it to lay your enemies low."
 - "If you can [teleport](../../Browse/movement/teleport.md) us into the dragon's cave, we'll give you half the wyrm's hoard once we cut off the creature's head. That could benefit generations of students at your academy!"
 
-##### Discovery {data-scc="mcdm.heroes.v1/negotiation/discovery"}
+##### Discovery {data-scc="mcdm.heroes.v1/negotiation/discovery" data-search-exclude=""}
 
 An [NPC](../../Browse/rule/general/npc.md) with the [discovery](../../Browse/negotiation/discovery.md) [motivation](../../Browse/rule/negotiation/motivation.md) wants to learn new lore, explore forgotten places, break ground with new experiments, or uncover artifacts lost to time. Their curiosity and quest for knowledge might be driven by a specific goal, such as seeking the cure for a rare disease or a portal to a specific far-off world. Or they could be a naturally inquisitive person who simply wants to understand all they can about the timescape.
 
@@ -107,7 +105,7 @@ Arguments that appeal to a [discovery](../../Browse/negotiation/discovery.md) [m
 - "Allow us to use your cipher to translate the only copy of the *Codex Mortis*, and then we'll let you read the book when we're done."
 - "We know the journey to Decant Isle is dangerous, but we're going into uncharted territory. We thought that your crew of sailors might want to be among the few mortals to lay eyes on the place."
 
-##### Freedom {data-scc="mcdm.heroes.v1/negotiation/freedom"}
+##### Freedom {data-scc="mcdm.heroes.v1/negotiation/freedom" data-search-exclude=""}
 
 An [NPC](../../Browse/rule/general/npc.md) with the [freedom](../../Browse/negotiation/freedom.md) [motivation](../../Browse/rule/negotiation/motivation.md) wants no authority above them and desires no authority over others. They might already have personal freedom and wish to maintain that status quo, or they might wish to liberate themself or others from someone else's authority.
 
@@ -118,7 +116,7 @@ Arguments that appeal to a freedom [motivation](../../Browse/rule/negotiation/mo
 - "I know you want to have the queen's authority revoked forever. She has no heirs. Give us the key to her study so that we can prove her corruption and give you a chance to topple the monarchy henceforth."
 - "If you promise to give us ten vials of Assassin's Kiss, we'll see to it that the baron's prison is emptied."
 
-##### Greed {data-scc="mcdm.heroes.v1/negotiation/greed"}
+##### Greed {data-scc="mcdm.heroes.v1/negotiation/greed" data-search-exclude=""}
 
 An [NPC](../../Browse/rule/general/npc.md) with the [greed](../../Browse/negotiation/greed.md) [motivation](../../Browse/rule/negotiation/motivation.md) desires wealth and resources above almost anything else. Sometimes these [NPCs](../../Browse/rule/general/npc.md) are misers, much like wyrms who hoard coins and gems but never spend or donate them. Others flaunt their wealth, viewing it as a sign of their station in life.
 
@@ -131,7 +129,7 @@ Arguments that appeal to a greed [motivation](../../Browse/rule/negotiation/moti
 - "You should help us battle the overmind. Xorranox's wealth is legendary, and we'll see to it that you get your fair share."
 - "Give us a week to do research among your private collection of books, and we'll give you another ten unique tomes we found in an ancient star elf sanctuary."
 
-##### Higher Authority {data-scc="mcdm.heroes.v1/negotiation/higher-authority"}
+##### Higher Authority {data-scc="mcdm.heroes.v1/negotiation/higher-authority" data-search-exclude=""}
 
 An [NPC](../../Browse/rule/general/npc.md) with the [higher authority](../../Browse/negotiation/higher-authority.md) [motivation](../../Browse/rule/negotiation/motivation.md) remains staunchly loyal to a person or force they perceive as more important than themself. This higher authority could be an organization, a deity or being of great power, a formal leader such as a noble or monarch, a mystical presence or force the [NPC](../../Browse/rule/general/npc.md) might not fully understand, or a person the [NPC](../../Browse/rule/general/npc.md) sees as an informal authority figure (an older sibling, a personal hero, and so forth).
 
@@ -142,7 +140,7 @@ Arguments that appeal to a higher authority [motivation](../../Browse/rule/negot
 - "All great creations honor your god, Malus. If you teach me to forge the Hammer of Azdul, that will be a great honor to bestow upon your god."
 - "You know what Jarith the Bold would do? He'd guide us through the vast wasteland of the desert to reach the tower. Will you be our Jarith?"
 
-##### Justice {data-scc="mcdm.heroes.v1/negotiation/justice"}
+##### Justice {data-scc="mcdm.heroes.v1/negotiation/justice" data-search-exclude=""}
 
 An [NPC](../../Browse/rule/general/npc.md) with the [justice](../../Browse/negotiation/justice.md) [motivation](../../Browse/rule/negotiation/motivation.md) wants to see the righteous rewarded and the wicked punished, however subjective their sense of who or what is good and evil. A priest who venerates a god of nature might believe that all who protect plants and animals are righteous, and that those who harvest natural resources as miners and lumberjacks do must die. Having a justice [motivation](../../Browse/rule/negotiation/motivation.md) doesn't necessarily make an [NPC](../../Browse/rule/general/npc.md) kind or charitable.
 
@@ -153,7 +151,7 @@ Arguments that appeal to a justice [motivation](../../Browse/rule/negotiation/mo
 - "You despise those who steal from nature. Allow us peacefully into your wode so we may bottle the Blessed Spring's water. We're going to use it to stop an army from felling every tree and tearing up the earth wherever they go."
 - "You think nobles are lazy barons who get rich off the backs of peasants. We want to dethrone Lord Saxton. Lend us your crew of thieves, and we'll make sure that when Saxton falls, the people can choose their own leaders."
 
-##### Legacy {data-scc="mcdm.heroes.v1/negotiation/legacy"}
+##### Legacy {data-scc="mcdm.heroes.v1/negotiation/legacy" data-search-exclude=""}
 
 An [NPC](../../Browse/rule/general/npc.md) with the [legacy](../../Browse/negotiation/legacy.md) [motivation](../../Browse/rule/negotiation/motivation.md) desires fame while alive and acclaim that lasts long after their death. They hope others will know and remember their deeds, great or terrible. Some of these [NPCs](../../Browse/rule/general/npc.md) might even seek immortality through deification or undeath, so that the eventual shedding of their mortal coil doesn't prevent them from continuing to make history.
 
@@ -164,7 +162,7 @@ Arguments that appeal to a [legacy](../../Browse/negotiation/legacy.md) [motivat
 - "If you give us the vizier's itinerary, I'll compose a song about your bravery in defying him, then sing it in every tavern from here to Ix!"
 - "Yes, losing the battle is a possibility. If we do, the gnolls will still come for you eventually. But if we crush our foes, imagine the honors, the histories, the poems, the statues—all of it created for you because your siege engines turned the tide."
 
-##### Peace {data-scc="mcdm.heroes.v1/negotiation/peace"}
+##### Peace {data-scc="mcdm.heroes.v1/negotiation/peace" data-search-exclude=""}
 
 An [NPC](../../Browse/rule/general/npc.md) with the [peace](../../Browse/negotiation/peace.md) [motivation](../../Browse/rule/negotiation/motivation.md) wants calm in their life. Under typical circumstances, they want to be left alone to run their business, farm, kingdom, criminal empire, or whatever small slice of the timescape is theirs. Some such [NPCs](../../Browse/rule/general/npc.md) don't have peace and need help obtaining it, while others want their peaceful status quo to be maintained.
 
@@ -175,7 +173,7 @@ Arguments that appeal to a peace [motivation](../../Browse/rule/negotiation/moti
 - "You have a good thing going here. A little burgling of nobles, some alcohol smuggling, and some illegal gambling dens. No one's getting hurt, but Constable Cofax is closing in on you. We could redirect him toward some real danger to the community, if you can help us set a trap for the Watchmaker."
 - "I know you don't sell to outsiders, but we need that helm. I'm going to use it to [turn](../../Browse/rule/combat/turn.md) back a group of hobgoblins marching this way. They're not going to be as friendly as us."
 
-##### Power {data-scc="mcdm.heroes.v1/negotiation/power"}
+##### Power {data-scc="mcdm.heroes.v1/negotiation/power" data-search-exclude=""}
 
 An [NPC](../../Browse/rule/general/npc.md) with the [power](../../Browse/negotiation/power.md) [motivation](../../Browse/rule/negotiation/motivation.md) covets the authority of others. They want to increase their influence, no matter how great it already is, and maintain their domain. They might seek power through conquering others, the collection of artifacts, or through the infusion of [supernatural](../../Browse/rule/general/supernatural.md) rituals—though why choose one method when all three together achieve the best results? Some such [NPCs](../../Browse/rule/general/npc.md) are world-traversing tyrants, but the petty administrators of village organizations and shrines can covet power just as hungrily.
 
@@ -186,7 +184,7 @@ Arguments that appeal to a power [motivation](../../Browse/rule/negotiation/moti
 - "Everyone knows you should be running the watch, Percy. The old lady's retiring, and our friend Baron Kuglar is naming the replacement. Now, you let us into the restricted armory, and we'll put in a good word."
 - "We know he's your brother, Your Highness, but he's older—first in line for the throne. If you help us prove he's in a cult, you become the favorite son."
 
-##### Protection {data-scc="mcdm.heroes.v1/negotiation/protection"}
+##### Protection {data-scc="mcdm.heroes.v1/negotiation/protection" data-search-exclude=""}
 
 An [NPC](../../Browse/rule/general/npc.md) with the [protection](../../Browse/negotiation/protection.md) [motivation](../../Browse/rule/negotiation/motivation.md) has land, people, information, items, or an organization they want protected above all else. Keeping
 
@@ -199,7 +197,7 @@ Arguments that appeal to a protection [motivation](../../Browse/rule/negotiation
 - "Dead soldiers grow the necromancer's ranks. Total annihilation is the only way to defeat her. March with us now, while her army is small, and we'll defeat her. Or you could gamble that someone else tries, fails, and suddenly she's at the border, ready to overrun your kingdom with an army tenfold larger than what it is now."
 - "I understand your grandchild is hell-bent on joining the service. I happen to have a magic suit of armor that could help them ward off the blows of monsters and ruffians. I'd be happy to give it to you, in exchange for borrowing your griffons for a few days. After all, I won't need the armor if I can simply fly over the marsh's monsters."
 
-##### Revelry {data-scc="mcdm.heroes.v1/negotiation/revelry"}
+##### Revelry {data-scc="mcdm.heroes.v1/negotiation/revelry" data-search-exclude=""}
 
 An [NPC](../../Browse/rule/general/npc.md) with the [revelry](../../Browse/negotiation/revelry.md) [motivation](../../Browse/rule/negotiation/motivation.md) just wants to have fun. They enjoy socializing at parties, thrill-seeking, or indulging in other hedonistic activities. Getting pleasure out of life while spending time with people they like is paramount to such [NPCs](../../Browse/rule/general/npc.md).
 
@@ -210,7 +208,7 @@ Arguments that appeal to the [revelry](../../Browse/negotiation/revelry.md) [mot
 - "How would you like to have the most exclusive songs for your exclusive birthday celebration next week? I'll write you a whole original set list, free of charge... provided you extend me and my band here an invitation."
 - "I know you don't want to forge five Chronokinesis Crowns. How's this instead? You do that for me, and I'll give you the fourteen kegs of whiskey we found in a steel-[dwarf](../../Browse/ancestry/dwarf.md) ruin. This stuff is old, unique, and forget-your-first-name potent. You can crack a keg with your friends to celebrate a job well done."
 
-##### Vengeance {data-scc="mcdm.heroes.v1/negotiation/vengeance"}
+##### Vengeance {data-scc="mcdm.heroes.v1/negotiation/vengeance" data-search-exclude=""}
 
 An [NPC](../../Browse/rule/general/npc.md) with the [vengeance](../../Browse/negotiation/vengeance.md) [motivation](../../Browse/rule/negotiation/motivation.md) wants to harm another who has hurt them. Their desire for revenge could be proportional to the harm that was inflicted upon them, or they might wish to pay back their pain with [interest](../../Browse/rule/negotiation/interest.md). In some cases, a desire for vengeance can be satisfied only by the death of another, but an [NPC](../../Browse/rule/general/npc.md) might wish to pay back their own suffering with embarrassment, career failure, or some other less permanent pain.
 
@@ -225,17 +223,17 @@ Arguments that appeal to the [vengeance](../../Browse/negotiation/vengeance.md) 
 >
 > Just like the heroes, [NPCs](../../Browse/rule/general/npc.md) in negotiations are complex individuals who can change over time. It's possible that the heroes might have to negotiate with the same [NPC](../../Browse/rule/general/npc.md) for several different favors during the course of a campaign, over which time the [NPC](../../Browse/rule/general/npc.md)'s [motivations](../../Browse/rule/negotiation/motivation.md) and [pitfalls](../../Browse/rule/negotiation/pitfall.md) might change. If the heroes [turn](../../Browse/rule/combat/turn.md) a bandit captain with the [greed](../../Browse/negotiation/greed.md) and [power](../../Browse/negotiation/power.md) [motivations](../../Browse/rule/negotiation/motivation.md) into a temporary ally, that criminal might learn from them, changing their ways to rob only those who exploit the poor and giving those earnings to people in need. The next time the heroes negotiate with the bandit captain, they have the [benevolence](../../Browse/negotiation/benevolence.md) and [protection](../../Browse/negotiation/protection.md) [motivations](../../Browse/rule/negotiation/motivation.md).
 
-### Opening a Negotiation
+### Opening a Negotiation {data-scc="mcdm.heroes.v1/rule.negotiation/opening" data-search-exclude=""}
 
 A negotiation begins when the heroes ask something of an [NPC](../../Browse/rule/general/npc.md) and the Director deems that the circumstances require a negotiation. Those circumstances always involve the heroes requiring assistance that could change the course of the adventure, and having the [NPC](../../Browse/rule/general/npc.md) conflicted about working with them. Unlike combat, which can be thrust upon the heroes by violent allies or unexpected circumstances, the heroes must be the ones to willingly start a negotiation. Characters must want something from an [NPC](../../Browse/rule/general/npc.md). Otherwise they have no reason to negotiate!
 
 The Director can decide that an [NPC](../../Browse/rule/general/npc.md) who has something the players want could show up at their door and ask if the heroes want to negotiate. But it's always okay for the characters to say, "Not [interest](../../Browse/rule/negotiation/interest.md)ed," and refuse to do so.
 
-#### Stop Combat, Start Negotiation
+#### Stop Combat, Start Negotiation {data-search-exclude=""}
 
 If a hero wants to halt hostilities to negotiate with the other side, they can use a maneuver to make a hard [Presence](../../Browse/rule/character/presence.md) [test](../../Browse/rule/test/test.md) (or another applicable [test](../../Browse/rule/test/test.md), as the Director determines) in an attempt to stop combat and start a negotiation. The [test](../../Browse/rule/test/test.md) has a chance of success only if the Director believes the other side is willing and capable of negotiating. A foe who has the upper hand, who hates the heroes beyond measure, or who lacks sapience is unlikely to negotiate.
 
-#### Starting Stats
+#### Starting Stats {data-search-exclude=""}
 
 An [NPC](../../Browse/rule/general/npc.md)'s starting negotiation stats depend on their attitude toward the heroes, as shown on the Negotiation Starting Attitudes table, and can be adjusted by the Director as they see fit. A naturally irascible [NPC](../../Browse/rule/general/npc.md) might have lower [patience](../../Browse/rule/negotiation/patience.md), while a hostile [NPC](../../Browse/rule/general/npc.md) with a greater-than-expected stake in the negotiation topic might have a higher-than-typical [interest](../../Browse/rule/negotiation/interest.md).
 
@@ -270,7 +268,7 @@ After this [test](../../Browse/rule/test/test.md) is made, the heroes can't make
 
 While the heroes can discover an [NPC](../../Browse/rule/general/npc.md)'s [motivations](../../Browse/rule/negotiation/motivation.md) or [pitfalls](../../Browse/rule/negotiation/pitfall.md) through [tests](../../Browse/rule/test/test.md) made during negotiation, they can employ other methods of investigating [motivations](../../Browse/rule/negotiation/motivation.md) or [pitfalls](../../Browse/rule/negotiation/pitfall.md) before negotiation. Research or a little reconnaissance (for instance, reading the [NPC](../../Browse/rule/general/npc.md)'s diary or talking to their closest friends) can reveal quite a bit about a person!
 
-### Making Arguments
+### Making Arguments {data-scc="mcdm.heroes.v1/rule.negotiation/argument" data-search-exclude=""}
 
 As part of their initial request to an [NPC](../../Browse/rule/general/npc.md) in a negotiation, a hero makes an argument as to why the [NPC](../../Browse/rule/general/npc.md) should give the heroes what they want. The hero might offer to do something in exchange as part of their argument, such as clearing bandits from a forest, handing over a piece of treasure, or slaying a dragon for the [NPC](../../Browse/rule/general/npc.md). Or instead of offering something, the hero could attempt to convince the [NPC](../../Browse/rule/general/npc.md) that it's in their own best [interest](../../Browse/rule/negotiation/interest.md) to help—or even that it's a moral imperative. For example, a hero could appeal to a knight's sense of duty, the potential wealth a mercenary could make, or the final wish of a queen's dearly departed grandmother as part of an argument. [NPCs](../../Browse/rule/general/npc.md) who admire the heroes are more likely to respond to compliments and buttering up, while those who fear the heroes are more likely to respond to intimidation and awe.
 
@@ -280,7 +278,7 @@ One hero makes an argument to an [NPC](../../Browse/rule/general/npc.md), but th
 
 This is a good topic for discussion before a group actually gets into a negotiation, so everyone knows the other players' thoughts. Some groups have the most fun without any around-the-table discussion, while others prefer being able to strategize as often as possible.
 
-#### Appeal to Motivation
+#### Appeal to Motivation {data-search-exclude=""}
 
 If an argument doesn't include a [pitfall](../../Browse/rule/negotiation/pitfall.md) and appeals to one of the [NPC](../../Browse/rule/general/npc.md)'s [motivations](../../Browse/rule/negotiation/motivation.md) that hasn't already been appealed to, the hero making the argument can make an medium [test](../../Browse/rule/test/test.md) to attempt to sway the [NPC](../../Browse/rule/general/npc.md) with the argument. Depending on the argument, this can be a [Reason](../../Browse/rule/character/reason.md), [Intuition](../../Browse/rule/character/intuition.md), or [Presence](../../Browse/rule/character/presence.md) [test](../../Browse/rule/test/test.md) using any applicable skill—most commonly a skill from the [interpersonal skill group](../../Browse/skill/interpersonal/index.md). The [test](../../Browse/rule/test/test.md) has the following outcomes:
 
@@ -298,7 +296,7 @@ If the heroes attempt to appeal to a [motivation](../../Browse/rule/negotiation/
 >
 > If a hero makes an argument that appears to appeal to more than one of an [NPC](../../Browse/rule/general/npc.md)'s [motivations](../../Browse/rule/negotiation/motivation.md), the Director can ask for clarification. After listing the [motivations](../../Browse/rule/negotiation/motivation.md) it seemed as though the player was trying to appeal to, they can ask the player to pick one from the list. If the player had another [motivation](../../Browse/rule/negotiation/motivation.md) in mind, it's up to the Director whether the argument appealed to that specific [motivation](../../Browse/rule/negotiation/motivation.md) or not.
 
-#### No Motivation or Pitfall
+#### No Motivation or Pitfall {data-search-exclude=""}
 
 If an argument doesn't include one of the [NPC](../../Browse/rule/general/npc.md)'s [motivations](../../Browse/rule/negotiation/motivation.md) or [pitfalls](../../Browse/rule/negotiation/pitfall.md), the hero who makes the argument must make a more difficult [test](../../Browse/rule/test/test.md) to appeal to the [NPC](../../Browse/rule/general/npc.md). The [test](../../Browse/rule/test/test.md) has the following outcomes:
 
@@ -312,7 +310,7 @@ If an argument doesn't include one of the [NPC](../../Browse/rule/general/npc.md
 
 If the heroes try to use the same argument without a [pitfall](../../Browse/rule/negotiation/pitfall.md) or [motivation](../../Browse/rule/negotiation/motivation.md) twice, the [test](../../Browse/rule/test/test.md) automatically obtains a tier 1 outcome.
 
-#### Caught in a Lie
+#### Caught in a Lie {data-search-exclude=""}
 
 If a hero lies to an [NPC](../../Browse/rule/general/npc.md) with an argument that fails to increase the [NPC](../../Browse/rule/general/npc.md)'s [interest](../../Browse/rule/negotiation/interest.md), the Director can decide that the [NPC](../../Browse/rule/general/npc.md) catches the lie and is offended by it. The [NPC](../../Browse/rule/general/npc.md)'s [interest](../../Browse/rule/negotiation/interest.md) decreases by 1, in addition to any decrease imposed by the failure.
 
@@ -320,11 +318,11 @@ If a hero lies to an [NPC](../../Browse/rule/general/npc.md) with an argument th
 >
 > Since [Reason](../../Browse/rule/character/reason.md) and [Intuition](../../Browse/rule/character/intuition.md) with creatively applied skills can be used to make arguments, all heroes can actively participate in the process of negotiation. The hero with the highest [Presence](../../Browse/rule/character/presence.md) who has the [Persuade](../../Browse/skill/interpersonal/persuade.md) skill doesn't automatically have to be the one who makes all the [tests](../../Browse/rule/test/test.md).
 
-#### Pitfall Used
+#### Pitfall Used {data-search-exclude=""}
 
 If an argument uses one of the [NPC](../../Browse/rule/general/npc.md)'s [pitfalls](../../Browse/rule/negotiation/pitfall.md), it automatically fails and the [NPC](../../Browse/rule/general/npc.md)'s [interest](../../Browse/rule/negotiation/interest.md) and [patience](../../Browse/rule/negotiation/patience.md) each decrease by 1. The [NPC](../../Browse/rule/general/npc.md) might also warn the heroes not to treat them in such a way again.
 
-#### Renown and Negotiation
+#### Renown and Negotiation {data-search-exclude=""}
 
 [Renown](../../Browse/rule/resource/renown.md) determines whether a hero's fame (or infamy) has any sway over an [NPC](../../Browse/rule/general/npc.md). A hero's reputation can make a negotiation easier, provided that hero knows how to capitalize on it.
 
@@ -332,11 +330,11 @@ During a negotiation, an [NPC](../../Browse/rule/general/npc.md) has an **Impres
 
 The higher an [NPC](../../Browse/rule/general/npc.md)'s Impression score, the harder they are to influence with [Renown](../../Browse/rule/resource/renown.md). A small-time brigand has a lower Impression score than a monarch who meets with powerful and famous people all the time. The [NPCs](../../Browse/rule/general/npc.md) and Impression table provides examples of different archetypical [NPC](../../Browse/rule/general/npc.md) Impression scores. If a creature has a level, then their Impression score equals their level unless the Director deems otherwise.
 
-##### Fame or Infamy?
+##### Fame or Infamy? {data-search-exclude=""}
 
 If a hero has enough [Renown](../../Browse/rule/resource/renown.md) for their score to influence an [NPC](../../Browse/rule/general/npc.md) during negotiation, the Director decides if the hero is famous or infamous to the [NPC](../../Browse/rule/general/npc.md). If the [NPC](../../Browse/rule/general/npc.md) appreciates a character's deeds and views them as a hero who makes the world a better place, that hero is famous to them. If the [NPC](../../Browse/rule/general/npc.md) believes the hero's accomplishments make the world worse and views them as an enemy, the hero is infamous to the [NPC](../../Browse/rule/general/npc.md).
 
-###### NPCs and Impresion Table
+###### NPCs and Impresion Table {data-search-exclude=""}
 
 | Impression | Example [NPC](../../Browse/rule/general/npc.md)                                                 |
 |------------|-------------------------------------------------------------|
@@ -353,11 +351,11 @@ If a hero has enough [Renown](../../Browse/rule/resource/renown.md) for their sc
 | 11         | Archdevil, archfey, [demigod](../../Browse/title/demigod.md)                                 |
 | 12         | Deity, titan                                                |
 
-##### Influencing Tests
+##### Influencing Tests {data-search-exclude=""}
 
 If a hero is famous to an [NPC](../../Browse/rule/general/npc.md), they gain an [edge](../../Browse/rule/dice/edge.md) on [tests](../../Browse/rule/test/test.md) when making arguments to which the [Flirt](../../Browse/skill/interpersonal/flirt.md), Lead, or [Persuade](../../Browse/skill/interpersonal/persuade.md) skill could be applied. If they are infamous to the [NPC](../../Browse/rule/general/npc.md), they gain an [edge](../../Browse/rule/dice/edge.md) on [tests](../../Browse/rule/test/test.md) when making arguments to which the [Brag](../../Browse/skill/interpersonal/brag.md), [Interrogate](../../Browse/skill/interpersonal/interrogate.md), or [Intimidate](../../Browse/skill/interpersonal/intimidate.md) skill could be applied. A hero gains this [edge](../../Browse/rule/dice/edge.md) even if they don't have the appropriate skill.
 
-### NPC Response and Offer
+### NPC Response and Offer {data-scc="mcdm.heroes.v1/rule.negotiation/offer" data-search-exclude=""}
 
 After a hero makes an argument, an [NPC](../../Browse/rule/general/npc.md) responds in one of three ways:
 
@@ -369,7 +367,7 @@ Unless the [NPC](../../Browse/rule/general/npc.md) is deceitful, it should be cl
 
 The initial response should come with an offer (or a refusal to make an offer) based on the [NPC](../../Browse/rule/general/npc.md)'s current [interest](../../Browse/rule/negotiation/interest.md). If a hero's argument reduces an [NPC](../../Browse/rule/general/npc.md)'s [patience](../../Browse/rule/negotiation/patience.md) to 0, the [NPC](../../Browse/rule/general/npc.md) lets the heroes know that this is their final offer.
 
-#### Interest 5 ("Yes, and...")
+#### Interest 5 ("Yes, and...") {data-search-exclude=""}
 
 If the [NPC](../../Browse/rule/general/npc.md)'s [interest](../../Browse/rule/negotiation/interest.md) is 5, they offer everything the heroes initially asked for—and then sweeten the deal. This represents the best possible outcome for the heroes. If they offered to perform any services or make payments as part of the deal, the [NPC](../../Browse/rule/general/npc.md) might waive those obligations, allowing the heroes to get what they want for free. Alternatively, the [NPC](../../Browse/rule/general/npc.md) might hold the heroes to any offers they made and instead offer an extra service or item on top of what was asked for.
 
@@ -377,25 +375,25 @@ For example, if the heroes asked the boss of a thieves' guild for that organizat
 
 The [NPC](../../Browse/rule/general/npc.md) should let the heroes know that this is the best offer they can make.
 
-#### Interest 4 ("Yes.")
+#### Interest 4 ("Yes.") {data-search-exclude=""}
 
 If the [NPC](../../Browse/rule/general/npc.md)'s [interest](../../Browse/rule/negotiation/interest.md) is 4, they offer the heroes everything they asked for but won't sweeten the deal. The [NPC](../../Browse/rule/general/npc.md) also accepts anything the heroes have offered as part of the deal with this outcome.
 
 For example, if the heroes offered to help spring a guild thief from prison in exchange for the elite assassins of the thieves' guild standing against Lord Saxton, the guildmaster agrees to those terms without attempting to adjust anything. This likely ends the negotiation, but it's possible that the heroes could push for a little more, provided the [NPC](../../Browse/rule/general/npc.md) has the [patience](../../Browse/rule/negotiation/patience.md) for another argument. A Director could prompt the heroes to push for more by having the [NPC](../../Browse/rule/general/npc.md) ask a leading question, such as, "Is there anything else?" or "What else do you want from me?"
 
-#### Interest 3 ("Yes, but...")
+#### Interest 3 ("Yes, but...") {data-search-exclude=""}
 
 If the [NPC](../../Browse/rule/general/npc.md)'s [interest](../../Browse/rule/negotiation/interest.md) is 3, they offer the heroes what they want in exchange for everything the heroes offered... then they ask for a little extra, such as a favor or a payment from the characters. If the heroes offered to free a thieves' guild member from prison in exchange for the service of the organization's assassins, the guildmaster might ask them to free an additional prisoner, or to grant the prisoner they rescue a sum of cash or a magic weapon.
 
-#### Interest 2 ("No, but...")
+#### Interest 2 ("No, but...") {data-search-exclude=""}
 
 If the [NPC](../../Browse/rule/general/npc.md)'s [interest](../../Browse/rule/negotiation/interest.md) is 2, the [NPC](../../Browse/rule/general/npc.md) can't give the heroes what they want. However, they are willing to offer other less impactful goods or services in exchange for whatever the heroes have promised. The guildmaster might not be willing to spare any troops to fight Lord Saxton, but could instead offer the latest spy reports on Saxton's movements in exchange for the jailbreak.
 
-#### Interest 1 ("No.")
+#### Interest 1 ("No.") {data-search-exclude=""}
 
 If the [NPC](../../Browse/rule/general/npc.md)'s [interest](../../Browse/rule/negotiation/interest.md) is 1, they outright reject the heroes' idea without a counteroffer. If the [NPC](../../Browse/rule/general/npc.md) still has [patience](../../Browse/rule/negotiation/patience.md), they might press the heroes for a better deal, saying something like, "Why should we risk our necks to help you fight Lord Saxton? What's really in it for the thieves' guild, other than a short, brutal end when you inevitably fail?"
 
-#### Interest 0 ("No, and...")
+#### Interest 0 ("No, and...") {data-search-exclude=""}
 
 If an [NPC](../../Browse/rule/general/npc.md)'s [interest](../../Browse/rule/negotiation/interest.md) is 0, they offer nothing, refuse to negotiate further, and seek to harm the heroes. The [NPC](../../Browse/rule/general/npc.md) might attack immediately, or they could take a different approach, perhaps spreading malicious rumors about the characters, sending assassins after them, or otherwise making their lives difficult. If the heroes don't want to be at odds with the [NPC](../../Browse/rule/general/npc.md), they'll need to offer a valuable gift or undertake a quest just to make amends.
 

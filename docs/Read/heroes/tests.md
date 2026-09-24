@@ -1,8 +1,6 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-search:
-  exclude: true
 name: Tests
 order: 9
 scc: mcdm.heroes.v1/chapter/tests
@@ -29,7 +27,7 @@ When a hero attempts to solve a task that typically requires a [test](../../Brow
 
 That said, such clever ideas often work for free the first time, but the Director could decide they require [tests](../../Browse/rule/test/test.md) if they are used again.
 
-### How to Make a Test {data-scc="mcdm.heroes.v1/rule.test/test"}
+### How to Make a Test {data-scc="mcdm.heroes.v1/rule.test/test" data-search-exclude=""}
 
 Each test has the following steps:
 
@@ -39,29 +37,29 @@ The player makes the [power roll](../../Browse/rule/dice/power-roll.md). If the 
 
 The player reports the total of the roll, and the Director interprets its success or failure.
 
-#### Characteristics and Tests
+#### Characteristics and Tests {data-search-exclude=""}
 
 When you describe a task you want your hero to undertake and the Director determines that a [test](../../Browse/rule/test/test.md) is necessary, they then determine which [characteristic](../../Browse/rule/character/characteristic.md) the [test](../../Browse/rule/test/test.md) uses based on the nature of the task. For instance, if you're scaling a wall, the Director could ask for a [Might](../../Browse/rule/character/might.md) [test](../../Browse/rule/test/test.md) to determine how far and how quickly you're able to climb. If you're attempting to plead your innocence in court for a murder you didn't commit, the Director might ask for a [Presence](../../Browse/rule/character/presence.md) [test](../../Browse/rule/test/test.md) if you're attempting to win over the jury with your personality, or a [Reason](../../Browse/rule/character/reason.md) [test](../../Browse/rule/test/test.md) if you're laying out a logical argument to support your innocence.
 
 Though the Director can decide to call for [tests](../../Browse/rule/test/test.md) in any circumstances, a number of tasks that heroes routinely undertake are commonly set up as [tests](../../Browse/rule/test/test.md).
 
-##### Might Tests
+##### Might Tests {data-search-exclude=""}
 
 You make a [Might](../../Browse/rule/character/might.md) [test](../../Browse/rule/test/test.md) whenever a risky task calls for the use of physical strength. [Might](../../Browse/rule/character/might.md) [tests](../../Browse/rule/test/test.md) are most often used for breaking down doors and other structures, hurling heavy objects, [pulling](../../Browse/movement/forced-movement.md) your body up a sheer wall, swimming against a mighty current, and other feats of physical power.
 
-##### Agility Tests
+##### Agility Tests {data-search-exclude=""}
 
 You make an [Agility](../../Browse/rule/character/agility.md) [test](../../Browse/rule/test/test.md) whenever a risky task calls for the use of your physical coordination and nimbleness. [Agility](../../Browse/rule/character/agility.md) [tests](../../Browse/rule/test/test.md) are most often used for tumbling, sneaking quietly, picking locks, and engaging in sleight of hand.
 
-##### Reason Tests
+##### Reason Tests {data-search-exclude=""}
 
 You make a [Reason](../../Browse/rule/character/reason.md) [test](../../Browse/rule/test/test.md) whenever you attempt a risky task that requires the use of your mental acumen and education, formal or otherwise. [Reason](../../Browse/rule/character/reason.md) [tests](../../Browse/rule/test/test.md) are most often used to recall lore, deduce information based on clues, complete a puzzle, forge counterfeit items or documents, break a code, convince others of a logical argument, or make an estimation.
 
-##### Intuition Tests
+##### Intuition Tests {data-search-exclude=""}
 
 You make an [Intuition](../../Browse/rule/character/intuition.md) [test](../../Browse/rule/test/test.md) whenever you attempt a risky task that requires the use of your powers of observation and instinct. [Intuition](../../Browse/rule/character/intuition.md) [tests](../../Browse/rule/test/test.md) are most often used to notice hidden creatures or details, discern another person's motivations or honesty, calm and reassure others, and train animals.
 
-##### Presence Tests
+##### Presence Tests {data-search-exclude=""}
 
 You make a [Presence](../../Browse/rule/character/presence.md) [test](../../Browse/rule/test/test.md) whenever you attempt a risky task that requires the use of your force of personality. [Presence](../../Browse/rule/character/presence.md) [tests](../../Browse/rule/test/test.md) are most often used to gain trust, project confidence, and influence and lead other creatures.
 
@@ -73,7 +71,7 @@ You make a [Presence](../../Browse/rule/character/presence.md) [test](../../Brow
 >
 > That said, if everyone in your gaming group decides to lift one or more of these restrictions after talking about it, go for it! There's no wrong way to play as long as everyone is having fun. The MCDM Safety Toolkit (available for download at *https://mcdm.gg/SafetyToolkit*) discusses how to talk about potentially problematic topics such as limiting character agency at your table.
 
-#### Test Difficulty {data-scc="mcdm.heroes.v1/rule.test/test-difficulty"}
+#### Test Difficulty {data-scc="mcdm.heroes.v1/rule.test/test-difficulty" data-search-exclude=""}
 
 The Director decides how difficult a task that requires a [test](../../Browse/rule/test/test.md) is: easy, medium, or hard. If a task seems as though it's easier than easy, then no [test](../../Browse/rule/test/test.md) is necessary. The hero simply accomplishes the task. If the task seems harder than hard, then the Director is free to decide that it's impossible to complete with a [test](../../Browse/rule/test/test.md).
 
@@ -81,7 +79,7 @@ On a [test](../../Browse/rule/test/test.md)-by-[test](../../Browse/rule/test/tes
 
 The [Test](../../Browse/rule/test/test.md) Difficulty Outcomes table shows all the possible outcomes of the different difficulties of [tests](../../Browse/rule/test/test.md). The Director will keep this information handy so as to be able to compare the different difficulties and their outcomes during play.
 
-###### Test Difficulty Outcomes Table
+###### Test Difficulty Outcomes Table {data-search-exclude=""}
 
 | [Power Roll](../../Browse/rule/dice/power-roll.md)       | Easy [Test](../../Browse/rule/test/test.md) Outcomes         | Medium [Test](../../Browse/rule/test/test.md) Outcomes       | Hard [Test](../../Browse/rule/test/test.md) Outcomes         |
 |------------------|----------------------------|----------------------------|----------------------------|
@@ -94,7 +92,7 @@ Whenever the rules talk about obtaining a success on a [test](../../Browse/rule/
 
 Whenever you make a [test](../../Browse/rule/test/test.md) whose outcome you don't like, you can spend a [hero token](../../Browse/rule/resource/hero-token.md) to reroll the [test](../../Browse/rule/test/test.md). You must use the new roll.
 
-##### Easy Tests
+##### Easy Tests {data-search-exclude=""}
 
 An easy [test](../../Browse/rule/test/test.md) has some risk of consequence, but most heroes will likely overcome it. The [power roll](../../Browse/rule/dice/power-roll.md) you make for an easy [test](../../Browse/rule/test/test.md) determines the outcome (see [Test](../../Browse/rule/test/test.md) Outcomes below):
 
@@ -102,7 +100,7 @@ An easy [test](../../Browse/rule/test/test.md) has some risk of consequence, but
 - **12-16:** You succeed on the task.
 - **17+:** You succeed on the task with a reward.
 
-##### Medium Tests
+##### Medium Tests {data-search-exclude=""}
 
 A medium [test](../../Browse/rule/test/test.md) has some risk of failure that most heroes will likely overcome—but with a cost. The [power roll](../../Browse/rule/dice/power-roll.md) you make for a medium [test](../../Browse/rule/test/test.md) determines the outcome:
 
@@ -110,7 +108,7 @@ A medium [test](../../Browse/rule/test/test.md) has some risk of failure that mo
 - **12-16:** You succeed on the task and incur a consequence.
 - **17+:** You succeed on the task.
 
-##### Hard Tests
+##### Hard Tests {data-search-exclude=""}
 
 A hard [test](../../Browse/rule/test/test.md) has a greater risk of failure, and most heroes are likely to suffer some hardship while trying to overcome the intended task. The [power roll](../../Browse/rule/dice/power-roll.md) you make for a hard [test](../../Browse/rule/test/test.md) determines the outcome:
 
@@ -118,15 +116,15 @@ A hard [test](../../Browse/rule/test/test.md) has a greater risk of failure, and
 - **12-16:** You fail the task.
 - **17+:** You succeed on the task.
 
-##### Natural 19 or 20: Success With a Reward {data-scc="mcdm.heroes.v1/rule.dice/natural-19-20"}
+##### Natural 19 or 20: Success With a Reward {data-scc="mcdm.heroes.v1/rule.dice/natural-19-20" data-search-exclude=""}
 
 Whenever you get a natural 19 or 20 on the [power roll](../../Browse/rule/dice/power-roll.md) for a [test](../../Browse/rule/test/test.md)—a total of 19 or 20 before adding your [characteristic](../../Browse/rule/character/characteristic.md) score or other modifiers you score a critical success. This critical success automatically lets you succeed on the task with a reward, even if the [test](../../Browse/rule/test/test.md) has a medium or hard difficulty.
 
-#### Test Outcomes
+#### Test Outcomes {data-search-exclude=""}
 
 Depending on a [test](../../Browse/rule/test/test.md)'s difficulty and the [power roll](../../Browse/rule/dice/power-roll.md) made to accomplish the task represented by the [test](../../Browse/rule/test/test.md), you can obtain one of the following outcomes.
 
-##### Failure With a Consequence
+##### Failure With a Consequence {data-search-exclude=""}
 
 If you fail a hard [test](../../Browse/rule/test/test.md) and incur a consequence, you don't do what you set out to do—in addition to which, you suffer an impactful setback. The Director determines the exact nature of the consequence, which is typically related to the specific task.
 
@@ -145,7 +143,7 @@ Common consequences for failing a [test](../../Browse/rule/test/test.md) include
 
 In lieu of other consequences, the Director also has the option to gain 2 additional Malice—a resource that creatures run by the Director use in combat—at the start of the next combat encounter.
 
-##### Failure
+##### Failure {data-search-exclude=""}
 
 If you fail a [test](../../Browse/rule/test/test.md) without incurring a consequence, you simply don't do what you set out to do. A hero attempting to climb a wall finds no purchase. A hero trying to recall lore can't remember the desired facts. If a hero attempts to bribe a guard, they don't take the bait.
 
@@ -153,7 +151,7 @@ On a failed [test](../../Browse/rule/test/test.md), the Director can decide that
 
 When a hero rolls a failure without a consequence, the Director can offer to let them succeed with a consequence instead. For instance, when a hero rolls a 10 on a medium [Might](../../Browse/rule/character/might.md) [test](../../Browse/rule/test/test.md) to break down a locked door, that's a failure and the door stays closed. But the Director could suggest to the player that instead of not breaking down the door, they can break down the door and lose 1d6 [Stamina](../../Browse/rule/health/stamina.md) from being injured in the effort.
 
-##### Success With a Consequence
+##### Success With a Consequence {data-search-exclude=""}
 
 If you succeed on a [test](../../Browse/rule/test/test.md) and incur a consequence, you do what you set out to do, but with an added cost. A hero might succeed in climbing up a wall, but the surface of the wall crumbles and becomes unstable as they do, making the climb more difficult for the ally ascending after them. When trying to sneak by a cultist, a hero successfully does so, but leaves footprints or other evidence of trespassing behind. If a hero bribes a guard to be allowed to sneak into a prison, the guard lets them in—but then demands a gemstone the hero needs for an important [crafting project](../../Browse/rule/downtime/crafting-project.md) before they let the hero out.
 
@@ -161,11 +159,11 @@ Just like failure with a consequence, the consequences accompanying success don'
 
 When a hero rolls a success with a consequence, the Director might give them a chance to fail instead. For instance, when a hero rolls a 10 on an easy [Agility](../../Browse/rule/character/agility.md) [test](../../Browse/rule/test/test.md) to pick the lock on a chest, that's a success with a consequence. The Director could suggest that the character has opened the lock but broken their lockpicks in the process (knowing the picks can't be replaced until the hero returns to town), but can also give them the option of failing to pick the lock but keeping their lockpicks intact.
 
-##### Success
+##### Success {data-search-exclude=""}
 
 If you succeed on a [test](../../Browse/rule/test/test.md) without consequence or reward, you simply achieve whatever you set out to do. A hero climbs that wall, sneaks by those cultists, or bribes that guard just as they planned. Smooth.
 
-##### Success With a Reward
+##### Success With a Reward {data-search-exclude=""}
 
 If you succeed on a [test](../../Browse/rule/test/test.md) with a reward, you accomplish whatever you set out to do. But you also gain a little something extra, in the form of momentum or luck that makes the immediate future easier for you or your friends.
 
@@ -188,15 +186,15 @@ In lieu of other rewards, the Director can also decide that a hero who succeeds 
 >
 > Coming up with consequences and rewards for [tests](../../Browse/rule/test/test.md) can be a big part of the fun for many Directors, but even the best Directors occasionally run low on ideas. That's why the game gives the default option of consequences and rewards in the form of Malice and [hero tokens](../../Browse/rule/resource/hero-token.md). However, a Director who prefers narrative consequences and rewards can ask the players to pitch different consequences and rewards when they make a [test](../../Browse/rule/test/test.md). The Director can reject, add to, or modify the players' ideas as they choose, and will remind the players that they need to pitch real consequences, and not minor rewards disguised as consequences.
 
-#### How Long Does It Take?
+#### How Long Does It Take? {data-search-exclude=""}
 
 The amount of time required for a task involving a [test](../../Browse/rule/test/test.md) is determined by the Director. A task such as recalling lore with a [Reason](../../Browse/rule/character/reason.md) [test](../../Browse/rule/test/test.md) might take no time at all. Ducking behind a barrel to hide with an [Agility](../../Browse/rule/character/agility.md) [test](../../Browse/rule/test/test.md) might require a maneuver or a main action, while tracking a band of voiceless talkers through the World Below could take hours or even days.
 
-##### Tests During Combat
+##### Tests During Combat {data-search-exclude=""}
 
 Many (but not all) [tests](../../Browse/rule/test/test.md) that a hero might make during combat are made as maneuvers. See Maneuvers in Chapter 10: [Combat](combat.md) for more information.
 
-#### Can I Try Again?
+#### Can I Try Again? {data-search-exclude=""}
 
 In many cases when you fail a [test](../../Browse/rule/test/test.md), you can't attempt the [test](../../Browse/rule/test/test.md) again unless the circumstances of the [test](../../Browse/rule/test/test.md) change. For instance, if you attempt an [Agility](../../Browse/rule/character/agility.md) [test](../../Browse/rule/test/test.md) to pick a lock and fail, you can't attempt to pick the lock again unless you get better lockpicks, oil the lock, have someone demonstrate how to pick a similar lock, and so on.
 
@@ -226,7 +224,7 @@ An [NPC](../../Browse/rule/general/npc.md) might also make a [Presence](../../Br
 
 As an optional rule, the Director is also free to ask the heroes to make a [reactive test](../../Browse/rule/test/reactive-test.md) to a deceptive [NPC](../../Browse/rule/general/npc.md) instead (see [Reactive Tests](../../Browse/rule/test/reactive-test.md) below) whenever they choose.
 
-#### Opposed Power Rolls {data-scc="mcdm.heroes.v1/rule.dice/opposed-power-roll"}
+#### Opposed Power Rolls {data-scc="mcdm.heroes.v1/rule.dice/opposed-power-roll" data-search-exclude=""}
 
 When two creatures are engaged in a particularly dramatic struggle that requires them both to make [tests](../../Browse/rule/test/test.md), the Director can have all the creatures involved make a [test](../../Browse/rule/test/test.md). The creature with the highest [power roll](../../Browse/rule/dice/power-roll.md) wins. You can't earn a reward as part of these opposed [power rolls](../../Browse/rule/dice/power-roll.md), and they don't follow the typical difficulty structure or have three different tiers of possible outcomes.
 
@@ -236,7 +234,7 @@ In the event of a tie in an opposed [test](../../Browse/rule/test/test.md), the 
 
 Since opposed [power rolls](../../Browse/rule/dice/power-roll.md) don't use tiers, when you make an opposed [power roll](../../Browse/rule/dice/power-roll.md), a double [edge](../../Browse/rule/dice/edge.md) provides a +4 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to the roll, a double [bane](../../Browse/rule/dice/bane.md) provides a -4 [penalty](../../Browse/rule/dice/bonuses-and-penalties.md) to the roll, an automatic tier increase counts as a +4 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to the roll, and an automatic tier decrease counts as a -4 [penalty](../../Browse/rule/dice/bonuses-and-penalties.md) to the roll.
 
-### Reactive Tests {data-scc="mcdm.heroes.v1/rule.test/reactive-test"}
+### Reactive Tests {data-scc="mcdm.heroes.v1/rule.test/reactive-test" data-search-exclude=""}
 
 At certain times when a hero isn't engaged in overcoming a task, the Director might ask the player of the hero to make a [test](../../Browse/rule/test/test.md) without context, explaining the [test](../../Browse/rule/test/test.md) only after the [power roll](../../Browse/rule/dice/power-roll.md) is made. This often happens when a hero has a chance of knowing or noticing something of significance that the player doesn't know to look for or ask about.
 
@@ -301,7 +299,7 @@ The rules for skills allow for them to be flexibly applied to any [test](../../B
 
 Skills are broken down into five skill groups: crafting, exploration, interpersonal, intrigue, and lore.
 
-##### Crafting Skills {data-scc="mcdm.heroes.v1/skill.group/crafting"}
+##### Crafting Skills {data-scc="mcdm.heroes.v1/skill.group/crafting" data-search-exclude=""}
 
 Skills from the crafting skill group are used in the creation and appraisal of goods and for jury-rigging contraptions. They are especially useful during rests and downtime.
 
@@ -309,7 +307,7 @@ Rewards for [tests](../../Browse/rule/test/test.md) made with crafting skills ty
 
 Consequences for [tests](../../Browse/rule/test/test.md) made with crafting skills typically include wasting rare materials used in the creation process, greatly overestimating or underestimating an item's value, and poorly jury-rigging a contraption so that it harms people (or at least the wrong people).
 
-###### Crafting Skills Table
+###### Crafting Skills Table {data-search-exclude=""}
 
 | Skill         | Use                                                |
 |---------------|----------------------------------------------------|
@@ -324,47 +322,47 @@ Consequences for [tests](../../Browse/rule/test/test.md) made with crafting skil
 | Mechanics     | Build machines and clockwork items                 |
 | Tailoring     | Craft clothing of cloth or leather                 |
 
-###### Alchemy {data-scc="mcdm.heroes.v1/skill.crafting/alchemy"}
+###### Alchemy {data-scc="mcdm.heroes.v1/skill.crafting/alchemy" data-search-exclude=""}
 
 Make bombs and potions.
 
-###### Architecture {data-scc="mcdm.heroes.v1/skill.crafting/architecture"}
+###### Architecture {data-scc="mcdm.heroes.v1/skill.crafting/architecture" data-search-exclude=""}
 
 Create buildings and vehicles.
 
-###### Blacksmithing {data-scc="mcdm.heroes.v1/skill.crafting/blacksmithing"}
+###### Blacksmithing {data-scc="mcdm.heroes.v1/skill.crafting/blacksmithing" data-search-exclude=""}
 
 Forge metal armor and weapons.
 
-###### Carpentry {data-scc="mcdm.heroes.v1/skill.crafting/carpentry"}
+###### Carpentry {data-scc="mcdm.heroes.v1/skill.crafting/carpentry" data-search-exclude=""}
 
 Create items out of wood.
 
-###### Cooking {data-scc="mcdm.heroes.v1/skill.crafting/cooking"}
+###### Cooking {data-scc="mcdm.heroes.v1/skill.crafting/cooking" data-search-exclude=""}
 
 Create delicious dishes.
 
-###### Fletching {data-scc="mcdm.heroes.v1/skill.crafting/fletching"}
+###### Fletching {data-scc="mcdm.heroes.v1/skill.crafting/fletching" data-search-exclude=""}
 
 Make [ranged](../../Browse/rule/combat/ranged.md) weapons and ammunition.
 
-###### Forgery {data-scc="mcdm.heroes.v1/skill.crafting/forgery"}
+###### Forgery {data-scc="mcdm.heroes.v1/skill.crafting/forgery" data-search-exclude=""}
 
 Create false badges, documents, and other items.
 
-###### Jewelry {data-scc="mcdm.heroes.v1/skill.crafting/jewelry"}
+###### Jewelry {data-scc="mcdm.heroes.v1/skill.crafting/jewelry" data-search-exclude=""}
 
 Create bracelets, crowns, rings, and other jewelry.
 
-###### Mechanics {data-scc="mcdm.heroes.v1/skill.crafting/mechanics"}
+###### Mechanics {data-scc="mcdm.heroes.v1/skill.crafting/mechanics" data-search-exclude=""}
 
 Build machines and clockwork items.
 
-###### Tailoring {data-scc="mcdm.heroes.v1/skill.crafting/tailoring"}
+###### Tailoring {data-scc="mcdm.heroes.v1/skill.crafting/tailoring" data-search-exclude=""}
 
 Craft clothing of cloth or leather.
 
-##### Exploration Skills {data-scc="mcdm.heroes.v1/skill.group/exploration"}
+##### Exploration Skills {data-scc="mcdm.heroes.v1/skill.group/exploration" data-search-exclude=""}
 
 Skills from the exploration skill group are used to physically explore the environment around the characters, and to overcome physical obstacles.
 
@@ -372,7 +370,7 @@ Rewards for [tests](../../Browse/rule/test/test.md) made with exploration skills
 
 Consequences for [tests](../../Browse/rule/test/test.md) made with exploration skills include harming yourself, your gear, or your allies; becoming lost; or stumbling headlong into a hazard or a place you were trying to avoid.
 
-###### Exploration Skills Table
+###### Exploration Skills Table {data-search-exclude=""}
 
 | Skill      | Use                                                             |
 |------------|-----------------------------------------------------------------|
@@ -387,47 +385,47 @@ Consequences for [tests](../../Browse/rule/test/test.md) made with exploration s
 | Ride       | Ride and control a nonsapient mount, such as a horse            |
 | Swim       | Move through deep liquid                                        |
 
-###### Climb {data-scc="mcdm.heroes.v1/skill.exploration/climb"}
+###### Climb {data-scc="mcdm.heroes.v1/skill.exploration/climb" data-search-exclude=""}
 
 Move up vertical surfaces.
 
-###### Drive {data-scc="mcdm.heroes.v1/skill.exploration/drive"}
+###### Drive {data-scc="mcdm.heroes.v1/skill.exploration/drive" data-search-exclude=""}
 
 Control vehicles.
 
-###### Endurance {data-scc="mcdm.heroes.v1/skill.exploration/endurance"}
+###### Endurance {data-scc="mcdm.heroes.v1/skill.exploration/endurance" data-search-exclude=""}
 
 Remain engaged in strenuous activity over a long period of time.
 
-###### Gymnastics {data-scc="mcdm.heroes.v1/skill.exploration/gymnastics"}
+###### Gymnastics {data-scc="mcdm.heroes.v1/skill.exploration/gymnastics" data-search-exclude=""}
 
 Move across unsteady or narrow surfaces; tumble.
 
-###### Heal {data-scc="mcdm.heroes.v1/skill.exploration/heal"}
+###### Heal {data-scc="mcdm.heroes.v1/skill.exploration/heal" data-search-exclude=""}
 
 Use mundane first aid.
 
-###### Jump {data-scc="mcdm.heroes.v1/skill.exploration/jump"}
+###### Jump {data-scc="mcdm.heroes.v1/skill.exploration/jump" data-search-exclude=""}
 
 Leap vertical and horizontal [distances](../../Browse/rule/combat/distance.md).
 
-###### Lift {data-scc="mcdm.heroes.v1/skill.exploration/lift"}
+###### Lift {data-scc="mcdm.heroes.v1/skill.exploration/lift" data-search-exclude=""}
 
 Pick up, carry, and throw heavy objects.
 
-###### Navigate {data-scc="mcdm.heroes.v1/skill.exploration/navigate"}
+###### Navigate {data-scc="mcdm.heroes.v1/skill.exploration/navigate" data-search-exclude=""}
 
 Read a map and travel without becoming lost.
 
-###### Ride {data-scc="mcdm.heroes.v1/skill.exploration/ride"}
+###### Ride {data-scc="mcdm.heroes.v1/skill.exploration/ride" data-search-exclude=""}
 
 Ride and control a nonsapient mount, such as a horse.
 
-###### Swim {data-scc="mcdm.heroes.v1/skill.exploration/swim"}
+###### Swim {data-scc="mcdm.heroes.v1/skill.exploration/swim" data-search-exclude=""}
 
 Move through deep liquid.
 
-##### Interpersonal Skills {data-scc="mcdm.heroes.v1/skill.group/interpersonal"}
+##### Interpersonal Skills {data-scc="mcdm.heroes.v1/skill.group/interpersonal" data-search-exclude=""}
 
 Skills from the interpersonal skill group are used to socially interact with other creatures, and are particularly useful during negotiations (see Chapter 11: [Negotiation](negotiation.md)). Aside from the [Handle Animals](../../Browse/skill/interpersonal/handle-animals.md) skill, you can generally only use interpersonal skills when you attempt to influence creatures who have emotions and who can understand you.
 
@@ -435,7 +433,7 @@ Rewards for [tests](../../Browse/rule/test/test.md) made with interpersonal skil
 
 Consequences for [tests](../../Browse/rule/test/test.md) made with interpersonal skills include making the creature you're interacting with angry, sad, embarrassed, offended, or otherwise upset or uncomfortable. This might cause them to ignore you, storm off, spread rumors about you, attack you, betray you, blackmail you, or otherwise attempt to harm you.
 
-###### Interpersonal Skills Table
+###### Interpersonal Skills Table {data-search-exclude=""}
 
 | Skill          | Use                                                                     |
 |----------------|-------------------------------------------------------------------------|
@@ -453,59 +451,59 @@ Consequences for [tests](../../Browse/rule/test/test.md) made with interpersonal
 | Persuade       | Convince someone to agree with you through use of your charms and grace |
 | Read Person    | Read the emotions and body language of other creatures                  |
 
-###### Brag {data-scc="mcdm.heroes.v1/skill.interpersonal/brag"}
+###### Brag {data-scc="mcdm.heroes.v1/skill.interpersonal/brag" data-search-exclude=""}
 
 Impress others with stories of your deeds.
 
-###### Empathize {data-scc="mcdm.heroes.v1/skill.interpersonal/empathize"}
+###### Empathize {data-scc="mcdm.heroes.v1/skill.interpersonal/empathize" data-search-exclude=""}
 
 Relate to someone on a personal level.
 
-###### Flirt {data-scc="mcdm.heroes.v1/skill.interpersonal/flirt"}
+###### Flirt {data-scc="mcdm.heroes.v1/skill.interpersonal/flirt" data-search-exclude=""}
 
 Attract romantic attention from someone.
 
-###### Gamble {data-scc="mcdm.heroes.v1/skill.interpersonal/gamble"}
+###### Gamble {data-scc="mcdm.heroes.v1/skill.interpersonal/gamble" data-search-exclude=""}
 
 Make bets with others.
 
-###### Handle Animals {data-scc="mcdm.heroes.v1/skill.interpersonal/handle-animals"}
+###### Handle Animals {data-scc="mcdm.heroes.v1/skill.interpersonal/handle-animals" data-search-exclude=""}
 
 Interact with nonsapient animal wildlife.
 
-###### Interrogate {data-scc="mcdm.heroes.v1/skill.interpersonal/interrogate"}
+###### Interrogate {data-scc="mcdm.heroes.v1/skill.interpersonal/interrogate" data-search-exclude=""}
 
 Obtain information from a creature withholding it.
 
-###### Intimidate {data-scc="mcdm.heroes.v1/skill.interpersonal/intimidate"}
+###### Intimidate {data-scc="mcdm.heroes.v1/skill.interpersonal/intimidate" data-search-exclude=""}
 
 Awe or scare a creature.
 
-###### Lead {data-scc="mcdm.heroes.v1/skill.interpersonal/lead"}
+###### Lead {data-scc="mcdm.heroes.v1/skill.interpersonal/lead" data-search-exclude=""}
 
 Inspire people to action.
 
-###### Lie {data-scc="mcdm.heroes.v1/skill.interpersonal/lie"}
+###### Lie {data-scc="mcdm.heroes.v1/skill.interpersonal/lie" data-search-exclude=""}
 
 Convince someone that a falsehood is true.
 
-###### Music {data-scc="mcdm.heroes.v1/skill.interpersonal/music"}
+###### Music {data-scc="mcdm.heroes.v1/skill.interpersonal/music" data-search-exclude=""}
 
 Perform music vocally or with an instrument.
 
-###### Perform {data-scc="mcdm.heroes.v1/skill.interpersonal/perform"}
+###### Perform {data-scc="mcdm.heroes.v1/skill.interpersonal/perform" data-search-exclude=""}
 
 Engage in dance, oratory, acting, or some other physical performance.
 
-###### Persuade {data-scc="mcdm.heroes.v1/skill.interpersonal/persuade"}
+###### Persuade {data-scc="mcdm.heroes.v1/skill.interpersonal/persuade" data-search-exclude=""}
 
 Convince someone to agree with you through use of your charms and grace.
 
-###### Read Person {data-scc="mcdm.heroes.v1/skill.interpersonal/read-person"}
+###### Read Person {data-scc="mcdm.heroes.v1/skill.interpersonal/read-person" data-search-exclude=""}
 
 Read the emotions and body language of other creatures.
 
-##### Intrigue Skills {data-scc="mcdm.heroes.v1/skill.group/intrigue"}
+##### Intrigue Skills {data-scc="mcdm.heroes.v1/skill.group/intrigue" data-search-exclude=""}
 
 Skills from the intrigue skill group are used in tasks centered around investigation, thievery, and spycraft.
 
@@ -513,7 +511,7 @@ Rewards for [tests](../../Browse/rule/test/test.md) made with skills from this g
 
 Consequences for [tests](../../Browse/rule/test/test.md) made with intrigue skills include getting caught in the act or failing to notice a detail that places you in danger, such as triggering a trap or walking into an ambush.
 
-###### Intrigue Skills Table
+###### Intrigue Skills Table {data-search-exclude=""}
 
 | Skill          | Use                                                                                                |
 |----------------|----------------------------------------------------------------------------------------------------|
@@ -530,55 +528,55 @@ Consequences for [tests](../../Browse/rule/test/test.md) made with intrigue skil
 | Sneak          | Move silently                                                                                      |
 | Track          | Follow a trail that another creature has left behind                                               |
 
-###### Alertness {data-scc="mcdm.heroes.v1/skill.intrigue/alertness"}
+###### Alertness {data-scc="mcdm.heroes.v1/skill.intrigue/alertness" data-search-exclude=""}
 
 Intuitively sense the details of your surroundings.
 
-###### Conceal Object {data-scc="mcdm.heroes.v1/skill.intrigue/conceal-object"}
+###### Conceal Object {data-scc="mcdm.heroes.v1/skill.intrigue/conceal-object" data-search-exclude=""}
 
 Hide an object on your person or in your environment.
 
-###### Disguise {data-scc="mcdm.heroes.v1/skill.intrigue/disguise"}
+###### Disguise {data-scc="mcdm.heroes.v1/skill.intrigue/disguise" data-search-exclude=""}
 
 Change your appearance to look like a different person.
 
-###### Eavesdrop {data-scc="mcdm.heroes.v1/skill.intrigue/eavesdrop"}
+###### Eavesdrop {data-scc="mcdm.heroes.v1/skill.intrigue/eavesdrop" data-search-exclude=""}
 
 Actively listen to something that is hard to hear, such as a whispered conversation through a door.
 
-###### Escape Artist {data-scc="mcdm.heroes.v1/skill.intrigue/escape-artist"}
+###### Escape Artist {data-scc="mcdm.heroes.v1/skill.intrigue/escape-artist" data-search-exclude=""}
 
 Escape from bonds such as rope or manacles.
 
-###### Hide {data-scc="mcdm.heroes.v1/skill.intrigue/hide"}
+###### Hide {data-scc="mcdm.heroes.v1/skill.intrigue/hide" data-search-exclude=""}
 
 Conceal yourself from others' observation.
 
-###### Pick Lock {data-scc="mcdm.heroes.v1/skill.intrigue/pick-lock"}
+###### Pick Lock {data-scc="mcdm.heroes.v1/skill.intrigue/pick-lock" data-search-exclude=""}
 
 Open a lock without using the key.
 
-###### Pick Pocket {data-scc="mcdm.heroes.v1/skill.intrigue/pick-pocket"}
+###### Pick Pocket {data-scc="mcdm.heroes.v1/skill.intrigue/pick-pocket" data-search-exclude=""}
 
 Steal an item that another person wears or carries without them noticing.
 
-###### Sabotage {data-scc="mcdm.heroes.v1/skill.intrigue/sabotage"}
+###### Sabotage {data-scc="mcdm.heroes.v1/skill.intrigue/sabotage" data-search-exclude=""}
 
 Disable a mechanical device such as a trap.
 
-###### Search {data-scc="mcdm.heroes.v1/skill.intrigue/search"}
+###### Search {data-scc="mcdm.heroes.v1/skill.intrigue/search" data-search-exclude=""}
 
 Actively search an environment for important details and items.
 
-###### Sneak {data-scc="mcdm.heroes.v1/skill.intrigue/sneak"}
+###### Sneak {data-scc="mcdm.heroes.v1/skill.intrigue/sneak" data-search-exclude=""}
 
 Move silently.
 
-###### Track {data-scc="mcdm.heroes.v1/skill.intrigue/track"}
+###### Track {data-scc="mcdm.heroes.v1/skill.intrigue/track" data-search-exclude=""}
 
 Follow a trail that another creature has left behind.
 
-##### Lore Skills {data-scc="mcdm.heroes.v1/skill.group/lore"}
+##### Lore Skills {data-scc="mcdm.heroes.v1/skill.group/lore" data-search-exclude=""}
 
 Skills from the lore skill group are used to research and recall specific information. They are especially useful during rests and downtime.
 
@@ -586,7 +584,7 @@ Rewards for [tests](../../Browse/rule/test/test.md) made with lore skills typica
 
 Consequences for [tests](../../Browse/rule/test/test.md) made with lore skills typically include learning an incorrect piece of information that seems useful, but which actually works against your interests or wastes time. (It's fun to roleplay these kinds of moments, so lean in!) Alternatively, the Director can make medium and hard [tests](../../Browse/rule/test/test.md) with lore group skills for each hero in secret, then let the players know the narrative outcome without revealing the outcome of the [power roll](../../Browse/rule/dice/power-roll.md) (see the Optional Rule: Secret [Reactive Tests](../../Browse/rule/test/reactive-test.md) sidebar earlier in this chapter).
 
-###### Lore Skills Table
+###### Lore Skills Table {data-search-exclude=""}
 
 | Skill               | Use                                                                                        |
 |---------------------|--------------------------------------------------------------------------------------------|
@@ -603,51 +601,51 @@ Consequences for [tests](../../Browse/rule/test/test.md) made with lore skills t
 | Strategy            | Knowing about battle tactics and logistics                                                 |
 | Timescape           | Knowing about the many worlds of the timescape                                             |
 
-###### Criminal Underworld {data-scc="mcdm.heroes.v1/skill.lore/criminal-underworld"}
+###### Criminal Underworld {data-scc="mcdm.heroes.v1/skill.lore/criminal-underworld" data-search-exclude=""}
 
 Knowing about criminal organizations, their crimes, their relationships, and their leaders.
 
-###### Culture {data-scc="mcdm.heroes.v1/skill.lore/culture"}
+###### Culture {data-scc="mcdm.heroes.v1/skill.lore/culture" data-search-exclude=""}
 
 Knowing about a culture's customs, folktales, and taboos.
 
-###### History {data-scc="mcdm.heroes.v1/skill.lore/history"}
+###### History {data-scc="mcdm.heroes.v1/skill.lore/history" data-search-exclude=""}
 
 Knowing about significant past events.
 
-###### Magic {data-scc="mcdm.heroes.v1/skill.lore/magic"}
+###### Magic {data-scc="mcdm.heroes.v1/skill.lore/magic" data-search-exclude=""}
 
 Knowing about magical places, spells, rituals, items, and phenomena.
 
-###### Monsters {data-scc="mcdm.heroes.v1/skill.lore/monsters"}
+###### Monsters {data-scc="mcdm.heroes.v1/skill.lore/monsters" data-search-exclude=""}
 
 Knowing monster ecology, strengths, and weaknesses.
 
-###### Nature {data-scc="mcdm.heroes.v1/skill.lore/nature"}
+###### Nature {data-scc="mcdm.heroes.v1/skill.lore/nature" data-search-exclude=""}
 
 Knowing about natural flora, fauna, and weather.
 
-###### Psionics {data-scc="mcdm.heroes.v1/skill.lore/psionics"}
+###### Psionics {data-scc="mcdm.heroes.v1/skill.lore/psionics" data-search-exclude=""}
 
 Knowing about psionic places, spells, rituals, items, and phenomena.
 
-###### Religion {data-scc="mcdm.heroes.v1/skill.lore/religion"}
+###### Religion {data-scc="mcdm.heroes.v1/skill.lore/religion" data-search-exclude=""}
 
 Knowing about religious mythology, practices, and rituals.
 
-###### Rumors {data-scc="mcdm.heroes.v1/skill.lore/rumors"}
+###### Rumors {data-scc="mcdm.heroes.v1/skill.lore/rumors" data-search-exclude=""}
 
 Knowing gossip, legends, and uncertain truths.
 
-###### Society {data-scc="mcdm.heroes.v1/skill.lore/society"}
+###### Society {data-scc="mcdm.heroes.v1/skill.lore/society" data-search-exclude=""}
 
 Knowing noble etiquette and the leadership and power dynamics of noble families.
 
-###### Strategy {data-scc="mcdm.heroes.v1/skill.lore/strategy"}
+###### Strategy {data-scc="mcdm.heroes.v1/skill.lore/strategy" data-search-exclude=""}
 
 Knowing about battle tactics and logistics.
 
-###### Timescape {data-scc="mcdm.heroes.v1/skill.lore/timescape"}
+###### Timescape {data-scc="mcdm.heroes.v1/skill.lore/timescape" data-search-exclude=""}
 
 Knowing about the many worlds of the timescape.
 
@@ -730,7 +728,7 @@ The Director then decides to make the failure potentially more interesting, by a
 
 **Director:** *As Jorn yanks Korvo off the ground and pulls him up to the top of the wall, a guard [turns](../../Browse/rule/combat/turn.md) a bullseye lantern your way, calling out, "Who goes there?"*
 
-### Assist a Test
+### Assist a Test {data-scc="mcdm.heroes.v1/rule.test/assist-a-test" data-search-exclude=""}
 
 You can attempt to assist another creature with a [test](../../Browse/rule/test/test.md) they make, provided you have a skill that applies to the [test](../../Browse/rule/test/test.md), the other creature isn't using that same skill on the [test](../../Browse/rule/test/test.md), and you can describe how your character helps to the Director's satisfaction. In other words, your attempt to help has to make sense, and you have to bring some useful expertise to the table. Helping another creature sneak by shouting encouragement at them isn't going to make them stealthier.
 
@@ -742,11 +740,11 @@ When you attempt to assist another creature, make a [test](../../Browse/rule/tes
 
 For example, when an ally tries to pick a jailer's pocket, you might attempt to assist by using the [Flirt](../../Browse/skill/interpersonal/flirt.md) skill to distract the jailer. The Director accepts this, and asks you to make a [Presence](../../Browse/rule/character/presence.md) [test](../../Browse/rule/test/test.md) using Flirt. The outcome of that [test](../../Browse/rule/test/test.md) determines the [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) you provide to the other hero's [Agility](../../Browse/rule/character/agility.md) [test](../../Browse/rule/test/test.md) to pick the jailer's pocket—or whether you fumble the distraction and potentially draw attention to the attempt.
 
-### Hide and Sneak
+### Hide and Sneak {data-scc="mcdm.heroes.v1/rule.test/hide-and-sneak" data-search-exclude=""}
 
 Hiding and sneaking are important tools for heroes and their foes. You might want to avoid another creature's notice to eavesdrop on conver sations, steal items, set up an ambush, or avoid a combat encounter.
 
-#### Hiding
+#### Hiding {data-search-exclude=""}
 
 To hide from a creature, you must have [cover](../../Browse/rule/combat/cover.md) or [concealment](../../Browse/rule/combat/concealment.md) from that creature (see Chapter 10: [Combat](combat.md)), who can't observe you attempting to hide. A creature is observing you if they're aware of your specific location before you attempt to hide. This means they can pinpoint you with their senses and point a finger (or paw or tentacle) at you as if to shout, "There they are!" If you duck behind a barrel to hide from a foe, your attempt to hide has a chance of succeeding only if your foe doesn't notice you doing so. If you're being chased by a hungry dragon, you can hide only if you first move to a location where the dragon can't observe you—for instance, by turning a sharp corner into a tunnel full of giant stalagmites before the dragon does. You then make your hide attempt.
 
@@ -760,7 +758,7 @@ Draw Steel
 
 You are no longer hidden from a creature if you don't have [cover](../../Browse/rule/combat/cover.md) or [concealment](../../Browse/rule/combat/concealment.md) from them. If you use an ability, interact with an enemy, move without sneaking, or otherwise make noise or reveal yourself while hidden, you are no longer hidden once the activity that reveals you resolves. For instance, if you are hidden and then make a [strike](../../Browse/rule/combat/strike.md), you resolve the [strike](../../Browse/rule/combat/strike.md) first, then are no longer hidden.
 
-##### Searching for Hidden Creatures
+##### Searching for Hidden Creatures {data-search-exclude=""}
 
 You can search for creatures who are hidden from you as long as those creatures are within 10 squares and you have [line of effect](../../Browse/rule/combat/line-of-effect.md) to them. To do so, you use a maneuver to make an [Intuition](../../Browse/rule/character/intuition.md) [test](../../Browse/rule/test/test.md) using the Search skill, and any hidden creatures within 10 squares of you each make an opposed [Agility](../../Browse/rule/character/agility.md) [test](../../Browse/rule/test/test.md) using the [Hide](../../Browse/skill/intrigue/hide.md) skill (see [Opposed Power Rolls](../../Browse/rule/dice/opposed-power-roll.md) earlier in this chapter). At the Director's discretion, different [characteristics](../../Browse/rule/character/characteristic.md) and skills can be used in this opposed [test](../../Browse/rule/test/test.md). For example, your foe might make a [Presence](../../Browse/rule/character/presence.md) [test](../../Browse/rule/test/test.md) using the [Handle Animals](../../Browse/skill/interpersonal/handle-animals.md) skill to hide among a flock of sheep without disturbing them, or you could make a [Reason](../../Browse/rule/character/reason.md) [test](../../Browse/rule/test/test.md) using the Eavesdrop skill to pick out the breathing of a creature hidden in the dark.
 
@@ -772,23 +770,23 @@ If a creature is hidden from your allies but not from you, you can use a maneuve
 >
 > Most of the time, if a creature has [line of effect](../../Browse/rule/combat/line-of-effect.md) to you, they're able to observe you—especially if you're an active threat to them, such as in a combat encounter. However, the game leaves what it means to be observed open to interpretation, because there are circumstances where a creature might have [line of effect](../../Browse/rule/combat/line-of-effect.md) to you but isn't observing you, giving you a chance to hide. For example, a guard in a crowded marketplace likely isn't able to observe every creature within their [line of effect](../../Browse/rule/combat/line-of-effect.md), so slipping away to hide in that situation is probably easier than hiding from them in an otherwise empty street. The Director has the final say on who is observing you, and who you are able to observe.
 
-#### Sneaking
+#### Sneaking {data-search-exclude=""}
 
 While you are hidden from another creature and not in combat, you can attempt to sneak—avoiding the senses of other creatures as you move around them in the open—to remain hidden. While sneaking, your [speed](../../Browse/rule/character/speed.md) is halved. To sneak, you make an [Agility](../../Browse/rule/character/agility.md) [test](../../Browse/rule/test/test.md) using the Sneak skill with a difficulty set by the Director. If you succeed, you remain hidden during your movement. This [test](../../Browse/rule/test/test.md) can use another [characteristic](../../Browse/rule/character/characteristic.md) at the Director's discretion, such as using [Presence](../../Browse/rule/character/presence.md) to blend in with a crowd on a packed city street.
 
-### Group Tests {data-scc="mcdm.heroes.v1/rule.test/group-test"}
+### Group Tests {data-scc="mcdm.heroes.v1/rule.test/group-test" data-search-exclude=""}
 
 Whenever two or more heroes attempt to overcome a single, simple task together that calls for them to make the same [test](../../Browse/rule/test/test.md), the Director can call for a group [test](../../Browse/rule/test/test.md). For example, if several heroes are all attempting to climb the outside of a tower at the same time, giving each other assistance and advice, they could be asked to make a [Might](../../Browse/rule/character/might.md) group [test](../../Browse/rule/test/test.md). If a group of heroes attempt to sneak by a sleeping ogre, they might make an [Agility](../../Browse/rule/character/agility.md) group [test](../../Browse/rule/test/test.md).
 
-#### Group Test Difficulty
+#### Group Test Difficulty {data-search-exclude=""}
 
 The Director determines the difficulty of a [group test](../../Browse/rule/test/group-test.md) the same way they do for individual [tests](../../Browse/rule/test/test.md). [Group tests](../../Browse/rule/test/group-test.md) can be easy, medium, or hard.
 
-#### Making a Group Test
+#### Making a Group Test {data-search-exclude=""}
 
 Each hero participating in the [group test](../../Browse/rule/test/group-test.md) makes the [test](../../Browse/rule/test/test.md) individually as usual, but the Director waits until all the [tests](../../Browse/rule/test/test.md) have been made to interpret the outcome. A hero who is participating in the [group test](../../Browse/rule/test/group-test.md) can't assist another hero participating in the [test](../../Browse/rule/test/test.md).
 
-#### Group Test Outcome
+#### Group Test Outcome {data-search-exclude=""}
 
 When interpreting the outcome of a [group test](../../Browse/rule/test/group-test.md), the Director first determines if the task succeeded or not before figuring out rewards and consequences. If half or more of the heroes making the [group test](../../Browse/rule/test/group-test.md) succeed, then the [group test](../../Browse/rule/test/group-test.md) succeeds. Otherwise, the [group test](../../Browse/rule/test/group-test.md) fails.
 
@@ -798,7 +796,7 @@ If the heroes failed the [group test](../../Browse/rule/test/group-test.md) and 
 
 If fewer than half the heroes incur a consequence or earn a reward on their individual [tests](../../Browse/rule/test/test.md), then the [group test](../../Browse/rule/test/group-test.md) simply succeeds or fails.
 
-### Montage Tests {data-scc="mcdm.heroes.v1/rule.test/montage-test"}
+### Montage Tests {data-scc="mcdm.heroes.v1/rule.test/montage-test" data-search-exclude=""}
 
 When a group of heroes works together over time to accomplish a common goal that requires more than a single [characteristic](../../Browse/rule/character/characteristic.md), the Director can call for a montage [test](../../Browse/rule/test/test.md). Such [tests](../../Browse/rule/test/test.md) typically take place over a prolonged period and focus on collective or shared activities. Navigating a vast desert, convincing farmers to rise up against a tyrannical leader, and performing a ritual to open a magically sealed gate can all be accomplished with montage [tests](../../Browse/rule/test/test.md).
 
@@ -808,17 +806,17 @@ A hero can also spend their [turn](../../Browse/rule/combat/turn.md) using an it
 
 Once a hero makes a [test](../../Browse/rule/test/test.md), assists with a [test](../../Browse/rule/test/test.md), or uses an ability or other option, they can't do anything else as part of the montage [test](../../Browse/rule/test/test.md) until each other hero involved in the montage [test](../../Browse/rule/test/test.md) does so as well. A hero can also choose to do nothing, most often if they have no one to assist and fear that their actions might make the situation worse (see Montage [Test](../../Browse/rule/test/test.md) Outcomes below). Once every hero has had a chance to act, the montage [test](../../Browse/rule/test/test.md) round ends and a new one begins.
 
-#### Time and Stakes
+#### Time and Stakes {data-search-exclude=""}
 
 As the name suggests, [montage tests](../../Browse/rule/test/montage-test.md) create a kind of cinematic montage in the action of the game. A [montage test](../../Browse/rule/test/montage-test.md) can take place over the course of several hours or days, with each individual [test](../../Browse/rule/test/test.md) or other activity set up as a brief vignette within the montage that stars one of the heroes. Combat encounters, negotiations, and other challenges and scenes can break up a [montage test](../../Browse/rule/test/montage-test.md) (see Sample [Montage Test](../../Browse/rule/test/montage-test.md) below).
 
 The Director should deploy [montage tests](../../Browse/rule/test/montage-test.md) only when the players are engaged in overcoming a goal that has stakes for the story and some sort of pressure, such as a looming deadline or impending harm. A [montage test](../../Browse/rule/test/montage-test.md) is great for a race to get to another location before an enemy army does, a chase to escape or catch up to a foe, weathering a hazard, preparing a village for war, or similar activities. Low- or no-stakes activities such as travel through a forest with no time pressure, or training during a [respite](../../Browse/rule/resource/respite.md) to use a new kit, can be narrated in montage style, but they don't require a [montage test](../../Browse/rule/test/montage-test.md).
 
-#### Director Sets the Scene
+#### Director Sets the Scene {data-search-exclude=""}
 
 At the start of a [montage test](../../Browse/rule/test/montage-test.md), the Director should describe the scenario underlying the task at hand, and the various challenges the heroes might face as they attempt to collectively accomplish it. For example, if the heroes are chasing down a pickpocket through a crowded market, the Director might talk about the throngs of innocent people blocking the way forward, obscuring the characters' vision, and making noise that complicates attempts to hear the thief's nimble footsteps. There are also traveling carts to dodge, the [speed](../../Browse/rule/character/speed.md) and dexterity of the pursued character to contend with, and a pack of stray dogs who chase after anyone who sprints through the market. Describing these obstacles gives the heroes ideas about what they're trying to overcome as they attempt to achieve their goals.
 
-#### Individual Tests in Montage Tests
+#### Individual Tests in Montage Tests {data-search-exclude=""}
 
 The difficulty of each individual [test](../../Browse/rule/test/test.md) in a [montage test](../../Browse/rule/test/montage-test.md) is set by the Director and can vary from [test](../../Browse/rule/test/test.md) to [test](../../Browse/rule/test/test.md). For instance, if the heroes are preparing the defenses of a village threatened by a band of approaching raiders, the Director might decide that a character who wants to dig a trench around the village needs to make an easy [Might](../../Browse/rule/character/might.md) [test](../../Browse/rule/test/test.md). Another hero wants to train the untested farmers of the village in the ways of war, and the Director decides this is a hard [Reason](../../Browse/rule/character/reason.md) [test](../../Browse/rule/test/test.md).
 
@@ -828,35 +826,35 @@ The Director should couch each success or failure as it relates to the overall g
 
 The rewards and consequences of individual [tests](../../Browse/rule/test/test.md) made during a [montage test](../../Browse/rule/test/montage-test.md) are handled on an individual basis. The Director can use the default of gaining additional Malice in the next combat encounter for consequences and having the party gain [hero tokens](../../Browse/rule/resource/hero-token.md) for rewards to keep the montage moving.
 
-#### Can't Use the Same Skill Twice
+#### Can't Use the Same Skill Twice {data-search-exclude=""}
 
 An individual character can't use the same skill more than once in a [montage test](../../Browse/rule/test/montage-test.md). Though multiple heroes can use the same skill, a [test](../../Browse/rule/test/test.md) or an assist with a specific skill represents each characters' entire contribution to the [montage test](../../Browse/rule/test/montage-test.md) with that skill. At the Director's discretion, this restriction can be lifted for prolonged [montage tests](../../Browse/rule/test/montage-test.md), or for [montage tests](../../Browse/rule/test/montage-test.md) that are limited in scope and have only a small number of skills that apply to them.
 
-#### New Challenges for Each Test
+#### New Challenges for Each Test {data-search-exclude=""}
 
 In general, when a hero makes a [test](../../Browse/rule/test/test.md) as part of a [montage test](../../Browse/rule/test/montage-test.md), they should choose new obstacles to overcome that haven't already been overcome as part of the [test](../../Browse/rule/test/test.md). If the heroes are chasing a thief through the marketplace and one of them has already distracted the pack of stray dogs with a deft hand and a piece of meat, additional [tests](../../Browse/rule/test/test.md) made to distract the animals don't count toward the outcome of the [montage test](../../Browse/rule/test/montage-test.md).
 
 When it fits the scenario, the Director can adjust this restriction. If part of a [montage test](../../Browse/rule/test/montage-test.md) involves searching for people trapped in a burning building, the Director is likely to allow multiple [tests](../../Browse/rule/test/test.md) to fight or avoid the fire, since this will happen throughout the [montage test](../../Browse/rule/test/montage-test.md), not just once.
 
-##### Introducing More Challenges
+##### Introducing More Challenges {data-search-exclude=""}
 
 During a [montage test](../../Browse/rule/test/montage-test.md), a Director can introduce new challenges for the heroes to face. While attempting to run out of a burning building from the top floor, the characters might discover that by the time they reach the second floor, beams are starting to fall and glass windows are exploding as the structure starts to collapse. These new challenges can be incorporated into the [tests](../../Browse/rule/test/test.md) the heroes subsequently make.
 
-#### Total Successes and Failures
+#### Total Successes and Failures {data-search-exclude=""}
 
 The Director or another player will track the total number of successes and failures the heroes earn during a [montage test](../../Browse/rule/test/montage-test.md). Every [montage test](../../Browse/rule/test/montage-test.md) has a success limit and a failure limit. When the number of successful [tests](../../Browse/rule/test/test.md) equals the success limit, the [montage test](../../Browse/rule/test/montage-test.md) ends and the heroes achieve total success (see [Montage Test](../../Browse/rule/test/montage-test.md) Outcomes below). The [montage test](../../Browse/rule/test/montage-test.md) can also end when the number of failed [tests](../../Browse/rule/test/test.md) equals the failure limit, and the heroes suffer total failure.
 
-#### Limited Rounds
+#### Limited Rounds {data-search-exclude=""}
 
 A [montage test](../../Browse/rule/test/montage-test.md) should last only 2 [montage test](../../Browse/rule/test/montage-test.md) rounds. If the heroes don't end the [montage test](../../Browse/rule/test/montage-test.md) by achieving the success limit or failure limit, the [montage test](../../Browse/rule/test/montage-test.md) ends when the second [montage test](../../Browse/rule/test/montage-test.md) round is over. This time limit helps to keep a [montage test](../../Browse/rule/test/montage-test.md) from becoming a slog, and prevents heroes from simply using their turns to assist the one hero with the best chance of success. This can inspire each hero to be a more active participant in the [montage test](../../Browse/rule/test/montage-test.md). That said, the Director can increase the number of rounds a [montage test](../../Browse/rule/test/montage-test.md) lasts if they wish to create a particularly grueling challenge.
 
-#### Montage Test Difficulty
+#### Montage Test Difficulty {data-search-exclude=""}
 
 The Director determines the success limit and failure limit of a [montage test](../../Browse/rule/test/montage-test.md). They can share this information or keep it secret, depending on what feels the most fun and dramatic for the situation and the players.
 
 In general, the higher the success limit, the harder and more complicated it is for the heroes to overcome the [montage test](../../Browse/rule/test/montage-test.md), since a hero can't make the same [test](../../Browse/rule/test/test.md) twice. The [Montage Test](../../Browse/rule/test/montage-test.md) Difficulty table gives a recommended success limit and failure limit for easy, moderate, and hard [montage tests](../../Browse/rule/test/montage-test.md) for groups with five heroes.
 
-###### Montage Test Difficulty Table
+###### Montage Test Difficulty Table {data-search-exclude=""}
 
 | Difficulty              | Success Limit | Failure Limit |
 |-------------------------|---------------|---------------|
@@ -869,7 +867,7 @@ For larger or smaller groups, the Director can make the following adjustments to
 - For four or fewer heroes, decrease the success limit and failure limits by 1 (to a minimum of 2) for every hero fewer than five. For example, if a group has only three heroes, an easy [montage test](../../Browse/rule/test/montage-test.md) has a success limit and failure limit of 3.
 - For six or more heroes, increase the success and failure limits by 1 for every hero more than five.
 
-#### Montage Test Outcomes
+#### Montage Test Outcomes {data-search-exclude=""}
 
 A [montage test](../../Browse/rule/test/montage-test.md) can have three different outcomes:
 
@@ -877,29 +875,29 @@ A [montage test](../../Browse/rule/test/montage-test.md) can have three differen
 - If the heroes hit the failure limit or time runs out, and if they've achieved at least two more successes than failures, they achieve a partial success.
 - If the heroes hit the failure limit or time runs out, and if they don't have at least two more successes than failures, they suffer total failure.
 
-##### Total Success
+##### Total Success {data-search-exclude=""}
 
 If the heroes earn a total success, they achieve what they set out to do without complication. For instance, if the heroes engaged in a [montage test](../../Browse/rule/test/montage-test.md) to cross a desert and reach a city before a tyrant's army arrives there and levels the place, a total success sees them arrive at the city gates with plenty of time to warn people of the impending assault.
 
 The heroes earn 1 [Victory](../../Browse/rule/resource/victories.md) when they achieve total success on an easy or moderate [montage test](../../Browse/rule/test/montage-test.md), and 2 [Victories](../../Browse/rule/resource/victories.md) on a hard [montage test](../../Browse/rule/test/montage-test.md).
 
-##### Partial Success
+##### Partial Success {data-search-exclude=""}
 
 If the heroes earn a partial success, they succeed at what they set out to do, but there is a complication or a cost involved. For instance, when crossing the desert to reach and warn the city of the tyrant's army, a mixed success sees the characters arrive at the city gates with the enemy forces just behind them. Alternatively, the Director might allow the heroes to arrive well before the army, but they don't cover their movements well enough. The tyrant realizes the city has been warned and decides to call in a favor to have a powerful dragon join the siege.
 
 The heroes earn 1 [Victory](../../Browse/rule/resource/victories.md) when they achieve partial success on a hard or moderate [montage test](../../Browse/rule/test/montage-test.md).
 
-##### Total Failure
+##### Total Failure {data-search-exclude=""}
 
 If the heroes suffer total failure, they don't achieve what they set out to do. Just as with standard [tests](../../Browse/rule/test/test.md), failure on a [group test](../../Browse/rule/test/group-test.md) shouldn't bring a story to a halt. Total failure should make things more interesting and challenging! With a total failure in a [montage test](../../Browse/rule/test/montage-test.md) to cross the desert and warn the city, the characters arrive at the city to find it already under siege by the tyrant.
 
-#### Sample Montage Test
+#### Sample Montage Test {data-search-exclude=""}
 
 Four heroes must cross the vast and inhospitable Infinite Desert to warn the city of Ahset that the tyrannical Empress Vardo is coming to conquer them. If the characters arrive in time, they can organize the defenses of the city, giving its people a greater chance of defeating the tyrant.
 
 The Director determines that crossing the desert is a [montage test](../../Browse/rule/test/montage-test.md) of hard difficulty. With four heroes involved, the success limit is 6 and the failure limit is 2 as the [montage test](../../Browse/rule/test/montage-test.md) begins.
 
-##### Montage Test Round 1
+##### Montage Test Round 1 {data-search-exclude=""}
 
 When the [test](../../Browse/rule/test/test.md) begins, the Director sets the scene. They tell the players that the desert has extreme temperatures, sudden sandstorms, high dunes to cross, deep sand, chasms, and quicksand lakes. The Director decides that the challenges of dunes, deep sand, and quicksand can be tackled multiple times in the [test](../../Browse/rule/test/test.md), since the Infinite Desert is filled with these hazards.
 
@@ -911,11 +909,11 @@ Karrel, an [elementalist](../../Browse/class/elementalist.md), thinks the group 
 
 Val, a [conduit](../../Browse/class/conduit.md), offers to scout ahead for the group with an [Intuition](../../Browse/rule/character/intuition.md) [test](../../Browse/rule/test/test.md), using the Navigate skill to find the best path forward and avoid hazards such as chasms and quicksand. The Director thinks that acting as lookout in a vast desert is an easy task. Val smashes it with a 21-a success with a reward—and the Director decides to get creative. Val's lookout skills grant the next hero to act in the [montage test](../../Browse/rule/test/montage-test.md) an [edge](../../Browse/rule/dice/edge.md) on their [test](../../Browse/rule/test/test.md). At the end of the first [montage test](../../Browse/rule/test/montage-test.md) round, the heroes have 3 successes and 1 failure.
 
-##### Interlude
+##### Interlude {data-search-exclude=""}
 
 Before the next [montage test](../../Browse/rule/test/montage-test.md) round, the Director pauses the [montage test](../../Browse/rule/test/montage-test.md) to run a battle with a kingfissure worm, who attacks the heroes as they cross over an ancient ruin partially buried in the sand. After the heroes defeat the kingfissure worm, the [test](../../Browse/rule/test/test.md) continues.
 
-##### Montage Test Round 2
+##### Montage Test Round 2 {data-search-exclude=""}
 
 Urdoncara wants to make a [Might](../../Browse/rule/character/might.md) [test](../../Browse/rule/test/test.md) using the Lift skill to carry most of the group's equipment as they cross the desert, allowing her allies to move more quickly while she keeps up with her superior fortitude. The Director thinks this arduous task has a hard difficulty. Urdoncara gets a 17 on the [test](../../Browse/rule/test/test.md) thanks to the [edge](../../Browse/rule/dice/edge.md) from Val's earlier success. The [montage test](../../Browse/rule/test/montage-test.md) has 4 successes and 1 failure.
 
@@ -925,6 +923,6 @@ Since the group needs only one more success to achieve total success, Karrel say
 
 Val attempts to recall lore about the Khem-hor, wanting to know if she can remember any of their travel from her studies of the history of the region. The Director has her make a hard [Reason](../../Browse/rule/character/reason.md) [test](../../Browse/rule/test/test.md) with an [edge](../../Browse/rule/dice/edge.md), thanks to Karrel's input on the current state of Khem-hor culture. Val gets a 17, and the Director decides that the [conduit](../../Browse/class/conduit.md) recalls a shortcut through a canyon tunnel that leads directly to Ahset, avoiding a vast lake of quicksand. The heroes get their sixth success in the [montage test](../../Browse/rule/test/montage-test.md), achieving total success, and earn 2 [Victories](../../Browse/rule/resource/victories.md).
 
-##### Other Options
+##### Other Options {data-search-exclude=""}
 
 The heroes could have attempted other [tests](../../Browse/rule/test/test.md) during their travels, such as an [Agility](../../Browse/rule/character/agility.md) [test](../../Browse/rule/test/test.md) using the Sneak skill to lead the group through dangerous shortcuts in the desert without being seen or waylaid by predators, a [Reason](../../Browse/rule/character/reason.md) [test](../../Browse/rule/test/test.md) using the Nature skill to find enough food and water to keep the group hydrated and fed, or a [Presence](../../Browse/rule/character/presence.md) [test](../../Browse/rule/test/test.md) using the Music skill to inspire allies to travel faster with song.

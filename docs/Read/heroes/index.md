@@ -1,8 +1,3 @@
----
-search:
-  exclude: true
----
-
 # Draw Steel: Heroes
 
 ---

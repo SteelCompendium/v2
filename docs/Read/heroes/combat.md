@@ -1,8 +1,6 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-search:
-  exclude: true
 name: Combat
 order: 10
 scc: mcdm.heroes.v1/chapter/combat
@@ -25,7 +23,7 @@ When combat begins, the Director should position miniatures or tokens on a gridd
 >
 > It's helpful to know how big a square is for abilities and features that heroes and [NPCs](../../Browse/rule/general/npc.md) can use outside of combat. By default, a square is 5 feet on all sides. But the Director can change this measurement to 2 yards, 2 meters, 1 meter, or any other measurement you prefer, as long as that scale stays consistent throughout your game.
 
-#### Size and Space {data-scc="mcdm.heroes.v1/rule.character/size"}
+#### Size and Space {data-scc="mcdm.heroes.v1/rule.character/size" data-search-exclude=""}
 
 A creature's size indicates how many squares they occupy during combat, which defines the creature's space. If a creature's size is 1, they occupy a space of 1 square. If a creature is larger than 1 square, their size equals the number of squares they take up in length, width, and height. For example, a horse has a size of 2, which means that during combat, they occupy a space that is 2 squares long, 2 squares wide, and 2 squares high. You could also think of that space as a [cube](../../Browse/rule/combat/cube.md) that is 2 squares on all sides.
 
@@ -35,7 +33,7 @@ Objects also have a size rating, which usually indicates how many squares they o
 
 The Creature Sizes table shows example sizes for creatures up to size 5, but larger sizes are possible. There is no limit to what a creature's size might be.
 
-###### Creature Sizes Table
+###### Creature Sizes Table {data-search-exclude=""}
 
 | [Size](../../Browse/rule/character/size.md)  | Example Creature |
 |-------|------------------|
@@ -48,7 +46,7 @@ The Creature Sizes table shows example sizes for creatures up to size 5, but lar
 | 4     | Hill giant       |
 | 5     | Omen dragon      |
 
-#### Sides {data-scc="mcdm.heroes.v1/rule.combat/side"}
+#### Sides {data-scc="mcdm.heroes.v1/rule.combat/side" data-search-exclude=""}
 
 Every combat encounter is a conflict between two sides. The heroes and any of their allies are one side, controlled by the players. Any creatures who oppose the heroes are the other side, controlled by the Director. All creatures who oppose the heroes are on the same side, even if those creatures also oppose each other. For example, if the heroes are battling a group of bandits when a kingfissure worm suddenly [bursts](../../Browse/rule/combat/burst.md) into the fray to devour player characters and brigands alike, the worm is still on the side of the bandits for the purpose of the game's combat rules.
 
@@ -56,25 +54,25 @@ Every combat encounter is a conflict between two sides. The heroes and any of th
 >
 > If an [NPC](../../Browse/rule/general/npc.md) ally fights alongside the heroes, the Director should give the players the ally's stat block and let them control the [NPC](../../Browse/rule/general/npc.md) during combat. The Director has enough to worry about. As well, any missteps, mistakes, or triumphs the ally makes will be thanks to the decisions of the players and not the Director, which can make the outcome of the battle more satisfying for the players.
 
-### Combat Round {data-scc="mcdm.heroes.v1/rule.combat/combat-round"}
+### Combat Round {data-scc="mcdm.heroes.v1/rule.combat/combat-round" data-search-exclude=""}
 
 Combat takes place over a series of combat rounds. During a combat round, each creature in the battle takes a [turn](../../Browse/rule/combat/turn.md). Once every creature has taken a [turn](../../Browse/rule/combat/turn.md), a new round begins.
 
-#### When Does Combat Start?
+#### When Does Combat Start? {data-search-exclude=""}
 
 Combat starts as soon as one creature intends to harm another, or when some environmental effect is in a position to deal damage to or impose other negative effects on one or more creatures. This means that even before the action happens, a hero can't use a [heroic ability](../../Browse/rule/general/heroic-ability.md) without spending their [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) on it, because combat has already begun!
 
-#### Determine Surprise {data-scc="mcdm.heroes.v1/rule.combat/surprised"}
+#### Determine Surprise {data-scc="mcdm.heroes.v1/rule.combat/surprised" data-search-exclude=""}
 
 When battle starts, the Director determines which creatures, if any, are caught off guard. Any creature who isn't ready for combat at the start of an encounter is surprised until the end of the first [combat round](../../Browse/rule/combat/combat-round.md). A surprised creature can't take [triggered actions](../../Browse/rule/combat/triggered-action.md) or free [triggered actions](../../Browse/rule/combat/triggered-action.md), and [ability rolls](../../Browse/rule/dice/ability-roll.md) made against them gain an [edge](../../Browse/rule/dice/edge.md).
 
 For example, if the heroes sneak up unnoticed on a camp of marauders and attack, each marauder is surprised. Likewise, if the heroes fail to notice that all the cloaked figures in a tavern are actually brain-devouring zombies, then the heroes are surprised. If one of the heroes notices the disguised undead before the zombies attack but has no opportunity to warn their allies, that hero isn't surprised but the rest of the characters are.
 
-#### Determine Who Goes First
+#### Determine Who Goes First {data-search-exclude=""}
 
 Sometimes figuring out who gets to take the first [turn](../../Browse/rule/combat/turn.md) in combat is automatic. If all the creatures on one side are [surprised](../../Browse/rule/combat/surprised.md), then a creature on the other side gets to act first. But if both sides have creatures who aren't [surprised](../../Browse/rule/combat/surprised.md), the Director or a player they choose rolls a d10. On a 6 or higher, the players determine who goes first—the heroes' side or the other side. Otherwise, the Director decides which side goes first.
 
-#### Creatures Take Turns
+#### Creatures Take Turns {data-search-exclude=""}
 
 Whichever side goes first chooses a creature (or sometimes a group of creatures on the Director's side) to act at the start of combat. Whenever the rules talk about a creature acting in combat, that creature gets to take their [turn](../../Browse/rule/combat/turn.md). When that [turn](../../Browse/rule/combat/turn.md) is over, the other side chooses a creature to act. Play continues back and forth this way as each creature takes their [turn](../../Browse/rule/combat/turn.md).
 
@@ -82,13 +80,13 @@ Unless an ability or special rule allows them to do so, any creature who has tak
 
 In many encounters, a point comes when one side has creatures who haven't acted yet but all the creatures on the other side have. The creatures who have yet to act get to take their [turns](../../Browse/rule/combat/turn.md) in any order they choose, without [turns](../../Browse/rule/combat/turn.md) in between from the other side. For example, consider four heroes taking on six enemies. When all four heroes have taken their [turns](../../Browse/rule/combat/turn.md) and four of the enemies have taken theirs, the two enemies who are left take their turns one after the other to end the round.
 
-##### Determining Who Acts Next
+##### Determining Who Acts Next {data-search-exclude=""}
 
 When it comes to the heroes' side, the choice of who should act next is intended to give players the opportunity to comment, strategize, and plan. Some tables, in some encounters, might find that the choice of who should act next isn't obvious, leading to debate. That's fine. Deliberating about what the group should do next is classic roleplaying.
 
 In general, though, most groups find that it's usually only one or two players in a given round who think it best if they act next. And as soon as those players explain why they want to act next and what they plan on doing, the issue is quickly resolved.
 
-##### Argument Timer
+##### Argument Timer {data-search-exclude=""}
 
 If the players do end up arguing in circles about what to do next, the Director can place a timer on the discussion. Usually, giving the players a warning and 30 seconds to decide who goes next does the trick. If they can't choose by the end of that time, the Director chooses a hero to act.
 
@@ -98,21 +96,21 @@ If the players do end up arguing in circles about what to do next, the Director 
 >
 > At the Director's discretion, a hero can swap their [turn](../../Browse/rule/combat/turn.md) in the order with another willing hero at the start of a new [combat round](../../Browse/rule/combat/combat-round.md). This allows certain abilities that interact with the core [turn](../../Browse/rule/combat/turn.md) order system, such as the [shadow's](../../Browse/class/shadow.md) [Hesitation Is Weakness](../../Browse/feature/ability/shadow/level-1/hesitation-is-weakness.md) ability, to better work with this alternative system.
 
-##### Enemies Act In Groups
+##### Enemies Act In Groups {data-search-exclude=""}
 
 Director-controlled creatures act in groups, with information for building groups found in *Draw Steel: Monsters*. When a group of enemies acts, the Director chooses a single creature or minion squad to take a [turn](../../Browse/rule/combat/turn.md). Once that [turn](../../Browse/rule/combat/turn.md) is over, the Director chooses another creature in that group to take a [turn](../../Browse/rule/combat/turn.md), continuing until all members of the group have taken their [turn](../../Browse/rule/combat/turn.md).
 
-#### End of Round
+#### End of Round {data-search-exclude=""}
 
 Once all creatures on both sides of a battle have acted, the [combat round](../../Browse/rule/combat/combat-round.md) ends and a new [combat round](../../Browse/rule/combat/combat-round.md) begins. The side whose members acted first during the initial [combat round](../../Browse/rule/combat/combat-round.md) goes first in all subsequent rounds.
 
-### Taking a Turn {data-scc="mcdm.heroes.v1/rule.combat/turn"}
+### Taking a Turn {data-scc="mcdm.heroes.v1/rule.combat/turn" data-search-exclude=""}
 
 Each creature in combat—whether hero, adversary, or something in between—gets to take a **main action**, a **maneuver**, and a **move action** on their turn (explained later in this chapter). Each combatant can perform their maneuver and main action in any order, and can break up the movement granted by their move action before, after, or between their maneuver and main action however they like. You can also turn your main action into a move action or a maneuver, so that your turn can alternatively consist of two move actions and a maneuver, or two maneuvers and a move action.
 
 The Movement section below breaks down how your move action works, while the Maneuvers and Main Actions sections break down the baseline maneuvers and main actions your character can undertake. For any activities not specifically covered in those rules, such as cutting down a chandelier to drop on enemies, the Director decides whether such an activity is a maneuver or a main action.
 
-#### Triggered Actions and Free Triggered Actions {data-scc="mcdm.heroes.v1/rule.combat/triggered-action"}
+#### Triggered Actions and Free Triggered Actions {data-scc="mcdm.heroes.v1/rule.combat/triggered-action" data-search-exclude=""}
 
 Your hero might have one or more unique triggered actions, each of which has a specified trigger that allows the action to be used. You can use one triggered action per round, either on your [turn](../../Browse/rule/combat/turn.md) or another creature's [turn](../../Browse/rule/combat/turn.md), but only when the action's trigger occurs. For instance, a [fury](../../Browse/class/fury.md) hero can use the [Lines of Force](../../Browse/feature/ability/fury/level-1/lines-of-force.md) triggered action to [force move](../../Browse/movement/forced-movement.md) a target, but only after an enemy has first tried to [force move](../../Browse/movement/forced-movement.md) the [fury](../../Browse/class/fury.md) or another nearby creature.
 
@@ -122,7 +120,7 @@ If multiple triggered actions occur in response to the same trigger, any heroes 
 
 Any effect that prevents you from using triggered actions also prevents you from using free triggered actions.
 
-#### Free Maneuvers {data-scc="mcdm.heroes.v1/rule.combat/free-maneuver"}
+#### Free Maneuvers {data-scc="mcdm.heroes.v1/rule.combat/free-maneuver" data-search-exclude=""}
 
 Boring stuff like opening an unlocked door, picking up an arrow from the ground, giving an object to an [adjacent](../../Browse/rule/combat/adjacent.md) ally, or drawing a weapon doesn't require a maneuver or a main action. Rather, you can undertake such straightforward activities as free maneuvers on your [turn](../../Browse/rule/combat/turn.md). A free maneuver follows the same rules as a regular maneuver, but you can typically take as many free maneuvers as you like.
 
@@ -132,13 +130,13 @@ Likewise, the nature of an activity might make it too complicated for a free man
 
 Any effect that prevents you from using maneuvers also prevents you from using free maneuvers.
 
-#### No-Action Activities
+#### No-Action Activities {data-search-exclude=""}
 
 [Free maneuvers](../../Browse/rule/combat/free-maneuver.md) cover most of the simple activities you might want to undertake on your [turn](../../Browse/rule/combat/turn.md). When it isn't your [turn](../../Browse/rule/combat/turn.md), you can typically undertake even simpler activities requiring no action with the Director's approval. For instance, shouting out a warning to an ally or dropping an item so another creature can pick it up require no action.
 
 The Director can limit what kinds of no-action activities you can attempt when it isn't your [turn](../../Browse/rule/combat/turn.md). For instance, shouting out a warning about an unseen foe to an ally on the ally's or the foe's [turn](../../Browse/rule/combat/turn.md) requires no action. But the Director might stop you from giving that ally complex tactical advice when it isn't your [turn](../../Browse/rule/combat/turn.md), saying that doing so instead requires a [free maneuver](../../Browse/rule/combat/free-maneuver.md) on your [turn](../../Browse/rule/combat/turn.md).
 
-### Movement
+### Movement {data-scc="mcdm.heroes.v1/rule.combat/movement" data-search-exclude=""}
 
 During combat, creatures can employ multiple mechanics that allow them to move around the battlefield. The most common of those mechanics is the [Advance](../../Browse/feature/common/move-actions/advance.md) or [Disengage](../../Browse/feature/common/move-actions/disengage.md) move action (detailed under Move Actions below), but abilities granted by your class, equipment, ancestry, title, or other options might allow you other ways to move.
 
@@ -150,39 +148,39 @@ Your hero can move freely through an ally's space. You can move through an enemy
 
 At the Director's discretion, you can be forced into the same space as another creature whose [size](../../Browse/rule/character/size.md) is within 1 of yours, such as by falling down a narrow shaft with such a creature already at the bottom. When you are squeezed into the same space as another creature whose [size](../../Browse/rule/character/size.md) is within 1 of yours, your [ability rolls](../../Browse/rule/dice/ability-roll.md) and [tests](../../Browse/rule/test/test.md) take a [bane](../../Browse/rule/dice/bane.md).
 
-#### Can't Exceed Speed
+#### Can't Exceed Speed {data-search-exclude=""}
 
 A single move or other effect can never allow a creature to move more squares than their [speed](../../Browse/rule/character/speed.md), unless the effect states otherwise. For example, a creature with [speed](../../Browse/rule/character/speed.md) 5 might have that [speed](../../Browse/rule/character/speed.md) reduced to 2 by the [slowed](../../Browse/condition/slowed.md) [condition](../../Browse/rule/combat/condition.md) (see [Conditions](../../Browse/rule/combat/condition.md) in Chapter 5: [Classes](classes.md)). If an ally then targets them with an effect that allows them to move up to 3 squares, the creature can move only 2 squares because that's their current [speed](../../Browse/rule/character/speed.md).
 
-#### Can't Cut Corners
+#### Can't Cut Corners {data-search-exclude=""}
 
 A creature can't move diagonally when doing so would involve passing through the corner of a wall or some other object that completely fills the corner between the creature's space and the space they are moving to. This rule applies only to moving past objects, not moving past other creatures.
 
-#### Shifting {data-scc="mcdm.heroes.v1/movement/shifting"}
+#### Shifting {data-scc="mcdm.heroes.v1/movement/shifting" data-search-exclude=""}
 
 [Shifting](../../Browse/movement/shifting.md) is a careful form of movement that allows a creature to move safely past dangerous foes. Certain abilities, features, and other rules allow you to [shift](../../Browse/movement/shifting.md) a specific number of squares, sometimes up to your [speed](../../Browse/rule/character/speed.md). Whenever you [shift](../../Browse/movement/shifting.md), creatures can't make [opportunity attacks](../../Browse/rule/combat/opportunity-attack.md) against you triggered by that movement (see [Opportunity Attacks](../../Browse/rule/combat/opportunity-attack.md) later in this chapter).
 
 You can't [shift](../../Browse/movement/shifting.md) into or while within [difficult terrain](../../Browse/movement/difficult-terrain.md) or [damaging terrain](../../Browse/movement/damaging-terrain.md) (see below). If a rule allows you to [shift](../../Browse/movement/shifting.md), you can choose to instead move up to the number of squares you would have shifted (for example, to get out of [difficult terrain](../../Browse/movement/difficult-terrain.md)). However, you can't combine moving and [shifting](../../Browse/movement/shifting.md) within that movement.
 
-#### Movement Types
+#### Movement Types {data-search-exclude=""}
 
 Creatures in the game can use eight types of movement: walk, [burrow](../../Browse/movement/burrow.md), climb, swim, jump, [crawl](../../Browse/movement/crawl.md), [fly](../../Browse/movement/fly.md), and [teleport](../../Browse/movement/teleport.md).
 
-##### Walk {data-scc="mcdm.heroes.v1/movement/walk"}
+##### Walk {data-scc="mcdm.heroes.v1/movement/walk" data-search-exclude=""}
 
 Walking is the most common movement type, whether it refers to ambulating on legs, rolling, slithering, or some other default method of movement. Unless specified otherwise, all creatures can move over solid horizontal ground without any problem.
 
-##### Burrow {data-scc="mcdm.heroes.v1/movement/burrow"}
+##### Burrow {data-scc="mcdm.heroes.v1/movement/burrow" data-search-exclude=""}
 
 A creature who has "[burrow](../../Browse/movement/burrow.md)" in their [speed](../../Browse/rule/character/speed.md) entry, or who gains the temporary ability to [burrow](../../Browse/movement/burrow.md), can move through dirt horizontally, and either has the means to breathe while doing so or doesn't require air to live. Such creatures can't move through more solid ground, such as stone, unless their stat block or the effect that lets them [burrow](../../Browse/movement/burrow.md) says otherwise. Similarly, a [burrowing](../../Browse/movement/burrow.md) creature doesn't leave a tunnel unless the rules say so.
 
-###### Dig Maneuver
+###### Dig Maneuver {data-search-exclude=""}
 
 It takes extra effort to dig vertically through the ground as opposed to tunneling horizontally, requiring a creature to use a special maneuver. To use the Dig maneuver, a creature must have "[burrow](../../Browse/movement/burrow.md)" in their [speed](../../Browse/rule/character/speed.md) entry, they must have a [speed](../../Browse/rule/character/speed.md) that is equal to or greater than their [size](../../Browse/rule/character/size.md), and they must be touching terrain that can be burrowed through.
 
 When a creature uses the Dig maneuver, they can move vertically up to a number of squares equal to their [size](../../Browse/rule/character/size.md). If a [burrowing](../../Browse/movement/burrow.md) creature has a creature who is not unconscious [grabbed](../../Browse/condition/grabbed.md), they can't willingly move deeper into the ground. It's too difficult to dig with a flailing enemy in your claws.
 
-###### Targeting Burrowing Creatures
+###### Targeting Burrowing Creatures {data-search-exclude=""}
 
 If you are on the ground, you have [line of effect](../../Browse/rule/combat/line-of-effect.md) to a [burrowing](../../Browse/movement/burrow.md) creature if that creature occupies 1 or more squares of terrain that can be burrowed through and that touch the ground, and if you have [line of effect](../../Browse/rule/combat/line-of-effect.md) to any of those squares. The [burrowing](../../Browse/movement/burrow.md) creature gains the benefit of [cover](../../Browse/rule/combat/cover.md) from you.
 
@@ -192,13 +190,13 @@ If you are completely beneath the ground while [burrowing](../../Browse/movement
 
 You can't gain the benefit of [high ground](../../Browse/movement/high-ground.md) (see below) against creatures who are completely beneath the ground while [burrowing](../../Browse/movement/burrow.md).
 
-###### Non-Burrowing Creatures
+###### Non-Burrowing Creatures {data-search-exclude=""}
 
 If you are on the ground and [adjacent](../../Browse/rule/combat/adjacent.md) to a creature who is beneath the ground while [burrowing](../../Browse/movement/burrow.md), you can use a maneuver to [pull](../../Browse/movement/forced-movement.md) that creature up 1 square out of the ground, provided the creature is willing.
 
 If a creature who can't [burrow](../../Browse/movement/burrow.md) wants to dig into the ground, they can use the following ability provided their [speed](../../Browse/rule/character/speed.md) is 2 or more.
 
-###### Claw Dirt {data-scc="mcdm.heroes.v1/feature.ability.common/claw-dirt"}
+###### Claw Dirt {data-scc="mcdm.heroes.v1/feature.ability.common/claw-dirt" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <article class="sc-ability sc-fil" data-action="maneuver" data-conditions="slowed weakened">
@@ -218,17 +216,17 @@ If a creature who can't [burrow](../../Browse/movement/burrow.md) wants to dig i
 </article>
 </address>
 
-###### Burrowing Forced Movement
+###### Burrowing Forced Movement {data-search-exclude=""}
 
 While a creature who is completely beneath the ground while [burrowing](../../Browse/movement/burrow.md) is force moved by movement that isn't vertical, they aren't moved, and they take 1 damage for each square they would have been force moved. If the [forced movement](../../Browse/movement/forced-movement.md) is vertical, the creature is moved through the dirt as if it were air.
 
-##### Climb or Swim {data-scc="mcdm.heroes.v1/movement/climb-or-swim"}
+##### Climb or Swim {data-scc="mcdm.heroes.v1/movement/climb-or-swim" data-search-exclude=""}
 
 A creature who has "climb" in their [speed](../../Browse/rule/character/speed.md) entry, or who gains the temporary ability to automatically climb, can climb across vertical and horizontal surfaces at full [speed](../../Browse/rule/character/speed.md). Likewise, a creature who has "swim" in their [speed](../../Browse/rule/character/speed.md) entry, or who gains the temporary ability to automatically swim, can swim in liquid at full [speed](../../Browse/rule/character/speed.md).
 
 Creatures without those types of movement can still climb or swim when a rule allows them to move, but each square of climbing or swimming costs 2 squares of movement. If a surface is difficult to climb (for instance, a sheer cliff or ice-covered wall) or a liquid is hard to swim through (a raging river or whirlpool), the Director can call for a [Might](../../Browse/rule/character/might.md) [test](../../Browse/rule/test/test.md). On a failure, a creature can't climb or swim but wastes no movement in the attempt. The Director can also impose other consequences to failure, such as being caught in the spinning current of a whirlpool.
 
-###### Climbing Other Creatures
+###### Climbing Other Creatures {data-search-exclude=""}
 
 You can attempt to climb a creature whose [size](../../Browse/rule/character/size.md) is greater than yours. If the creature is willing, you can climb them without any trouble. If the creature is unwilling, you make the following [test](../../Browse/rule/test/test.md):
 
@@ -248,7 +246,7 @@ While you climb or ride a creature, you gain an [edge](../../Browse/rule/dice/ed
 
 If you are [knocked prone](../../Browse/condition/prone.md) while climbing or riding a creature, you fall and l[and prone](../../Browse/condition/prone.md) in an [adjacent](../../Browse/rule/combat/adjacent.md) space of your choice, taking damage as usual from the fall.
 
-##### Jump {data-scc="mcdm.heroes.v1/movement/jump"}
+##### Jump {data-scc="mcdm.heroes.v1/movement/jump" data-search-exclude=""}
 
 Whenever an effect allows you to move (including using the [Advance](../../Browse/feature/common/move-actions/advance.md) move action), you can automatically long jump a number of squares up to your [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md) score (your choice; minimum 1 square) as part of that movement. The height of your jump is automatically 1 square as part of that movement.
 
@@ -262,19 +260,19 @@ If you want to jump even longer or higher than your baseline jump allows, make a
 
 You can't jump farther or higher than the [distance](../../Browse/rule/combat/distance.md) of the effect that allows you to move. You can't jump out of [difficult terrain](../../Browse/movement/difficult-terrain.md) or [damaging terrain](../../Browse/movement/damaging-terrain.md) (see below).
 
-##### Crawl {data-scc="mcdm.heroes.v1/movement/crawl"}
+##### Crawl {data-scc="mcdm.heroes.v1/movement/crawl" data-search-exclude=""}
 
 If you [are prone](../../Browse/condition/prone.md) (see [Conditions](../../Browse/rule/combat/condition.md) in Chapter 5: [Classes](classes.md)), you can remain prone and [crawl](../../Browse/movement/crawl.md) on the ground. Doing so costs you 1 additional square of movement for every square you [crawl](../../Browse/movement/crawl.md). If you intentionally want to [crawl](../../Browse/movement/crawl.md), you can [fall prone](../../Browse/condition/prone.md) as a [free maneuver](../../Browse/rule/combat/free-maneuver.md). While voluntarily prone, you can choose to stand as a [free maneuver](../../Browse/rule/combat/free-maneuver.md).
 
-##### Fly {data-scc="mcdm.heroes.v1/movement/fly"}
+##### Fly {data-scc="mcdm.heroes.v1/movement/fly" data-search-exclude=""}
 
 A creature who has "[fly](../../Browse/movement/fly.md)" in their [speed](../../Browse/rule/character/speed.md) entry, or who gains the temporary ability to [fly](../../Browse/movement/fly.md), can move through the air vertically or horizontally at full [speed](../../Browse/rule/character/speed.md) and remain in midair. If a [flying](../../Browse/movement/fly.md) creature is [knocked prone](../../Browse/condition/prone.md) or has their [speed](../../Browse/rule/character/speed.md) reduced to 0, they fall (see Falling below).
 
-##### Hover {data-scc="mcdm.heroes.v1/movement/hover"}
+##### Hover {data-scc="mcdm.heroes.v1/movement/hover" data-search-exclude=""}
 
 A creature who has "[hover](../../Browse/movement/hover.md)" in their [speed](../../Browse/rule/character/speed.md) entry (most commonly alongside "[fly](../../Browse/movement/fly.md)" or "[teleport](../../Browse/movement/teleport.md)"), or who gains the temporary ability to [hover](../../Browse/movement/hover.md), can remain motionless in midair. They don't fall even if they are [knocked prone](../../Browse/condition/prone.md) or their [speed](../../Browse/rule/character/speed.md) is reduced to 0.
 
-##### Teleport {data-scc="mcdm.heroes.v1/movement/teleport"}
+##### Teleport {data-scc="mcdm.heroes.v1/movement/teleport" data-search-exclude=""}
 
 When a creature [teleports](../../Browse/movement/teleport.md), they move from one space to another space instantaneously. The following rules apply to [teleporting](../../Browse/movement/teleport.md):
 
@@ -288,35 +286,35 @@ When a creature [teleports](../../Browse/movement/teleport.md), they move from o
 - If you [teleport](../../Browse/movement/teleport.md) while affected by the [grabbed](../../Browse/condition/grabbed.md) or [restrained](../../Browse/condition/restrained.md) [conditions](../../Browse/rule/combat/condition.md), those [conditions](../../Browse/rule/combat/condition.md) end for you.
 - When a creature [teleports](../../Browse/movement/teleport.md), they must leave the space where they start and enter a new space. A creature can't [teleport](../../Browse/movement/teleport.md) to and from the same space.
 
-#### Falling {data-scc="mcdm.heroes.v1/rule.health/falling"}
+#### Falling {data-scc="mcdm.heroes.v1/rule.health/falling" data-search-exclude=""}
 
 When a creature falls 2 or more squares and lands on the ground, they take 2 damage for each square they fall (to a maximum of 50 damage) and l[and prone](../../Browse/condition/prone.md). A creature who falls can reduce the effective height of the fall by a number of squares equal to their [Agility](../../Browse/rule/character/agility.md) score (to a minimum of 0). Falling into liquid that is 1 square or more deep reduces the effective height of a fall by 4 squares (to a minimum of 0).
 
 Falling is not [forced movement](../../Browse/movement/forced-movement.md), but being force moved downward is considered falling. Movement from falling doesn't provoke [opportunity attacks](../../Browse/rule/combat/opportunity-attack.md) (see [Opportunity Attacks](../../Browse/rule/combat/opportunity-attack.md) below).
 
-##### Falling Onto Another Creature
+##### Falling Onto Another Creature {data-search-exclude=""}
 
 A creature who falls and lands on another creature causes that creature to take the same damage from the fall. The falling creature then lands prone in the nearest unoccupied space of their choice. If the falling creature's [size](../../Browse/rule/character/size.md) is greater than the [Might](../../Browse/rule/character/might.md) score of the creature they land on, that creature is [knocked prone](../../Browse/condition/prone.md).
 
-##### Falling Far
+##### Falling Far {data-search-exclude=""}
 
 When a creature first falls from a great height, they fall 100 squares in the first round. At the end of each subsequent round that they remain falling, they fall another 100 squares.
 
-#### Difficult Terrain {data-scc="mcdm.heroes.v1/movement/difficult-terrain"}
+#### Difficult Terrain {data-scc="mcdm.heroes.v1/movement/difficult-terrain" data-search-exclude=""}
 
 Areas of thick underbrush, rubble, spiderwebs, or other obstacles to movement create [difficult terrain](../../Browse/movement/difficult-terrain.md). It costs 1 additional square of movement to enter a square of [difficult terrain](../../Browse/movement/difficult-terrain.md).
 
-#### Damaging Terrain {data-scc="mcdm.heroes.v1/movement/damaging-terrain"}
+#### Damaging Terrain {data-scc="mcdm.heroes.v1/movement/damaging-terrain" data-search-exclude=""}
 
 Areas of acid, fire, sharp rocks, lava, or any other terrain that causes damage to creatures within it is [damaging terrain](../../Browse/movement/damaging-terrain.md). The damage dealt by [damaging terrain](../../Browse/movement/damaging-terrain.md) is noted in the terrain's description or in the description of the effect that creates the terrain.
 
-#### High Ground {data-scc="mcdm.heroes.v1/movement/high-ground"}
+#### High Ground {data-scc="mcdm.heroes.v1/movement/high-ground" data-search-exclude=""}
 
 Whenever a creature uses an ability to target a creature or object while standing on the ground and occupying a space that is fully above the target's space, they gain an [edge](../../Browse/rule/dice/edge.md) on the [power roll](../../Browse/rule/dice/power-roll.md) against that target. To be fully above a target, the bottom of a creature's space must be higher than or bordering on the top of the target's space.
 
 A creature can gain this benefit while climbing only if they have "climb" in their [speed](../../Browse/rule/character/speed.md) entry or can automatically climb at full [speed](../../Browse/rule/character/speed.md) while moving.
 
-#### Forced Movement {data-scc="mcdm.heroes.v1/movement/forced-movement"}
+#### Forced Movement {data-scc="mcdm.heroes.v1/movement/forced-movement" data-search-exclude=""}
 
 Some actions and maneuvers allow a creature to push, pull, or slide a target creature or object a specific [distance](../../Browse/rule/combat/distance.md) across the battlefield. Collectively, these types of movement are called [forced movement](../../Browse/movement/forced-movement.md).
 
@@ -332,7 +330,7 @@ When you [force move](../../Browse/movement/forced-movement.md) a target, you ca
 >
 > Some creatures can force move multiple creatures or objects with a single ability. Unless the ability specifies otherwise, the creature using the ability determines the order in which the targets are force moved. The creature should select each target individually and complete their [forced movement](../../Browse/movement/forced-movement.md) before force moving the next target affected.
 
-##### Vertical
+##### Vertical {data-search-exclude=""}
 
 If a [forced movement](../../Browse/movement/forced-movement.md) effect has the word "vertical" in front of it, then the [forced movement](../../Browse/movement/forced-movement.md) can move a target up or down in addition to horizontally. For example, if a [forced movement](../../Browse/movement/forced-movement.md) effect says "vertical push 5," then a creature targeted by the effect can be pushed up to 5 squares in any direction, as long as the [forced movement](../../Browse/movement/forced-movement.md) is a straight line.
 
@@ -340,11 +338,11 @@ If a creature who can't [fly](../../Browse/movement/fly.md) is left in midair at
 
 Though you can't freely push, pull, or slide a target up and down unless that [forced movement](../../Browse/movement/forced-movement.md) specifies "vertical," you can move them along a physical slope such as a hill or staircase. For a target to be force moved along a slope, each square of the slope can be no more than 1 square higher or lower than the previous square.
 
-##### Big Versus Little
+##### Big Versus Little {data-search-exclude=""}
 
 When a larger creature force moves a smaller target with a [melee](../../Browse/rule/combat/melee.md) weapon ability, the [distance](../../Browse/rule/combat/distance.md) of the [forced movement](../../Browse/movement/forced-movement.md) is increased by 1. If a smaller creature force moves a larger target with a [melee](../../Browse/rule/combat/melee.md) weapon ability, the [distance](../../Browse/rule/combat/distance.md) doesn't change.
 
-##### Slamming into Creatures
+##### Slamming into Creatures {data-search-exclude=""}
 
 When you force move a creature into another creature, the movement ends and both creatures take 1 damage for each square remaining in the first creature's [forced movement](../../Browse/movement/forced-movement.md). You can also force move an object into a creature. The object's movement ends, and the creature takes 1 damage for each square remaining in the object's [forced movement](../../Browse/movement/forced-movement.md).
 
@@ -354,7 +352,7 @@ If a creature is killed by damage from an ability or effect that also [force mov
 
 You can [force move](../../Browse/movement/forced-movement.md) another creature into yourself with a pull or a slide.
 
-##### Slamming Into Objects
+##### Slamming Into Objects {data-search-exclude=""}
 
 When a creature force moves a target into a stationary object that is the target's [size](../../Browse/rule/character/size.md) or larger and the object doesn't break (see below), the movement ends and the target takes 2 damage plus 1 damage for each square remaining in their [forced movement](../../Browse/movement/forced-movement.md).
 
@@ -370,7 +368,7 @@ If you [force move](../../Browse/movement/forced-movement.md) a creature downwar
 >
 > More fragile objects are destroyed after taking any damage.
 
-##### Hurling Through Objects
+##### Hurling Through Objects {data-search-exclude=""}
 
 When you move a creature into a mundane object, the object can break depending on how many squares of [forced movement](../../Browse/movement/forced-movement.md) remain. The cost of being slammed into an object is tied to the damage a target takes for being hurled through it:
 
@@ -381,21 +379,21 @@ When you move a creature into a mundane object, the object can break depending o
 
 If any [forced movement](../../Browse/movement/forced-movement.md) remains after the object is destroyed, you can continue to move the creature who destroyed the object.
 
-##### Forced Into a Fall
+##### Forced Into a Fall {data-search-exclude=""}
 
 If you can't [fly](../../Browse/movement/fly.md) and are force moved across an open space that would cause you to fall, such as being pushed over the edge of a cliff, you continue moving the total [distance](../../Browse/rule/combat/distance.md) you were moved first. If you are still in a position to fall when the [forced movement](../../Browse/movement/forced-movement.md) ends, you fall.
 
-##### Stability {data-scc="mcdm.heroes.v1/rule.character/stability"}
+##### Stability {data-scc="mcdm.heroes.v1/rule.character/stability" data-search-exclude=""}
 
 Each creature has a stability that allows them to resist [forced movement](../../Browse/movement/forced-movement.md). When a creature is force moved, they can reduce that movement up to a number of squares equal to their stability. Heroes start with stability 0 and can increase their stability through ancestry, class, and kit options.
 
 A creature's stability can't be less than 0, even when reduced by a [penalty](../../Browse/rule/dice/bonuses-and-penalties.md).
 
-##### "When a Creature Moves..."
+##### "When a Creature Moves..." {data-search-exclude=""}
 
 Certain abilities and effects trigger when a creature moves into a particular area. [Forced movement](../../Browse/movement/forced-movement.md) triggers these options unless otherwise noted, including an effect stating that a creature must willingly move to trigger it.
 
-##### Death Effects and Forced Movement
+##### Death Effects and Forced Movement {data-search-exclude=""}
 
 Some creatures have traits or abilities that trigger when they die or are reduced to 0 [Stamina](../../Browse/rule/health/stamina.md). If such a creature is reduced to 0 [Stamina](../../Browse/rule/health/stamina.md) by damage from an ability or effect that also force moves them, the [forced movement](../../Browse/movement/forced-movement.md) takes place before the triggered effect.
 
@@ -403,7 +401,7 @@ Some creatures have traits or abilities that trigger when they die or are reduce
 
 A move action allows a creature to move around the battlefield. Sometimes you'll already be exactly where you want to be so that you don't need to use a move action on your [turn](../../Browse/rule/combat/turn.md). That's okay! The decision to not move is just as tactical as the decision to move.
 
-#### Advance {data-scc="mcdm.heroes.v1/feature.common.move-actions/advance"}
+#### Advance {data-scc="mcdm.heroes.v1/feature.common.move-actions/advance" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -415,7 +413,7 @@ A move action allows a creature to move around the battlefield. Sometimes you'll
 </section>
 </address>
 
-#### Disengage {data-scc="mcdm.heroes.v1/feature.common.move-actions/disengage"}
+#### Disengage {data-scc="mcdm.heroes.v1/feature.common.move-actions/disengage" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -427,7 +425,7 @@ A move action allows a creature to move around the battlefield. Sometimes you'll
 </section>
 </address>
 
-#### Ride {data-scc="mcdm.heroes.v1/feature.common.move-actions/ride"}
+#### Ride {data-scc="mcdm.heroes.v1/feature.common.move-actions/ride" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -445,7 +443,7 @@ A maneuver typically involves less focus and exertion than a main action (see be
 
 Sometimes you might not have anything you can do with your maneuver. That's totally fine! Often, the best thing to do on your [turn](../../Browse/rule/combat/turn.md) is take a main action and move on.
 
-#### Aid Attack {data-scc="mcdm.heroes.v1/feature.common.maneuvers/aid-attack"}
+#### Aid Attack {data-scc="mcdm.heroes.v1/feature.common.maneuvers/aid-attack" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -457,7 +455,7 @@ Sometimes you might not have anything you can do with your maneuver. That's tota
 </section>
 </address>
 
-#### Catch Breath {data-scc="mcdm.heroes.v1/feature.common.maneuvers/catch-breath"}
+#### Catch Breath {data-scc="mcdm.heroes.v1/feature.common.maneuvers/catch-breath" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -470,7 +468,7 @@ Sometimes you might not have anything you can do with your maneuver. That's tota
 </section>
 </address>
 
-#### Escape Grab {data-scc="mcdm.heroes.v1/feature.common.maneuvers/escape-grab"}
+#### Escape Grab {data-scc="mcdm.heroes.v1/feature.common.maneuvers/escape-grab" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="1" data-grant="the Escape Grab maneuver">
@@ -503,7 +501,7 @@ Sometimes you might not have anything you can do with your maneuver. That's tota
 </section>
 </address>
 
-#### Grab {data-scc="mcdm.heroes.v1/feature.common.maneuvers/grab"}
+#### Grab {data-scc="mcdm.heroes.v1/feature.common.maneuvers/grab" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="1" data-grant="the Grab maneuver">
@@ -537,19 +535,19 @@ Sometimes you might not have anything you can do with your maneuver. That's tota
 </section>
 </address>
 
-#### Hide {data-scc="mcdm.heroes.v1/feature.common.maneuvers/hide"}
+#### Hide {data-scc="mcdm.heroes.v1/feature.common.maneuvers/hide" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Hide</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
-<p>Using the <a href="../../../Browse/feature/common/maneuvers/hide/">Hide</a> maneuver, a creature attempts to hide from other creatures who aren&#39;t observing them while they have <a href="../../../Browse/rule/combat/cover/">cover</a> or <a href="../../../Browse/rule/combat/concealment/">concealment</a>. See Hide and Sneak in Chapter 9: <a href="../tests/">Tests</a> for full details.</p>
+<p>Using the <a href="../../../Browse/feature/common/maneuvers/hide/">Hide</a> maneuver, a creature attempts to hide from other creatures who aren&#39;t observing them while they have <a href="../../../Browse/rule/combat/cover/">cover</a> or <a href="../../../Browse/rule/combat/concealment/">concealment</a>. See <a href="../../../Browse/rule/test/hide-and-sneak/">Hide and Sneak</a> in Chapter 9: <a href="../tests/">Tests</a> for full details.</p>
 </div>
 </section>
 </address>
 
-#### Knockback {data-scc="mcdm.heroes.v1/feature.common.maneuvers/knockback"}
+#### Knockback {data-scc="mcdm.heroes.v1/feature.common.maneuvers/knockback" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest" data-action="trait" data-sub="1" data-grant="the Knockback maneuver">
@@ -583,7 +581,7 @@ Sometimes you might not have anything you can do with your maneuver. That's tota
 </section>
 </address>
 
-#### Make or Assist a Test {data-scc="mcdm.heroes.v1/feature.common.maneuvers/make-or-assist-a-test"}
+#### Make or Assist a Test {data-scc="mcdm.heroes.v1/feature.common.maneuvers/make-or-assist-a-test" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -596,19 +594,19 @@ Sometimes you might not have anything you can do with your maneuver. That's tota
 </section>
 </address>
 
-#### Search for Hidden Creatures {data-scc="mcdm.heroes.v1/feature.common.maneuvers/search-for-hidden-creatures"}
+#### Search for Hidden Creatures {data-scc="mcdm.heroes.v1/feature.common.maneuvers/search-for-hidden-creatures" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Search for Hidden Creatures</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
-<p>The <a href="../../../Browse/feature/common/maneuvers/search-for-hidden-creatures/">Search for Hidden Creatures</a> maneuver allows a creature to attempt to locate creatures hidden from them (see Hide and Sneak in Chapter 9: <a href="../tests/">Tests</a>).</p>
+<p>The <a href="../../../Browse/feature/common/maneuvers/search-for-hidden-creatures/">Search for Hidden Creatures</a> maneuver allows a creature to attempt to locate creatures hidden from them (see <a href="../../../Browse/rule/test/hide-and-sneak/">Hide and Sneak</a> in Chapter 9: <a href="../tests/">Tests</a>).</p>
 </div>
 </section>
 </address>
 
-#### Stand Up {data-scc="mcdm.heroes.v1/feature.common.maneuvers/stand-up"}
+#### Stand Up {data-scc="mcdm.heroes.v1/feature.common.maneuvers/stand-up" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -620,7 +618,7 @@ Sometimes you might not have anything you can do with your maneuver. That's tota
 </section>
 </address>
 
-#### Use Consumable {data-scc="mcdm.heroes.v1/feature.common.maneuvers/use-consumable"}
+#### Use Consumable {data-scc="mcdm.heroes.v1/feature.common.maneuvers/use-consumable" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -640,7 +638,7 @@ You can also use your main action to help another creature regain [Stamina](../.
 
 You can convert your main action into a maneuver or a move action, allowing you to [take two](../../Browse/feature/ability/troubadour/level-5/take-two.md) maneuvers or move actions on your [turn](../../Browse/rule/combat/turn.md).
 
-#### Charge {data-scc="mcdm.heroes.v1/feature.common.main-actions/charge"}
+#### Charge {data-scc="mcdm.heroes.v1/feature.common.main-actions/charge" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -653,7 +651,7 @@ You can convert your main action into a maneuver or a move action, allowing you 
 </section>
 </address>
 
-#### Defend {data-scc="mcdm.heroes.v1/feature.common.main-actions/defend"}
+#### Defend {data-scc="mcdm.heroes.v1/feature.common.main-actions/defend" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -665,7 +663,7 @@ You can convert your main action into a maneuver or a move action, allowing you 
 </section>
 </address>
 
-#### Free Strike {data-scc="mcdm.heroes.v1/feature.common.main-actions/free-strike"}
+#### Free Strike {data-scc="mcdm.heroes.v1/feature.common.main-actions/free-strike" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -677,7 +675,7 @@ You can convert your main action into a maneuver or a move action, allowing you 
 </section>
 </address>
 
-#### Heal {data-scc="mcdm.heroes.v1/feature.common.main-actions/heal"}
+#### Heal {data-scc="mcdm.heroes.v1/feature.common.main-actions/heal" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
@@ -699,7 +697,7 @@ Many rules and abilities allow heroes to make [free strikes](../../Browse/featur
 
 Some abilities, such as the [tactician's](../../Browse/class/tactician.md) [Strike Now](../../Browse/feature/ability/tactician/level-1/strike-now.md) or I'll Open and You'll Close abilities, allow another creature to use a [signature ability](../../Browse/rule/combat/signature-ability.md) or [heroic ability](../../Browse/rule/general/heroic-ability.md) when it isn't their [turn](../../Browse/rule/combat/turn.md). Unless otherwise stated, a creature can always use a [free strike](../../Browse/feature/common/main-actions/free-strike.md) instead of a granted [signature ability](../../Browse/rule/combat/signature-ability.md) or [heroic ability](../../Browse/rule/general/heroic-ability.md).
 
-#### Opportunity Attacks {data-scc="mcdm.heroes.v1/rule.combat/opportunity-attack"}
+#### Opportunity Attacks {data-scc="mcdm.heroes.v1/rule.combat/opportunity-attack" data-search-exclude=""}
 
 Whenever a creature has an enemy [adjacent](../../Browse/rule/combat/adjacent.md) to them and the enemy willingly moves to a space that isn't [adjacent](../../Browse/rule/combat/adjacent.md) to the creature without [shifting](../../Browse/movement/shifting.md), the creature can take advantage of that movement to quickly make a [melee](../../Browse/rule/combat/melee.md) [free strike](../../Browse/feature/common/main-actions/free-strike.md) against the enemy as a free [triggered action](../../Browse/rule/combat/triggered-action.md). This is called an opportunity attack.
 
@@ -735,7 +733,7 @@ A [melee](../../Browse/rule/combat/melee.md) weapon free strike is a [melee](../
 - **12-16:** 4 + M or A damage
 - **17+:** 6 + M or A damage
 
-### Flanking {data-scc="mcdm.heroes.v1/rule.combat/flanking"}
+### Flanking {data-scc="mcdm.heroes.v1/rule.combat/flanking" data-search-exclude=""}
 
 When you and one or more allies are [adjacent](../../Browse/rule/combat/adjacent.md) to the same enemy and on opposite sides of the enemy, you are flanking that enemy. While flanking an enemy, you gain an [edge](../../Browse/rule/dice/edge.md) on [melee](../../Browse/rule/combat/melee.md) [strikes](../../Browse/rule/combat/strike.md) against them.
 
@@ -743,29 +741,29 @@ If you're unsure whether your hero and an ally are flanking a foe, imagine a lin
 
 You must have [line of effect](../../Browse/rule/combat/line-of-effect.md) to the enemy and be able to take [triggered actions](../../Browse/rule/combat/triggered-action.md) to gain or grant the flanking benefit.
 
-### Cover {data-scc="mcdm.heroes.v1/rule.combat/cover"}
+### Cover {data-scc="mcdm.heroes.v1/rule.combat/cover" data-search-exclude=""}
 
 When you have [line of effect](../../Browse/rule/combat/line-of-effect.md) to a creature or object but that target has at least half their form blocked by a solid object such as a tree, wall, or overturned table, the target has cover. You take a [bane](../../Browse/rule/dice/bane.md) on damage-dealing abilities used against creatures or objects that have cover from you.
 
-### Concealment {data-scc="mcdm.heroes.v1/rule.combat/concealment"}
+### Concealment {data-scc="mcdm.heroes.v1/rule.combat/concealment" data-search-exclude=""}
 
 Darkness, fog, invisibility magic, and any other effect that fully obscures a creature or object but doesn't protect their physical form grants that creature or object concealment. Even if you have [line of effect](../../Browse/rule/combat/line-of-effect.md) to such a target, a creature or object has concealment from you if you can't see or otherwise observe them. You can target a creature or object with concealment using a [strike](../../Browse/rule/combat/strike.md), provided they aren't hidden (see Hide  and Sneak in Chapter 9: [Tests](tests.md)). However, [strikes](../../Browse/rule/combat/strike.md) against such targets take a [bane](../../Browse/rule/dice/bane.md).
 
-#### Invisible Creatures
+#### Invisible Creatures {data-search-exclude=""}
 
 Invisible creatures always have [concealment](../../Browse/rule/combat/concealment.md) from other creatures. If an invisible creature isn't hidden, they can still be targeted by abilities. The [test](../../Browse/rule/test/test.md) made to find a hidden creature who is invisible takes a [bane](../../Browse/rule/dice/bane.md).
 
-### Damage {data-scc="mcdm.heroes.v1/rule.damage/damage"}
+### Damage {data-scc="mcdm.heroes.v1/rule.damage/damage" data-search-exclude=""}
 
 Strikes, area attacks, environmental effects, and other hazards can all deal damage to the heroes and their foes. Whenever a creature takes damage, they reduce their [Stamina](../../Browse/rule/health/stamina.md) (see below) by an amount equal to the damage taken.
 
-#### Damage Types {data-scc="mcdm.heroes.v1/rule.damage/damage-type"}
+#### Damage Types {data-scc="mcdm.heroes.v1/rule.damage/damage-type" data-search-exclude=""}
 
 Typical damage, such as that caused by weapons, falling, traps, and monstrous claws, has no type associated with it. That's because for most creatures, there's no difference in the amount of harm caused by being run through with a pike, dropped from a height onto a stone floor, slashed by a pendulum scythe, or skewered on a minotaur's horns.
 
 However, when it comes to elemental and [supernatural](../../Browse/rule/general/supernatural.md) damage sources, some creatures might have an immunity or weakness to that damage. As such, abilities and effects note when they deal any of the following damage types: acid, cold, corruption, fire, holy, lightning, poison, psychic, or sonic.
 
-##### Damage Immunity {data-scc="mcdm.heroes.v1/rule.damage/damage-immunity"}
+##### Damage Immunity {data-scc="mcdm.heroes.v1/rule.damage/damage-immunity" data-search-exclude=""}
 
 Damage immunity means that a creature can ignore some or all of the damage they would usually take from certain attacks or effects.
 
@@ -775,7 +773,7 @@ Damage immunity should be the last thing applied when calculating damage. For in
 
 If multiple damage immunities apply to a source of damage, only the immunity with the highest value applies. For instance, a creature with damage immunity 5 and fire immunity 10 who takes 12 fire damage reduces the damage by 10 points.
 
-##### Damage Weakness {data-scc="mcdm.heroes.v1/rule.damage/damage-weakness"}
+##### Damage Weakness {data-scc="mcdm.heroes.v1/rule.damage/damage-weakness" data-search-exclude=""}
 
 Damage weakness works like [damage immunity](../../Browse/rule/damage/damage-immunity.md), except that creatures take extra damage whenever they take damage of the indicated type. For instance, if a creature has fire weakness 5 and is dealt 10 fire damage, they take 15 fire damage instead.
 
@@ -785,37 +783,37 @@ If a creature has both [damage immunity](../../Browse/rule/damage/damage-immunit
 
 If multiple damage weaknesses apply to a source of damage, only the weakness with the highest value applies.
 
-### Stamina {data-scc="mcdm.heroes.v1/rule.health/stamina"}
+### Stamina {data-scc="mcdm.heroes.v1/rule.health/stamina" data-search-exclude=""}
 
 Your hero's survivability is represented by your Stamina. Think of Stamina as a combination of a creature's physical vitality and their overall energy for dodging and resisting incoming blows, spells, and other violence. It's not that every instance of [damage](../../Browse/rule/damage/damage.md) deals a [bleeding](../../Browse/condition/bleeding.md) wound to you, but that each one chips away at your ability to fight effectively. One attack might make you sweat as you leap back to avoid an arrow, while another might graze your elbow with a dagger nick, leaving a dull, distracting pain. Eventually, this draining of energy leaves you open for bigger blows that can truly harm your body—or possibly kill you.
 
 After any [damage](../../Browse/rule/damage/damage.md) you take is reduced by [damage immunity](../../Browse/rule/damage/damage-immunity.md) or other effects, your Stamina is reduced by an amount equal to the remaining [damage](../../Browse/rule/damage/damage.md). Some effects can also reduce your Stamina maximum, limiting the amount of Stamina you can regain.
 
-#### Recoveries and Recovery Value {data-scc="mcdm.heroes.v1/rule.health/recoveries"}
+#### Recoveries and Recovery Value {data-scc="mcdm.heroes.v1/rule.health/recoveries" data-search-exclude=""}
 
 Each hero has a number of Recoveries determined by their class. A hero also has a recovery value that equals one-third of their [Stamina](../../Browse/rule/health/stamina.md) maximum, rounded down. When you use the [Catch Breath](../../Browse/feature/common/maneuvers/catch-breath.md) maneuver in combat (see Maneuvers above), you spend a Recovery and regain [Stamina](../../Browse/rule/health/stamina.md) equal to your recovery value. Outside of combat, you can spend as many Recoveries as you have remaining. Some abilities, items, and other effects allow you to spend a Recovery to regain [Stamina](../../Browse/rule/health/stamina.md) equal to your recovery value plus a little extra (as described by the effect), or to regain [Stamina](../../Browse/rule/health/stamina.md) without spending a Recovery.
 
-#### Winded {data-scc="mcdm.heroes.v1/rule.health/winded"}
+#### Winded {data-scc="mcdm.heroes.v1/rule.health/winded" data-search-exclude=""}
 
 Your winded value equals half your [Stamina](../../Browse/rule/health/stamina.md) maximum. When your [Stamina](../../Browse/rule/health/stamina.md) is equal to or less than your winded value, you are winded. Although being winded has no effects on its own, certain ancestry, class, item, title, and monster abilities affect winded creatures.
 
 You can tell when other creatures are winded and vice versa.
 
-#### Dying and Death {data-scc="mcdm.heroes.v1/rule.health/dying"}
+#### Dying and Death {data-scc="mcdm.heroes.v1/rule.health/dying" data-search-exclude=""}
 
 When your [Stamina](../../Browse/rule/health/stamina.md) is 0 or lower, you are dying. While dying, you can't use the [Catch Breath](../../Browse/feature/common/maneuvers/catch-breath.md) maneuver in combat. Additionally, you are [bleeding](../../Browse/condition/bleeding.md), and this instance of the [condition](../../Browse/rule/combat/condition.md) can't be negated or removed in any way until you are no longer dying. While you are dying, you can still act, your allies can help you spend [Recoveries](../../Browse/rule/health/recoveries.md) in combat, and you can spend [Recoveries](../../Browse/rule/health/recoveries.md) out of combat as usual.
 
 While your [Stamina](../../Browse/rule/health/stamina.md) is lower than 0, if it reaches the negative of your [winded](../../Browse/rule/health/winded.md) value, you die. When you die, you can't be brought back to life without the use of a special powerful item, such as a Scroll of Resurrection.
 
-#### Director-Controlled Creatures
+#### Director-Controlled Creatures {data-search-exclude=""}
 
 In most circumstances, Director-controlled creatures die or are destroyed when their [Stamina](../../Browse/rule/health/stamina.md) drops to 0.
 
-##### No Recoveries
+##### No Recoveries {data-search-exclude=""}
 
 Director-controlled creatures don't have [Recoveries](../../Browse/rule/health/recoveries.md) or a [recovery value](../../Browse/rule/health/recoveries.md). Any such creatures who regain [Stamina](../../Browse/rule/health/stamina.md) during a battle do so by way of a special item or an ability in their stat block. However, there are times when a hero might wish to use an ability that allows another creature to spend a [Recovery](../../Browse/rule/health/recoveries.md) or to regain [Stamina](../../Browse/rule/health/stamina.md) equal to their [recovery value](../../Browse/rule/health/recoveries.md) on an injured [NPC](../../Browse/rule/general/npc.md). In such cases, a Director-controlled creature regains [Stamina](../../Browse/rule/health/stamina.md) equal to one-third of their [Stamina](../../Browse/rule/health/stamina.md) maximum.
 
-#### Knocking Creatures Out
+#### Knocking Creatures Out {data-search-exclude=""}
 
 If you damage a creature with an ability that would kill them, you can choose to instead knock them unconscious. If a creature takes damage while unconscious in this way, they die.
 
@@ -823,11 +821,11 @@ Director-controlled creatures remain unconscious for 1 hour if no one does anyth
 
 Heroes remain unconscious for 1 hour if no one does anything to wake them. After 1 hour, they can spend a [Recovery](../../Browse/rule/health/recoveries.md) and are no longer unconscious. If the hero has no [Recoveries](../../Browse/rule/health/recoveries.md) left, they can't wake up until they finish a [respite](../../Browse/rule/resource/respite.md).
 
-##### Unconscious
+##### Unconscious {data-search-exclude=""}
 
 While you are unconscious, you can't take main actions, maneuvers, [triggered actions](../../Browse/rule/combat/triggered-action.md), free [triggered actions](../../Browse/rule/combat/triggered-action.md), or [free maneuvers](../../Browse/rule/combat/free-maneuver.md); your [speed](../../Browse/rule/character/speed.md) is 0; you are unaware of your surroundings; and you [are prone](../../Browse/condition/prone.md). [Ability rolls](../../Browse/rule/dice/ability-roll.md) against you have a double [edge](../../Browse/rule/dice/edge.md). If you wake up from being unconscious, you can stand up from prone as a [free maneuver](../../Browse/rule/combat/free-maneuver.md).
 
-#### Temporary Stamina {data-scc="mcdm.heroes.v1/rule.health/temporary-stamina"}
+#### Temporary Stamina {data-scc="mcdm.heroes.v1/rule.health/temporary-stamina" data-search-exclude=""}
 
 Some abilities, treasures, and other effects grant a creature temporary [Stamina](../../Browse/rule/health/stamina.md). Temporary [Stamina](../../Browse/rule/health/stamina.md) shouldn't be included in a creature's [Stamina](../../Browse/rule/health/stamina.md) total when figuring out a creature's [recovery value](../../Browse/rule/health/recoveries.md) or [winded](../../Browse/rule/health/winded.md) value. If you have temporary [Stamina](../../Browse/rule/health/stamina.md) while [winded](../../Browse/rule/health/winded.md), [dying](../../Browse/rule/health/dying.md), or dead, the temporary [Stamina](../../Browse/rule/health/stamina.md) doesn't change those states.
 
@@ -837,7 +835,7 @@ There is no maximum to how much temporary [Stamina](../../Browse/rule/health/sta
 
 Unless otherwise indicated, temporary [Stamina](../../Browse/rule/health/stamina.md) disappears at the end of an encounter.
 
-#### Object Stamina {data-scc="mcdm.heroes.v1/rule.general/unattended-object"}
+#### Object Stamina {data-scc="mcdm.heroes.v1/rule.general/unattended-object" data-search-exclude=""}
 
 Mundane objects in the game have [Stamina](../../Browse/rule/health/stamina.md) based on the material they're made of. When an object's [Stamina](../../Browse/rule/health/stamina.md) is reduced to 0, the object is destroyed. Objects have poison immunity all and psychic immunity all, though the Director can remove one or both of these immunities in the case of living objects, such as plants. A [size](../../Browse/rule/character/size.md) 1 object or 1 square of a larger object made of common materials has [Stamina](../../Browse/rule/health/stamina.md) as follows:
 
@@ -848,17 +846,17 @@ Mundane objects in the game have [Stamina](../../Browse/rule/health/stamina.md) 
 
 The Director can decide that a well-made or poorly made object has more or less [Stamina](../../Browse/rule/health/stamina.md). Destroying a [supernatural](../../Browse/rule/general/supernatural.md) object often (but not always) requires a specific quest, such as throwing a magic ring back into the volcano where it was forged.
 
-### Underwater Combat {data-scc="mcdm.heroes.v1/rule.combat/underwater-combat"}
+### Underwater Combat {data-scc="mcdm.heroes.v1/rule.combat/underwater-combat" data-search-exclude=""}
 
 If a creature is fully submerged in water, they have fire immunity 5 and lightning weakness 5. If they can't automatically swim at full [speed](../../Browse/rule/character/speed.md) while moving, their [power rolls](../../Browse/rule/dice/power-roll.md) take a [bane](../../Browse/rule/dice/bane.md).
 
-### Suffocating {data-scc="mcdm.heroes.v1/rule.health/suffocating"}
+### Suffocating {data-scc="mcdm.heroes.v1/rule.health/suffocating" data-search-exclude=""}
 
 During combat or under similarly stressful circumstances, you can hold your breath for a number of [combat rounds](../../Browse/rule/combat/combat-round.md) equal to your [Might](../../Browse/rule/character/might.md) score (minimum 1 round). At the end of each [combat round](../../Browse/rule/combat/combat-round.md) after that, you take 1d6 damage while holding your breath.
 
 Out of combat, you can hold your breath for a number of minutes equal to your [Might](../../Browse/rule/character/might.md) score. Being unable to breathe after that time counts as a stressful [condition](../../Browse/rule/combat/condition.md), causing you to run out of air as above.
 
-### Mounted Combat {data-scc="mcdm.heroes.v1/rule.combat/mounted-combat"}
+### Mounted Combat {data-scc="mcdm.heroes.v1/rule.combat/mounted-combat" data-search-exclude=""}
 
 A willing creature with the Mount role (see Creature Roles in *Draw Steel: Monsters*) can serve as your mount as long as their [size](../../Browse/rule/character/size.md) is greater than yours. You can climb onto your mount freely (see Climbing Other Creatures above). You determine which space you occupy. While mounted, you can take the [Ride](../../Browse/feature/common/move-actions/ride.md) move action, but a mount can only be ridden this way once per round. Both mount and rider each take a [turn](../../Browse/rule/combat/turn.md) during combat.
 
@@ -866,11 +864,11 @@ If a creature riding a mount is [force moved](../../Browse/movement/forced-movem
 
 If your mount dies, they [fall prone](../../Browse/condition/prone.md), and you fall off them and l[and prone](../../Browse/condition/prone.md) in the nearest unoccupied space of your choice.
 
-### End of Combat
+### End of Combat {data-scc="mcdm.heroes.v1/rule.combat/end-of-combat" data-search-exclude=""}
 
 At the end of combat, the Director determines if the heroes earn any [Victories](../../Browse/rule/resource/victories.md). Any effect or [condition](../../Browse/rule/combat/condition.md) on you that you suffered during combat (except for being [winded](../../Browse/rule/health/winded.md), unconscious, or [dying](../../Browse/rule/health/dying.md)) ends if you want it to.
 
-#### How Combat Ends
+#### How Combat Ends {data-search-exclude=""}
 
 The Director determines when a combat encounter is over. While some battles—especially showdowns with important villains—can be about a fight to the bitter end, many other encounters can become a tedious slog if the heroes need to fight until every last enemy's [Stamina](../../Browse/rule/health/stamina.md) is reduced to 0.
 
@@ -878,61 +876,61 @@ To avoid a battle dragging, the Director can set [objectives](../../Browse/rule/
 
 When the Director ends combat this way, the players typically choose how the battle ends by narrating a dramatic finish. Or in rarer cases when the heroes achieve a major [objective](../../Browse/rule/combat/objective.md) that sets off a story-defining event, the Director narrates the end of the battle with a positive outcome for the players, called an event ending (see below).
 
-#### Objective Endings {data-scc="mcdm.heroes.v1/rule.combat/objective"}
+#### Objective Endings {data-scc="mcdm.heroes.v1/rule.combat/objective" data-search-exclude=""}
 
 While planning a combat encounter, the Director can set one or more objectives the heroes can achieve to end the encounter without dropping every last foe. Some broad categories of objectives are described in this section, but the Director should feel free to create their own. As well, Directors can always end combat anytime it becomes clear that the heroes are going to win an encounter with minimal effort, even if they haven't achieved all the objectives.
 
 Each of the objective endings in this section is explored in detail including looking at monster roles, map advice, success [conditions](../../Browse/rule/combat/condition.md), and more—in the Introduction section of *Draw Steel: Monsters*.
 
-##### Diminish Numbers
+##### Diminish Numbers {data-search-exclude=""}
 
 The simplest combat encounter [objective](../../Browse/rule/combat/objective.md) is almost always "defeat them before they defeat us." Though the heroes don't have to kill every last enemy in this type of encounter, winning the day requires that they push their opponents to the point where they are broken, flee, or surrender.
 
-##### Defeat a Specific Foe
+##### Defeat a Specific Foe {data-search-exclude=""}
 
 An encounter built around defeating a specific foe includes one or more of the heroes' enemies commanding the rest, such as a hobgoblin bloodlord leading a group of mercenaries, or one or more particularly powerful foes among a group of weaker ones, such as a pair of tusker demons in a gnoll war band. Because these more-powerful enemies are the stars of the encounter, if only weak foes are left once the stars are gone, the battle loses its challenge and it's time to wrap it up. It makes sense for those weaker foes to flee or surrender once their strongest allies have gone down.
 
-##### Get the Thing!
+##### Get the Thing! {data-search-exclude=""}
 
 Classic heroic fantasy is full of important objects that the heroes must protect from the forces of evil: magic rings, royal birth certificates, dragon eggs, and the like. Heroes often find themselves at violent odds with their enemies as they race to collect a valuable or important item from a guarded temple or castle, or when they need to steal the item from a group of enemies already in possession of it.
 
 [Objectives](../../Browse/rule/combat/objective.md) in this category work well when paired with other [objectives](../../Browse/rule/combat/objective.md), such as defeating a specific foe. For instance, the heroes must steal a ledger containing a record of criminal activity from an overmind and her lackeys. However, even if they obtain the ledger, the battle won't be over until they also defeat the overmind, who won't let the book go without a fight!
 
-##### Destroy the Thing!
+##### Destroy the Thing! {data-search-exclude=""}
 
 Combat doesn't always have to be about destroying your enemies. Sometimes it's about destroying their stuff! Burning a pirate captain's vessel, closing a portal to the Abyssal Wasteland before it lets in an army of demons, or shutting down a massive kobold trap made of spinning blades could so hamper the heroes' foes that the battle is no longer worth fighting once the damage is done.
 
-##### Save Another
+##### Save Another {data-search-exclude=""}
 
 No one earns the mantle of hero without saving a few lives. Sometimes the point of an encounter isn't to kill, but to save as many folks as you can. If the heroes rescue powerful allies from the clutches of their foes during combat, the added strength of those allies might be enough to make the remainder of the encounter trivial. When you and your companions save a griffon from a crew of poachers, the hunters become the... well, you know the rest.
 
-##### Escort
+##### Escort {data-search-exclude=""}
 
 Surprising as it may seem, sometimes the fate of the mission doesn't rest on the heroes' shoulders at all! Sometimes it rests on the shoulders of someone standing next to the heroes. The heroes' job is to keep this important person safe as they travel to a specific destination.
 
 Not every escort encounter is on behalf of a wise or mighty ally. Sometimes the heroes are tasked with protecting a helpless or even an actively troublesome creature, such as a hapless noble or a wayward child. They might even have to protect a bulky or inconvenient inanimate object. Whatever the case, the enemies just keep coming until the heroes get their charge to their destination.
 
-##### Hold Them Off
+##### Hold Them Off {data-search-exclude=""}
 
 Sometimes the heroes just need to buy time. They might need to battle a conquering tyrant's army to allow innocent villagers time to escape. They might need to hold off wave after wave of zombies while a group of priests completes a ritual to lay the undead to rest for good. To achieve this [objective](../../Browse/rule/combat/objective.md), the heroes need to stay alive and protect a particular position for a number of rounds determined by you.
 
-##### Assault the Defenses
+##### Assault the Defenses {data-search-exclude=""}
 
 The enemy holds a strategically important position and the heroes want it. The encounter ends when the heroes secure the [objective](../../Browse/rule/combat/objective.md) defensive location for themselves, even if there are more enemies outside it. Sometimes an encounter with this [objective](../../Browse/rule/combat/objective.md) is part of a combined [objective](../../Browse/rule/combat/objective.md), as when heroes must first assault the defenses, then hold that defensive position against counterattack.
 
-##### Stop the Action
+##### Stop the Action {data-search-exclude=""}
 
 Sometimes combat is complicated by the fact that the heroes need to stop the villainous actions of their foes. It's not enough to simply defeat the warriors in a cult. The heroes must also stop the zealots' archdevil-summoning ritual! Or it might be that the heroes need to interrupt a wedding and make sure an evil mage doesn't marry the heir to the throne. Despite combat, the mage forces the ceremony to continue! [Objectives](../../Browse/rule/combat/objective.md) in this category have a timer associated with them. If the heroes don't achieve the [objective](../../Browse/rule/combat/objective.md) in a certain number of rounds, the [conditions](../../Browse/rule/combat/condition.md) of the battle could well change. For instance, if the cultists summon the archdevil, defeating the [devil](../../Browse/ancestry/devil.md) suddenly becomes the heroes' new [objective](../../Browse/rule/combat/objective.md)!
 
-##### Complete the Action
+##### Complete the Action {data-search-exclude=""}
 
 This encounter [objective](../../Browse/rule/combat/objective.md) sees the characters charged with initiating an event, performing a ritual, and so forth. For instance, if the heroes are attempting to launch an airship while repelling a [time raider](../../Browse/ancestry/time-raider.md) boarding party, the encounter could be over the moment the heroes manage to activate the vessel and take off with just a few [time raiders](../../Browse/ancestry/time-raider.md) actually aboard.
 
-#### Dramatic Finish
+#### Dramatic Finish {data-search-exclude=""}
 
 If the heroes are able to end a fight with a dramatic finish, the Director assigns each hero one or more of their remaining enemies, then asks that hero's player to describe how the hero neutralizes that threat. The hero might deliver a killing blow, knock their foe out, or let the enemy flee with their tail between their legs (literally or figuratively). If the fight has more heroes than Director-controlled enemies, the Director can assign more than one hero to an enemy, then ask the players how their characters work together to bring that enemy down. After everyone gives a description, the battle ends.
 
-#### Event Ending
+#### Event Ending {data-search-exclude=""}
 
 If the Director calls the end of combat when a specific [objective](../../Browse/rule/combat/objective.md) in an encounter is achieved, the event ending creates a big narrative finish. The Director can pick a narrative trigger for an event ending before an encounter begins, or can come up with one on the fly if that makes more sense.
 

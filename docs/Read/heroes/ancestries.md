@@ -1,8 +1,6 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-search:
-  exclude: true
 name: Ancestries
 order: 3
 scc: mcdm.heroes.v1/chapter/ancestries
@@ -259,7 +257,7 @@ How tall is a [polder](../../Browse/ancestry/polder.md)? How long does a [dwarf]
 | [Polder](../../Browse/ancestry/polder.md)        | 3'3''-3'6''               | 20-50               | 50-90                       |
 | [Time Raider](../../Browse/ancestry/time-raider.md)   | 5'0''-6'0''               | 120-250             | 50-90                       |
 
-### Starting Size and Speed {data-scc="mcdm.heroes.v1/rule.character/speed"}
+### Starting Size and Speed {data-scc="mcdm.heroes.v1/rule.character/speed" data-search-exclude=""}
 
 Unless otherwise noted, a character of any of these ancestries is [size](../../Browse/rule/character/size.md) 1M and has speed 5 and [stability](../../Browse/rule/character/stability.md) 0.
 
@@ -273,7 +271,7 @@ Ancestries also have purchased traits, but you don't get every purchased trait y
 
 For example, the [devil](../../Browse/ancestry/devil.md) ancestry has the signature trait Silver Tongue and 3 ancestry points to spend on seven different traits. A player creating a [devil](../../Browse/ancestry/devil.md) hero could select Barbed Tail, Glowing Eyes, and Hellsight, each of which costs 1 ancestry point, or they could select one of those traits plus Impressive Horns or Wings, each of which costs 2 ancestry points. But they couldn't select both Impressive Horns and Wings, since their combined cost of 4 exceeds the ancestry points budget for the [devil](../../Browse/ancestry/devil.md).
 
-## Devil {data-scc="mcdm.heroes.v1/ancestry/devil"}
+## Devil {data-scc="mcdm.heroes.v1/ancestry/devil" data-search-exclude=""}
 
 The native ancestry of the Seven Cities of Hell, [devils](../../Browse/ancestry/devil.md) are humanoids with red or blue skin expressed in a wide variety of hues, from bright crimson to deep purple. Each [devil](../../Browse/ancestry/devil.md) is born with some *hellmark*-horns, a tail, cloven hooves, a forked tongue, fanged incisors, or even wings.
 
@@ -285,7 +283,7 @@ On rare occasions, though, the summoning goes wrong and the supplicant dies befo
 
 The majority of [devils](../../Browse/ancestry/devil.md) in [Orden](../../Browse/rule/world/orden.md) are not from, nor have ever been to, the Seven Cities. They are descendants of [devils](../../Browse/ancestry/devil.md) who were stranded in the mundane world decades, centuries, even millennia ago.
 
-### On Devils
+### On Devils {data-search-exclude=""}
 
 Adelard scuttled across the floor of his basement, a heavy tome clutched in one hand, his index finger marking a page. Occasionally he would stop, open the book, consult a diagram, look at the chalk markings he'd made on the floor, tilt his head, then bend down and refine or rub out an esoteric symbol.
 
@@ -379,7 +377,7 @@ and the outrageous sums I spend looking good, I always feel *underdressed* in yo
 
 She blushed in spite of herself and raised her own glass in a toast. "You silver-tongued [devil](../../Browse/ancestry/devil.md)."
 
-### Devil Traits {data-scc="mcdm.heroes.v1/feature.trait.devil/devil-traits"}
+### Devil Traits {data-scc="mcdm.heroes.v1/feature.trait.devil/devil-traits" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--section" data-action="trait" data-sub="2">
@@ -449,7 +447,7 @@ She blushed in spite of herself and raised her own glass in a toast. "You silver
 </section>
 </address>
 
-## Dragon Knight {data-scc="mcdm.heroes.v1/ancestry/dragon-knight"}
+## Dragon Knight {data-scc="mcdm.heroes.v1/ancestry/dragon-knight" data-search-exclude=""}
 
 The ritual of Dracogenesis that grants the power to create a generation of [dragon knights](../../Browse/ancestry/dragon-knight.md)—also known as draconians or wyrmwights—is obscure and supremely difficult for even an experienced sorcerer to master. Small populations of draconians in Khemhara, Higara, and Khoursir attest to this. Descendants of original generations created millennia ago by powerful wizards, they have never been numerous. A typical clutch yields only a single egg. After only a few generations, these draconians begin to show new adaptations like feathers or frilled ridges.
 
@@ -459,7 +457,7 @@ Knighthood was a title carried by every member of that first generation of [drag
 
 Then Ajax came.
 
-### On Dragon Knights
+### On Dragon Knights {data-search-exclude=""}
 
 The cloaked figure at the back of the inn stood up. As they did so, their hood slipped down, revealing their head and face. A susurration rippled through the crowd. One man standing near the bar dropped his jaw, followed by his flagon of mead.
 
@@ -535,7 +533,7 @@ The [dragon knight](../../Browse/ancestry/dragon-knight.md) looked at the people
 
 "Exactly," Vaantikalisax said. Then he turned and left the inn.
 
-### Dragon Knight Traits {data-scc="mcdm.heroes.v1/feature.trait.dragon-knight/dragon-knight-traits"}
+### Dragon Knight Traits {data-scc="mcdm.heroes.v1/feature.trait.dragon-knight/dragon-knight-traits" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--section" data-action="trait" data-sub="2">
@@ -642,13 +640,13 @@ The [dragon knight](../../Browse/ancestry/dragon-knight.md) looked at the people
 </section>
 </address>
 
-## Dwarf {data-scc="mcdm.heroes.v1/ancestry/dwarf"}
+## Dwarf {data-scc="mcdm.heroes.v1/ancestry/dwarf" data-search-exclude=""}
 
 Possessed of a strength that belies their [size](../../Browse/rule/character/size.md), [dwarves](../../Browse/ancestry/dwarf.md) have flesh infused with stone—a silico-organic hybrid making them physically denser than other humanoids. They enjoy a reputation in [Orden](../../Browse/rule/world/orden.md) as savvy engineers and technologists thanks to the lore they inherited from their elder siblings, the long-extinct steel [dwarves](../../Browse/ancestry/dwarf.md).
 
 [Dwarves](../../Browse/ancestry/dwarf.md) are the children of the elder god Ord, and a common phrase among [dwarves](../../Browse/ancestry/dwarf.md) is "Ord made the world"-their way of saying, "What will be, will be." They take great pride in knowing that along with Aan, Eth, and Kul, their god created the mundane world, and many [dwarves](../../Browse/ancestry/dwarf.md) leave their homes to see the world and seek glory in Ord's name.
 
-### On Dwarves
+### On Dwarves {data-search-exclude=""}
 
 "They can be stubborn," Embers said.
 
@@ -746,7 +744,7 @@ Dazar stared at the man, this knight of Tor, and looked at Embers quietly radiat
 
 John was grinning madly at Embers. She held up three fingers.
 
-### Dwarf Traits {data-scc="mcdm.heroes.v1/feature.trait.dwarf/dwarf-traits"}
+### Dwarf Traits {data-scc="mcdm.heroes.v1/feature.trait.dwarf/dwarf-traits" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--section" data-action="trait" data-sub="2">
@@ -808,13 +806,13 @@ John was grinning madly at Embers. She held up three fingers.
 </section>
 </address>
 
-## Wode Elf {data-scc="mcdm.heroes.v1/ancestry/wode-elf"}
+## Wode Elf {data-scc="mcdm.heroes.v1/ancestry/wode-elf" data-search-exclude=""}
 
 Children of the sylvan celestials and masters of the elf-haunted forests called wodes, [wode elves](../../Browse/ancestry/wode-elf.md) see all forests as their domain by birthright. They know and enjoy their reputation among [humans](../../Browse/ancestry/human.md) for snatching children who wander too far into the woods. [Humans](../../Browse/ancestry/human.md) *should* fear the trees.
 
 The [wode elves](../../Browse/ancestry/wode-elf.md)' natural ability to mask their presence, called *glamor*, complements their guerilla style of fighting, letting them strike quickly from cover and then meld back into the underbrush. These traits also make the relatively few [wode elves](../../Browse/ancestry/wode-elf.md) who dwell in cities naturally adept at urban warfare.
 
-### On Wode Elves
+### On Wode Elves {data-search-exclude=""}
 
 "I'm scared," Wenna said. "We should go back." The forest felt as if it was closing in on them.
 
@@ -892,7 +890,7 @@ The children nodded. The elf, satisfied, marched off and they followed.
 
 Jeremy turned to Dade. "I feel like we're in a dream," he whispered. "You are!" their escort called out. "The wode is a dream! With a little luck, one you may soon wake safely from."
 
-### Wode Elf Traits {data-scc="mcdm.heroes.v1/feature.trait.wode-elf/wode-elf-traits"}
+### Wode Elf Traits {data-scc="mcdm.heroes.v1/feature.trait.wode-elf/wode-elf-traits" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--section" data-action="trait" data-sub="2">
@@ -975,13 +973,13 @@ Jeremy turned to Dade. "I feel like we're in a dream," he whispered. "You are!" 
 </section>
 </address>
 
-## High Elf {data-scc="mcdm.heroes.v1/ancestry/high-elf"}
+## High Elf {data-scc="mcdm.heroes.v1/ancestry/high-elf" data-search-exclude=""}
 
 Children of the solar celestials created to tend their libraries and attend to the true elves as heralds, [high elf](../../Browse/ancestry/high-elf.md) history describes a better age, before the coming of [humans](../../Browse/ancestry/human.md) and war. A time when the celestials were still in the world, and all that mattered was art and beauty.
 
 In the millennia since their creators retired to Arcadia, the [high elves](../../Browse/ancestry/high-elf.md) built a civilization for themselves, primarily living in and among the fallen celestial sky cities. With no creators left to please, the elves continue as they did before—collecting lore and knowledge, worshipping art, and turning more inward and distrusting of outsiders with each generation.
 
-### On High Elves
+### On High Elves {data-search-exclude=""}
 
 "They're so beautiful," Wenna said. "It's hard to imagine we're in danger."
 
@@ -1047,7 +1045,7 @@ The king turned back to them. "Should any of you seek hidden lore or deep wisdom
 
 Llyander put their hands on their hips and regarded the children. "Not bad for your second quest. What shall you do for an encore?"
 
-### High Elf Traits {data-scc="mcdm.heroes.v1/feature.trait.high-elf/high-elf-traits"}
+### High Elf Traits {data-scc="mcdm.heroes.v1/feature.trait.high-elf/high-elf-traits" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--section" data-action="trait" data-sub="2">
@@ -1111,7 +1109,7 @@ Llyander put their hands on their hips and regarded the children. "Not bad for y
 </section>
 </address>
 
-## Hakaan {data-scc="mcdm.heroes.v1/ancestry/hakaan"}
+## Hakaan {data-scc="mcdm.heroes.v1/ancestry/hakaan" data-search-exclude=""}
 
 In spite of their friendly, outgoing nature, the rare presence of a [hakaan](../../Browse/ancestry/hakaan.md) in [human](../../Browse/ancestry/human.md) society is considered a harbinger. An omen of dark times.
 
@@ -1125,7 +1123,7 @@ But the only [hakaan](../../Browse/ancestry/hakaan.md) the average [human](../..
 
 [Humans](../../Browse/ancestry/human.md) in Vanigar have their own word for this concept of a personal fate. "Wyrd." Traditional [hakaan](../../Browse/ancestry/hakaan.md) sometimes refer to the Doomsight as "wyrdken."
 
-### On Hakaan
+### On Hakaan {data-search-exclude=""}
 
 The gate, or door, or whatever it was started to close. With Dazar on the other side of it.
 
@@ -1209,7 +1207,7 @@ Ardashir grinned. "Strength alone is not enough." He assumed a fighting pose, ha
 
 "Well you can't ever be disarmed," John said. "That could be useful." Ardashir's smile was brilliant. "I suffice," he said.
 
-### Hakaan Traits {data-scc="mcdm.heroes.v1/feature.trait.hakaan/hakaan-traits"}
+### Hakaan Traits {data-scc="mcdm.heroes.v1/feature.trait.hakaan/hakaan-traits" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--section" data-action="trait" data-sub="2">
@@ -1269,13 +1267,13 @@ Ardashir grinned. "Strength alone is not enough." He assumed a fighting pose, ha
 </section>
 </address>
 
-## Human {data-scc="mcdm.heroes.v1/ancestry/human"}
+## Human {data-scc="mcdm.heroes.v1/ancestry/human" data-search-exclude=""}
 
 [Humans](../../Browse/ancestry/human.md) belong to the world in a way the other speaking peoples do not. You can sense the presence of the [supernatural](../../Browse/rule/general/supernatural.md)—that... oily smell in the air, as I've heard it described. And the presence of deathless causes the hairs on the back of your neck to stand up. Or why do you think graveyards affect you so? Whatever magic is, its grip on you is light. Whatever drives the deathless, your nature rebels against it.
 
 "No one knows why this should be. We elves have no such senses. Nor do the elementals or the kanin... the [dwarves](../../Browse/ancestry/dwarf.md) and the [orcs](../../Browse/ancestry/orc.md) as you say. What is it that sets [humans](../../Browse/ancestry/human.md) apart? I am an historian, not a physician. I cannot say. Perhaps some of you will one day find out and teach us all the reason."
 
-### On Humans
+### On Humans {data-search-exclude=""}
 
 So, we arrive here at the end of your first semester of [Human](../../Browse/ancestry/human.md) Culture. I hope to see you next year in the Caelian Empire course, and though it may be hard to believe now, I often see former students' names in our textbooks years later. Perhaps that will be some of you.
 
@@ -1311,7 +1309,7 @@ Stopping Ajax will require you to become something else. You must become heroes.
 
 Some of your names, I will see written in future textbooks. But some of your names, I will see written in the stars.
 
-### Human Traits {data-scc="mcdm.heroes.v1/feature.trait.human/human-traits"}
+### Human Traits {data-scc="mcdm.heroes.v1/feature.trait.human/human-traits" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--section" data-action="trait" data-sub="2">
@@ -1369,13 +1367,13 @@ Some of your names, I will see written in future textbooks. But some of your nam
 </section>
 </address>
 
-## Memonek {data-scc="mcdm.heroes.v1/ancestry/memonek"}
+## Memonek {data-scc="mcdm.heroes.v1/ancestry/memonek" data-search-exclude=""}
 
 The native denizens of Axiom, the Plane of Uttermost Law, [memonek](../../Browse/ancestry/memonek.md) dwell in a land with lakes and trees and birds and flowers. But on this alien world, the lakes are seas of mercury, the birds glitter with wings of glass stretched gossamer thin, and the flowers' petals are iridescent metal as flexible and fragile as any earthly rose.
 
 The minds of [memonek](../../Browse/ancestry/memonek.md) are highly ordered. Their reason is their great pride. But when descending to the lower planes, including a manifold like [Orden](../../Browse/rule/world/orden.md) where law and chaos mix, a sickness comes over them—an uncontrollable sensation called emotion.
 
-### On Memonek
+### On Memonek {data-search-exclude=""}
 
 "You want to tell me what just happened?" Sir John asked. Count Revile avoided his gaze, then turned and stamped across the bloody battlefield. "I'm fine!" Revile shouted, all evidence to the contrary.
 
@@ -1459,7 +1457,7 @@ John offered his hand. Revile shook it and then held it.
 
 "But there might be enough."
 
-### Memonek Traits {data-scc="mcdm.heroes.v1/feature.trait.memonek/memonek-traits"}
+### Memonek Traits {data-scc="mcdm.heroes.v1/feature.trait.memonek/memonek-traits" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--section" data-action="trait" data-sub="3">
@@ -1535,7 +1533,7 @@ John offered his hand. Revile shook it and then held it.
 </section>
 </address>
 
-## Orc {data-scc="mcdm.heroes.v1/ancestry/orc"}
+## Orc {data-scc="mcdm.heroes.v1/ancestry/orc" data-search-exclude=""}
 
 An anger that cannot be hidden. A [fury](../../Browse/class/fury.md) that drives them in battle. [Orcs](../../Browse/ancestry/orc.md) are famed throughout the world as consummate warriors—a reputation that the peace—loving [orcs](../../Browse/ancestry/orc.md) find distasteful.
 
@@ -1545,7 +1543,7 @@ Each [orc](../../Browse/ancestry/orc.md) has within them a fire that causes thei
 
 "Be thankful [orcs](../../Browse/ancestry/orc.md) do not hold grudges."
 
-### On Orcs
+### On Orcs {data-search-exclude=""}
 
 The [orc](../../Browse/ancestry/orc.md) pulled her greataxe from the split skull of the newly dead ogre. [Prone](../../Browse/condition/prone.md) heroes scrambled to their feet. Dazar healed the wounded.
 
@@ -1659,7 +1657,7 @@ Khorva shook her head. "[Orcs](../../Browse/ancestry/orc.md) have no great love 
 
 "Well," she said. "What do we do next?"
 
-### Orc Traits {data-scc="mcdm.heroes.v1/feature.trait.orc/orc-traits"}
+### Orc Traits {data-scc="mcdm.heroes.v1/feature.trait.orc/orc-traits" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--section" data-action="trait" data-sub="2">
@@ -1717,13 +1715,13 @@ Khorva shook her head. "[Orcs](../../Browse/ancestry/orc.md) have no great love 
 </section>
 </address>
 
-## Polder {data-scc="mcdm.heroes.v1/ancestry/polder"}
+## Polder {data-scc="mcdm.heroes.v1/ancestry/polder" data-search-exclude=""}
 
 After [humans](../../Browse/ancestry/human.md), [polders](../../Browse/ancestry/polder.md) are the most numerous and diverse ancestry in [Orden](../../Browse/rule/world/orden.md). They are not [humans](../../Browse/ancestry/human.md), but they live in and among [humans](../../Browse/ancestry/human.md) and share their gods and culture. Almost every [human](../../Browse/ancestry/human.md) culture in [Orden](../../Browse/rule/world/orden.md) has a [polder](../../Browse/ancestry/polder.md) [saint](../../Browse/rule/world/saint.md) or a [human](../../Browse/ancestry/human.md) [saint](../../Browse/rule/world/saint.md) venerated by [polder](../../Browse/ancestry/polder.md).
 
 Short, averaging 31/2 feet tall, the [polders](../../Browse/ancestry/polder.md)' origins are obscure. They are a young species who, like [humans](../../Browse/ancestry/human.md), have no single patron god. Their ability to *shadowmeld* means they enjoy a reputation as excellent spies and thieves. Many [polders](../../Browse/ancestry/polder.md) consider this a base slander and point out they're also famed as chefs, though [polders](../../Browse/ancestry/polder.md) can be found in every profession, especially in cities.
 
-### On Polders
+### On Polders {data-search-exclude=""}
 
 The three peasants—Jago, his wife Sarah, and his sister Beth—sat together watching the three heroes talk in the crowded common room of the inn. Well, Jackson Bootblack seemed to be doing most of the talking.
 
@@ -1833,7 +1831,7 @@ The [dragon knight](../../Browse/ancestry/dragon-knight.md) stared at them for a
 
 "Maybe you're right," he said.
 
-### Polder Traits {data-scc="mcdm.heroes.v1/feature.trait.polder/polder-traits"}
+### Polder Traits {data-scc="mcdm.heroes.v1/feature.trait.polder/polder-traits" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--section" data-action="trait" data-sub="3">
@@ -1918,7 +1916,7 @@ The [dragon knight](../../Browse/ancestry/dragon-knight.md) stared at them for a
 </section>
 </address>
 
-## Revenant {data-scc="mcdm.heroes.v1/ancestry/revenant"}
+## Revenant {data-scc="mcdm.heroes.v1/ancestry/revenant" data-search-exclude=""}
 
 The dead walk among us. Some of them are happier about it than others.
 
@@ -1926,7 +1924,7 @@ Unlike the necromantic rituals that produce wights and wraiths and zombies, [rev
 
 These [revenants](../../Browse/ancestry/revenant.md) are rare. Many are hunted by ignorant villagers who see only their dead flesh and assume the worst. Those who survive the pitchfork brigade either choose a solitary life, often as a wandering soul seeking out living company yet constantly in fear of it, or they migrate to a metropolis such as Blackbottom or [Capital](../../Browse/rule/world/capital.md), where lost souls gather to make a home.
 
-### On Revenants
+### On Revenants {data-search-exclude=""}
 
 "I'm telling you, we are being *followed*."
 
@@ -1982,7 +1980,7 @@ Lady Filliamo shrugged. "I'm a knight of the church. Jurisdiction's for the city
 
 "*I deal in steel.*"
 
-### Revenant Traits {data-scc="mcdm.heroes.v1/feature.trait.revenant/revenant-traits"}
+### Revenant Traits {data-scc="mcdm.heroes.v1/feature.trait.revenant/revenant-traits" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--section" data-action="trait" data-sub="2">
@@ -2072,7 +2070,7 @@ Lady Filliamo shrugged. "I'm a knight of the church. Jurisdiction's for the city
 </section>
 </address>
 
-## Time Raider {data-scc="mcdm.heroes.v1/ancestry/time-raider"}
+## Time Raider {data-scc="mcdm.heroes.v1/ancestry/time-raider" data-search-exclude=""}
 
 The original servitor species of the synliroi—evil psions with near godlike power—the kuran'zoi liberated themselves during the First Psychic War. In the centuries since, they built their own culture and civilization as nomads of the timescape. The exonym "[time raiders](../../Browse/ancestry/time-raider.md)" was given to them by denizens of the lower worlds who, seeing the advanced technology the kuran'zoi wield, concluded they must be from the future.
 
@@ -2080,7 +2078,7 @@ Extraordinarily rare in [Orden](../../Browse/rule/world/orden.md), [time raiders
 
 In place of eyes, kuran'zoi possess crystalline ocular sensors that grant them high-spectral vision and which are hardened against the extreme radiations encountered in the Sea of Stars, permitting them to operate freely outside their vessels with only their portable rebreathers. [Time raiders](../../Browse/ancestry/time-raider.md) also have two sets of arms, allowing them to wield [melee](../../Browse/rule/combat/melee.md) weapons at the same time as [ranged](../../Browse/rule/combat/ranged.md) weapons. A single well-trained kuran'zoi is like a squad unto themself.
 
-### On Time Raiders
+### On Time Raiders {data-search-exclude=""}
 
 "You will tell me the location of the ship you came here in." Taxiarch Lycaon paced outside the ruined stone church. The four-armed woman with crystal eyes and flaming pink hair in a strip down the center of her shaved head sneered at him. She was chained to the ruin of a stone column outside the church.
 
@@ -2168,7 +2166,7 @@ At the sound, the [orc](../../Browse/ancestry/orc.md) dashed forward into a knot
 
 John hadn't hesitated, he'd already drawn his sword and falchion. "All right, you patchwork son of a bitch." He charged Lycaon who fumbled with the shortsword on his belt.
 
-### Time Raider Traits {data-scc="mcdm.heroes.v1/feature.trait.time-raider/time-raider-traits"}
+### Time Raider Traits {data-scc="mcdm.heroes.v1/feature.trait.time-raider/time-raider-traits" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <section class="sc-trait sc-trait--crest sc-trait--section" data-action="trait" data-sub="2">

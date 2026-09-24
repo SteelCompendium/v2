@@ -1,8 +1,6 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-search:
-  exclude: true
 name: For the Director
 order: 15
 scc: mcdm.heroes.v1/chapter/for-the-director

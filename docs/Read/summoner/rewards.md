@@ -1,8 +1,6 @@
 ---
 printing: "1.0"
 printing_book: "The Summoner"
-search:
-  exclude: true
 name: Rewards
 order: 2
 scc: mcdm.summoner.v1/chapter/rewards
@@ -25,7 +23,7 @@ The following new [trinkets](../../Browse/rule/treasure/trinket.md) are availabl
 
 The following 1st-echelon [trinket](../../Browse/rule/treasure/trinket.md) was designed for [summoners](../../Browse/class/summoner.md) but can be used by any class.
 
-#### Snakerattle Bangle {data-scc="mcdm.summoner.v1/treasure.1st-echelon.trinket/snakerattle-bangle"}
+#### Snakerattle Bangle {data-scc="mcdm.summoner.v1/treasure.1st-echelon.trinket/snakerattle-bangle" data-search-exclude=""}
 
 *This loose-fitting, scaley bangle shifts and slithers while worn. It emits a bone-chilling rattle each time it hits its user's wrist.*
 
@@ -47,7 +45,7 @@ The following 1st-echelon [trinket](../../Browse/rule/treasure/trinket.md) was d
 
 The following 2nd-echelon [trinkets](../../Browse/rule/treasure/trinket.md) were designed for [summoners](../../Browse/class/summoner.md) but can be used by any class.
 
-#### Abyssal Map Ink {data-scc="mcdm.summoner.v1/treasure.2nd-echelon.trinket/abyssal-map-ink"}
+#### Abyssal Map Ink {data-scc="mcdm.summoner.v1/treasure.2nd-echelon.trinket/abyssal-map-ink" data-search-exclude=""}
 
 *The puddle of living ink snarls and snaps while it feeds on parchment and smooth surfaces. It spreads itself across its meal until it resembles a flat, top-down view of its immediate surroundings, wriggling and readjusting itself wherever it goes.*
 
@@ -63,7 +61,7 @@ The following 2nd-echelon [trinkets](../../Browse/rule/treasure/trinket.md) were
 
 **Effect:** While the ink is spread on a smooth surface or a piece of parchment paper, it turns into a [size](../../Browse/rule/character/size.md) 1T or 1S map. This map grants you a double [edge](../../Browse/rule/dice/edge.md) on [tests](../../Browse/rule/test/test.md) you make using the [Navigate](../../Browse/skill/exploration/navigate.md) skill. If you have the map active before the start of an encounter, you can move up to three allies (including yourself ) up to 3 squares away from the starting area.
 
-#### Grasp of the Chained Hand {data-scc="mcdm.summoner.v1/treasure.2nd-echelon.trinket/grasp-of-the-chained-hand"}
+#### Grasp of the Chained Hand {data-scc="mcdm.summoner.v1/treasure.2nd-echelon.trinket/grasp-of-the-chained-hand" data-search-exclude=""}
 
 *A gauntlet of loose chains rattles, shackled to each of the user's fingers. They clatter whenever magic surges through them.*
 
@@ -81,7 +79,7 @@ The following 2nd-echelon [trinkets](../../Browse/rule/treasure/trinket.md) were
 
 **Special:** If you are a [summoner](../../Browse/class/summoner.md), you regain the use of your standard ranged [free strike](../../Browse/feature/common/main-actions/free-strike.md) while wearing this gauntlet.
 
-#### Thunder Chariot {data-scc="mcdm.summoner.v1/treasure.2nd-echelon.trinket/thunder-chariot"}
+#### Thunder Chariot {data-scc="mcdm.summoner.v1/treasure.2nd-echelon.trinket/thunder-chariot" data-search-exclude=""}
 
 *A porcelain cart with golden filigree and wheels that crackle with electricity.*
 
@@ -103,7 +101,7 @@ While riding in the thunder chariot, you have lightning [damage immunity](../../
 
 The following 3rd-echelon [trinkets](../../Browse/rule/treasure/trinket.md) were designed for [summoners](../../Browse/class/summoner.md) but can be used by any class.
 
-#### Cross of the Scorned Puppeteer {data-scc="mcdm.summoner.v1/treasure.3rd-echelon.trinket/cross-of-the-scorned-puppeteer"}
+#### Cross of the Scorned Puppeteer {data-scc="mcdm.summoner.v1/treasure.3rd-echelon.trinket/cross-of-the-scorned-puppeteer" data-search-exclude=""}
 
 *This shiny black marionette cross reveals a masked figure standing in its reflection where its wielder should be.*
 
@@ -125,7 +123,7 @@ You can also pull the strings of your allies to keep them out of harm's way. Whe
 
 **Special:** If you are a [summoner](../../Browse/class/summoner.md) holding the cross, you can organize the minions gained with the cross into one of your class's squads instead.
 
-#### Crystallized Essence {data-scc="mcdm.summoner.v1/treasure.3rd-echelon.trinket/crystallized-essence"}
+#### Crystallized Essence {data-scc="mcdm.summoner.v1/treasure.3rd-echelon.trinket/crystallized-essence" data-search-exclude=""}
 
 *A storm rages at the center of this color-shifting shard of rock.*
 
@@ -145,7 +143,7 @@ You can also pull the strings of your allies to keep them out of harm's way. Whe
 
 Additionally, you can shatter and destroy the crystallized essence as a maneuver to immediately give yourself 5 [essence](../../Browse/feature/summoner/level-1/essence.md).
 
-#### Warbanner of Pride {data-scc="mcdm.summoner.v1/treasure.3rd-echelon.trinket/warbanner-of-pride"}
+#### Warbanner of Pride {data-scc="mcdm.summoner.v1/treasure.3rd-echelon.trinket/warbanner-of-pride" data-search-exclude=""}
 
 *A large banner billows from this tall flagpole. Its heraldry depicts a three-headed lion covered in wounds but still standing.*
 
@@ -167,7 +165,7 @@ At the end of each of your [turns](../../Browse/rule/combat/turn.md), each ally 
 
 The following 4th-echelon [trinkets](../../Browse/rule/treasure/trinket.md) were designed for [summoners](../../Browse/class/summoner.md) but can be used by any class.
 
-#### Hagbasket {data-scc="mcdm.summoner.v1/treasure.4th-echelon.trinket/hagbasket"}
+#### Hagbasket {data-scc="mcdm.summoner.v1/treasure.4th-echelon.trinket/hagbasket" data-search-exclude=""}
 
 *This throne woven from wood, hair, and metal floats several feet above the ground. The gentle humming it makes while it soars sounds reminiscent of a hag's cackle.*
 
@@ -187,7 +185,7 @@ While riding in the hagbasket, [power rolls](../../Browse/rule/dice/power-roll.m
 
 **Special:** If you are a [summoner](../../Browse/class/summoner.md) riding in the hagbasket, you can use a maneuver to enable a willing ally within your Summoner's Range to use [Minion Bridge](../../Browse/feature/ability/summoner/level-1/minion-bridge.md) using your minions.
 
-#### Warbanner of Wrath {data-scc="mcdm.summoner.v1/treasure.4th-echelon.trinket/warbanner-of-wrath"}
+#### Warbanner of Wrath {data-scc="mcdm.summoner.v1/treasure.4th-echelon.trinket/warbanner-of-wrath" data-search-exclude=""}
 
 *A large banner billows from this tall flagpole. Its heraldry depicts a dragon breathing fire with outstretched wings covered in holes and tears.*
 
@@ -213,7 +211,7 @@ The following new [leveled treasures](../../Browse/rule/treasure/leveled-treasur
 
 The following [implements](../../Browse/rule/treasure/implement.md) were designed for [summoners](../../Browse/class/summoner.md) but can be used by any class.
 
-#### 33 Field Commanders Baton {data-scc="mcdm.summoner.v1/treasure.leveled.implement/33-field-commanders-baton"}
+#### 33 Field Commanders Baton {data-scc="mcdm.summoner.v1/treasure.leveled.implement/33-field-commanders-baton" data-search-exclude=""}
 
 *This long, ornate rod with a silver bulb head is braided with 33 green cords. A new cord starts to grow while you wield the baton.*
 
@@ -235,7 +233,7 @@ The following [implements](../../Browse/rule/treasure/implement.md) were designe
 
 **9th Level:** The baton's [damage](../../Browse/rule/damage/damage.md) bonus increases to +3. On your [turn](../../Browse/rule/combat/turn.md), whenever you or an ally deal [damage](../../Browse/rule/damage/damage.md) to a creature within 10 squares of you, you can immediately use your maneuver to [slide](../../Browse/movement/forced-movement.md) the creature up to 3 squares, ignoring [stability](../../Browse/rule/character/stability.md).
 
-#### Rex Scepter {data-scc="mcdm.summoner.v1/treasure.leveled.implement/rex-scepter"}
+#### Rex Scepter {data-scc="mcdm.summoner.v1/treasure.leveled.implement/rex-scepter" data-search-exclude=""}
 
 *The rod resembles a simple tree branch. It grows and braids itself into an ornate scepter in the heat of battle.*
 
@@ -255,7 +253,7 @@ The following [implements](../../Browse/rule/treasure/implement.md) were designe
 
 **9th Level:** The scepter's bonus to [Renown](../../Browse/rule/resource/renown.md) increases to +4. Additionally, the scepter's main action can now be used as a maneuver.
 
-#### Sanctuary Horn {data-scc="mcdm.summoner.v1/treasure.leveled.implement/sanctuary-horn"}
+#### Sanctuary Horn {data-scc="mcdm.summoner.v1/treasure.leveled.implement/sanctuary-horn" data-search-exclude=""}
 
 *This spiral hunting horn is embellished with branching veins of copper across the body. The metal glows red hot as the horn is blown.*
 
@@ -275,7 +273,7 @@ The following [implements](../../Browse/rule/treasure/implement.md) were designe
 
 **9th Level:** The horn's area bonus increases to 2. After you blow the horn as a maneuver, you can [teleport](../../Browse/movement/teleport.md) yourself, another ally, or up to two other minions you control within 5 squares of you into the space left behind by a recalled target, provided they fit into the space.
 
-#### Wand of the Unheard Orchestra {data-scc="mcdm.summoner.v1/treasure.leveled.implement/wand-of-the-unheard-orchestra"}
+#### Wand of the Unheard Orchestra {data-scc="mcdm.summoner.v1/treasure.leveled.implement/wand-of-the-unheard-orchestra" data-search-exclude=""}
 
 *This conductor's baton has an unassuming and inornate steel body. It increases in length when it's swung and flashes a bright light when wanded at a regular interval.*
 
@@ -303,7 +301,7 @@ The following titles are available to add to your game.
 
 The following title was designed for [summoners](../../Browse/class/summoner.md) but is available for any hero.
 
-#### Safeguarded {data-scc="mcdm.summoner.v1/title/safeguarded"}
+#### Safeguarded {data-scc="mcdm.summoner.v1/title/safeguarded" data-search-exclude=""}
 
 *They risk their lives for me because I risk my life for theirs. This fight belongs to all of us!*
 
@@ -317,7 +315,7 @@ The following title was designed for [summoners](../../Browse/class/summoner.md)
 
 The following titles were designed for [summoners](../../Browse/class/summoner.md) but are available for any hero.
 
-#### Sigilwright {data-scc="mcdm.summoner.v1/title/sigilwright"}
+#### Sigilwright {data-scc="mcdm.summoner.v1/title/sigilwright" data-search-exclude=""}
 
 *Let's find out who's on the other side of the circle.*
 
@@ -331,7 +329,7 @@ The following titles were designed for [summoners](../../Browse/class/summoner.m
 
 *Sigil Eye:* You have an [edge](../../Browse/rule/dice/edge.md) on [tests](../../Browse/rule/test/test.md) made to identify summoning circles and who or where they're connected to. You also have an [edge](../../Browse/rule/dice/edge.md) on [strikes](../../Browse/rule/combat/strike.md) made against creatures not native to the manifold in which you're currently located.
 
-#### Summoner Successor {data-scc="mcdm.summoner.v1/title/summoner-successor"}
+#### Summoner Successor {data-scc="mcdm.summoner.v1/title/summoner-successor" data-search-exclude=""}
 
 *When their leader fell, they started listening to me for some reason.*
 
@@ -345,7 +343,7 @@ Additionally, you can summon up to two of your [signature minion](../../Browse/f
 
 The following title was designed for [summoners](../../Browse/class/summoner.md) but is available for any hero.
 
-#### Ringleader {data-scc="mcdm.summoner.v1/title/ringleader"}
+#### Ringleader {data-scc="mcdm.summoner.v1/title/ringleader" data-search-exclude=""}
 
 *Don't worry. I've got a guy.*
 
@@ -363,7 +361,7 @@ The following title was designed for [summoners](../../Browse/class/summoner.md)
 
 The following titles are available for [summoners](../../Browse/class/summoner.md).
 
-#### Delegator {data-scc="mcdm.summoner.v1/title/delegator"}
+#### Delegator {data-scc="mcdm.summoner.v1/title/delegator" data-search-exclude=""}
 
 *They're all yours, buddy.*
 
@@ -373,7 +371,7 @@ The following titles are available for [summoners](../../Browse/class/summoner.m
 
 If your champion would die while taking your place, you lose access to your [Return to the Source](../../Browse/feature/summoner/level-6/return-to-the-source.md) feature and can only summon signature minions until you revive your champion as a [respite](../../Browse/rule/resource/respite.md) activity.
 
-#### High Summoner of the Circle {data-scc="mcdm.summoner.v1/title/high-summoner-of-the-circle"}
+#### High Summoner of the Circle {data-scc="mcdm.summoner.v1/title/high-summoner-of-the-circle" data-search-exclude=""}
 
 *As I was taught, so I pass on to you.*
 

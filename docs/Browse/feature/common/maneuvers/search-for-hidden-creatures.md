@@ -16,9 +16,9 @@ type: feature
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Search for Hidden Creatures</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
-<p>The <a href="../search-for-hidden-creatures/">Search for Hidden Creatures</a> maneuver allows a creature to attempt to locate creatures hidden from them (see Hide and Sneak in Chapter 9: <a href="../../../../../Read/heroes/tests/">Tests</a>).</p>
+<p>The <a href="../search-for-hidden-creatures/">Search for Hidden Creatures</a> maneuver allows a creature to attempt to locate creatures hidden from them (see <a href="../../../../rule/test/hide-and-sneak/">Hide and Sneak</a> in Chapter 9: <a href="../../../../../Read/heroes/tests/">Tests</a>).</p>
 </div>
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="The &#91;Search for Hidden Creatures](search-for-hidden-creatures.md) maneuver allows a creature to attempt to locate creatures hidden from them (see Hide and Sneak in Chapter 9: &#91;Tests](../../../../Read/heroes/tests.md))."></template>
+<template class="sc-src" data-fmt="md" data-src="The &#91;Search for Hidden Creatures](search-for-hidden-creatures.md) maneuver allows a creature to attempt to locate creatures hidden from them (see &#91;Hide and Sneak](../../../rule/test/hide-and-sneak.md) in Chapter 9: &#91;Tests](../../../../Read/heroes/tests.md))."></template>

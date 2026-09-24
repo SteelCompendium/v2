@@ -1,8 +1,6 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-search:
-  exclude: true
 name: The Basics
 order: 1
 scc: mcdm.heroes.v1/chapter/the-basics
@@ -59,31 +57,31 @@ At some point, a player will have their hero attempt a task that has a risk of f
 
 When combat starts, it's time to use a square-gridded map and miniatures to represent the position of the heroes relative to their enemies and the environment. The rules become a little more granular during combat to keep things interesting and fair, but the idea that the game is a conversation between the Director and the other players remains the same.
 
-### Characteristics {data-scc="mcdm.heroes.v1/rule.character/characteristic"}
+### Characteristics {data-scc="mcdm.heroes.v1/rule.character/characteristic" data-search-exclude=""}
 
 Each creature in the game has five characteristics that represent their physical and mental prowess.
 
-#### Might {data-scc="mcdm.heroes.v1/rule.character/might"}
+#### Might {data-scc="mcdm.heroes.v1/rule.character/might" data-search-exclude=""}
 
 Might (represented by M in abilities and other features) represents strength and brawn. A creature's capability to break down doors, swing an axe, stand up during an earthquake, or hurl an ally across a chasm is determined by Might.
 
-#### Agility {data-scc="mcdm.heroes.v1/rule.character/agility"}
+#### Agility {data-scc="mcdm.heroes.v1/rule.character/agility" data-search-exclude=""}
 
 Agility (A) represents coordination and nimbleness. A creature's capacity to backflip out of danger, shoot a crossbow, dodge an explosion, or pluck keys from a guard's belt is determined by Agility.
 
-#### Reason {data-scc="mcdm.heroes.v1/rule.character/reason"}
+#### Reason {data-scc="mcdm.heroes.v1/rule.character/reason" data-search-exclude=""}
 
 Reason (R) represents a logical mind and education. A creature's capacity to solve a puzzle that unlocks a door, recall lore about necromancy, decipher a coded message, or blast a foe with psionic power is determined by Reason.
 
-#### Intuition {data-scc="mcdm.heroes.v1/rule.character/intuition"}
+#### Intuition {data-scc="mcdm.heroes.v1/rule.character/intuition" data-search-exclude=""}
 
 Intuition (I) represents instincts and experience. A creature's capability to recognize a faint sound as the approach of a distant rider, quickly read the tell of a bluffing gambler, calm a rearing horse, or track a monster across the tundra is determined by Intuition.
 
-#### Presence {data-scc="mcdm.heroes.v1/rule.character/presence"}
+#### Presence {data-scc="mcdm.heroes.v1/rule.character/presence" data-search-exclude=""}
 
 Presence (P) represents force of personality. A creature's capacity to lie to a judge, convince a crowd to join a revolution, impress a queen at a royal banquet, or cast a magic spell by singing a song is determined by Presence.
 
-#### Characteristic Scores
+#### Characteristic Scores {data-search-exclude=""}
 
 Each [characteristic](../../Browse/rule/character/characteristic.md) has a score that runs from −5 to +5. The higher a score, the more impact a creature has with that [characteristic](../../Browse/rule/character/characteristic.md). A baby bunny rabbit would have a [Might](../../Browse/rule/character/might.md) score of −5, while an ancient dragon would have a [Might](../../Browse/rule/character/might.md) score of 5. The average [human](../../Browse/ancestry/human.md) has a score of 0 in all their [characteristics](../../Browse/rule/character/characteristic.md). [Characteristic](../../Browse/rule/character/characteristic.md) scores are added to [power rolls](../../Browse/rule/dice/power-roll.md)—the dice rolls you make whenever your character attempts a task with an uncertain outcome (see [Power Rolls](../../Browse/rule/dice/power-roll.md) below).
 
@@ -105,11 +103,11 @@ Some ten-sided dice are numbered 0 to 9, while others are numbered 1 to 10. For 
 
 If both dice rolled show a 0 or 10, then the number rolled is 100!
 
-### Power Rolls {data-scc="mcdm.heroes.v1/rule.dice/power-roll"}
+### Power Rolls {data-scc="mcdm.heroes.v1/rule.dice/power-roll" data-search-exclude=""}
 
 Whenever a hero or other creature in the game attempts a task with an uncertain outcome, such as attacking a foe, sneaking by a guard patrol without being seen, or persuading a queen to provide military aid, the creature makes a power roll to determine the outcome of their actions.
 
-#### Types of Power Rolls
+#### Types of Power Rolls {data-search-exclude=""}
 
 The game uses two types of power rolls. An **[ability roll](../../Browse/rule/dice/ability-roll.md)** is used when you use certain abilities to determine their impact. For instance, if a [fury](../../Browse/class/fury.md) uses their [Brutal Slam](../../Browse/feature/ability/fury/level-1/brutal-slam.md) ability to strike an enemy, their [ability roll](../../Browse/rule/dice/ability-roll.md) determines how much [damage](../../Browse/rule/damage/damage.md) the enemy takes and how far back the enemy is [pushed](../../Browse/movement/forced-movement.md). See Abilities for more information.
 
@@ -119,11 +117,11 @@ A **[test](../../Browse/rule/test/test.md)** is a power roll you make outside of
 >
 > All creatures in the game are sentient, capable of sensing and reacting to the world around them. But only some creatures are sapient, possessed of advanced intellect and consciousness. Being sapient has nothing to do with a creature's [Reason](../../Browse/rule/character/reason.md) score, but is determined solely by whether a creature is capable of human-like levels of thought and emotion. The Director decides whether creatures are sapient for the purpose of being affected by abilities and features that affect only sapient or nonsapient creatures.
 
-#### Making a Power Roll
+#### Making a Power Roll {data-search-exclude=""}
 
 When you make a power roll, you roll two ten-sided dice (usually noted as 2d10 in the rules) and add one of your [characteristics](../../Browse/rule/character/characteristic.md). The [characteristic](../../Browse/rule/character/characteristic.md) you add depends on the kind of roll you're making, as outlined in Abilities and [Tests](../../Browse/rule/test/test.md).
 
-##### Power Roll Outcomes {data-scc="mcdm.heroes.v1/rule.dice/tier-outcome"}
+##### Power Roll Outcomes {data-scc="mcdm.heroes.v1/rule.dice/tier-outcome" data-search-exclude=""}
 
 The total of a power roll determines your outcome tier—three levels that determine how successful your power roll is.
 
@@ -133,35 +131,35 @@ The total of a power roll determines your outcome tier—three levels that deter
 
 The specific outcome of any power roll is determined by the effect or ability that requires the roll (see Abilities) or the rules for [tests](../../Browse/rule/test/test.md) (see [Tests](tests.md)).
 
-##### Downgrade a Power Roll
+##### Downgrade a Power Roll {data-search-exclude=""}
 
 Whenever you make a power roll, you can downgrade it to select the outcome of a lower tier. For instance, if an ability has a tier 3 outcome that lets you impose the [restrained](../../Browse/condition/restrained.md) [condition](../../Browse/rule/combat/condition.md) on a creature, but the tier 2 outcome for that ability lets you impose the [slowed](../../Browse/condition/slowed.md) [condition](../../Browse/rule/combat/condition.md), you can use the tier 2 outcome if you would rather have the creature [slowed](../../Browse/condition/slowed.md) than [restrained](../../Browse/condition/restrained.md).
 
 If you downgrade a [critical hit](../../Browse/rule/combat/critical-hit.md), you still get the extra action benefit of the [critical hit](../../Browse/rule/combat/critical-hit.md) (see [Critical Hit](../../Browse/rule/combat/critical-hit.md) in [Classes](classes.md)).
 
-##### Natural Roll {data-scc="mcdm.heroes.v1/rule.dice/natural-roll"}
+##### Natural Roll {data-scc="mcdm.heroes.v1/rule.dice/natural-roll" data-search-exclude=""}
 
 The total of your power roll before your [characteristic](../../Browse/rule/character/characteristic.md) or any other modifiers are added is called the natural roll. The rules often refer to this as "rolling a natural X," where X is the total of the roll. For example, if you get a 20 on a power roll before adding your [characteristic](../../Browse/rule/character/characteristic.md), this is called rolling a [natural 20](../../Browse/rule/dice/natural-19-20.md).
 
 When you roll a [natural 19 or 20](../../Browse/rule/dice/natural-19-20.md) on a power roll, it is always a tier 3 result regardless of any modifiers, and on certain types of power rolls, this is a [critical hit](../../Browse/rule/combat/critical-hit.md) (see [Critical Hit](../../Browse/rule/combat/critical-hit.md) in [Classes](classes.md)).
 
-#### Edges and Banes
+#### Edges and Banes {data-search-exclude=""}
 
 An archer standing on a castle wall fires down into a throng of enemies, hitting the mark each time thanks to their [high ground](../../Browse/movement/high-ground.md). A drunken bandit struggles to land blows on sober opponents as alcohol clouds their senses. Under certain circumstances, you need more than just a [characteristic](../../Browse/rule/character/characteristic.md) to represent the advantages and disadvantages that heroes, their enemies, and their allies might have.
 
-##### Edge {data-scc="mcdm.heroes.v1/rule.dice/edge"}
+##### Edge {data-scc="mcdm.heroes.v1/rule.dice/edge" data-search-exclude=""}
 
 An **edge** represents a situational advantage a hero or an enemy has when making a power roll. For example, a standing hero who makes a [melee](../../Browse/rule/combat/melee.md) [strike](../../Browse/rule/combat/strike.md) against a [prone](../../Browse/condition/prone.md) creature gains an edge on the power roll for their [strike](../../Browse/rule/combat/strike.md). A pair of magic gloves that makes your hands sticky might grant you an edge when making a power roll to climb walls!
 
 When you make a power roll with an edge, you gain a +2 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to the roll. If you make a power roll with two or more edges, you have a **double edge**. With a double edge, you don't add anything to the power roll, but the outcome of the roll automatically improves one tier (to a maximum of tier 3).
 
-##### Bane {data-scc="mcdm.heroes.v1/rule.dice/bane"}
+##### Bane {data-scc="mcdm.heroes.v1/rule.dice/bane" data-search-exclude=""}
 
 A **bane** represents a situational disadvantage a hero or an enemy has when making a power roll. For example, if you make a [strike](../../Browse/rule/combat/strike.md) while [prone](../../Browse/condition/prone.md), the power roll for the [strike](../../Browse/rule/combat/strike.md) takes a bane. A rainstorm might give you a bane on a power roll made to climb an outdoor wall because the weather makes the stone surface extra slick.
 
 When you make a power roll with a bane, you take a −2 [penalty](../../Browse/rule/dice/bonuses-and-penalties.md) to the roll. If you make a power roll with two or more banes, you have a **double bane**. With a double bane, you don't subtract anything from the power roll, but the outcome of the roll automatically decreases one tier (to a minimum of tier 1).
 
-##### Rolling With Edges and Banes
+##### Rolling With Edges and Banes {data-search-exclude=""}
 
 Under certain circumstances, you might have one or more [edges](../../Browse/rule/dice/edge.md) and [banes](../../Browse/rule/dice/bane.md) on the same roll. For instance, you might take a [bane](../../Browse/rule/dice/bane.md) when [weakened](../../Browse/condition/weakened.md) by poison, even as you gain an [edge](../../Browse/rule/dice/edge.md) for striking a [prone](../../Browse/condition/prone.md) creature. In general, [edges](../../Browse/rule/dice/edge.md) and [banes](../../Browse/rule/dice/bane.md) cancel each other out, resolving as follows:
 
@@ -169,7 +167,7 @@ Under certain circumstances, you might have one or more [edges](../../Browse/rul
 - If you have a double [edge](../../Browse/rule/dice/edge.md) and just one [bane](../../Browse/rule/dice/bane.md), the roll is made with one [edge](../../Browse/rule/dice/edge.md), regardless of how many individual [edges](../../Browse/rule/dice/edge.md) contribute to the double [edge](../../Browse/rule/dice/edge.md).
 - If you have a double [bane](../../Browse/rule/dice/bane.md) and just one [edge](../../Browse/rule/dice/edge.md), the roll is made with one [bane](../../Browse/rule/dice/bane.md), regardless of how many individual [banes](../../Browse/rule/dice/bane.md) contribute to the double [bane](../../Browse/rule/dice/bane.md).
 
-##### When to Use Edges and Banes
+##### When to Use Edges and Banes {data-search-exclude=""}
 
 The rules tell you when to modify a roll with an [edge](../../Browse/rule/dice/edge.md) or a [bane](../../Browse/rule/dice/bane.md). The Director can also modify rolls with [edges](../../Browse/rule/dice/edge.md) and [banes](../../Browse/rule/dice/bane.md) as a response to narrative or environmental circumstances. For instance, no rule specifically says that rain imposes a [bane](../../Browse/rule/dice/bane.md) on power rolls made to climb a stone wall. But it makes sense that rainy conditions should make climbing that wall harder, so a Director should absolutely do so!
 
@@ -179,25 +177,25 @@ The rules tell you when to modify a roll with an [edge](../../Browse/rule/dice/e
 
 We also liked capping [edges](../../Browse/rule/dice/edge.md) and [banes](../../Browse/rule/dice/bane.md) at two because it keeps play quick. It's nice to not need to count beyond two positive or negative circumstances in a battle with a lot of effects flying around.
 
-#### Bonuses and Penalties {data-scc="mcdm.heroes.v1/rule.dice/bonuses-and-penalties"}
+#### Bonuses and Penalties {data-scc="mcdm.heroes.v1/rule.dice/bonuses-and-penalties" data-search-exclude=""}
 
 While [edges](../../Browse/rule/dice/edge.md) and [banes](../../Browse/rule/dice/bane.md) cover most circumstantial effects that can have an impact on a power roll, a few rules add numeric bonuses or penalties to power rolls. Bonus and penalty values are specified in the rules that impose them, and are calculated independently of [edges](../../Browse/rule/dice/edge.md) and [banes](../../Browse/rule/dice/bane.md), and before [edges](../../Browse/rule/dice/edge.md) and [banes](../../Browse/rule/dice/bane.md) are factored into a power roll. There is no limit to the number of bonuses or penalties that can apply to a power roll, and bonuses and penalties always add together.
 
 Though it might sound as if the math with bonuses and penalties can get confusing, fear not! Bonuses and penalties are rare except in the case of skills, which appear on your character sheet (see [Skills](tests.md) for more information).
 
-#### Automatic Tier Outcomes
+#### Automatic Tier Outcomes {data-search-exclude=""}
 
 Effects in the game sometimes allow a creature to obtain an automatic tier 1, 2, or 3 outcome on a power roll. Such effects supersede any [edges](../../Browse/rule/dice/edge.md), [banes](../../Browse/rule/dice/bane.md), [bonus](../../Browse/rule/dice/bonuses-and-penalties.md)es, or [penalties](../../Browse/rule/dice/bonuses-and-penalties.md) that might affect the roll. If you obtain an automatic [tier outcome](../../Browse/rule/dice/tier-outcome.md) and the power roll would have an additional effect if you get a specific roll, such as scoring a [critical hit](../../Browse/rule/combat/critical-hit.md) in combat, you can still make the roll to determine if you obtain the additional effect in addition to the automatic outcome.
 
 If you are under multiple effects that each grant you a different automatic outcome, those effects cancel each other out and all automatic outcomes are ignored. If multiple effects grant you the same automatic outcome, you obtain that outcome.
 
-### Hero Tokens {data-scc="mcdm.heroes.v1/rule.resource/hero-token"}
+### Hero Tokens {data-scc="mcdm.heroes.v1/rule.resource/hero-token" data-search-exclude=""}
 
 In all great heroic stories, luck favors the protagonists, giving them that little bit of extra fortune they need to win the day. In these stories, fate is often on the side of the righteous. To represent that tiny bit of karma, players have access to hero tokens, a special resource that they can rely on when all else fails.
 
 Hero tokens are a group resource that is tracked by the players and kept in a pool accessible to all their characters. Hero tokens can be tracked using poker chips, stones, or other markers, or can be tallied numerically on a piece of paper or written off to the side in a virtual tabletop.
 
-#### Earning Hero Tokens
+#### Earning Hero Tokens {data-search-exclude=""}
 
 At the start of a new game session, the heroes have a number of [hero tokens](../../Browse/rule/resource/hero-token.md) equal to the number of heroes in the party.
 
@@ -205,7 +203,7 @@ Heroes can earn more tokens through play by taking big risks to save others. A h
 
 Players can also be awarded [hero tokens](../../Browse/rule/resource/hero-token.md) as part of a [test](../../Browse/rule/test/test.md)'s outcome when they succeed on the [test](../../Browse/rule/test/test.md) with a reward (see [Tests](tests.md)).
 
-#### Spending Hero Tokens
+#### Spending Hero Tokens {data-search-exclude=""}
 
 Whenever [hero tokens](../../Browse/rule/resource/hero-token.md) are available, you can spend them in the following ways:
 
@@ -226,25 +224,25 @@ This game has a fair number of rules. But it also has plenty of character option
 
 If you're not sure what to do when two rules come into conflict with each other, remember that a specific exception always beats a more general rule. The Director has the final say in how rules are adjudicated.
 
-### Always Round Down {data-scc="mcdm.heroes.v1/rule.general/always-round-down"}
+### Always Round Down {data-scc="mcdm.heroes.v1/rule.general/always-round-down" data-search-exclude=""}
 
 Sometimes the rules tell you to divide a number in half. Whenever you divide an odd number in half and it results in a decimal, round the result down to the nearest whole number. For instance, if a [tactician](../../Browse/class/tactician.md) takes 7 damage and uses the Parry ability in response—a [triggered action](../../Browse/rule/combat/triggered-action.md) that halves the damage—then the damage is reduced to 3.
 
-### Creatures and Objects {data-scc="mcdm.heroes.v1/rule.general/creature"}
+### Creatures and Objects {data-scc="mcdm.heroes.v1/rule.general/creature" data-search-exclude=""}
 
 *Draw Steel* uses the terms "creature" and "object" when referring to the targets of abilities and other effects. [Creatures](../../Browse/rule/general/creature.md) are living or unliving beings such as animals, elves, [humans](../../Browse/ancestry/human.md), dragons, giants, zombies, and valok. Objects are inanimate matter such as walls, carriages, cups, swords, ropes, coins, paintings, columns, and buildings.
 
 When a creature dies, their body becomes an object, and is affected by abilities and other effects as an object, not a creature. For example, an [elementalist](../../Browse/class/elementalist.md) can't use their [Return to Formlessness](../../Browse/feature/ability/elementalist/level-1/return-to-formlessness.md) ability to set an enemy cult leader on fire. But if that leader dies, the [elementalist](../../Browse/class/elementalist.md) can immolate their body to prevent them from being raised as a powerful undead by the temple's magic.
 
-#### Unattended Objects
+#### Unattended Objects {data-search-exclude=""}
 
 The game sometimes refers to "unattended objects," which are objects that aren't held, worn, or controlled by a creature. Whenever an ability or other effect targets objects, it affects only unattended objects unless the Director determines otherwise. Among other things, this prevents abilities from being used to damage a foe's armor, weapons, clothing, treasures, and so forth while those objects are worn or held.
 
-### Supernatural or Mundane {data-scc="mcdm.heroes.v1/rule.general/supernatural"}
+### Supernatural or Mundane {data-scc="mcdm.heroes.v1/rule.general/supernatural" data-search-exclude=""}
 
 The word supernatural is used to describe abilities, creatures, objects, and effects that are magic or psionic in nature. The word mundane is used to describe abilities, creatures, objects, and effects that aren't magic or psionic.
 
-### PCs and NPCs {data-scc="mcdm.heroes.v1/rule.general/npc"}
+### PCs and NPCs {data-scc="mcdm.heroes.v1/rule.general/npc" data-search-exclude=""}
 
 Two types of characters inhabit the world of the game—the player characters (also called PCs or heroes) who are created and controlled by the players, and nonplayer characters (NPCs) created and controlled by the Director. NPCs can include any of the game's monsters, but when the rules refer to NPCs, they generally do so in the context of interacting with them outside of combat.
 
@@ -260,29 +258,29 @@ This game is built so that each adventure you play and each battle you fight get
 
 The things a hero can achieve at the end of the story are far more daring and impactful than what they do at the start, and the final showdown against a villain's forces is more deadly and desperate than the first. The rules of the game help build a heroic narrative in this same fashion, making use of the four most important mechanics for building heroic narratives: [Victories](../../Browse/rule/resource/victories.md), [Experience](../../Browse/rule/resource/experience.md), [Heroic Resources](../../Browse/rule/resource/heroic-resource.md), and [Recoveries](../../Browse/rule/health/recoveries.md).
 
-#### Victories {data-scc="mcdm.heroes.v1/rule.resource/victories"}
+#### Victories {data-scc="mcdm.heroes.v1/rule.resource/victories" data-search-exclude=""}
 
 Victories measure your hero's increasing power over the course of an adventure, as they overcome battles and other challenges. At the start of an adventure, your hero has 0 Victories.
 
-##### Victories For Combat
+##### Victories For Combat {data-search-exclude=""}
 
 Each time your hero survives a combat encounter in which the party's [objectives](../../Browse/rule/combat/objective.md) are achieved, you earn 1 Victory. The Director can decide that a trivially easy encounter doesn't earn the heroes a Victory, and can award additional Victories for particularly challenging encounters.
 
-##### Victories For Noncombat Challenges
+##### Victories For Noncombat Challenges {data-search-exclude=""}
 
 When your hero successfully overcomes a big challenge that doesn't involve combat, the Director can award you 1 Victory. Such challenges can include things such as a particularly complicated and deadly trap, a negotiation, a [montage test](../../Browse/rule/test/montage-test.md), a complicated puzzle, or the execution of a clever idea that avoids a battle. Especially difficult challenges might earn you more than 1 Victory.
 
-##### Victories Reset
+##### Victories Reset {data-search-exclude=""}
 
 Whenever you finish a [respite](../../Browse/rule/resource/respite.md) (see [Respite](../../Browse/rule/resource/respite.md) below), your Victories are converted into [Experience](../../Browse/rule/resource/experience.md).
 
-#### Experience {data-scc="mcdm.heroes.v1/rule.resource/experience"}
+#### Experience {data-scc="mcdm.heroes.v1/rule.resource/experience" data-search-exclude=""}
 
 [Victories](../../Browse/rule/resource/victories.md) temporarily increase a hero's power during an adventure, but Experience (abbreviated "XP") permanently improves their capabilities. Each time you finish a [respite](../../Browse/rule/resource/respite.md) (see below), you gain XP equal to your [Victories](../../Browse/rule/resource/victories.md), then your [Victories](../../Browse/rule/resource/victories.md) reset to 0. In other words, your [Victories](../../Browse/rule/resource/victories.md) are converted to XP when you finish a [respite](../../Browse/rule/resource/respite.md).
 
 For more information on how XP increases your hero's power, see Heroic Advancement in [Making a Hero](making-a-hero.md).
 
-#### Heroic Resources {data-scc="mcdm.heroes.v1/rule.resource/heroic-resource"}
+#### Heroic Resources {data-scc="mcdm.heroes.v1/rule.resource/heroic-resource" data-search-exclude=""}
 
 Your hero has a Heroic Resource determined by your class, and which you manage during play. Earning your Heroic Resources can increase your hero's power, and you spend your Heroic Resources to activate your most powerful abilities.
 
@@ -304,7 +302,7 @@ Outside of combat and other dangerous situations, you can spend [Recoveries](../
 
 You regain all lost [Recoveries](../../Browse/rule/health/recoveries.md) when you finish a [respite](../../Browse/rule/resource/respite.md) (see below).
 
-#### Respite {data-scc="mcdm.heroes.v1/rule.resource/respite"}
+#### Respite {data-scc="mcdm.heroes.v1/rule.resource/respite" data-search-exclude=""}
 
 A respite is a focused period of rest and recuperation that allows heroes to regain [Stamina](../../Browse/rule/health/stamina.md) and [Recoveries](../../Browse/rule/health/recoveries.md). During a respite, you must spend 24 hours uninterrupted and doing nothing but sleeping, eating, dressing your wounds, and recuperating. You can also undertake one respite activity, such as making a [project roll](../../Browse/rule/downtime/project-roll.md) (see [Downtime Projects](downtime-projects.md)) or changing your kit (see [Kits](kits.md)).
 
@@ -314,31 +312,31 @@ It is best to take a respite in a safe place where you aren't in a hostile envir
 
 The standard 8-or-so hours of sleep one gets at night doesn't count as a respite. The rules assume that all heroes take the time to sleep, eat, and take care of all the other functions necessary for life even if they aren't engaged in a respite.
 
-### Echelons of Play {data-scc="mcdm.heroes.v1/rule.general/echelon"}
+### Echelons of Play {data-scc="mcdm.heroes.v1/rule.general/echelon" data-search-exclude=""}
 
 The core gameplay experience of *Draw Steel* takes place over ten levels of play. At 1st level, player characters are already known as heroes and have the power to save their local village. By the time the characters are 10th level, people all over the world—maybe even across all worlds know the names of their saviors!
 
 Since this game encompasses power levels from hometown heroes to demigods, the core experience has been divided into four different echelons. Each echelon determines the types of threats the heroes can take on, the stakes of their stories, and the rewards they receive at the various levels of play.
 
-#### 1st Echelon (1st to 3rd Level)
+#### 1st Echelon (1st to 3rd Level) {data-search-exclude=""}
 
 The 1st [echelon](../../Browse/rule/general/echelon.md) of play details the stories of characters of 1st to 3rd level. At this [echelon](../../Browse/rule/general/echelon.md), the characters are local heroes. They save lost caravans, besieged villages, and overlooked neighborhoods within cities. Characters battle bands of mortal humanoids—[dwarves](../../Browse/ancestry/dwarf.md), elves, goblins, [humans](../../Browse/ancestry/human.md), kobolds, [orcs](../../Browse/ancestry/orc.md), and more. They can also face off against the occasional larger monstrous threat, such as a bredbeddle, ogre, or chimera. Such creatures can threaten a small community but rarely have plans for world domination or the destruction of the timescape. However, any of these adversaries might work for or be manipulated by stronger threats as a foreshadowing of what awaits the heroes at higher [echelons](../../Browse/rule/general/echelon.md).
 
-#### 2nd Echelon (4th to 6th Level)
+#### 2nd Echelon (4th to 6th Level) {data-search-exclude=""}
 
 The 2nd [echelon](../../Browse/rule/general/echelon.md) of play covers 4th to 6th level. At this [echelon](../../Browse/rule/general/echelon.md), the heroes are now known throughout the wider region they serve. In [Vasloria](../../Browse/rule/world/vasloria.md), this means the characters might save and be celebrated by an entire country. In [Capital](../../Browse/rule/world/capital.md), their reputation and work could encompass several different neighborhoods of the enormous city. Heroes of the timescape might be known for saving a planet!
 
 Heroes in this [echelon](../../Browse/rule/general/echelon.md) battle humanoids of great [supernatural](../../Browse/rule/general/supernatural.md) power, such as draconians, [devils](../../Browse/ancestry/devil.md), and hobgoblins. They face bosses possessed of cunning and ambition as great as their terrible influence, such as medusas and overminds. Heroes at this level also face the humanoid threats of earlier levels, but those foes are villainous counterparts of equal power rather than bands of ruffians or marauding armies.
 
-#### 3rd Echelon (7th to 9th Level)
+#### 3rd Echelon (7th to 9th Level) {data-search-exclude=""}
 
 The 3rd [echelon](../../Browse/rule/general/echelon.md) of play covers 7th to 9th level. At this [echelon](../../Browse/rule/general/echelon.md), the heroes are saving and are known throughout the setting where they serve. Most folks in [Vasloria](../../Browse/rule/world/vasloria.md), [Capital](../../Browse/rule/world/capital.md), or across the larger timescape know of the heroes and are grateful for their efforts saving the continent, the entire city, or multiple worlds, respectively. Foes at this [echelon](../../Browse/rule/general/echelon.md) include beings of great power such as giants, vampires, and valok.
 
-#### 4th Echelon (10th Level)
+#### 4th Echelon (10th Level) {data-search-exclude=""}
 
 The 4th [echelon](../../Browse/rule/general/echelon.md) of play explores the stories of characters of 10th level (and might even go beyond in future products). At this [echelon](../../Browse/rule/general/echelon.md), heroes are saving the entire timescape from threats such as liches, powerful dragons, and overlords like Ajax the Invincible.
 
-### Orden and the Timescape {data-scc="mcdm.heroes.v1/rule.world/orden"}
+### Orden and the Timescape {data-scc="mcdm.heroes.v1/rule.world/orden" data-search-exclude=""}
 
 A new game demands new worlds! Welcome to the timescape—a collection of worlds spanning high fantasy, dark fantasy, even space fantasy!
 
@@ -346,7 +344,7 @@ Our tour begins on the world of Orden, the prime manifold, where [humans](../../
 
 Orden contains eight major regions, the largest of which is [Vasloria](../../Browse/rule/world/vasloria.md).
 
-#### Vasloria {data-scc="mcdm.heroes.v1/rule.world/vasloria"}
+#### Vasloria {data-scc="mcdm.heroes.v1/rule.world/vasloria" data-search-exclude=""}
 
 A forested, medieval, feudal land, Vasloria is peppered with few cities, mostly just towns and villages. While there will someday be nations here with proper borders, as of now in the Age of Chaos those nations are merely geographic areas with names people use to distinguish lands that share similar terrain and subcultures.
 
@@ -360,7 +358,7 @@ Within the wodes, time misbehaves. Cause and effect are only distant cousins, as
 
 imposing the Law of Time on [Orden](../../Browse/rule/world/orden.md). Children's tales of villagers wandering into a wode and emerging unchanged 100 years later are based on real events. When pressed on how this "works," the elves look baffled. "How does what work?"
 
-##### Omund's Land
+##### Omund's Land {data-search-exclude=""}
 
 Western [Vasloria](../../Browse/rule/world/vasloria.md), including most of Aendrim and Corwell and parts of Graid, was until recently ruled by Good King Omund. His draconian knights, the Dragon Phalanx, protected the weak from the strong, dispensing justice. Omund's rule lasted 35 years and in his life this area was known as Omund's Land.
 
@@ -386,7 +384,7 @@ Now there is only suspicion.
 
 Isolated and outnumbered, the [human](../../Browse/ancestry/human.md) baronies desperately fight a losing battle against the encroaching wilderness. Order dies. Chaos thrives.
 
-#### Capital {data-scc="mcdm.heroes.v1/rule.world/capital"}
+#### Capital {data-scc="mcdm.heroes.v1/rule.world/capital" data-search-exclude=""}
 
 The Greatest City in This or Any Age! City of the Great Game! Located west across the Bale Sea from [Vasloria](../../Browse/rule/world/vasloria.md), on the eastern coast of Rioja, Capital is not only the largest city in [Orden](../../Browse/rule/world/orden.md)—it's the largest city there has ever been. Larger than the fabled steel [dwarf](../../Browse/ancestry/dwarf.md) capital of Kalas Valiar, larger even than Alloy, the City at the Center of the Timescape. Capital is the exception to many rules.
 
@@ -420,7 +418,7 @@ Three years ago, the prince of Capital died leaving no heir or even a likely can
 
 Now the great game takes on a new meaning as the four great houses and three newly ascendant guilds jockey for position, each wanting to step into the power vacuum left by the dead prince. Everyone knows a war is coming, a war of succession that means fighting on the street. But each player in the game would much prefer it if someone *else* made the first move.
 
-#### The Myriad Worlds of the Timescape
+#### The Myriad Worlds of the Timescape {data-search-exclude=""}
 
 [Orden](../../Browse/rule/world/orden.md) is only one world in the timescape! Each star in the night sky is another, though this fact is not known to most people living on [Orden](../../Browse/rule/world/orden.md). Old fashioned people still use the archaic term "plane" to describe these worlds, while sages use geometric formulae, describing these worlds they call "manifolds," but they all mean the same thing.
 
@@ -448,7 +446,7 @@ The demons of the Abyssal Waste, the lowest plane, claw and scramble over each o
 
 At the center of the Abyssal Waste lies the Necropolitan Ruin, the Last City, a city of the dead, ruled by Khorsekef, once the Infinite Pharaoh of Khemhara, now the Ultralich. Khorsekef intends to return to [Orden](../../Browse/rule/world/orden.md) and sit once again on his throne in the Heliopolis.
 
-#### Setting Design
+#### Setting Design {data-search-exclude=""}
 
 [Orden](../../Browse/rule/world/orden.md) and the timescape were both designed over the last 25 years to be an explicitly commercial setting. A product where you could find all the things everyone expects to find in a classic fantasy setting, with new takes on classic tropes and a little more "Why are things like this?" work done to ground everything and make things feel plausible. None of this makes [Orden](../../Browse/rule/world/orden.md) "better" than other settings, it just gives it character.
 

@@ -1,8 +1,6 @@
 ---
 printing: "1.0"
 printing_book: "The Beastheart"
-search:
-  exclude: true
 name: Rewards
 order: 2
 scc: mcdm.beastheart.v1/chapter/rewards
@@ -25,7 +23,7 @@ This section presents new trinket treasures for a beastheart and their companion
 
 This section presents 1st-echelon trinket treasures in alphabetical order.
 
-#### Precious Collar {data-scc="mcdm.beastheart.v1/treasure.1st-echelon.trinket/precious-collar"}
+#### Precious Collar {data-scc="mcdm.beastheart.v1/treasure.1st-echelon.trinket/precious-collar" data-search-exclude=""}
 
 *This gold collar is bedazzled with semiprecious gems spelling out a cute pet name.*
 
@@ -37,7 +35,7 @@ This section presents 1st-echelon trinket treasures in alphabetical order.
 
 **Effect:** Only a beastheart's companion can wear this collar. As a free maneuver, the companion can shrink to size 1T or grow back to their original size. While reduced in size, the companion gains an edge on tests made to hide, sneak, and disguise themself as an ordinary animal.
 
-#### Ruby Ring of Recall {data-scc="mcdm.beastheart.v1/treasure.1st-echelon.trinket/ruby-ring-of-recall"}
+#### Ruby Ring of Recall {data-scc="mcdm.beastheart.v1/treasure.1st-echelon.trinket/ruby-ring-of-recall" data-search-exclude=""}
 
 *A dim light gleams in the heart of this ring's gem.*
 
@@ -53,7 +51,7 @@ This section presents 1st-echelon trinket treasures in alphabetical order.
 
 **Effect:** While wearing this ring, you can pull a willing, unconscious, or dead creature within 2 squares into the ring's ruby as a maneuver. If the creature inside the ring is conscious, they can see and hear the ring's surroundings. Either you or the creature inside the ring can use a maneuver to recall the creature from the ring, causing the creature to appear in an unoccupied space within 2 squares. A creature inside the ring can't act except to exit the ring.
 
-#### Speaking Scarab {data-scc="mcdm.beastheart.v1/treasure.1st-echelon.trinket/speaking-scarab"}
+#### Speaking Scarab {data-scc="mcdm.beastheart.v1/treasure.1st-echelon.trinket/speaking-scarab" data-search-exclude=""}
 
 *This black leather necklace is set with a golden representation of a scarab beetle.*
 
@@ -73,7 +71,7 @@ This section presents 1st-echelon trinket treasures in alphabetical order.
 
 This section presents a 2nd-echelon trinket treasure.
 
-#### Werewolf Tooth Pendant {data-scc="mcdm.beastheart.v1/treasure.2nd-echelon.trinket/werewolf-tooth-pendant"}
+#### Werewolf Tooth Pendant {data-scc="mcdm.beastheart.v1/treasure.2nd-echelon.trinket/werewolf-tooth-pendant" data-search-exclude=""}
 
 *The blood encrusting this tooth can never be washed off.*
 
@@ -93,7 +91,7 @@ This section presents a 2nd-echelon trinket treasure.
 
 This section presents a 3rd-echelon trinket treasure.
 
-#### Bandana of Invisibility {data-scc="mcdm.beastheart.v1/treasure.3rd-echelon.trinket/bandana-of-invisibility"}
+#### Bandana of Invisibility {data-scc="mcdm.beastheart.v1/treasure.3rd-echelon.trinket/bandana-of-invisibility" data-search-exclude=""}
 
 *Although you see nothing before you, your hands can discern an invisible scrap of cloth.*
 
@@ -111,7 +109,7 @@ This section presents a 3rd-echelon trinket treasure.
 
 This section presents a 4th-echelon trinket treasure.
 
-#### Battle Wings {data-scc="mcdm.beastheart.v1/treasure.4th-echelon.trinket/battle-wings"}
+#### Battle Wings {data-scc="mcdm.beastheart.v1/treasure.4th-echelon.trinket/battle-wings" data-search-exclude=""}
 
 *These gently undulating wings affix themselves to a creature's shoulders.*
 
@@ -133,7 +131,7 @@ This section presents new leveled treasures for a beastheart and their companion
 
 The following leveled armor treasures are presented in alphabetical order.
 
-#### Cavalry Armor {data-scc="mcdm.beastheart.v1/treasure.leveled.armor/cavalry-armor"}
+#### Cavalry Armor {data-scc="mcdm.beastheart.v1/treasure.leveled.armor/cavalry-armor" data-search-exclude=""}
 
 *Wearing this absurdly heavy plate armor makes it almost impossible to move—and once you get into motion, it's equally hard to stop.*
 
@@ -151,7 +149,7 @@ The following leveled armor treasures are presented in alphabetical order.
 
 **9th Level:** The armor's bonus to Stamina increases to +21, and its bonus to stability increases to +3. When you or your companion pushes a creature using this armor's feature, the creature takes damage equal to twice the pusher's Might score and is knocked [prone](../../Browse/condition/prone.md).
 
-#### Pack Harness {data-scc="mcdm.beastheart.v1/treasure.leveled.armor/pack-harness"}
+#### Pack Harness {data-scc="mcdm.beastheart.v1/treasure.leveled.armor/pack-harness" data-search-exclude=""}
 
 *While wearing these worn leather bands, your companion appears as not a single creature, but a hunting pack.* 
 
@@ -171,7 +169,7 @@ The following leveled armor treasures are presented in alphabetical order.
 
 **9th Level:** The armor's bonus to Stamina increases to +21, and whenever you activate this armor's power, your companion gains four illusory copies. Additionally, while you share your companion's space, you take on the appearance of one of the pack. When you take damage from an ability that deals rolled damage while in your companion's space, you can banish one copy to decrease the power roll outcome by one tier (to a minimum of tier 1).
 
-#### Rampant Shield {data-scc="mcdm.beastheart.v1/treasure.leveled.armor/rampant-shield"}
+#### Rampant Shield {data-scc="mcdm.beastheart.v1/treasure.leveled.armor/rampant-shield" data-search-exclude=""}
 
 *This battered shield bears a magically animated painting of a lion rampant.*
 
@@ -189,7 +187,7 @@ The following leveled armor treasures are presented in alphabetical order.
 
 **9th Level:** The shield's bonus to Stamina increases to +9. Additionally, the shield can make opportunity attacks as if it was your companion.
 
-#### Thorn Dragonscale {data-scc="mcdm.beastheart.v1/treasure.leveled.armor/thorn-dragonscale"}
+#### Thorn Dragonscale {data-scc="mcdm.beastheart.v1/treasure.leveled.armor/thorn-dragonscale" data-search-exclude=""}
 
 *This armor, fashioned from the barbed scales of a thorn dragon, still pulses with the echo of the dragon's heartbeat.*
 
@@ -209,7 +207,7 @@ The following leveled armor treasures are presented in alphabetical order.
 
 The following leveled weapon treasures are presented in alphabetical order.
 
-#### Glancing Bow {data-scc="mcdm.beastheart.v1/treasure.leveled.weapon/glancing-bow"}
+#### Glancing Bow {data-scc="mcdm.beastheart.v1/treasure.leveled.weapon/glancing-bow" data-search-exclude=""}
 
 *This bow is festooned with mirrors and sights pointing in all directions.*
 
@@ -229,7 +227,7 @@ The following leveled weapon treasures are presented in alphabetical order.
 
 **9th Level:** The weapon's extra damage increases to 3. Additionally, you can now make a glancing shot off of an enemy. When you do so, the enemy is unaffected by the strike but takes damage equal to your Intuition score, and you can redirect the strike to a second target as if the enemy was the source of the ability, provided you can see the second target.
 
-#### Horned Champion {data-scc="mcdm.beastheart.v1/treasure.leveled.weapon/horned-champion"}
+#### Horned Champion {data-scc="mcdm.beastheart.v1/treasure.leveled.weapon/horned-champion" data-search-exclude=""}
 
 *This paired helmet and barding face shield are each set with a pair of curving metal horns.*
 
@@ -245,7 +243,7 @@ The following leveled weapon treasures are presented in alphabetical order.
 
 **9th Level:** The weapon's extra damage increases to 3. Additionally, when you or your companion uses the Charge main action, the movement doesn't provoke opportunity attacks.
 
-#### Longclaw {data-scc="mcdm.beastheart.v1/treasure.leveled.weapon/longclaw"}
+#### Longclaw {data-scc="mcdm.beastheart.v1/treasure.leveled.weapon/longclaw" data-search-exclude=""}
 
 *The arm-length claws jutting from your armor are your only weapon.* 
 
@@ -261,7 +259,7 @@ The following leveled weapon treasures are presented in alphabetical order.
 
 **9th Level:** The weapon's extra damage increases to 3. Additionally, whenever you or your companion causes a creature to become [bleeding](../../Browse/condition/bleeding.md) or uses an ability that deals damage to a [bleeding](../../Browse/condition/bleeding.md) creature, you can each spend a Recovery.
 
-#### Scorpion Tails {data-scc="mcdm.beastheart.v1/treasure.leveled.weapon/scorpion-tails"}
+#### Scorpion Tails {data-scc="mcdm.beastheart.v1/treasure.leveled.weapon/scorpion-tails" data-search-exclude=""}
 
 *These braids of articulated, wickedly barbed tails weave behind your heads, threatening painful stings.*
 
@@ -277,7 +275,7 @@ The following leveled weapon treasures are presented in alphabetical order.
 
 **1st Level:** Only a beastheart can wield this weapon. Any weapon ability that deals rolled damage using this weapon deals an extra 1 poison damage. Additionally, you and your companion can use the following maneuver.
 
-> ###### Scorpion Tail
+> ###### Scorpion Tail {data-search-exclude=""}
 >
 > *Your scorpion tail lashes out.*
 >

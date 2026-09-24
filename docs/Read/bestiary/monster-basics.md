@@ -1,8 +1,6 @@
 ---
 printing: "1.01"
 printing_book: "Draw Steel: Monsters"
-search:
-  exclude: true
 name: Monster Basics
 order: 0
 scc: mcdm.monsters.v1/chapter/monster-basics
@@ -82,83 +80,83 @@ To use this book, you'll also want to be familiar with the information found in 
 
 If a creature knows at least one language, a "Languages" entry in their lore indicates which languages they know. Creatures who don't know any languages don't have this entry.
 
-#### Keywords {data-scc="mcdm.monsters.v1/rule.monster/keyword"}
+#### Keywords {data-scc="mcdm.monsters.v1/rule.monster/keyword" data-search-exclude=""}
 
 Each stat block has one or more creature [keywords](../../Browse/rule/monster/keyword.md). These keywords don't necessarily mean anything on their own, but special rules might apply to them. For instance, a creature with the Goblin keyword benefits from and can contribute to goblin [Malice](../../Browse/rule/monster/malice.md) features. (See Malice later in this introduction for information.)
 
-##### General Keywords
+##### General Keywords {data-search-exclude=""}
 
 While many keywords are specific to a group of creatures, such as Gnoll or Human, other keywords are found across different monster groups.
 
-###### Abyssal {data-scc="mcdm.monsters.v1/rule.keyword/abyssal"}
+###### Abyssal {data-scc="mcdm.monsters.v1/rule.keyword/abyssal" data-search-exclude=""}
 
 Creatures with the Abyssal keyword, such as demons and gnolls, can trace their origins back to the Abyssal Wasteland—a chaotic manifold whose denizens hunger for the souls of mortals.
 
-###### Accursed {data-scc="mcdm.monsters.v1/rule.keyword/accursed"}
+###### Accursed {data-scc="mcdm.monsters.v1/rule.keyword/accursed" data-search-exclude=""}
 
 Accursed creatures, such as medusas and werewolves, are under the effect of powerful supernatural curses that change their essential nature.
 
-###### Animal {data-scc="mcdm.monsters.v1/rule.keyword/animal"}
+###### Animal {data-scc="mcdm.monsters.v1/rule.keyword/animal" data-search-exclude=""}
 
 The Animal keyword is an easy one! It covers bears, wolves, and really big spiders! Aside from the animals of the real world, fantasy creatures with a similar level of sapience and who are part of the natural world have the Animal keyword. Animals have only natural defenses.
 
-###### Beast {data-scc="mcdm.monsters.v1/rule.keyword/beast"}
+###### Beast {data-scc="mcdm.monsters.v1/rule.keyword/beast" data-search-exclude=""}
 
 Creatures with the Beast keyword have animal-level sapience, but also possess supernatural abilities or traits. Basilisks and chimeras are examples of beasts. They don't have a society, but one has eye beams that can turn you into a statue, while the other has three heads—each belonging to a different species and one of which breathes fire!
 
-###### Construct {data-scc="mcdm.monsters.v1/rule.keyword/construct"}
+###### Construct {data-scc="mcdm.monsters.v1/rule.keyword/construct" data-search-exclude=""}
 
 Construct creatures, such as the ashen hoarder and valok, are manufactured, with magic or psionics playing a role in giving them life. A construct's level of sapience is determined by the will and skill of their creator. Some function entirely on their own, while others serve as mindless drones who take action only if given orders. Unless otherwise noted, constructs don't need to eat, drink water, sleep, or breathe to survive.
 
-###### Dragon {data-scc="mcdm.monsters.v1/rule.keyword/dragon"}
+###### Dragon {data-scc="mcdm.monsters.v1/rule.keyword/dragon" data-search-exclude=""}
 
 Dragons, the giant reptilian creatures with breath weapons, wings, claws, and jaws, aren't the only creatures who take the Dragon keyword. Creatures related to dragons, such as draconians, also have this keyword.
 
-###### Elemental {data-scc="mcdm.monsters.v1/rule.keyword/elemental"}
+###### Elemental {data-scc="mcdm.monsters.v1/rule.keyword/elemental" data-search-exclude=""}
 
 If a creature can trace their origin back to Quintessence, the Manifold of Elements, they have the Elemental keyword. This includes creatures of raw elemental power, such as the crux of fire, and creatures who merely trace some part of their origin back to Quintessence, such as meteor dragons.
 
-###### Fey {data-scc="mcdm.monsters.v1/rule.keyword/fey"}
+###### Fey {data-scc="mcdm.monsters.v1/rule.keyword/fey" data-search-exclude=""}
 
 Fey creatures can trace their origin back to Arcadia, a manifold of nature and magic that is the place of origin of all elves. Creatures from this plane often have an innate connection to nature, magic, or both.
 
-###### Giant {data-scc="mcdm.monsters.v1/rule.keyword/giant"}
+###### Giant {data-scc="mcdm.monsters.v1/rule.keyword/giant" data-search-exclude=""}
 
 Creatures with the Giant keyword include ogres and trolls, as well as fire giants, frost giants, hill giants, and stone giants. Giants have similar body shapes to humanoids, but they're much larger. Despite that similar appearance, these creatures have no relation to most humanoids (other than the mighty hakaan).
 
-###### Horror {data-scc="mcdm.monsters.v1/rule.keyword/horror"}
+###### Horror {data-scc="mcdm.monsters.v1/rule.keyword/horror" data-search-exclude=""}
 
 Horror creatures, including overminds and voiceless talkers, are creatures who appear unnatural on most worlds, particularly Orden. Everything about them is alien, and most have potent psionic abilities.
 
-###### Humanoid {data-scc="mcdm.monsters.v1/rule.keyword/humanoid"}
+###### Humanoid {data-scc="mcdm.monsters.v1/rule.keyword/humanoid" data-search-exclude=""}
 
 Humanoid creatures, such as dwarves and time raiders, are size 1 creatures who have similar limb arrangements to and sapience on par with humans. Humanoids often gather in communities and form societies to survive and prosper.
 
-###### Infernal {data-scc="mcdm.monsters.v1/rule.keyword/infernal"}
+###### Infernal {data-scc="mcdm.monsters.v1/rule.keyword/infernal" data-search-exclude=""}
 
 Infernal creatures, such as devils and hobgoblins, can trace their origins back to the Seven Cities of Hell—an ordered manifold where the natives make plans to tempt mortals into contracts for their souls.
 
-###### Ooze {data-scc="mcdm.monsters.v1/rule.keyword/ooze"}
+###### Ooze {data-scc="mcdm.monsters.v1/rule.keyword/ooze" data-search-exclude=""}
 
 Ooze creatures, such as the gummy brick, are semisolid masses of moisture and malice who take shape in dark, damp environments. Their forms range from loosely congealed puddles to more hardened and calcified shapes.
 
-###### Plant {data-scc="mcdm.monsters.v1/rule.keyword/plant"}
+###### Plant {data-scc="mcdm.monsters.v1/rule.keyword/plant" data-search-exclude=""}
 
 Plant creatures, such as the shambling mound, are made of vegetation. Like other creatures (and unlike plant objects), they can move and interact with their environment.
 
-###### Soulless {data-scc="mcdm.monsters.v1/rule.keyword/soulless"}
+###### Soulless {data-scc="mcdm.monsters.v1/rule.keyword/soulless" data-search-exclude=""}
 
 Soulless creatures do not have a soul, and are generally those who are created by another creature, such as many [Construct](../../Browse/rule/keyword/construct.md) creatures, [Undead](../../Browse/rule/keyword/undead.md) creatures, and war dogs. There are a few abilities or other rules in the game that can only affect creatures with souls. Soulless creatures are immune to these effects. Likewise, if a rule only affects a creature without a soul, soulless creatures are the only valid targets for such effects.
 
-###### Swarm {data-scc="mcdm.monsters.v1/rule.keyword/swarm"}
+###### Swarm {data-scc="mcdm.monsters.v1/rule.keyword/swarm" data-search-exclude=""}
 
 Swarm creatures are actually more than one creature! When a whole bunch of creatures get together, whether a swarm of spiders or a swarm of minotaurs, they move and act together as if they were one creature.
 
-###### Undead {data-scc="mcdm.monsters.v1/rule.keyword/undead"}
+###### Undead {data-scc="mcdm.monsters.v1/rule.keyword/undead" data-search-exclude=""}
 
 Undead creatures, such as ghosts and zombies, are the reanimated flesh and spirits of once-living creatures who have died. Their level of sapience is determined by the creator or effect that brought them back from the dead. Some undead function entirely on their own, while others mindlessly seek to harm the living if given no other instructions. Unless otherwise noted, undead don't need to eat, drink water, sleep, or breathe to survive.
 
-#### Encounter Value {data-scc="mcdm.monsters.v1/rule.monster/encounter-value"}
+#### Encounter Value {data-scc="mcdm.monsters.v1/rule.monster/encounter-value" data-search-exclude=""}
 
 Each Director-controlled creature has an [encounter value](../../Browse/rule/monster/encounter-value.md) (abbreviated EV) that is used in building encounters. See Step-by-Step Encounter Building later in this chapter for more information.
 
@@ -166,7 +164,7 @@ Each Director-controlled creature has an [encounter value](../../Browse/rule/mon
 > 
 > Because stat blocks are focused on the tactics and mechanics of combat, all references in a stat block to "rounds" refer to [combat rounds](../../Browse/rule/combat/combat-round.md).
 
-#### Creature Free Strikes {data-scc="mcdm.monsters.v1/rule.monster/creature-free-strike"}
+#### Creature Free Strikes {data-scc="mcdm.monsters.v1/rule.monster/creature-free-strike" data-search-exclude=""}
 
 When a Director-controlled creature makes a [free strike](../../Browse/feature/common/main-actions/free-strike.md) (see Chapter 10: Combat in *Draw Steel: Heroes*), they don't roll. Instead, their stat block notes a Free Strike value representing the amount of damage they deal with either of the following:
 
@@ -177,7 +175,7 @@ A creature's free strike has the [Strike](../../Browse/rule/combat/strike.md) ke
 
 Creature free strikes are a static number for two reasons. First, it keeps gameplay fast. You don't have to stop play to roll dice, and there's no chance of a creature rolling a [critical hit](../../Browse/rule/combat/critical-hit.md) and bogging things down further when it isn't their turn. Second, by keeping these static values relatively low, heroes are encouraged to take more risks when it really counts, even if that might result in them taking damage from a free strike.
 
-##### Creature Opportunity Attacks
+##### Creature Opportunity Attacks {data-search-exclude=""}
 
 Even though a Director-controlled creature doesn't have to roll when they make a free strike, if that creature takes a [bane](../../Browse/rule/dice/bane.md) on [strikes](../../Browse/rule/combat/strike.md) against a target, they can't make an [opportunity attack](../../Browse/rule/combat/opportunity-attack.md) against that target.
 
@@ -189,7 +187,7 @@ Even though a Director-controlled creature doesn't have to roll when they make a
 
 Every creature has a [signature ability](../../Browse/rule/combat/signature-ability.md). This is the first action that appears in their stat block and is noted as "Signature Ability."
 
-#### Traits {data-scc="mcdm.monsters.v1/rule.monster/monster-trait"}
+#### Traits {data-scc="mcdm.monsters.v1/rule.monster/monster-trait" data-search-exclude=""}
 
 Many creatures have [traits](../../Browse/rule/monster/monster-trait.md), which are features that don't require a main action, a maneuver, or a [triggered action](../../Browse/rule/combat/triggered-action.md) to activate, such as the Crafty trait possessed by many goblins. (Chapter 10: Combat in *Draw Steel: Heroes* talks about action types.)
 
@@ -197,11 +195,11 @@ Many creatures have [traits](../../Browse/rule/monster/monster-trait.md), which 
 
 Many creatures have abilities and features that require a Director's resource called [Malice](../../Browse/rule/monster/malice.md) to activate. See Malice later in this introduction for more information.
 
-#### End Effect {data-scc="mcdm.monsters.v1/rule.monster/end-effect"}
+#### End Effect {data-scc="mcdm.monsters.v1/rule.monster/end-effect" data-search-exclude=""}
 
 Certain creatures have the ability to take damage in order to end one effect on them that can be ended by a [saving throw](../../Browse/rule/general/saving-throw.md). The damage the creature takes to end an effect can't be reduced in any way.
 
-#### Villain Actions {data-scc="mcdm.monsters.v1/rule.monster/villain-action"}
+#### Villain Actions {data-scc="mcdm.monsters.v1/rule.monster/villain-action" data-search-exclude=""}
 
 The [solo](../../Browse/rule/organization/solo.md) and [leader](../../Browse/rule/organization/leader.md) creatures presented in this book are designed to be fought in climactic battles at the end of an adventure or campaign. Because of this, they have special abilities called [villain actions](../../Browse/rule/monster/villain-action.md).
 
@@ -223,31 +221,31 @@ A creature's mode of organization appears after their level in a stat block. For
 
 Monsters are organized as follows.
 
-##### Minion {data-scc="mcdm.monsters.v1/rule.organization/minion"}
+##### Minion {data-scc="mcdm.monsters.v1/rule.organization/minion" data-search-exclude=""}
 
 Minions are weaker enemies who are made to die fast and threaten heroes en masse. A battle with minions is one where the heroes are outnumbered and can experience the joy of cutting through fields of their enemies. Creatures organized as minions are meant to support monsters organized in other ways, and have a special set of rules for doing so (see Using Minions below).
 
 Minions die quickly! In fact, some might die before they have a chance to act. That's okay! It's why you build encounters with them four at a time.
 
-##### Horde {data-scc="mcdm.monsters.v1/rule.organization/horde"}
+##### Horde {data-scc="mcdm.monsters.v1/rule.organization/horde" data-search-exclude=""}
 
 Monsters organized as hordes are hardier and work in smaller groups than [minions](../../Browse/rule/organization/minion.md), but it still takes more than one of these creatures to effectively threaten a single hero of the same level. A battle against creatures all belonging to a horde sees those creatures outnumbering the heroes about two to one. Creatures who are part of a horde organization can be especially effective when brought into encounters alongside other horde creatures.
 
 Horde creatures are more fragile than any other monsters except [minions](../../Browse/rule/organization/minion.md), so be sure to double or triple up on their stat blocks if they're key to a combat encounter. There's a chance that if the heroes act first in combat and have a lot of [Victories](../../Browse/rule/resource/victories.md), they can kill a number of key horde creatures before those creatures can act. That's why the encounter-building guidelines allow you to run lots of them.
 
-##### Platoon {data-scc="mcdm.monsters.v1/rule.organization/platoon"}
+##### Platoon {data-scc="mcdm.monsters.v1/rule.organization/platoon" data-search-exclude=""}
 
 Monster platoons are highly organized and usually self-sufficient armies. Platoons are well-rounded organizations well equipped to handle most combat objectives. A single platoon creature is a decent threat to a hero of the same level, so an encounter consisting entirely of these creatures typically has one per hero. Platoon creatures often fight alongside [minions](../../Browse/rule/organization/minion.md) and an [elite](../../Browse/rule/organization/elite.md) creature or two to round out their ranks.
 
-##### Elite {data-scc="mcdm.monsters.v1/rule.organization/elite"}
+##### Elite {data-scc="mcdm.monsters.v1/rule.organization/elite" data-search-exclude=""}
 
 Elite creatures are the functional opposite of [minions](../../Browse/rule/organization/minion.md). A creature noted as an elite is hardy and can usually stand up to two heroes of the same level. Elites also have a high [encounter value](../../Browse/rule/monster/encounter-value.md). They work well when individually supporting monsters with other modes of organization, but multiple elites can also be effective as a band on their own.
 
-##### Leader {data-scc="mcdm.monsters.v1/rule.organization/leader"}
+##### Leader {data-scc="mcdm.monsters.v1/rule.organization/leader" data-search-exclude=""}
 
 A leader is a powerful monster who buffs their allies and grants them additional actions. They utilize [villain actions](../../Browse/rule/monster/villain-action.md) and can stand toe-to-toe with two or more heroes of the same level by themself. Typically, only one leader appears in a battle at a time, alongside [minions](../../Browse/rule/organization/minion.md), [horde](../../Browse/rule/organization/horde.md) or [platoon](../../Browse/rule/organization/platoon.md) creatures, and [elites](../../Browse/rule/organization/elite.md). Leader creatures have no additional creature role (see Creature Roles).
 
-##### Solo {data-scc="mcdm.monsters.v1/rule.organization/solo"}
+##### Solo {data-scc="mcdm.monsters.v1/rule.organization/solo" data-search-exclude=""}
 
 A solo creature is an encounter all on their own. They have a special set of rules within their stat block and can be deployed... well, solo! A solo creature can typically stand toe-to-toe with six heroes of the same level. Solo creatures have no additional creature role.
 
@@ -255,39 +253,39 @@ A solo creature is an encounter all on their own. They have a special set of rul
 
 A creature's role appears after their level and organization in their stat block, and describes that creature's function in combat in a general sense. Roles are descriptive, and most don't follow special rules. They simply help you build encounters and use creatures effectively in combat. (More detailed descriptions of these roles are found in Step-by-Step Encounter Building.)
 
-##### Ambusher {data-scc="mcdm.monsters.v1/rule.role/ambusher"}
+##### Ambusher {data-scc="mcdm.monsters.v1/rule.role/ambusher" data-search-exclude=""}
 
 Ambushers are melee warriors who can slip by beefier heroes to reach squishier targets in the back lines.
 
-##### Artillery {data-scc="mcdm.monsters.v1/rule.role/artillery"}
+##### Artillery {data-scc="mcdm.monsters.v1/rule.role/artillery" data-search-exclude=""}
 
 Artillery creatures fight best from afar, and can use their most powerful abilities at great distance.
 
-##### Brute {data-scc="mcdm.monsters.v1/rule.role/brute"}
+##### Brute {data-scc="mcdm.monsters.v1/rule.role/brute" data-search-exclude=""}
 
 Brutes are hardy creatures who have lots of [Stamina](../../Browse/rule/health/stamina.md) and deal lots of damage. They have abilities and [traits](../../Browse/rule/monster/monster-trait.md) that make them difficult to ignore and hard to get away from, and that let them push enemies around.
 
-##### Controller {data-scc="mcdm.monsters.v1/rule.role/controller"}
+##### Controller {data-scc="mcdm.monsters.v1/rule.role/controller" data-search-exclude=""}
 
 Controllers are creatures who change the battlefield, often with magic or psionics. They reposition foes and alter terrain to make it advantageous for their allies. Controllers are often on the squishier side, so they need protection!
 
-##### Defender {data-scc="mcdm.monsters.v1/rule.role/defender"}
+##### Defender {data-scc="mcdm.monsters.v1/rule.role/defender" data-search-exclude=""}
 
 Defenders are tough creatures able to take a lot of damage, and who can force enemies to attack them instead of squishier targets. Defenders often act in [squads](../../Browse/rule/monster/squad.md) with allies who have lower [Stamina](../../Browse/rule/health/stamina.md), such as [controllers](../../Browse/rule/role/controller.md) and [hexers](../../Browse/rule/role/hexer.md).
 
-##### Harrier {data-scc="mcdm.monsters.v1/rule.role/harrier"}
+##### Harrier {data-scc="mcdm.monsters.v1/rule.role/harrier" data-search-exclude=""}
 
 Harriers are mobile warriors who make definitive use of hit-and-run tactics. Their traits allow them to make the most of their positioning on the battlefield.
 
-##### Hexer {data-scc="mcdm.monsters.v1/rule.role/hexer"}
+##### Hexer {data-scc="mcdm.monsters.v1/rule.role/hexer" data-search-exclude=""}
 
 Hexers specialize in debuffing enemies using [conditions](../../Browse/rule/combat/condition.md) and other effects. They are generally squishy and rely on others to defend them.
 
-##### Mount {data-scc="mcdm.monsters.v1/rule.role/mount"}
+##### Mount {data-scc="mcdm.monsters.v1/rule.role/mount" data-search-exclude=""}
 
 Mounts are mobile creatures meant to be ridden in combat, and who make their riders even more dangerous.
 
-##### Support {data-scc="mcdm.monsters.v1/rule.role/support"}
+##### Support {data-scc="mcdm.monsters.v1/rule.role/support" data-search-exclude=""}
 
 Support creatures specialize in aiding their allies by providing buffs, healing, movement, or action options.
 
@@ -311,17 +309,17 @@ Some creatures have abilities that deal damage and allow the creautre using the 
 
 Inevitably, one or more noncombatants might get caught up in a dangerous situation the heroes are trying to get under control. If an adventure or encounter doesn't specify a noncombatant creature's statistics, you can use the following stat block for them.
 
-###### Noncombatant {data-scc="mcdm.monsters.v1/monster.noncombatant.statblock/noncombatant"}
+###### Noncombatant {data-scc="mcdm.monsters.v1/monster.noncombatant.statblock/noncombatant" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <div class="sb-wrap" data-role="leader" data-creature="noncombatant"><div class="sb__sticky" aria-hidden="true"><div class="sb__sticky-inner"><div class="sb__sticky-row1"><span class="sb__sticky-id"><span class="sb__sticky-name">Noncombatant</span><span class="sb__sticky-role" data-role="leader"></span></span><span class="sb__sticky-stats"><span class="sb__sticky-defs"><span class="m"><b>1S-2</b>Size</span><span class="m"><b>5</b>Speed</span><span class="m"><b>8</b>Stamina</span><span class="m"><b>0</b>Stability</span><span class="m"><b>1</b>Free Strike</span></span><span class="sb__sticky-chars"><span class="c"><b>+0</b><i>M</i></span><span class="c"><b>+0</b><i>A</i></span><span class="c"><b>+0</b><i>R</i></span><span class="c"><b>+0</b><i>I</i></span><span class="c"><b>+0</b><i>P</i></span></span></span></div><div class="sb__sticky-row2"><span class="sm"><b>Movement</b>—</span><span class="sm"><b>Immunity</b>—</span><span class="sm"><b>Weakness</b>—</span></div></div></div><article class="sb md-typeset" data-role="leader"><header class="sc-head sb__head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Monster</div><h2 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Noncombatant</h2><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Human or Animal</div></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-deck sc-head__slot--chip">EV -</div></div></header><div class="sb__defenses"><div class="sb__stat"><span class="v">1S-2</span><span class="l">Size</span></div><div class="sb__stat"><span class="v">5</span><span class="l">Speed</span></div><div class="sb__stat"><span class="v">8</span><span class="l">Stamina</span></div><div class="sb__stat"><span class="v">0</span><span class="l">Stability</span></div><div class="sb__stat"><span class="v">1</span><span class="l">Free Strike</span></div></div><div class="sb__meta"><div class="sb__field sb__field--meta"><span class="sb__field-l">Immunity</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Weakness</span><span class="sb__field-v">—</span></div><div class="sb__field sb__field--meta"><span class="sb__field-l">Movement</span><span class="sb__field-v">—</span></div></div><div class="sb__chars"><div class="sb__char"><span class="sb__char-box">M</span><span class="sb__char-v">+0</span><span class="sb__char-l">Might</span></div><div class="sb__char"><span class="sb__char-box">A</span><span class="sb__char-v">+0</span><span class="sb__char-l">Agility</span></div><div class="sb__char"><span class="sb__char-box">R</span><span class="sb__char-v">+0</span><span class="sb__char-l">Reason</span></div><div class="sb__char"><span class="sb__char-box">I</span><span class="sb__char-v">+0</span><span class="sb__char-l">Intuition</span></div><div class="sb__char"><span class="sb__char-box">P</span><span class="sb__char-v">+0</span><span class="sb__char-l">Presence</span></div></div><div class="sb__features"></div></article></div>
 </address>
 
-### Malice {data-scc="mcdm.monsters.v1/rule.monster/malice"}
+### Malice {data-scc="mcdm.monsters.v1/rule.monster/malice" data-search-exclude=""}
 
 Just as every hero has a [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) determined by their class, so too do the heroes' foes need their own juice to fuel their strongest threats. [Malice](../../Browse/rule/monster/malice.md) is a resource gained and used by the Director. You use Malice to let enemies in the game activate their most powerful abilities and throw surprises at the heroes during combat.
 
-#### Earning Malice
+#### Earning Malice {data-search-exclude=""}
 
 At the start of combat, you gain Malice equal to the average number of [Victories](../../Browse/rule/resource/victories.md) per hero. Then at the start of each [combat round](../../Browse/rule/combat/combat-round.md), you gain Malice equal to the number of heroes in the battle, plus the combat round number. For instance, if five heroes with three [Victories](../../Browse/rule/resource/victories.md) each are just starting their first combat round, you begin that combat with 9 Malice-3 for the average number of Victories, 5 for the number of heroes, and 1 for the first round of combat. At the start of the next round, provided all the heroes are still alive, you gain 7 Malice-5 for the number of heroes plus 2 for the second round. As long as none of the heroes is taken out of the fight, you gain 8 Malice in the third round, 9 Malice in the fourth round, and so on.
 
@@ -329,7 +327,7 @@ If a hero dies, they stop generating Malice for you. At the end of an encounter,
 
 It's up to you whether you want to show the players how much Malice you have. Some Directors feel that the tension of watching Malice creep up can create great drama, while others like to keep the players guessing about what Malice-fueled mayhem might come next. Do whatever is the most fun for your group, and if you're not sure, ask your players what they would prefer!
 
-#### Spending Malice
+#### Spending Malice {data-search-exclude=""}
 
 Monsters can spend Malice the way heroes spend their [Heroic Resource](../../Browse/rule/resource/heroic-resource.md), activating and enhancing their abilities. Abilities that make use of Malice have their Malice cost noted in a creature's stat block.
 
@@ -337,11 +335,11 @@ Specific types of monsters sometimes have other ways they can spend Malice once 
 
 You won't be able to spend Malice on every single option a given encounter has to offer. It's totally up to you how you deploy Malice. You can spend it on smaller but still impactful features each combat round. You can save it up and use it on a small number of extremely dramatic abilities. You can spend it on the same feature that uses all available Malice each combat round and then forget about it until the next round. Do whatever creates the most fun for you and makes the most narrative sense in a given encounter.
 
-#### Basic Malice Features
+#### Basic Malice Features {data-search-exclude=""}
 
 All monsters have access to the following Malice features, in addition to any "[Creature] Malice" features they might have.
 
-###### Basic Malice
+###### Basic Malice {data-search-exclude=""}
 
 At the start of any monster's turn, you can spend Malice to activate one of the following features:
 
@@ -363,7 +361,7 @@ What they lack in power, [minions](../../Browse/rule/organization/minion.md) mak
 
 The knowledge of how minions work isn't a secret and shouldn't be kept from the players. Share the information in this section with them! They'll have a lot more fun battling minions a shaping narrative around taking out multiple foes at once if they understand how the rules work.
 
-#### Organized as Squads {data-scc="mcdm.monsters.v1/rule.monster/squad"}
+#### Organized as Squads {data-scc="mcdm.monsters.v1/rule.monster/squad" data-search-exclude=""}
 
 [Minions](../../Browse/rule/organization/minion.md) with the same name (for instance, goblin sniper) can be organized into squads of up to eight creatures. All members of a minion squad act together on the same initiative, and can make squad attacks (see Acting Together below).
 
@@ -433,21 +431,21 @@ If several minions in a [squad](../../Browse/rule/monster/squad.md) make a free 
 
 If you use multiple squads made up of the same type of minions in an encounter—for instance, two squads of goblin spinecleavers—it's important to make it easy for the players to tell the squads apart. You can use different miniatures for each squad, or give each squad's miniatures or tokens an indicator (a colored magnet, ring, sticker, and so forth) to help keep track of which minions are part of the same squad as they start moving around on the battlefield. Many online virtual tabletops have tools for adding colors or textures to icons that make tracking different squads easy.
 
-#### Attached Squad Captain {data-scc="mcdm.monsters.v1/rule.monster/captain"}
+#### Attached Squad Captain {data-scc="mcdm.monsters.v1/rule.monster/captain" data-search-exclude=""}
 
 Any non-[Mount](../../Browse/rule/role/mount.md), non-minion creature, who speaks a language that a [squad](../../Browse/rule/monster/squad.md) of [minions](../../Browse/rule/organization/minion.md) can understand can be attached to that squad as a captain. Captains aren't necessarily strategic leaders with brilliant tactics. Sometimes they're just powerful creatures who bully, inspire, or have some supernatural influence that drives other creatures to action.
 
 A squad of minions can have only one captain, and a creature can't be captain to more than one squad of minions.
 
-##### Separate Actions and Stamina
+##### Separate Actions and Stamina {data-search-exclude=""}
 
 A [captain](../../Browse/rule/monster/captain.md) takes their [turn](../../Browse/rule/combat/turn.md) at the same time as the minion members of their [squad](../../Browse/rule/monster/squad.md) but isn't limited in their action options as minions are. A captain's [Stamina](../../Browse/rule/health/stamina.md) isn't added to a minion squad's Stamina pool, and is tracked as for any other creature in combat.
 
-##### Captain Benefits
+##### Captain Benefits {data-search-exclude=""}
 
 While a minion [squad](../../Browse/rule/monster/squad.md) has a [captain](../../Browse/rule/monster/captain.md), each minion in the squad gains the benefits noted at the "With Captain" entry on their stat block. Usually, this benefit is either a damage boost, a bonus to [speed](../../Browse/rule/character/speed.md), or additional [Stamina](../../Browse/rule/health/stamina.md).
 
-##### I Am the Captain Now
+##### I Am the Captain Now {data-search-exclude=""}
 
 If a [squad](../../Browse/rule/monster/squad.md) of [minions](../../Browse/rule/organization/minion.md) loses their [captain](../../Browse/rule/monster/captain.md), a new allied creature can become that squad's captain at the start of the next [round](../../Browse/rule/combat/combat-round.md) (no action required).
 

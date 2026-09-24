@@ -1,8 +1,6 @@
 ---
 printing: "1.0"
 printing_book: "The Summoner"
-search:
-  exclude: true
 name: The Summoner
 order: 0
 scc: mcdm.summoner.v1/chapter/the-summoner

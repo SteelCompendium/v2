@@ -1,8 +1,6 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-search:
-  exclude: true
 name: Downtime Projects
 order: 12
 scc: mcdm.heroes.v1/chapter/downtime-projects
@@ -27,11 +25,11 @@ You track project progress on your character sheet. As you work on a downtime pr
 
 All downtime projects have prerequisites you must meet before you can undertake them.
 
-#### Item Prerequisite {data-scc="mcdm.heroes.v1/rule.downtime/item-prerequisite"}
+#### Item Prerequisite {data-scc="mcdm.heroes.v1/rule.downtime/item-prerequisite" data-search-exclude=""}
 
 Many downtime projects have one or more special items you must possess or obtain before you can start the project. For instance, you can't build an airship without first finding a Wind Crystal of Quintessence, a rare and key component in that vehicle's construction. Other projects have a prerequisite that involves undertaking certain activities during the project process.
 
-#### Project Source {data-scc="mcdm.heroes.v1/rule.downtime/project-source"}
+#### Project Source {data-scc="mcdm.heroes.v1/rule.downtime/project-source" data-search-exclude=""}
 
 To start a downtime project, you must have access to specific lore detailing how the project is to be undertaken. This can take the form of written information (a book, scroll, schematic, and so forth), an expert tutor with wisdom to share, a master artisan with skills to teach, a [supernatural](../../Browse/rule/general/supernatural.md) manifestation of the project's scope and secrets, or any other form of the Director's determination. This project-focused lore is referred to as a project source. Not only do you need project sources to start a downtime project, but you must have access to those sources whenever you make a [project roll](../../Browse/rule/downtime/project-roll.md) for that particular project (see [Project Roll](../../Browse/rule/downtime/project-roll.md) below).
 
@@ -41,11 +39,11 @@ The language with which project sources are set down or can be shared is chosen 
 
 Whenever the Director determines that a creature with needed knowledge can be used as a project source, another hero can serve as this source of knowledge. However, they must use a [respite](../../Browse/rule/resource/respite.md) activity to be your project source whenever you make a [project roll](../../Browse/rule/downtime/project-roll.md) related to the project.
 
-##### Search for Common Project Sources
+##### Search for Common Project Sources {data-search-exclude=""}
 
 If you need a [project source](../../Browse/rule/downtime/project-source.md) for a particular project, ask your Director if the source is common enough that it might be found in a substantial library, among a group of sages or guild artisans, and so forth. If the Director says yes, then the next time you take a [respite](../../Browse/rule/resource/respite.md) in a place with a library or access to creatures with the knowledge you seek, you can locate the [project source](../../Browse/rule/downtime/project-source.md) you need as a [respite](../../Browse/rule/resource/respite.md) activity.
 
-### Project Roll {data-scc="mcdm.heroes.v1/rule.downtime/project-roll"}
+### Project Roll {data-scc="mcdm.heroes.v1/rule.downtime/project-roll" data-search-exclude=""}
 
 As a [respite](../../Browse/rule/resource/respite.md) activity (see [Respite](../../Browse/rule/resource/respite.md) in Chapter 1: [The Basics](the-basics.md)), you make a project roll for one of your own projects. Alternatively, you can make a project roll to contribute to another hero's project. A project roll is a [test](../../Browse/rule/test/test.md) with a special outcome that isn't divided into tiers. The [characteristic](../../Browse/rule/character/characteristic.md) used in the [test](../../Browse/rule/test/test.md) is determined by the project.
 
@@ -55,19 +53,19 @@ A downtime project is complete when it accrues [project points](../../Browse/rul
 
 As you work on a downtime project, the Director can add events that help form the narrative of your research, crafting, or other activities. These events might provide unexpected benefits or challenges as you work on your project, to help make the journey as dramatic as arriving at the destination. See For the Director: [Project Events](../../Browse/rule/downtime/project-event.md) below for more information.
 
-#### Project Roll Edges and Banes
+#### Project Roll Edges and Banes {data-search-exclude=""}
 
 Since [project rolls](../../Browse/rule/downtime/project-roll.md) don't use success tiers, they don't follow the usual rules for double [edges](../../Browse/rule/dice/edge.md) and double [banes](../../Browse/rule/dice/bane.md). If you gain an [edge](../../Browse/rule/dice/edge.md) on a [project roll](../../Browse/rule/downtime/project-roll.md), you add 2 to the roll, as usual. But if you have a double [edge](../../Browse/rule/dice/edge.md), you add 4 to the roll. Likewise, you subtract 2 from a [project roll](../../Browse/rule/downtime/project-roll.md) that takes a [bane](../../Browse/rule/dice/bane.md), and you subtract 4 from a roll that has a double [bane](../../Browse/rule/dice/bane.md).
 
-#### Skills and Project Rolls
+#### Skills and Project Rolls {data-search-exclude=""}
 
 You can apply skills from either the [crafting](../../Browse/skill/crafting/index.md) or [lore](../../Browse/skill/lore/index.md) skill groups to [project rolls](../../Browse/rule/downtime/project-roll.md) that directly relate to a downtime project (see Skills in Chapter 9: [Tests](tests.md)). For example, you could use the Tailoring skill for [project rolls](../../Browse/rule/downtime/project-roll.md) related to making a magic cloak, and you could use the History skill while attempting to research the location of an ancient battle where a magic crown was lost. At the Director's discretion, you can also use skills from other skill groups, but a skill used for a [project roll](../../Browse/rule/downtime/project-roll.md) must be directly related to the project.
 
-#### Language and Project Rolls
+#### Language and Project Rolls {data-search-exclude=""}
 
 If you know the language of a [project source](../../Browse/rule/downtime/project-source.md), you can make a [project roll](../../Browse/rule/downtime/project-roll.md) without any issues. If you don't know the language of the source but you know a related language, the [project roll](../../Browse/rule/downtime/project-roll.md) takes a [bane](../../Browse/rule/dice/bane.md). If you don't know the source's language or a related language, the [project roll](../../Browse/rule/downtime/project-roll.md) has a double [bane](../../Browse/rule/dice/bane.md).
 
-#### Guides {data-scc="mcdm.heroes.v1/rule.downtime/guide"}
+#### Guides {data-scc="mcdm.heroes.v1/rule.downtime/guide" data-search-exclude=""}
 
 Heroes sometimes find guides—special books, schematics, knowledgeable [NPCs](../../Browse/rule/general/npc.md), [supernatural](../../Browse/rule/general/supernatural.md) recordings, and so forth—providing important and easy-to-understand information relating to a downtime project. Each guide has a knowledge value and a connection to a specific project that greatly decreases the time required to complete the project. When a hero studies a guide as a [respite](../../Browse/rule/resource/respite.md) activity, they gain the guide's knowledge value as [project points](../../Browse/rule/downtime/project-points.md) toward its project. The guide can't be used with that specific instance of the project again, though it can be used for a different project of the same type.
 
@@ -75,25 +73,25 @@ Guides are awarded at the Director's discretion, usually as a tool that can be u
 
 A guide must provide its information in a language you understand for you to gain its full benefit. If a guide uses a language related to one you know, you gain only half the guide's knowledge value (rounded down) as [project points](../../Browse/rule/downtime/project-points.md) toward your project.
 
-#### For the Director: Project Events {data-scc="mcdm.heroes.v1/rule.downtime/project-event"}
+#### For the Director: Project Events {data-scc="mcdm.heroes.v1/rule.downtime/project-event" data-search-exclude=""}
 
 [Project events](../../Browse/rule/downtime/project-event.md) are story events that present boons and challenges to heroes as they complete research and [crafting projects](../../Browse/rule/downtime/crafting-project.md). These events are entirely optional. If your group prefers a game where the heroes simply work toward their goals by making [project rolls](../../Browse/rule/downtime/project-roll.md), that's fine. But using these events can help a Director inject more drama into the processes of research and crafting.
 
-##### When To Use Project Events
+##### When To Use Project Events {data-search-exclude=""}
 
 Projects don't need an event every time a hero makes a [project roll](../../Browse/rule/downtime/project-roll.md). If they did, the heroes would likely spend all their time trying to manage their projects and never do any adventuring. Instead, you as the Director pick one of the following methods to determine when an event occurs during a downtime project. You can always switch up the method you use during a campaign, doing whatever you think works best for the current situation.
 
-##### Roll for Event
+##### Roll for Event {data-search-exclude=""}
 
 If you want events to be a surprise for you as much as for the other players, then once during any [respite](../../Browse/rule/resource/respite.md) when one or more heroes makes a [project roll](../../Browse/rule/downtime/project-roll.md), roll a d6. On a 6, an event occurs. This is a good option if you enjoy coming up with story on the fly during play.
 
-##### Event Milestones
+##### Event Milestones {data-search-exclude=""}
 
 If you want to guarantee that events occur during a downtime project, use event milestones based on [project points](../../Browse/rule/downtime/project-points.md). When the project accrues a certain number of points, an event occurs the next time a hero wants to make a [project roll](../../Browse/rule/downtime/project-roll.md). This approach works well if you want to plan your event in detail before it occurs.
 
 You can use the Suggested Event Milestones table to determine when an event should occur during a project.
 
-###### Suggested Event Milestones
+###### Suggested Event Milestones {data-search-exclude=""}
 
 | Project Goal  | Milestones                                                                       |
 |---------------|----------------------------------------------------------------------------------|
@@ -102,25 +100,25 @@ You can use the Suggested Event Milestones table to determine when an event shou
 | 201-999       | Two events at one-third and two-thirds of the way to the goal                    |
 | 1,000 or more | Three events at one-quarter, one-half, and three-quarters of the way to the goal |
 
-##### Whenever You Want
+##### Whenever You Want {data-search-exclude=""}
 
 Whenever you think the heroes could use a little drama during a [respite](../../Browse/rule/resource/respite.md), throw in an event. This approach allows you to plan an event in detail when a downtime project starts, then deploy it at the most dramatic moment—or even throw it in during an encounter if you're feeling saucy!
 
-##### Deploying Events
+##### Deploying Events {data-search-exclude=""}
 
 A [project event](../../Browse/rule/downtime/project-event.md) occurs when a hero makes a [project roll](../../Browse/rule/downtime/project-roll.md). You can roll for or choose an event from the appropriate events prompts table, or use the tables to inspire your own events. Each event entry on the table is a narrative prompt written for you as the Director, and which you can change and flesh out as you determine. Each event specifies whether it occurs before or after the [project roll](../../Browse/rule/downtime/project-roll.md) is resolved.
 
-##### Automatic Breakthrough
+##### Automatic Breakthrough {data-search-exclude=""}
 
 If an event grants an automatic breakthrough on a downtime project, the project gains 20 [project points](../../Browse/rule/downtime/project-points.md) and the hero can make another [project roll](../../Browse/rule/downtime/project-roll.md) for the same project as part of the same [respite](../../Browse/rule/resource/respite.md) activity.
 
-### Crafting Projects {data-scc="mcdm.heroes.v1/rule.downtime/crafting-project"}
+### Crafting Projects {data-scc="mcdm.heroes.v1/rule.downtime/crafting-project" data-search-exclude=""}
 
 Crafting projects enable heroes to create vehicles, [supernatural](../../Browse/rule/general/supernatural.md) treasures, and more. When you start a crafting project, other creatures can also work on the project, using their [respite](../../Browse/rule/resource/respite.md) activity to contribute a [project roll](../../Browse/rule/downtime/project-roll.md) in order to get the work done faster.
 
 Unless a project has an event table of its own, the Director uses the Crafting and Research Events table for crafting [project events](../../Browse/rule/downtime/project-event.md).
 
-#### Build Airship {data-scc="mcdm.heroes.v1/project/build-airship"}
+#### Build Airship {data-scc="mcdm.heroes.v1/project/build-airship" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <article class="pj">
@@ -137,7 +135,7 @@ Unless a project has an event table of its own, the Director uses the Crafting a
 </article>
 </address>
 
-#### Build or Repair Road {data-scc="mcdm.heroes.v1/project/build-or-repair-road"}
+#### Build or Repair Road {data-scc="mcdm.heroes.v1/project/build-or-repair-road" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <article class="pj">
@@ -229,7 +227,7 @@ Unless a project has an event table of its own, the Director uses the Crafting a
 </article>
 </address>
 
-#### Craft Teleportation Platform {data-scc="mcdm.heroes.v1/project/craft-teleportation-platform"}
+#### Craft Teleportation Platform {data-scc="mcdm.heroes.v1/project/craft-teleportation-platform" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <article class="pj">
@@ -245,7 +243,7 @@ Unless a project has an event table of its own, the Director uses the Crafting a
 </article>
 </address>
 
-#### Craft Treasure {data-scc="mcdm.heroes.v1/project/craft-treasure"}
+#### Craft Treasure {data-scc="mcdm.heroes.v1/project/craft-treasure" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <article class="pj">
@@ -255,7 +253,7 @@ Unless a project has an event table of its own, the Director uses the Crafting a
 </article>
 </address>
 
-#### Find a Cure {data-scc="mcdm.heroes.v1/project/find-a-cure"}
+#### Find a Cure {data-scc="mcdm.heroes.v1/project/find-a-cure" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <article class="pj">
@@ -272,7 +270,7 @@ Unless a project has an event table of its own, the Director uses the Crafting a
 </article>
 </address>
 
-#### Imbue Treasure {data-scc="mcdm.heroes.v1/project/imbue-treasure"}
+#### Imbue Treasure {data-scc="mcdm.heroes.v1/project/imbue-treasure" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <article class="pj">
@@ -1338,13 +1336,13 @@ Unless a project has an event table of its own, the Director uses the Crafting a
 </table>
 </address>
 
-### Research Projects {data-scc="mcdm.heroes.v1/rule.downtime/research-project"}
+### Research Projects {data-scc="mcdm.heroes.v1/rule.downtime/research-project" data-search-exclude=""}
 
 Heroes can undertake many different types of research downtime projects, which can involve seeking out new lore, improving existing knowledge with study, uncovering rumors or secrets, and more.
 
 Unless a project has an event table of its own or a special event entry, the Director uses the Crafting and Research Events table for research [project events](../../Browse/rule/downtime/project-event.md).
 
-#### Discover Lore {data-scc="mcdm.heroes.v1/project/discover-lore"}
+#### Discover Lore {data-scc="mcdm.heroes.v1/project/discover-lore" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <article class="pj">
@@ -1395,7 +1393,7 @@ Unless a project has an event table of its own or a special event entry, the Dir
 </article>
 </address>
 
-#### Go Undercover {data-scc="mcdm.heroes.v1/project/go-undercover"}
+#### Go Undercover {data-scc="mcdm.heroes.v1/project/go-undercover" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <article class="pj">
@@ -1414,7 +1412,7 @@ Unless a project has an event table of its own or a special event entry, the Dir
 </article>
 </address>
 
-#### Hone Career Skills {data-scc="mcdm.heroes.v1/project/hone-career-skills"}
+#### Hone Career Skills {data-scc="mcdm.heroes.v1/project/hone-career-skills" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <article class="pj">
@@ -1480,7 +1478,7 @@ Unless a project has an event table of its own or a special event entry, the Dir
 </article>
 </address>
 
-#### Learn From a Master {data-scc="mcdm.heroes.v1/project/learn-from-a-master"}
+#### Learn From a Master {data-scc="mcdm.heroes.v1/project/learn-from-a-master" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <article class="pj">
@@ -1575,7 +1573,7 @@ Unless a project has an event table of its own or a special event entry, the Dir
 </article>
 </address>
 
-#### Learn New Language {data-scc="mcdm.heroes.v1/project/learn-new-language"}
+#### Learn New Language {data-scc="mcdm.heroes.v1/project/learn-new-language" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <article class="pj">
@@ -1590,7 +1588,7 @@ Unless a project has an event table of its own or a special event entry, the Dir
 </article>
 </address>
 
-#### Learn New Skill {data-scc="mcdm.heroes.v1/project/learn-new-skill"}
+#### Learn New Skill {data-scc="mcdm.heroes.v1/project/learn-new-skill" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <article class="pj">
@@ -1605,7 +1603,7 @@ Unless a project has an event table of its own or a special event entry, the Dir
 </article>
 </address>
 
-#### Perfect New Recipe {data-scc="mcdm.heroes.v1/project/perfect-new-recipe"}
+#### Perfect New Recipe {data-scc="mcdm.heroes.v1/project/perfect-new-recipe" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <article class="pj">
@@ -1655,7 +1653,7 @@ Unless a project has an event table of its own or a special event entry, the Dir
 </article>
 </address>
 
-### Crafting and Research Events Table {data-scc="mcdm.heroes.v1/rule.downtime/crafting-and-research-events-table"}
+### Crafting and Research Events Table {data-scc="mcdm.heroes.v1/rule.downtime/crafting-and-research-events-table" data-search-exclude=""}
 
 | d100   | Event                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 |--------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -1714,7 +1712,7 @@ Unless a project has an event table of its own or a special event entry, the Dir
 
 Not all heroes want to craft or research during their time between adventures. Some might wish to build organizations, reconnect with family or friends, or just go fishing.
 
-#### Community Service {data-scc="mcdm.heroes.v1/project/community-service"}
+#### Community Service {data-scc="mcdm.heroes.v1/project/community-service" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <article class="pj">
@@ -1781,7 +1779,7 @@ Not all heroes want to craft or research during their time between adventures. S
 </article>
 </address>
 
-#### Fishing {data-scc="mcdm.heroes.v1/project/fishing"}
+#### Fishing {data-scc="mcdm.heroes.v1/project/fishing" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <article class="pj">
@@ -1890,7 +1888,7 @@ Not all heroes want to craft or research during their time between adventures. S
 </article>
 </address>
 
-#### Spend Time With Loved Ones {data-scc="mcdm.heroes.v1/project/spend-time-with-loved-ones"}
+#### Spend Time With Loved Ones {data-scc="mcdm.heroes.v1/project/spend-time-with-loved-ones" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <article class="pj">

@@ -16,9 +16,9 @@ type: feature
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Feature</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Hide</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
-<p>Using the <a href="../hide/">Hide</a> maneuver, a creature attempts to hide from other creatures who aren&#39;t observing them while they have <a href="../../../../rule/combat/cover/">cover</a> or <a href="../../../../rule/combat/concealment/">concealment</a>. See Hide and Sneak in Chapter 9: <a href="../../../../../Read/heroes/tests/">Tests</a> for full details.</p>
+<p>Using the <a href="../hide/">Hide</a> maneuver, a creature attempts to hide from other creatures who aren&#39;t observing them while they have <a href="../../../../rule/combat/cover/">cover</a> or <a href="../../../../rule/combat/concealment/">concealment</a>. See <a href="../../../../rule/test/hide-and-sneak/">Hide and Sneak</a> in Chapter 9: <a href="../../../../../Read/heroes/tests/">Tests</a> for full details.</p>
 </div>
 </section>
 
 
-<template class="sc-src" data-fmt="md" data-src="Using the &#91;Hide](hide.md) maneuver, a creature attempts to hide from other creatures who aren&#39;t observing them while they have &#91;cover](../../../rule/combat/cover.md) or &#91;concealment](../../../rule/combat/concealment.md). See Hide and Sneak in Chapter 9: &#91;Tests](../../../../Read/heroes/tests.md) for full details."></template>
+<template class="sc-src" data-fmt="md" data-src="Using the &#91;Hide](hide.md) maneuver, a creature attempts to hide from other creatures who aren&#39;t observing them while they have &#91;cover](../../../rule/combat/cover.md) or &#91;concealment](../../../rule/combat/concealment.md). See &#91;Hide and Sneak](../../../rule/test/hide-and-sneak.md) in Chapter 9: &#91;Tests](../../../../Read/heroes/tests.md) for full details."></template>

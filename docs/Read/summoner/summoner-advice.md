@@ -1,8 +1,6 @@
 ---
 printing: "1.0"
 printing_book: "The Summoner"
-search:
-  exclude: true
 name: Summoner Advice
 order: 4
 scc: mcdm.summoner.v1/chapter/summoner-advice

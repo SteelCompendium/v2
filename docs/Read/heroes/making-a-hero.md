@@ -1,8 +1,6 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-search:
-  exclude: true
 name: Making a Hero
 order: 2
 scc: mcdm.heroes.v1/chapter/making-a-hero
@@ -104,7 +102,7 @@ You can also make [free strikes](../../Browse/feature/common/main-actions/free-s
 
 See [Free Strikes](../../Browse/feature/common/main-actions/free-strike.md) in Chapter 10: [Combat](combat.md) for more information on using [free strikes](../../Browse/feature/common/main-actions/free-strike.md), and see Abilities in Chapter 5: [Classes](classes.md) for information on the ability format and how to read it.
 
-###### Melee Weapon Free Strike {data-scc="mcdm.heroes.v1/feature.ability.common/melee-weapon-free-strike"}
+###### Melee Weapon Free Strike {data-scc="mcdm.heroes.v1/feature.ability.common/melee-weapon-free-strike" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <article class="sc-ability sc-fil" data-action="main">
@@ -125,7 +123,7 @@ See [Free Strikes](../../Browse/feature/common/main-actions/free-strike.md) in C
 </article>
 </address>
 
-###### Ranged Weapon Free Strike {data-scc="mcdm.heroes.v1/feature.ability.common/ranged-weapon-free-strike"}
+###### Ranged Weapon Free Strike {data-scc="mcdm.heroes.v1/feature.ability.common/ranged-weapon-free-strike" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <article class="sc-ability sc-fil" data-action="main">

@@ -1,8 +1,6 @@
 ---
 printing: "1.0"
 printing_book: "The Beastheart"
-search:
-  exclude: true
 name: Perks
 order: 3
 scc: mcdm.beastheart.v1/chapter/perks
@@ -21,15 +19,15 @@ The following perks can be taken only by beastheart characters.
 
 This section presents exploration perks in alphabetical order.
 
-### Born Tracker {data-scc="mcdm.beastheart.v1/perk/born-tracker"}
+### Born Tracker {data-scc="mcdm.beastheart.v1/perk/born-tracker" data-search-exclude=""}
 
 You and your companion gain an edge on tests made to track creatures, find your way, or search for hidden creatures.
 
-### Ride Along {data-scc="mcdm.beastheart.v1/perk/ride-along"}
+### Ride Along {data-scc="mcdm.beastheart.v1/perk/ride-along" data-search-exclude=""}
 
 Your bond with your companion has permeated your very soul; you are just as much beast as you are beastheart. You can leave behind your mortal body and join your consciousness to that of your companion. You have the following ability.
 
-> ###### Ride Along
+> ###### Ride Along {data-search-exclude=""}
 >
 > *You ride behind your companion's eyes.*
 >
@@ -45,11 +43,11 @@ Your bond with your companion has permeated your very soul; you are just as much
 >
 > While you are riding along, you can't act except to spend a free maneuver to regain your body. You also regain your body if your companion dies or chooses to eject you. When you regain your body, you reappear in a space adjacent to your companion.
 
-### Wild Rumpus {data-scc="mcdm.beastheart.v1/perk/wild-rumpus"}
+### Wild Rumpus {data-scc="mcdm.beastheart.v1/perk/wild-rumpus" data-search-exclude=""}
 
 You have the following ability.
 
-> ###### Wild Rumpus
+> ###### Wild Rumpus {data-search-exclude=""}
 >
 > *The ability to glide like a condor or race like a wolf is intoxicating—but beware the temptation to run yourself to death.*
 >
@@ -59,7 +57,7 @@ You have the following ability.
 >
 > **Effect:** For one minute or until you or your companion takes damage, you and your companion gain each other's movement types in addition to your own. You and your companion both use your speed or your companion's speed, whichever is higher. Each additional time you use this ability after the first, you take damage equal to your level until you finish a respite or gain 1 or more Victories. This damage can't be reduced in any way and doesn't end this ability's effect.
 
-### Wilds Explorer {data-scc="mcdm.beastheart.v1/perk/wilds-explorer"}
+### Wilds Explorer {data-scc="mcdm.beastheart.v1/perk/wilds-explorer" data-search-exclude=""}
 
 You and your companion gain an edge on tests made to overcome environmental cold, heat, weather, unsteady ground, or challenging terrain. During your turn, you and your companion can ignore the first square of [difficult terrain](../../Browse/movement/difficult-terrain.md) you each enter.
 
@@ -67,7 +65,7 @@ You and your companion gain an edge on tests made to overcome environmental cold
 
 This section presents an intrigue perk.
 
-### Trained Thief {data-scc="mcdm.beastheart.v1/perk/trained-thief"}
+### Trained Thief {data-scc="mcdm.beastheart.v1/perk/trained-thief" data-search-exclude=""}
 
 You have the Conceal Object or Pick Pocket skill. Your companion can make a test using that skill as a maneuver.
 
@@ -75,14 +73,14 @@ You have the Conceal Object or Pick Pocket skill. Your companion can make a test
 
 This section presents interpersonal perks in alphabetical order.
 
-### People Sense {data-scc="mcdm.beastheart.v1/perk/people-sense"}
+### People Sense {data-scc="mcdm.beastheart.v1/perk/people-sense" data-search-exclude=""}
 
 Whenever you or your companion makes a test to determine a creature's motives, emotions, or body language while within 5 squares of each other, your partner can make the same test as a free triggered action. You both use the higher result.
 
-### Voice of the Wild {data-scc="mcdm.beastheart.v1/perk/voice-of-the-wild"}
+### Voice of the Wild {data-scc="mcdm.beastheart.v1/perk/voice-of-the-wild" data-search-exclude=""}
 
 Your companion can speak any language you can speak.
 
-### You Can Pet Them, They're Friendly {data-scc="mcdm.beastheart.v1/perk/you-can-pet-them-theyre-friendly"}
+### You Can Pet Them, They're Friendly {data-scc="mcdm.beastheart.v1/perk/you-can-pet-them-theyre-friendly" data-search-exclude=""}
 
 Whenever you make a Presence test to interact with a creature while you are within 5 squares of your companion, you can use your companion's Presence instead of your own.

@@ -1,8 +1,6 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-search:
-  exclude: true
 name: Complications
 order: 8
 scc: mcdm.heroes.v1/chapter/complications
@@ -197,7 +195,7 @@ Complications are presented in alphabetical order.
 | 99   | [Wrathful Spirit](../../Browse/complication/wrathful-spirit.md)                    |
 | 100  | [Wrongly Imprisoned](../../Browse/complication/wrongly-imprisoned.md)                 |
 
-#### Advanced Studies {data-scc="mcdm.heroes.v1/complication/advanced-studies"}
+#### Advanced Studies {data-scc="mcdm.heroes.v1/complication/advanced-studies" data-search-exclude=""}
 
 You somehow obtained the notebook of a brilliant but eccentric member of your class. The knowledge held within those notes should help you unlock powerful new abilities—if you can ever figure out what the notes mean.
 
@@ -207,7 +205,7 @@ You somehow obtained the notebook of a brilliant but eccentric member of your cl
 - **12-16:** You learn nothing and your time is wasted.
 - **17+:** You learn one [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) [heroic ability](../../Browse/rule/general/heroic-ability.md) from your class that you qualify for. You can use that ability until you finish your next [respite](../../Browse/rule/resource/respite.md).
 
-#### Amnesia {data-scc="mcdm.heroes.v1/complication/amnesia"}
+#### Amnesia {data-scc="mcdm.heroes.v1/complication/amnesia" data-search-exclude=""}
 
 You have no memory of your past before the... incident. Hopefully, you'll regain your memory soon and find out what the incident was. In the meantime, you need friends so you won't be alone when your past catches up to you.
 
@@ -215,7 +213,7 @@ You have no memory of your past before the... incident. Hopefully, you'll regain
 
 **Drawback:** You take a [bane](../../Browse/rule/dice/bane.md) on any [test](../../Browse/rule/test/test.md) made to recall lore.
 
-#### Animal Form {data-scc="mcdm.heroes.v1/complication/animal-form"}
+#### Animal Form {data-scc="mcdm.heroes.v1/complication/animal-form" data-search-exclude=""}
 
 Due to a magical accident, your being has fused with that of a small, harmless animal. You turn into this animal when it's convenient—and sometimes when it's inconvenient as well.
 
@@ -225,7 +223,7 @@ Unless you use this benefit again, you return to your true form at the start of 
 
 **Drawback:** At the start of any [turn](../../Browse/rule/combat/turn.md) while you are [winded](../../Browse/rule/health/winded.md), the Director can spend 1 Malice to force you to take your [animal form](../../Browse/complication/animal-form.md). Once the Director has done so, they can't do so again until you have finished a [respite](../../Browse/rule/resource/respite.md).
 
-#### Antihero {data-scc="mcdm.heroes.v1/complication/antihero"}
+#### Antihero {data-scc="mcdm.heroes.v1/complication/antihero" data-search-exclude=""}
 
 You used to be a villain. You're (mostly) reformed now, but in desperate moments, you sometimes draw on the rage and hatred that fueled your old life. In those moments, even your friends aren't sure whose side you're on. They don't need to worry, though. Once you leave evil behind, you can't go back. You've made too many enemies on the other side.
 
@@ -233,7 +231,7 @@ You used to be a villain. You're (mostly) reformed now, but in desperate moments
 
 **Drawback:** While you have fewer than 3 [antihero](../../Browse/complication/antihero.md) tokens, you exude a villainous aspect. You and each ally within 5 squares of you take a [bane](../../Browse/rule/dice/bane.md) on any [test](../../Browse/rule/test/test.md) made to interact with other creatures.
 
-#### Artifact Bonded {data-scc="mcdm.heroes.v1/complication/artifact-bonded"}
+#### Artifact Bonded {data-scc="mcdm.heroes.v1/complication/artifact-bonded" data-search-exclude=""}
 
 A powerful artifact has bonded to you, though you don't know whether you're destined to wield the artifact or to destroy it. You're not powerful enough to use it at the moment, although you might be someday. For now, though, the artifact has no effect beyond getting you in trouble.
 
@@ -241,7 +239,7 @@ A powerful artifact has bonded to you, though you don't know whether you're dest
 
 **Drawback:** Each time the artifact appears, you lose a [Recovery](../../Browse/rule/health/recoveries.md). If you have no [Recoveries](../../Browse/rule/health/recoveries.md) remaining, you take 1d10 damage instead, which can't be reduced in any way.
 
-#### Bereaved {data-scc="mcdm.heroes.v1/complication/bereaved"}
+#### Bereaved {data-scc="mcdm.heroes.v1/complication/bereaved" data-search-exclude=""}
 
 The most important person to you—perhaps a family member, mentor, or lover—was killed. The only thing that keeps you going is the faint connection you have with this person's spirit, and the hope that one day you can tie up their unfinished business and let them rest.
 
@@ -249,7 +247,7 @@ The most important person to you—perhaps a family member, mentor, or lover—w
 
 **Drawback:** You have corruption weakness 5.
 
-#### Betrothed {data-scc="mcdm.heroes.v1/complication/betrothed"}
+#### Betrothed {data-scc="mcdm.heroes.v1/complication/betrothed" data-search-exclude=""}
 
 Your parents made a deal, and as part of that deal, you're supposed to marry someone—or something—you didn't choose. But no one is going to tell you what to do! They'll all be sorry to find that you've run away to become a mighty adventurer.
 
@@ -257,7 +255,7 @@ Your parents made a deal, and as part of that deal, you're supposed to marry som
 
 **Drawback:** All those who learn of you running out on your commitment think less of you and spread nasty rumors about you. Your [Renown](../../Browse/rule/resource/renown.md) can't ever be more than your level − 1.
 
-#### Chaos Touched {data-scc="mcdm.heroes.v1/complication/chaos-touched"}
+#### Chaos Touched {data-scc="mcdm.heroes.v1/complication/chaos-touched" data-search-exclude=""}
 
 You came into contact with a mote of pure chaos energy, or were subjected to a [supernatural](../../Browse/rule/general/supernatural.md) effect or object that fused chaos into your very being. Now you can sprout and retract your limbs in a way that horrifies unprepared onlookers.
 
@@ -265,7 +263,7 @@ You came into contact with a mote of pure chaos energy, or were subjected to a [
 
 **Drawback:** While [dying](../../Browse/rule/health/dying.md), you grow and retract uncoordinated limbs at random, imposing a [bane](../../Browse/rule/dice/bane.md) on your [power rolls](../../Browse/rule/dice/power-roll.md).
 
-#### Chosen One {data-scc="mcdm.heroes.v1/complication/chosen-one"}
+#### Chosen One {data-scc="mcdm.heroes.v1/complication/chosen-one" data-search-exclude=""}
 
 Perhaps the stars marked you out at birth, or maybe your name appears in an ancient prophecy. In any case, a sinister cult has decided that you're important to their plans—though you don't particularly like the fate those plans have in store for you.
 
@@ -273,7 +271,7 @@ Perhaps the stars marked you out at birth, or maybe your name appears in an anci
 
 **Drawback:** Whenever you spend 1 or more destiny points, you take 1d10 psychic damage that can't be reduced in any way, and the cult that seeks you becomes aware of your location.
 
-#### Consuming Interest {data-scc="mcdm.heroes.v1/complication/consuming-interest"}
+#### Consuming Interest {data-scc="mcdm.heroes.v1/complication/consuming-interest" data-search-exclude=""}
 
 Ever since you were a kid, you've been obsessed with a certain topic. During your travels, you spend your free time gleaning all the information you can on that obsession. You might not be the world's leading expert quite yet, but people should certainly trust your opinion on the topic.
 
@@ -281,7 +279,7 @@ Ever since you were a kid, you've been obsessed with a certain topic. During you
 
 **Drawback:** You can't imagine ever being wrong on the topic of your obsession. Whenever you make a [test](../../Browse/rule/test/test.md) to recall lore using your chosen skill, the Director makes the [test](../../Browse/rule/test/test.md) in secret. Instead of informing you whether you're right or wrong, they provide you with correct information if you succeeded and false information if you failed.
 
-##### Study Lore
+##### Study Lore {data-search-exclude=""}
 
 **[Item Prerequisite](../../Browse/rule/downtime/item-prerequisite.md):** None
 
@@ -293,13 +291,13 @@ Ever since you were a kid, you've been obsessed with a certain topic. During you
 
 Each time you complete this project, your knowledge of your chosen field expands, and the [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [tests](../../Browse/rule/test/test.md) provided by your chosen skill increases by 1.
 
-#### Corrupted Mentor {data-scc="mcdm.heroes.v1/complication/corrupted-mentor"}
+#### Corrupted Mentor {data-scc="mcdm.heroes.v1/complication/corrupted-mentor" data-search-exclude=""}
 
 Your mentor taught you everything and you trusted them completely until they went rogue, betraying you or the organization you both belonged to. Their current whereabouts and activities are unknown, though disturbing rumors are heard from time to time. Even worse, as their former pupil, you're now under suspicion as well.
 
 **Benefit:** You know the Corrupt Spirit maneuver, taught to you by your mentor. (In retrospect, that probably should have aroused your suspicion.)
 
-> ###### Corrupt Spirit
+> ###### Corrupt Spirit {data-search-exclude=""}
 >
 > *You unlock the sinister secrets of pain.*
 >
@@ -311,7 +309,7 @@ Your mentor taught you everything and you trusted them completely until they wen
 
 **Drawback:** You have holy weakness 1. Each time you use Corrupt Spirit, your holy weakness increases by 1, to a maximum equal to your [recovery value](../../Browse/rule/health/recoveries.md). Whenever you take holy damage, this weakness resets to 1.
 
-#### Coward {data-scc="mcdm.heroes.v1/complication/coward"}
+#### Coward {data-scc="mcdm.heroes.v1/complication/coward" data-search-exclude=""}
 
 Some call you a [coward](../../Browse/complication/coward.md), just because you shriek and run when you encounter danger. Sure, you might not have the natural bravado of less-imaginative people. And sure, you're always imagining the many horrible ways you could die, but you're used to fear. When you run in terror, you run *toward* the enemy.
 
@@ -319,7 +317,7 @@ Some call you a [coward](../../Browse/complication/coward.md), just because you 
 
 **Drawback:** Whenever you make a [saving throw](../../Browse/rule/general/saving-throw.md) to end the [frightened](../../Browse/condition/frightened.md) [condition](../../Browse/rule/combat/condition.md), you roll a d10 twice and take the lower roll.
 
-#### Crash Landed {data-scc="mcdm.heroes.v1/complication/crash-landed"}
+#### Crash Landed {data-scc="mcdm.heroes.v1/complication/crash-landed" data-search-exclude=""}
 
 You used to flit around the stars in your own ship. But an ugly run-in with a [pirate](../../Browse/complication/pirate.md) (or a [pirate](../../Browse/complication/pirate.md) [hunter](../../Browse/complication/hunter.md)) has left you marooned on this backwater world. You're prepared to carve out a life here—at least until you can hitch a ride somewhere else.
 
@@ -327,7 +325,7 @@ You used to flit around the stars in your own ship. But an ugly run-in with a [p
 
 **Drawback:** You take a [bane](../../Browse/rule/dice/bane.md) on any [test](../../Browse/rule/test/test.md) made to know about anything related to the world where you [crash landed](../../Browse/complication/crash-landed.md).
 
-#### Cult Victim {data-scc="mcdm.heroes.v1/complication/cult-victim"}
+#### Cult Victim {data-scc="mcdm.heroes.v1/complication/cult-victim" data-search-exclude=""}
 
 Cultists captured you while raiding your home, then began an unholy ritual to [turn](../../Browse/rule/combat/turn.md) your body into an undead spirit. Though the ritual failed, your body became infused with corrupted magic, turning you partially incorporeal.
 
@@ -335,7 +333,7 @@ Cultists captured you while raiding your home, then began an unholy ritual to [t
 
 **Drawback:** You have corruption weakness 5.
 
-#### Curse of Caution {data-scc="mcdm.heroes.v1/complication/curse-of-caution"}
+#### Curse of Caution {data-scc="mcdm.heroes.v1/complication/curse-of-caution" data-search-exclude=""}
 
 When you were young, you did something reckless and unthinking that endangered a hag or cost them something dear. The hag cursed you to always take your time, forcing you to be cautious and thorough—even to your detriment. The curse has saved you from trouble a few times, but not being able to get away from trouble might be your downfall if you can't shake it.
 
@@ -343,7 +341,7 @@ When you were young, you did something reckless and unthinking that endangered a
 
 **Drawback:** You have a −1 [penalty](../../Browse/rule/dice/bonuses-and-penalties.md) to [speed](../../Browse/rule/character/speed.md).
 
-#### Curse of Immortality {data-scc="mcdm.heroes.v1/complication/curse-of-immortality"}
+#### Curse of Immortality {data-scc="mcdm.heroes.v1/complication/curse-of-immortality" data-search-exclude=""}
 
 For as long as you can remember, you've never gotten older. You've simply adventured through one age after another. Still, your memory of past events—even those you were involved with—is a little hazy. Apparently, your memory isn't as long-lived as you are.
 
@@ -351,19 +349,19 @@ For as long as you can remember, you've never gotten older. You've simply advent
 
 **Drawback:** You take a [bane](../../Browse/rule/dice/bane.md) on any [test](../../Browse/rule/test/test.md) made to recall lore.
 
-#### Curse of Misfortune {data-scc="mcdm.heroes.v1/complication/curse-of-misfortune"}
+#### Curse of Misfortune {data-scc="mcdm.heroes.v1/complication/curse-of-misfortune" data-search-exclude=""}
 
 You should have never pissed off that mage! Maybe they deserved your ire, or maybe you were just being a bully. But whatever the case, they cursed you before skipping town. Now, in moments of pressure that require great skill, you have a tendency to choke, falling and flailing in such a dramatic fashion that you take everyone else with you.
 
 **Benefit and Drawback:** Whenever you make a [test](../../Browse/rule/test/test.md) in combat and incur a consequence, you ignore that consequence. Instead, you and each ally [adjacent](../../Browse/rule/combat/adjacent.md) to you [fall prone](../../Browse/condition/prone.md).
 
-#### Curse of Poverty {data-scc="mcdm.heroes.v1/complication/curse-of-poverty"}
+#### Curse of Poverty {data-scc="mcdm.heroes.v1/complication/curse-of-poverty" data-search-exclude=""}
 
 A soothsayer once predicted you would have a long life, even as they told you you'd never be rich. But you're determined to prove them wrong. You'll get rich or die trying!
 
 **Benefit and Drawback:** Whenever you take a [respite](../../Browse/rule/resource/respite.md) while your [Wealth](../../Browse/rule/resource/wealth.md) is higher than 1, some improbable event occurs that causes most of your money to vanish—including money you've hidden, loaned to others, or given away. Your [Wealth](../../Browse/rule/resource/wealth.md) is reduced to 1. For each point of [Wealth](../../Browse/rule/resource/wealth.md) you lose this way, your number of [Recoveries](../../Browse/rule/health/recoveries.md) increases by 1. Your [Recoveries](../../Browse/rule/health/recoveries.md) reset to their usual value the first time you take a [respite](../../Browse/rule/resource/respite.md) with fewer [Recoveries](../../Browse/rule/health/recoveries.md) than your maximum.
 
-#### Curse of Punishment {data-scc="mcdm.heroes.v1/complication/curse-of-punishment"}
+#### Curse of Punishment {data-scc="mcdm.heroes.v1/complication/curse-of-punishment" data-search-exclude=""}
 
 Through ignorance, fear, spite, or selfishness, you refused to help someone in need. To teach you a lesson, a deity offered you what seemed to be a blessing—extra power to help you heal yourself in times of need, but harsh consequences should your need become excessive. You took the deal, and now benefit from the blessing but also suffer from a curse.
 
@@ -371,7 +369,7 @@ Through ignorance, fear, spite, or selfishness, you refused to help someone in n
 
 **Drawback:** When you are out of [Recoveries](../../Browse/rule/health/recoveries.md), you are [dying](../../Browse/rule/health/dying.md), no matter what your current [Stamina](../../Browse/rule/health/stamina.md) is.
 
-#### Curse of Stone {data-scc="mcdm.heroes.v1/complication/curse-of-stone"}
+#### Curse of Stone {data-scc="mcdm.heroes.v1/complication/curse-of-stone" data-search-exclude=""}
 
 As a child, you met a creature who [turns](../../Browse/rule/combat/turn.md) people to stone, such as a medusa. You escaped half petrified, avoiding the fate of others who stand as statues now.
 
@@ -379,7 +377,7 @@ As a child, you met a creature who [turns](../../Browse/rule/combat/turn.md) peo
 
 **Drawback:** You have sonic weakness 5. Additionally, while you are [winded](../../Browse/rule/health/winded.md), you are [dazed](../../Browse/condition/dazed.md).
 
-#### Cursed Weapon {data-scc="mcdm.heroes.v1/complication/cursed-weapon"}
+#### Cursed Weapon {data-scc="mcdm.heroes.v1/complication/cursed-weapon" data-search-exclude=""}
 
 When you were young, you found or were given a magic weapon. Since then, you've carried it always at your side, letting it inspire you to lead the life of a hero—even though the weapon is cursed.
 
@@ -387,7 +385,7 @@ When you were young, you found or were given a magic weapon. Since then, you've 
 
 **Drawback:** You have [damage weakness](../../Browse/rule/damage/damage-weakness.md) 2.
 
-#### Disgraced {data-scc="mcdm.heroes.v1/complication/disgraced"}
+#### Disgraced {data-scc="mcdm.heroes.v1/complication/disgraced" data-search-exclude=""}
 
 You're a [disgraced](../../Browse/complication/disgraced.md) member of a powerful family or guild, having been turned out by your relatives or peers. Those you were once close to won't give you the time of day anymore, much less lend a helping hand, until you clear your name or clean up your act.
 
@@ -395,7 +393,7 @@ You're a [disgraced](../../Browse/complication/disgraced.md) member of a powerfu
 
 **Drawback:** Anyone who has heard of you and is influenced by your [Renown](../../Browse/rule/resource/renown.md) treats you as infamous. Whenever you are part of a negotiation with an [NPC](../../Browse/rule/general/npc.md) who has an interest of 2 or lower, that [NPC](../../Browse/rule/general/npc.md) makes a plan to hurt you personally after the negotiation ends—and carries that plan out.
 
-#### Dragon Dreams {data-scc="mcdm.heroes.v1/complication/dragon-dreams"}
+#### Dragon Dreams {data-scc="mcdm.heroes.v1/complication/dragon-dreams" data-search-exclude=""}
 
 You sometimes have strange dreams of a raging inferno... a gleaming pile of treasure... of spreading your wings and taking flight. You haven't told anyone about these dreams, except for your one strange relative who seems to know more than they're letting on.
 
@@ -403,7 +401,7 @@ You sometimes have strange dreams of a raging inferno... a gleaming pile of trea
 
 **Drawback:** Whenever you are reduced to 0 [Stamina](../../Browse/rule/health/stamina.md), you explode with heat and fire. You and each creature within 5 squares of you takes fire damage equal to twice your level. You can't reduce this damage for yourself in any way.
 
-#### Elemental Inside {data-scc="mcdm.heroes.v1/complication/elemental-inside"}
+#### Elemental Inside {data-scc="mcdm.heroes.v1/complication/elemental-inside" data-search-exclude=""}
 
 When an evil mage threatened someone you loved, you blocked that foe's summoning of an elemental creature by absorbing their magic with your body. You are now infused with the power of that elemental—who isn't at all happy about it.
 
@@ -411,7 +409,7 @@ When an evil mage threatened someone you loved, you blocked that foe's summoning
 
 **Drawback:** While you are [dying](../../Browse/rule/health/dying.md), your possessing elemental takes control of your body. The elemental yearns for destruction, causing you to attack the nearest creature you notice without regard for your desires or your body's safety. If you don't do your best to fulfill the elemental's rage, the Director can take temporary control of your hero.
 
-#### Evanesceria {data-scc="mcdm.heroes.v1/complication/evanesceria"}
+#### Evanesceria {data-scc="mcdm.heroes.v1/complication/evanesceria" data-search-exclude=""}
 
 You have contracted a rare magical disease called [evanesceria](../../Browse/complication/evanesceria.md). From time to time, you're not quite yourself—or anyone else either. You simply... vanish, then return later with no memory of your absence.
 
@@ -419,7 +417,7 @@ You have contracted a rare magical disease called [evanesceria](../../Browse/com
 
 **Drawback:** Whenever you start a [respite](../../Browse/rule/resource/respite.md) activity, roll 2d10. If you roll a 1 on either die, you inadvertently absent yourself from reality, reappearing at the end of the [respite](../../Browse/rule/resource/respite.md). You gain the benefits of taking a [respite](../../Browse/rule/resource/respite.md) but don't perform the [respite](../../Browse/rule/resource/respite.md) activity.
 
-#### Exile {data-scc="mcdm.heroes.v1/complication/exile"}
+#### Exile {data-scc="mcdm.heroes.v1/complication/exile" data-search-exclude=""}
 
 Whether you're a convicted criminal, a noble stripped of their title, or a person who made one too many enemies, you've been cast forth from your homeland, never to return. At least not until you're strong enough to set things right.
 
@@ -427,7 +425,7 @@ Whether you're a convicted criminal, a noble stripped of their title, or a perso
 
 **Drawback:** If any [NPC](../../Browse/rule/general/npc.md) from your homeland recognizes you, whether in your homeland or elsewhere, they attempt to harm you at the Director's discretion.
 
-#### Fallen Immortal {data-scc="mcdm.heroes.v1/complication/fallen-immortal"}
+#### Fallen Immortal {data-scc="mcdm.heroes.v1/complication/fallen-immortal" data-search-exclude=""}
 
 You used to be an immortal creature, dispensing justice and doing the bidding of the gods. Now, whether as punishment or reward, you have been ordered to set your true nature aside and become a mortal. Your remaining years will be short, but living alongside your fellow mortals gives your life new meaning.
 
@@ -435,7 +433,7 @@ You used to be an immortal creature, dispensing justice and doing the bidding of
 
 **Drawback:** You will never fully gain a mortal's comfort with untruth. Any [test](../../Browse/rule/test/test.md) you make to deceive another creature takes a [bane](../../Browse/rule/dice/bane.md).
 
-#### Famous Relative {data-scc="mcdm.heroes.v1/complication/famous-relative"}
+#### Famous Relative {data-scc="mcdm.heroes.v1/complication/famous-relative" data-search-exclude=""}
 
 Sure, you're a promising young hero in your own right—but people always ask you about your [famous relative](../../Browse/complication/famous-relative.md). Will you equal or surpass your relative's accomplishments, or will you always live in their shadow?
 
@@ -443,13 +441,13 @@ Sure, you're a promising young hero in your own right—but people always ask yo
 
 **Drawback:** You earn no [Victories](../../Browse/rule/resource/victories.md) from combat encounters or other challenges for which your relative was present. Additionally, each time you summon your relative, the next time you gain [Renown](../../Browse/rule/resource/renown.md), your relative gains that [Renown](../../Browse/rule/resource/renown.md) instead.
 
-#### Feytouched {data-scc="mcdm.heroes.v1/complication/feytouched"}
+#### Feytouched {data-scc="mcdm.heroes.v1/complication/feytouched" data-search-exclude=""}
 
 Your birth was attended by faeries. A friendly fairy blessed you, granting you strength so you could defend yourself. In response, an unfriendly fairy granted you a life filled with peril so that you might prove your strength.
 
 **Benefit and Drawback:** At the start of each combat encounter, you can choose to gain 1 additional [Heroic Resource](../../Browse/rule/resource/heroic-resource.md). If you do so, the Director gains 3 Malice.
 
-#### Fiery Ideal {data-scc="mcdm.heroes.v1/complication/fiery-ideal"}
+#### Fiery Ideal {data-scc="mcdm.heroes.v1/complication/fiery-ideal" data-search-exclude=""}
 
 A spirit beyond your comprehension instilled in you a special purpose, choosing you to be the guardian of a place, a cause, or a philosophy. The flame that now burns in your soul can sear your enemies—or you if you fall short of expectations.
 
@@ -457,7 +455,7 @@ A spirit beyond your comprehension instilled in you a special purpose, choosing 
 
 **Drawback:** Whenever the Director determines that you act against your purpose or fail to live up to the high standards associated with it, you take fire damage equal to 5 + your level. This damage can't be reduced in any way.
 
-#### Fire and Chaos {data-scc="mcdm.heroes.v1/complication/fire-and-chaos"}
+#### Fire and Chaos {data-scc="mcdm.heroes.v1/complication/fire-and-chaos" data-search-exclude=""}
 
 A great monster who breathed fire burned your home to the ground. While everything around you was consumed, you somehow stood strong amid the inferno, your body adapting to ignore the effects of the flames.
 
@@ -465,7 +463,7 @@ A great monster who breathed fire burned your home to the ground. While everythi
 
 **Drawback:** You have cold weakness 5.
 
-#### Following in the Footsteps {data-scc="mcdm.heroes.v1/complication/following-in-the-footsteps"}
+#### Following in the Footsteps {data-scc="mcdm.heroes.v1/complication/following-in-the-footsteps" data-search-exclude=""}
 
 Your personal idol was a mighty hero, and you have modeled yourself after them. From studying the many heroic tales told of them, you hope to someday learn your idol's most famous battle technique.
 
@@ -473,7 +471,7 @@ Your personal idol was a mighty hero, and you have modeled yourself after them. 
 
 **Drawback:** In your quest for advanced techniques, you have neglected the basics. Choose a [heroic ability](../../Browse/rule/general/heroic-ability.md) you already know. That ability's [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) cost is permanently increased by 1.
 
-#### Forbidden Romance {data-scc="mcdm.heroes.v1/complication/forbidden-romance"}
+#### Forbidden Romance {data-scc="mcdm.heroes.v1/complication/forbidden-romance" data-search-exclude=""}
 
 You are in love with someone powerful, but tragic circumstances mean you cannot be with them. Whether your lover is from a feuding family, [betrothed](../../Browse/complication/betrothed.md) to another, or has been driven from your side, you are fated to always be apart.
 
@@ -481,7 +479,7 @@ You are in love with someone powerful, but tragic circumstances mean you cannot 
 
 **Drawback:** When your lover is in trouble, they might call on you for help. But if your relationship is discovered, the circumstances that keep you apart will be made worse.
 
-#### Frostheart {data-scc="mcdm.heroes.v1/complication/frostheart"}
+#### Frostheart {data-scc="mcdm.heroes.v1/complication/frostheart" data-search-exclude=""}
 
 At the edge of the world, you were lost in a winter storm and [presumed dead](../../Browse/title/presumed-dead.md). But an unknown fate or power kept you alive, bringing you back with frosty skin and pale eyes.
 
@@ -489,7 +487,7 @@ At the edge of the world, you were lost in a winter storm and [presumed dead](..
 
 **Drawback:** You have fire weakness 5.
 
-#### Getting Too Old for This {data-scc="mcdm.heroes.v1/complication/getting-too-old-for-this"}
+#### Getting Too Old for This {data-scc="mcdm.heroes.v1/complication/getting-too-old-for-this" data-search-exclude=""}
 
 You were once a [renown](../../Browse/rule/resource/renown.md)ed hero, but you've been living the last few years in blissful peace. Now you're coming out of retirement for one last hurrah. Your fighting skills might have atrophied to the point where you're no stronger than a wet-behind-the-ears novice adventurer, but you still remember some of your old tricks.
 
@@ -497,7 +495,7 @@ You were once a [renown](../../Browse/rule/resource/renown.md)ed hero, but you'v
 
 **Drawback:** While you are [winded](../../Browse/rule/health/winded.md), you take a −2 [penalty](../../Browse/rule/dice/bonuses-and-penalties.md) to [speed](../../Browse/rule/character/speed.md).
 
-#### Gnoll-Mauled {data-scc="mcdm.heroes.v1/complication/gnoll-mauled"}
+#### Gnoll-Mauled {data-scc="mcdm.heroes.v1/complication/gnoll-mauled" data-search-exclude=""}
 
 As a child, you survived a gnoll attack. But that attack left you with a jagged scar and the occasional fit of bloodlust.
 
@@ -507,7 +505,7 @@ As a child, you survived a gnoll attack. But that attack left you with a jagged 
 
 **Special:** You can't take this complication if you can't be made [dazed](../../Browse/condition/dazed.md).
 
-#### Greening {data-scc="mcdm.heroes.v1/complication/greening"}
+#### Greening {data-scc="mcdm.heroes.v1/complication/greening" data-search-exclude=""}
 
 You once felt the call of a great tree in the middle of a forest, whose life force was being drained by a parasitic [supernatural](../../Browse/rule/general/supernatural.md) moss clinging to its roots. As you removed the moss, you felt as if you were being filled with green elemental energy. Sadly, the great tree withered before you could finish the job, but left behind a golden sapling you now carry with you, seeking the perfect place to plant it.
 
@@ -515,7 +513,7 @@ You once felt the call of a great tree in the middle of a forest, whose life for
 
 **Drawback:** You have fire weakness 5.
 
-#### Grifter {data-scc="mcdm.heroes.v1/complication/grifter"}
+#### Grifter {data-scc="mcdm.heroes.v1/complication/grifter" data-search-exclude=""}
 
 You used to be a con artist, but those days are pretty much behind you. Being a hero is an even better racket. After all, if you're saving the world, who can be mad at you for stealing a few coins along the way?
 
@@ -523,7 +521,7 @@ You used to be a con artist, but those days are pretty much behind you. Being a 
 
 **Drawback:** Whenever you meet an [NPC](../../Browse/rule/general/npc.md) for the first time, the Director can decide that [NPC](../../Browse/rule/general/npc.md) was a victim of one of your previous cons and remembers you. If they do so, the party gains a [hero token](../../Browse/rule/resource/hero-token.md).
 
-#### Grounded {data-scc="mcdm.heroes.v1/complication/grounded"}
+#### Grounded {data-scc="mcdm.heroes.v1/complication/grounded" data-search-exclude=""}
 
 Once when you were a child, your settlement was in danger and you called out to the earth for aid. That call was answered by a summoning of protective dirt-and-stone walls, and ever since then, you've felt the earth's presence as a friend and protector.
 
@@ -531,7 +529,7 @@ Once when you were a child, your settlement was in danger and you called out to 
 
 **Drawback:** You attract lightning. Whenever any creature within 2 squares of you takes lightning damage, you take 5 lightning damage that can't be reduced in any way.
 
-#### Guilty Conscience {data-scc="mcdm.heroes.v1/complication/guilty-conscience"}
+#### Guilty Conscience {data-scc="mcdm.heroes.v1/complication/guilty-conscience" data-search-exclude=""}
 
 The world is in trouble—and it's partly your fault. Maybe you helped a villain rise to power or inadvertently released a demon from imprisonment. Now it's your mission to repair the damage you caused.
 
@@ -539,7 +537,7 @@ The world is in trouble—and it's partly your fault. Maybe you helped a villain
 
 **Drawback:** Many people blame you for the evils you caused. They might be unfriendly or hostile to you—and you can understand their point of view. You take a [bane](../../Browse/rule/dice/bane.md) on any [test](../../Browse/rule/test/test.md) made to interact with those who know what you did, and on [strikes](../../Browse/rule/combat/strike.md) made against such creatures.
 
-#### Hawk Rider {data-scc="mcdm.heroes.v1/complication/hawk-rider"}
+#### Hawk Rider {data-scc="mcdm.heroes.v1/complication/hawk-rider" data-search-exclude=""}
 
 You travel with a giant hawk who you stole from the Hawklords (see [Vasloria](../../Browse/rule/world/vasloria.md) in Chapter 1: [The Basics](the-basics.md)). You might once have been a Hawklord yourself, or perhaps you escaped their captivity. Having a giant hawk companion comes with its share of inconveniences and dangers, but those are a small price to pay for the freedom of the open sky.
 
@@ -547,7 +545,7 @@ You travel with a giant hawk who you stole from the Hawklords (see [Vasloria](..
 
 **Drawback:** People aware of the origin of your mount are afraid to interact with you, since they worry the Hawklords will come after them by association. You take a [bane](../../Browse/rule/dice/bane.md) on any [test](../../Browse/rule/test/test.md) made to influence anyone who knows of the Hawklords and who has observed you with your giant hawk. Such people might also report you to the Hawklords, who come looking for you at the Director's discretion.
 
-#### Host Body {data-scc="mcdm.heroes.v1/complication/host-body"}
+#### Host Body {data-scc="mcdm.heroes.v1/complication/host-body" data-search-exclude=""}
 
 "Do not be alarmed! We are not the humanoid we appear to be. We are an intelligent fungal collective, using this body as a host. No, we are doing nothing unsavory! This body was dead when we found it, and we merely gave it another chance at life. We are friendly. Please put down those torches!"
 
@@ -555,7 +553,7 @@ You travel with a giant hawk who you stole from the Hawklords (see [Vasloria](..
 
 **Drawback:** You have fire weakness 5. Additionally, you take a [bane](../../Browse/rule/dice/bane.md) on any [test](../../Browse/rule/test/test.md) made to read a humanoid creature's emotions or body language.
 
-#### Hunted {data-scc="mcdm.heroes.v1/complication/hunted"}
+#### Hunted {data-scc="mcdm.heroes.v1/complication/hunted" data-search-exclude=""}
 
 You have long stayed one step ahead of a pursuer—perhaps a bounty [hunter](../../Browse/complication/hunter.md) determined to bring you to justice, a [revenant](../../Browse/ancestry/revenant.md), or an assassin intent on your death. Someday, you'll be strong enough to face your pursuer. But for now, you live your life on the run.
 
@@ -563,7 +561,7 @@ You have long stayed one step ahead of a pursuer—perhaps a bounty [hunter](../
 
 **Drawback:** Each time you earn [Renown](../../Browse/rule/resource/renown.md), your pursuer learns your location. Unless you lay low or move to a new location, you'll be visited by agents of the pursuer within 1d10 days. If you linger after that, your pursuer finds you.
 
-#### Hunter {data-scc="mcdm.heroes.v1/complication/hunter"}
+#### Hunter {data-scc="mcdm.heroes.v1/complication/hunter" data-search-exclude=""}
 
 You are hunting someone or something—perhaps a wanted criminal, a person who wronged you, or a dangerous monster or beast. You won't rest until you face off against your quarry!
 
@@ -577,7 +575,7 @@ You have that skill, and you gain an [edge](../../Browse/rule/dice/edge.md) on [
 
 **Drawback:** You are so obsessed with finding your quarry that you take a [bane](../../Browse/rule/dice/bane.md) on any [test](../../Browse/rule/test/test.md) made to track other creatures.
 
-#### Indebted {data-scc="mcdm.heroes.v1/complication/indebted"}
+#### Indebted {data-scc="mcdm.heroes.v1/complication/indebted" data-search-exclude=""}
 
 A deal you made went south, or you got involved with the wrong people. Now you owe a debt or a ransom that would bankrupt a minor noble. To pay it off, you'll need to take some dangerous risks.
 
@@ -585,7 +583,7 @@ A deal you made went south, or you got involved with the wrong people. Now you o
 
 **Drawback:** Your starting [Wealth](../../Browse/rule/resource/wealth.md) is −5. While your [Wealth](../../Browse/rule/resource/wealth.md) is lower than 1, you can purchase items as if you had 1 [Wealth](../../Browse/rule/resource/wealth.md), but you're frequently visited by threatening creditors, and shopkeepers often lock their doors when they see you coming.
 
-#### Infernal Contract {data-scc="mcdm.heroes.v1/complication/infernal-contract"}
+#### Infernal Contract {data-scc="mcdm.heroes.v1/complication/infernal-contract" data-search-exclude=""}
 
 You made a deal (perhaps unknowingly) with an archdevil that has tied you to that fiend's service. When you first learned of this deal, you were taken to the Seven Cities of Hell, where some of the timescape's best minds taught you the ways of battle. The archdevil allows you to use these gifts as you will... until they require a favor from you.
 
@@ -593,7 +591,7 @@ You made a deal (perhaps unknowingly) with an archdevil that has tied you to tha
 
 **Drawback:** The archdevil occasionally asks you to defeat enemies on their behalf. If you refuse, your fiendish patron sends [devils](../../Browse/ancestry/devil.md) after you and those you care about.
 
-#### Infernal Contract... But, Like, Bad {data-scc="mcdm.heroes.v1/complication/infernal-contract-but-like-bad"}
+#### Infernal Contract... But, Like, Bad {data-scc="mcdm.heroes.v1/complication/infernal-contract-but-like-bad" data-search-exclude=""}
 
 You made a deal with a [devil](../../Browse/ancestry/devil.md). Not a very good deal, because it wasn't a very good [devil](../../Browse/ancestry/devil.md). It's too late for regrets, though, because your soul is forfeit unless you find a loophole or can convince the [devil](../../Browse/ancestry/devil.md) to void the deal.
 
@@ -605,7 +603,7 @@ You made a deal with a [devil](../../Browse/ancestry/devil.md). Not a very good 
 
 **Drawback:** Your body bears a fiendish mark. Any creature who understands religion and notes the mark can tell that your soul belongs to Hell, imposing a [bane](../../Browse/rule/dice/bane.md) on any [test](../../Browse/rule/test/test.md) you make to interact with those creatures (unless they're into that). Additionally, when you die, your soul goes to Hell and you can't be restored to life.
 
-#### Ivory Tower {data-scc="mcdm.heroes.v1/complication/ivory-tower"}
+#### Ivory Tower {data-scc="mcdm.heroes.v1/complication/ivory-tower" data-search-exclude=""}
 
 You studied in an academy or other educational institution. Your training was thorough and your reading list was wide-ranging. But when you left school, you discovered there were serious gaps in your education. Maybe some of those books were a little out of date.
 
@@ -613,7 +611,7 @@ You studied in an academy or other educational institution. Your training was th
 
 **Drawback:** The Director chooses one of the skills you have from this complication. You lose that skill and can't ever learn it again. Additionally, you take a [bane](../../Browse/rule/dice/bane.md) on any [test](../../Browse/rule/test/test.md) to which that skill would apply.
 
-#### Lifebonded {data-scc="mcdm.heroes.v1/complication/lifebonded"}
+#### Lifebonded {data-scc="mcdm.heroes.v1/complication/lifebonded" data-search-exclude=""}
 
 In a sinister ritual, your soul has been bound to that of another creature. This might be a companion, a creature you are beholden to, or an enemy. When they die, you die—making you the perfect bodyguard.
 
@@ -621,7 +619,7 @@ In a sinister ritual, your soul has been bound to that of another creature. This
 
 **Drawback:** If the creature you're bound to dies, you die as well, no matter what other traits or features you have.
 
-#### Lightning Soul {data-scc="mcdm.heroes.v1/complication/lightning-soul"}
+#### Lightning Soul {data-scc="mcdm.heroes.v1/complication/lightning-soul" data-search-exclude=""}
 
 You were caught in a storm and struck by lightning—but something saved you from death. Perhaps it was a gods—given miracle, a latent psionic gift, or the magic of a helpful [elementalist](../../Browse/class/elementalist.md), but you absorbed the lightning into your body. It's always there now, simmering under the surface.
 
@@ -629,7 +627,7 @@ You were caught in a storm and struck by lightning—but something saved you fro
 
 **Drawback:** Whenever you are wet, you have [damage weakness](../../Browse/rule/damage/damage-weakness.md) 5.
 
-#### Loner {data-scc="mcdm.heroes.v1/complication/loner"}
+#### Loner {data-scc="mcdm.heroes.v1/complication/loner" data-search-exclude=""}
 
 You've always been a lone wolf. With no one else to lean on, you've picked up a million survival tricks. Which made it all the more surprising when you joined your current adventuring group and found the family you'd never known you needed.
 
@@ -637,7 +635,7 @@ You've always been a lone wolf. With no one else to lean on, you've picked up a 
 
 **Drawback:** Now that you finally have people who care about you, you won't let anyone take them away! Whenever a creature reduces one of your allies to 0 [Stamina](../../Browse/rule/health/stamina.md), you are [taunted](../../Browse/condition/taunted.md) by that creature until your ally's [Stamina](../../Browse/rule/health/stamina.md) is higher than 0, another creature makes you [taunted](../../Browse/condition/taunted.md), or the end of the encounter.
 
-#### Lost in Time {data-scc="mcdm.heroes.v1/complication/lost-in-time"}
+#### Lost in Time {data-scc="mcdm.heroes.v1/complication/lost-in-time" data-search-exclude=""}
 
 In a long-ago age, a cataclysm overtook your city. You weren't killed, but some arcane accident caused you to be suspended in time until now. Alone, you must navigate the world around you with a head full of outdated memories—and a few ancient secrets.
 
@@ -645,13 +643,13 @@ In a long-ago age, a cataclysm overtook your city. You weren't killed, but some 
 
 **Drawback:** You automatically fail any [test](../../Browse/rule/test/test.md) made to recall information from the period during which you were suspended in time.
 
-#### Lost Your Head {data-scc="mcdm.heroes.v1/complication/lost-your-head"}
+#### Lost Your Head {data-scc="mcdm.heroes.v1/complication/lost-your-head" data-search-exclude=""}
 
 A bredbeddle stole your head! Usually, being beheaded by one of those magical giants is fatal (see *Draw Steel: Monsters*), but your latent psionic ability allows you to survive despite your decapitation.
 
 **Benefit:** You have the following ability.
 
-> ###### Share Head
+> ###### Share Head {data-search-exclude=""}
 >
 > *You don't have a head, but you can psionically borrow another.*
 >
@@ -663,7 +661,7 @@ A bredbeddle stole your head! Usually, being beheaded by one of those magical gi
 
 **Drawback:** Having no head, you can't see, hear, smell, taste, or verbalize except by using the Share Head ability. Additionally, you can't wear gear that requires a head, such as a helmet or hat.
 
-#### Lucky {data-scc="mcdm.heroes.v1/complication/lucky"}
+#### Lucky {data-scc="mcdm.heroes.v1/complication/lucky" data-search-exclude=""}
 
 You've always had a [lucky](../../Browse/complication/lucky.md) streak. When you leave things in the hands of fate, you succeed more than you fail. But luck is fickle—and when you don't trust it, it deserts you.
 
@@ -671,7 +669,7 @@ You've always had a [lucky](../../Browse/complication/lucky.md) streak. When you
 
 **Drawback:** Whenever you obtain a tier 1 outcome on a [test](../../Browse/rule/test/test.md) and don't spend a [hero token](../../Browse/rule/resource/hero-token.md) to reroll, you take a [bane](../../Browse/rule/dice/bane.md) on the next [test](../../Browse/rule/test/test.md) you make.
 
-#### Master Chef {data-scc="mcdm.heroes.v1/complication/master-chef"}
+#### Master Chef {data-scc="mcdm.heroes.v1/complication/master-chef" data-search-exclude=""}
 
 Before you were a hero, you were a chef—and when you retire, you have big plans for your next restaurant or inn. In the meantime, you're on the lookout for rare ingredients that only a wandering adventurer can find. After all, it's food that makes the world go round.
 
@@ -679,7 +677,7 @@ Before you were a hero, you were a chef—and when you retire, you have big plan
 
 **Drawback:** The first time each day you eat food you didn't prepare, you lose 2 [Recoveries](../../Browse/rule/health/recoveries.md).
 
-#### Meddling Butler {data-scc="mcdm.heroes.v1/complication/meddling-butler"}
+#### Meddling Butler {data-scc="mcdm.heroes.v1/complication/meddling-butler" data-search-exclude=""}
 
 You're not sure what you did to deserve it, but for some reason, your family saddled you with an old, trusted, and extremely irritating family servant. They're supremely competent, of course, but they sometimes seem to forget who's in charge.
 
@@ -687,13 +685,13 @@ You're not sure what you did to deserve it, but for some reason, your family sad
 
 **Drawback:** Outside of combat, your [retainer](../../Browse/rule/general/retainer.md) is under the Director's control. The [retainer](../../Browse/rule/general/retainer.md) sometimes acts without orders—always with your best interests at heart, but often in embarrassing or inconvenient ways.
 
-#### Medium {data-scc="mcdm.heroes.v1/complication/medium"}
+#### Medium {data-scc="mcdm.heroes.v1/complication/medium" data-search-exclude=""}
 
 You can perceive ghosts and spirits that others don't sense. These [supernatural](../../Browse/rule/general/supernatural.md) entities constantly whisper unsettling secrets in your mind—when they're not trying to kill you.
 
 **Benefit and Drawback:** Incorporeal undead within 10 squares of you can communicate telepathically with you. Additionally, you have the Contact Spirits ability.
 
-> ###### Contact Spirits
+> ###### Contact Spirits {data-search-exclude=""}
 >
 > *The restless dead speak to you.*
 >
@@ -709,13 +707,13 @@ You can perceive ghosts and spirits that others don't sense. These [supernatural
 >
 > **Effect:** If any sapient creatures have died nearby within the last 24 hours, you have a double [bane](../../Browse/rule/dice/bane.md) on the [power roll](../../Browse/rule/dice/power-roll.md) for this ability if any of those creatures were hostile to you, or a double [edge](../../Browse/rule/dice/edge.md) if any of them were friendly to you. When you use this ability, you can't do so again until you earn 1 or more [Victories](../../Browse/rule/resource/victories.md).
 
-#### Medusa Blood {data-scc="mcdm.heroes.v1/complication/medusa-blood"}
+#### Medusa Blood {data-scc="mcdm.heroes.v1/complication/medusa-blood" data-search-exclude=""}
 
 Your mother and father never saw eye to eye. You know this because your father is still alive and your mother is a medusa. This made your childhood difficult, and now it's making your adulthood complicated as well.
 
 **Benefit:** You have the following ability.
 
-> ###### Stone Eyes
+> ###### Stone Eyes {data-search-exclude=""}
 >
 > *Your looks don't kill—they petrify.*
 >
@@ -733,13 +731,13 @@ Your mother and father never saw eye to eye. You know this because your father i
 
 **Drawback:** Out of combat, you use your Stone Eyes ability on anyone who meets your gaze, whether you intend to or not. Your companions know not to make eye contact, but strangers are likely to trigger the ability unless you cover your eyes.
 
-#### Misunderstood {data-scc="mcdm.heroes.v1/complication/misunderstood"}
+#### Misunderstood {data-scc="mcdm.heroes.v1/complication/misunderstood" data-search-exclude=""}
 
 Your appearance marks you as part of a group that is universally feared. You might be a gentle soul, but you're not often given a chance to prove it. It's no wonder you usually wear a hood.
 
 **Benefit and Drawback:** When you reveal your appearance to creatures who don't know you personally, you gain an [edge](../../Browse/rule/dice/edge.md) on any [test](../../Browse/rule/test/test.md) involving those creatures where the [Brag](../../Browse/skill/interpersonal/brag.md) or [Intimidate](../../Browse/skill/interpersonal/intimidate.md) skill could be applied, but you take a [bane](../../Browse/rule/dice/bane.md) on any [test](../../Browse/rule/test/test.md) where the [Flirt](../../Browse/skill/interpersonal/flirt.md), Lead, or [Persuade](../../Browse/skill/interpersonal/persuade.md) skill could be applied.
 
-#### Mundane {data-scc="mcdm.heroes.v1/complication/mundane"}
+#### Mundane {data-scc="mcdm.heroes.v1/complication/mundane" data-search-exclude=""}
 
 You're hopelessly nonmagical. When you try to use magic abilities, or even when they're used on you, they never work right. Even magic devices seem to fizzle in your presence.
 
@@ -747,7 +745,7 @@ You're hopelessly nonmagical. When you try to use magic abilities, or even when 
 
 **Drawback:** Whenever you carry more than three magic treasures, you take a [bane](../../Browse/rule/dice/bane.md) on [power rolls](../../Browse/rule/dice/power-roll.md).
 
-#### Outlaw {data-scc="mcdm.heroes.v1/complication/outlaw"}
+#### Outlaw {data-scc="mcdm.heroes.v1/complication/outlaw" data-search-exclude=""}
 
 You might be a common bandit or an idealistic freedom fighter, but in any event, the authorities don't approve of your actions. You've managed to stay one step ahead of the law so far, but until your name is cleared, you've got to keep a low profile.
 
@@ -755,7 +753,7 @@ You might be a common bandit or an idealistic freedom fighter, but in any event,
 
 **Drawback:** Law enforcement officials and bounty hunters who recognize you attempt to arrest you.
 
-#### Pirate {data-scc="mcdm.heroes.v1/complication/pirate"}
+#### Pirate {data-scc="mcdm.heroes.v1/complication/pirate" data-search-exclude=""}
 
 You have a piratical past (and maybe a piratical present and future as well). Though you're not well-known ashore, other pirates have a way of recognizing their own.
 
@@ -763,7 +761,7 @@ You have a piratical past (and maybe a piratical present and future as well). Th
 
 **Drawback:** The pirates holding the other pieces of the map would very much like to get their hands on your piece, and have no qualms about killing you to get it. Furthermore, the [pirate](../../Browse/complication/pirate.md) treasure is said to be cursed or haunted.
 
-#### Preacher {data-scc="mcdm.heroes.v1/complication/preacher"}
+#### Preacher {data-scc="mcdm.heroes.v1/complication/preacher" data-search-exclude=""}
 
 When you were young, you almost died in an accident or attack, but a vision of a god or [saint](../../Browse/rule/world/saint.md) showed you the way to save yourself and others you loved. That event drove you into the church and gave you a strong belief in a particular religion or cause—and you can't wait to tell other people all about it.
 
@@ -771,7 +769,7 @@ When you were young, you almost died in an accident or attack, but a vision of a
 
 **Drawback:** If you fail in your conversion attempt, one of your existing [followers](../../Browse/rule/general/follower.md) of the Director's choice (whether gained through this complication or your [Renown](../../Browse/rule/resource/renown.md) or other means) leaves you, their faith in you shaken. If you have no [followers](../../Browse/rule/general/follower.md), your [Renown](../../Browse/rule/resource/renown.md) is reduced by 1. If you need to reduce your [Renown](../../Browse/rule/resource/renown.md) and it's already 0, you gain no benefits from the [respite](../../Browse/rule/resource/respite.md) during which you make the conversion attempt.
 
-#### Primordial Sickness {data-scc="mcdm.heroes.v1/complication/primordial-sickness"}
+#### Primordial Sickness {data-scc="mcdm.heroes.v1/complication/primordial-sickness" data-search-exclude=""}
 
 You once contracted a terrible illness for which no one could find a cure. You sought out a primordial swamp said to be either cursed or miraculously salubrious. It turned out to be both, keeping your illness at bay while corrupting your body with its unnatural energy.
 
@@ -779,7 +777,7 @@ You once contracted a terrible illness for which no one could find a cure. You s
 
 **Drawback:** Your number of [Recoveries](../../Browse/rule/health/recoveries.md) is permanently reduced by 1.
 
-#### Prisoner of the Synlirii {data-scc="mcdm.heroes.v1/complication/prisoner-of-the-synlirii"}
+#### Prisoner of the Synlirii {data-scc="mcdm.heroes.v1/complication/prisoner-of-the-synlirii" data-search-exclude=""}
 
 You were captured by the psionic beings known as voiceless talkers (see *Draw Steel: Monsters*). You escaped them, but you can't escape a feeling that's lingered since then in the back of your mind-the feeling of being watched.
 
@@ -787,7 +785,7 @@ You were captured by the psionic beings known as voiceless talkers (see *Draw St
 
 **Drawback:** Any voiceless talker within 1 mile knows your location, and can overhear and understand your telepathic conversations.
 
-#### Promising Apprentice {data-scc="mcdm.heroes.v1/complication/promising-apprentice"}
+#### Promising Apprentice {data-scc="mcdm.heroes.v1/complication/promising-apprentice" data-search-exclude=""}
 
 You were apprenticed to learn a crafting trade. Your mentor said you had a special gift and might well become a master of your craft someday. But before your training was complete, your mentor was killed.
 
@@ -795,13 +793,13 @@ You were apprenticed to learn a crafting trade. Your mentor said you had a speci
 
 **Drawback:** Whoever killed your mentor cursed you. You take a [bane](../../Browse/rule/dice/bane.md) on any [test](../../Browse/rule/test/test.md) that doesn't use one of your skills.
 
-#### Psychic Eruption {data-scc="mcdm.heroes.v1/complication/psychic-eruption"}
+#### Psychic Eruption {data-scc="mcdm.heroes.v1/complication/psychic-eruption" data-search-exclude=""}
 
 In times of stress, you get headaches. Psionic energy builds up in your mind until you feel as though your head might explode. And if you're not careful, it actually does explode, radiating psychic waves that harm friends and enemies alike.
 
 **Benefit:** You have the following [heroic ability](../../Browse/rule/general/heroic-ability.md).
 
-> ###### Psychic Blast (Special Heroic Resource Cost)
+> ###### Psychic Blast (Special Heroic Resource Cost) {data-search-exclude=""}
 >
 > *Psionic energy [bursts](../../Browse/rule/combat/burst.md) from your body in an iridescent shimmer.*
 >
@@ -819,7 +817,7 @@ In times of stress, you get headaches. Psionic energy builds up in your mind unt
 
 **Drawback:** Whenever you become [bleeding](../../Browse/condition/bleeding.md), [frightened](../../Browse/condition/frightened.md), or [weakened](../../Browse/condition/weakened.md), you must use Psychic Blast as a free [triggered action](../../Browse/rule/combat/triggered-action.md).
 
-#### Raised by Beasts {data-scc="mcdm.heroes.v1/complication/raised-by-beasts"}
+#### Raised by Beasts {data-scc="mcdm.heroes.v1/complication/raised-by-beasts" data-search-exclude=""}
 
 You were orphaned or lost in the wild, and a friendly animal pack (perhaps apes, bears, or wolves) took you in. Returning to so-called civilization was a shock, but you're now determined to learn all you can about your own kind.
 
@@ -827,7 +825,7 @@ You were orphaned or lost in the wild, and a friendly animal pack (perhaps apes,
 
 **Drawback:** You don't have a culture (see Culture in Chapter 4: [Background](background.md)), though you can speak Caelian.
 
-#### Refugee {data-scc="mcdm.heroes.v1/complication/refugee"}
+#### Refugee {data-scc="mcdm.heroes.v1/complication/refugee" data-search-exclude=""}
 
 A hostile army—perhaps the forces of Ajax, the Iron [Saint](../../Browse/rule/world/saint.md)—conquered your homeland. Your family escaped, but you can't return home until your oppressors are defeated once and for all.
 
@@ -835,7 +833,7 @@ A hostile army—perhaps the forces of Ajax, the Iron [Saint](../../Browse/rule/
 
 **Drawback:** The faction that invaded your homeland wants you captured or dead. Any of their agents or sympathizers attempt to harm you if they recognize you, as the Director determines.
 
-#### Rival {data-scc="mcdm.heroes.v1/complication/rival"}
+#### Rival {data-scc="mcdm.heroes.v1/complication/rival" data-search-exclude=""}
 
 Whatever your accomplishments, you'll forever measure yourself against a former companion who always seemed to stay one step ahead of you.
 
@@ -843,13 +841,13 @@ Whatever your accomplishments, you'll forever measure yourself against a former 
 
 **Drawback:** Your [rival](../../Browse/complication/rival.md) has similar statistics to yours, but always had one skill they excelled at, as determined by the Director. Intimidated by their prowess, you take a [bane](../../Browse/rule/dice/bane.md) on [tests](../../Browse/rule/test/test.md) using that skill.
 
-#### Rogue Talent {data-scc="mcdm.heroes.v1/complication/rogue-talent"}
+#### Rogue Talent {data-scc="mcdm.heroes.v1/complication/rogue-talent" data-search-exclude=""}
 
 You are the only survivor of a cataclysmic psionic event—an experiment gone wrong, a voiceless talker attack, or some naturally occurring phenomenon of a far-off part of the timescape. It left you with a psionic [talent](../../Browse/class/talent.md), but also made you vulnerable to telepathic attacks.
 
 **Benefit:** You have the following ability, which you can use as a [ranged](../../Browse/rule/combat/ranged.md) [free strike](../../Browse/feature/common/main-actions/free-strike.md).
 
-> ###### Telekinetic Grasp
+> ###### Telekinetic Grasp {data-search-exclude=""}
 >
 > *You reach out with your mind to move a creature or object.*
 >
@@ -865,7 +863,7 @@ You are the only survivor of a cataclysmic psionic event—an experiment gone wr
 
 **Drawback:** You have psychic weakness 5.
 
-#### Runaway {data-scc="mcdm.heroes.v1/complication/runaway"}
+#### Runaway {data-scc="mcdm.heroes.v1/complication/runaway" data-search-exclude=""}
 
 To your embarrassment, no sinister omens attended your birth and your closet contains no skeletons. You're just an ordinary person raised in a hardworking family. You're expected to carry on the family business—but who can settle down to a boring job when adventure calls! That's why you ran away.
 
@@ -873,7 +871,7 @@ To your embarrassment, no sinister omens attended your birth and your closet con
 
 **Drawback:** Members of your extended family are looking for you, intending to drag you home—and you've never been able to stand up to them.
 
-#### Searching for a Cure {data-scc="mcdm.heroes.v1/complication/searching-for-a-cure"}
+#### Searching for a Cure {data-scc="mcdm.heroes.v1/complication/searching-for-a-cure" data-search-exclude=""}
 
 Your homeland has been corrupted by some terrible curse or plague, and you're the only one who escaped it. The members of your family still exist, but in changed forms—perhaps as vampire spawn, zombies, or living statues. People tell you the situation is hopeless, but you're determined to find a cure that can undo your loved ones' suffering.
 
@@ -881,7 +879,7 @@ Your homeland has been corrupted by some terrible curse or plague, and you're th
 
 **Drawback:** You have started to succumb to the curse or plague, and will suffer the fate of your family if you don't find a cure soon. Work with the Director to determine the timeline of your transformation, which should be something that could happen during the campaign!
 
-#### Secret Identity {data-scc="mcdm.heroes.v1/complication/secret-identity"}
+#### Secret Identity {data-scc="mcdm.heroes.v1/complication/secret-identity" data-search-exclude=""}
 
 You're secretly important—but it's not safe for your true identity to be known. Perhaps you're the witness to a crime or a member of a royal family on the run from a usurper. Until you are no longer at risk of being [hunted](../../Browse/complication/hunted.md), you'll maintain the guise of an ordinary adventurer.
 
@@ -889,7 +887,7 @@ You're secretly important—but it's not safe for your true identity to be known
 
 **Drawback:** Each time you resume your true identity while you are still [hunted](../../Browse/complication/hunted.md), you have a 20 percent cumulative chance each day that your enemies will find you. This chance resets if you resume your [secret identity](../../Browse/complication/secret-identity.md) for 1 day.
 
-#### Secret Twin {data-scc="mcdm.heroes.v1/complication/secret-twin"}
+#### Secret Twin {data-scc="mcdm.heroes.v1/complication/secret-twin" data-search-exclude=""}
 
 You have an identical twin—either a sibling or someone who looks so much like you that no one would ever know the difference. Your [secret twin](../../Browse/complication/secret-twin.md) had a life you coveted, or perhaps had obligations that couldn't go unfulfilled. So when they went missing, you stepped in and started living their life. Most folks are none the wiser.
 
@@ -897,13 +895,13 @@ You have an identical twin—either a sibling or someone who looks so much like 
 
 **Drawback:** Your twin disappeared because someone wanted them dead. Whenever you finish a [respite](../../Browse/rule/resource/respite.md), roll a d10. On a 1 or 2, the Director can decide that your past catches up with you in the near future in some way—an assassin seeking your twin, someone who knows your real identity and threatens to reveal it, and so forth.
 
-#### Self-Taught {data-scc="mcdm.heroes.v1/complication/self-taught"}
+#### Self-Taught {data-scc="mcdm.heroes.v1/complication/self-taught" data-search-exclude=""}
 
 While your peers were learning their trades in fancy schools, you honed your capabilities on the mean streets with nothing but your own instinct as a guide. What you lost in polish and tactical acumen, you now make up for in raw power.
 
 **Benefit and Drawback:** At the start of each of your [turns](../../Browse/rule/combat/turn.md) during combat, you can forgo gaining your [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) until the start of your next [turn](../../Browse/rule/combat/turn.md). If you do, your [strikes](../../Browse/rule/combat/strike.md) gain a damage [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) equal to your highest [characteristic](../../Browse/rule/character/characteristic.md) score until the start of your next [turn](../../Browse/rule/combat/turn.md).
 
-#### Sewer Folk {data-scc="mcdm.heroes.v1/complication/sewer-folk"}
+#### Sewer Folk {data-scc="mcdm.heroes.v1/complication/sewer-folk" data-search-exclude=""}
 
 Impoverished or on the run, you spent your formative years living in the sewers of a major city. There, you learned lessons that have served you well, although the miasma of the sewers did permanent damage to your health.
 
@@ -911,7 +909,7 @@ Impoverished or on the run, you spent your formative years living in the sewers 
 
 **Drawback:** You have poison weakness 5.
 
-#### Shadow Born {data-scc="mcdm.heroes.v1/complication/shadow-born"}
+#### Shadow Born {data-scc="mcdm.heroes.v1/complication/shadow-born" data-search-exclude=""}
 
 You were born in the dusk land ruled by the Queen of [Shadows](../../Browse/class/shadow.md), and its darkness has seeped into your bones. (See The Myriad Worlds of the Timescape in Chapter 1: [The Basics](the-basics.md).)
 
@@ -919,13 +917,13 @@ You were born in the dusk land ruled by the Queen of [Shadows](../../Browse/clas
 
 **Drawback:** You have holy weakness 5.
 
-#### Shared Spirit {data-scc="mcdm.heroes.v1/complication/shared-spirit"}
+#### Shared Spirit {data-scc="mcdm.heroes.v1/complication/shared-spirit" data-search-exclude=""}
 
 A [supernatural](../../Browse/rule/general/supernatural.md) spirit occupies your body, with each of you controlling your body by [turns](../../Browse/rule/combat/turn.md). You and the spirit share the same short-term goals and work equally well with your companions, though you might have different personalities, mannerisms, and long-term goals.
 
 **Benefit and Drawback:** At the start of each day, roll a d6. On a 1-4, you control your body. On a 5-6, the spirit does. Alternatively, if you and the spirit are on good terms, you can choose each day who is in control. Choose three of your skills. You can use those skills only while you are in control of your body. Then choose three new skills, which you have and can use only while your spirit is in control.
 
-#### Shattered Legacy {data-scc="mcdm.heroes.v1/complication/shattered-legacy"}
+#### Shattered Legacy {data-scc="mcdm.heroes.v1/complication/shattered-legacy" data-search-exclude=""}
 
 You're the heir to a powerful [supernatural](../../Browse/rule/general/supernatural.md) treasure that has been in your family for generations. One problem, though: that treasure is broken. Some ancestor of yours sundered it while saving the world. Or maybe they tripped and smashed it on a rock. Either way, it's your job to fix it.
 
@@ -933,7 +931,7 @@ You're the heir to a powerful [supernatural](../../Browse/rule/general/supernatu
 
 **Drawback:** The chosen [leveled treasure](../../Browse/rule/treasure/leveled-treasure.md) is broken and completely inoperative. Repairing the treasure requires that you complete the Craft Treasure project for it. The project goal is half of what it would cost to create such an item, and you already have the [project source](../../Browse/rule/downtime/project-source.md) you need. You must seek out any [item prerequisite](../../Browse/rule/downtime/item-prerequisite.md).
 
-#### Shipwrecked {data-scc="mcdm.heroes.v1/complication/shipwrecked"}
+#### Shipwrecked {data-scc="mcdm.heroes.v1/complication/shipwrecked" data-search-exclude=""}
 
 You are the sole survivor of a shipwreck that left you stranded on a remote and inhospitable island for years. Your struggle to survive there granted you insight into the natural world but distanced you from who you once were.
 
@@ -941,7 +939,7 @@ You are the sole survivor of a shipwreck that left you stranded on a remote and 
 
 **Drawback:** You have forgotten one language you know of your choice.
 
-#### Sibling's Shield {data-scc="mcdm.heroes.v1/complication/siblings-shield"}
+#### Sibling's Shield {data-scc="mcdm.heroes.v1/complication/siblings-shield" data-search-exclude=""}
 
 You were tasked with delivering a ceremonial shield to your older sibling, a celebrated warrior, for their years of service. When you arrived at their homestead, you found them dead on their doorstep with their own sword lodged in their back. To find out who did this to them—and why—you decided to step into their shoes. It will take a while to match up to your sibling's legacy, though.
 
@@ -949,7 +947,7 @@ You were tasked with delivering a ceremonial shield to your older sibling, a cel
 
 **Drawback:** Visions of your dead sibling haunt you at night. Whenever you take a [respite](../../Browse/rule/resource/respite.md), make an [Intuition](../../Browse/rule/character/intuition.md) [test](../../Browse/rule/test/test.md) that can't make use of any skill. On a tier 1 or tier 2 outcome, you regain 1 fewer [Recoveries](../../Browse/rule/health/recoveries.md) than usual when you finish the [respite](../../Browse/rule/resource/respite.md).
 
-#### Silent Sentinel {data-scc="mcdm.heroes.v1/complication/silent-sentinel"}
+#### Silent Sentinel {data-scc="mcdm.heroes.v1/complication/silent-sentinel" data-search-exclude=""}
 
 You were trained by a group of spies, who psionically infused silence into your every step and enhanced your ability to hear distant whispers. But your enhanced hearing has some nasty side effects.
 
@@ -957,7 +955,7 @@ You were trained by a group of spies, who psionically infused silence into your 
 
 **Drawback:** You have sonic weakness 5. Additionally, whenever you take sonic damage, you are [dazed](../../Browse/condition/dazed.md) until the end of your next [turn](../../Browse/rule/combat/turn.md).
 
-#### Slight Case of Lycanthropy {data-scc="mcdm.heroes.v1/complication/slight-case-of-lycanthropy"}
+#### Slight Case of Lycanthropy {data-scc="mcdm.heroes.v1/complication/slight-case-of-lycanthropy" data-search-exclude=""}
 
 Maybe you were bitten as a child, or maybe it's a family curse. Either way, you have a malady that is best not discussed in public, lest torches and pitchforks make an appearance.
 
@@ -967,7 +965,7 @@ Maybe you were bitten as a child, or maybe it's a family curse. Either way, you 
 
 **Special:** You can't take this complication if you are a [fury](../../Browse/class/fury.md) with the stormwight [primordial aspect](../../Browse/feature/fury/level-1/primordial-aspect.md).
 
-#### Stolen Face {data-scc="mcdm.heroes.v1/complication/stolen-face"}
+#### Stolen Face {data-scc="mcdm.heroes.v1/complication/stolen-face" data-search-exclude=""}
 
 An evil fairy cursed you, leaving you with a blank visage instead of a face. Although you're able to imitate other peoples' features, you'd like to have your own back.
 
@@ -975,7 +973,7 @@ An evil fairy cursed you, leaving you with a blank visage instead of a face. Alt
 
 **Drawback:** Whenever you take damage, your face becomes blank, with no eyes, nose, mouth, or ears. This doesn't affect your senses or your ability to speak. Your face doesn't return until you use the benefit of this complication to restore it.
 
-#### Strange Inheritance {data-scc="mcdm.heroes.v1/complication/strange-inheritance"}
+#### Strange Inheritance {data-scc="mcdm.heroes.v1/complication/strange-inheritance" data-search-exclude=""}
 
 Your siblings each inherited money or land, but you received a strange, seemingly useless [trinket](../../Browse/rule/treasure/trinket.md)—along with the advice that maybe you weren't cut out for an ordinary, peaceful life.
 
@@ -983,13 +981,13 @@ Your siblings each inherited money or land, but you received a strange, seemingl
 
 **Drawback:** With no other inheritance, you accumulated debts. The first time your [Wealth](../../Browse/rule/resource/wealth.md) exceeds 1, you lose 1 [Wealth](../../Browse/rule/resource/wealth.md).
 
-#### Stripped of Rank {data-scc="mcdm.heroes.v1/complication/stripped-of-rank"}
+#### Stripped of Rank {data-scc="mcdm.heroes.v1/complication/stripped-of-rank" data-search-exclude=""}
 
 You were trained as an officer, but you no longer serve. Whether you fled from a battle, were dishonorably discharged, or defected from an evil army, you make your own way in the world now—though your military training will never truly leave you.
 
 **Benefit:** You have the following ability.
 
-> ###### Issue Order
+> ###### Issue Order {data-search-exclude=""}
 >
 > *"Move or die, folks."*
 >
@@ -1003,7 +1001,7 @@ You were trained as an officer, but you no longer serve. Whether you fled from a
 
 **Drawback:** Rather than attracting [followers](../../Browse/rule/general/follower.md) at 3, 6, 9, and 12 [Renown](../../Browse/rule/resource/renown.md), you can attract [followers](../../Browse/rule/general/follower.md) only when your [Renown](../../Browse/rule/resource/renown.md) reaches 4, 8, 12, and 16. See [Renown](../../Browse/rule/resource/renown.md) in Chapter 13: [Rewards](rewards.md).
 
-#### Thrill Seeker {data-scc="mcdm.heroes.v1/complication/thrill-seeker"}
+#### Thrill Seeker {data-scc="mcdm.heroes.v1/complication/thrill-seeker" data-search-exclude=""}
 
 You live for danger. Whether in battle or [mundane](../../Browse/complication/mundane.md) peril, you can transcend your usual limits—and once you've tasted that excitement, you want more.
 
@@ -1011,7 +1009,7 @@ You live for danger. Whether in battle or [mundane](../../Browse/complication/mu
 
 **Drawback:** At the start of a new game session, the party doesn't earn a [hero token](../../Browse/rule/resource/hero-token.md) for your character.
 
-#### Vampire Scion {data-scc="mcdm.heroes.v1/complication/vampire-scion"}
+#### Vampire Scion {data-scc="mcdm.heroes.v1/complication/vampire-scion" data-search-exclude=""}
 
 A vampire has bitten you. You're not undead—or not yet, anyway—but your connection with your vampire progenitor fills you with urges you fight to control.
 
@@ -1019,7 +1017,7 @@ A vampire has bitten you. You're not undead—or not yet, anyway—but your conn
 
 **Drawback:** While you have [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) from this complication, you grow visible fangs, you take a [bane](../../Browse/rule/dice/bane.md) on [Presence](../../Browse/rule/character/presence.md) [tests](../../Browse/rule/test/test.md) made to interact with humanoids, and your vampire progenitor can sense your location.
 
-#### Voice in Your Head {data-scc="mcdm.heroes.v1/complication/voice-in-your-head"}
+#### Voice in Your Head {data-scc="mcdm.heroes.v1/complication/voice-in-your-head" data-search-exclude=""}
 
 You occasionally hear a [voice in your head](../../Browse/complication/voice-in-your-head.md), giving you orders or offering advice. You don't know who the voice is or why it comes to you, but when you've followed the advice, it's usually proved to be sound.
 
@@ -1027,7 +1025,7 @@ You occasionally hear a [voice in your head](../../Browse/complication/voice-in-
 
 **Drawback:** Eventually, the voice reveals it wants something from you that you might not want to provide. If the voice is displeased with you, it can interrupt your rest during a [respite](../../Browse/rule/resource/respite.md), causing you to regain 2 fewer [Recoveries](../../Browse/rule/health/recoveries.md) than usual.
 
-#### Vow of Duty {data-scc="mcdm.heroes.v1/complication/vow-of-duty"}
+#### Vow of Duty {data-scc="mcdm.heroes.v1/complication/vow-of-duty" data-search-exclude=""}
 
 You have sworn an oath to an organization. That organization is your rock, and as long as your faith in it remains unshaken, you are immovable.
 
@@ -1035,7 +1033,7 @@ You have sworn an oath to an organization. That organization is your rock, and a
 
 **Drawback:** If you are ever forced to disobey your organization's orders, your [stability](../../Browse/rule/character/stability.md) becomes 0 until your doubts are resolved or you find a new organization to pledge yourself to.
 
-#### Vow of Honesty {data-scc="mcdm.heroes.v1/complication/vow-of-honesty"}
+#### Vow of Honesty {data-scc="mcdm.heroes.v1/complication/vow-of-honesty" data-search-exclude=""}
 
 You were brought up to a strict standard of behavior. You cannot tell a lie.
 
@@ -1043,7 +1041,7 @@ You were brought up to a strict standard of behavior. You cannot tell a lie.
 
 **Drawback:** When you lie, your honor is stained and you lose this complication's benefit. Additionally, you take a [bane](../../Browse/rule/dice/bane.md) on any [test](../../Browse/rule/test/test.md) that uses a skill from the [interpersonal skill group](../../Browse/skill/interpersonal/index.md). You can lose the [bane](../../Browse/rule/dice/bane.md) and regain this complication's benefit only by doing penance, such as gaining the forgiveness of the creature you lied to.
 
-#### Waking Dreams {data-scc="mcdm.heroes.v1/complication/waking-dreams"}
+#### Waking Dreams {data-scc="mcdm.heroes.v1/complication/waking-dreams" data-search-exclude=""}
 
 You broke a magic amulet, immersing your mind in weird energy that granted you the power of premonition. However, you struggle to control this new gift. Whenever you take a [respite](../../Browse/rule/resource/respite.md), make a [Reason](../../Browse/rule/character/reason.md) [test](../../Browse/rule/test/test.md) to determine whether you gain this complication's benefit or drawback.
 
@@ -1051,13 +1049,13 @@ You broke a magic amulet, immersing your mind in weird energy that granted you t
 
 **Drawback:** With a tier 1 outcome, you receive a painful vision that is fractal and inscrutable. When you finish the [respite](../../Browse/rule/resource/respite.md), you lose 1 [Recovery](../../Browse/rule/health/recoveries.md).
 
-#### War Dog Collar {data-scc="mcdm.heroes.v1/complication/war-dog-collar"}
+#### War Dog Collar {data-scc="mcdm.heroes.v1/complication/war-dog-collar" data-search-exclude=""}
 
 You wear a loyalty collar from one of Ajax's war dogs (see *Draw Steel: Monsters*). You've managed to rig the collar so it explodes outward while keeping you safe.
 
 **Benefit:** Even if you are a war dog yourself, other war dogs can't use their Posthumous Promotion ability on you while you wear your collar. Additionally, you have the following ability.
 
-> ###### Posthumous Retirement
+> ###### Posthumous Retirement {data-search-exclude=""}
 >
 > *You make your modified collar explode.*
 >
@@ -1069,7 +1067,7 @@ You wear a loyalty collar from one of Ajax's war dogs (see *Draw Steel: Monsters
 
 **Drawback:** Each time you use your Posthumous Retirement ability, the Director can spend 3 Malice to make your collar malfunction and deal its damage to you in addition to the usual targets.
 
-#### War of Assassins {data-scc="mcdm.heroes.v1/complication/war-of-assassins"}
+#### War of Assassins {data-scc="mcdm.heroes.v1/complication/war-of-assassins" data-search-exclude=""}
 
 Being in the wrong place at the wrong time saw you caught in the middle of a conflict between two warring assassins' guilds. Whether by choice or by accident, you wound up helping one faction at the expense of the other.
 
@@ -1077,7 +1075,7 @@ Being in the wrong place at the wrong time saw you caught in the middle of a con
 
 **Drawback:** The faction you wronged hates you, and its members would love to see you pay for your transgression.
 
-#### Ward {data-scc="mcdm.heroes.v1/complication/ward"}
+#### Ward {data-scc="mcdm.heroes.v1/complication/ward" data-search-exclude=""}
 
 Your childhood sweetheart was royalty, and the two of you stayed close throughout the years. When your former sweetheart died, you swore an oath to dedicate your life to become a role model for their child, advising them in the ways of being a benevolent monarch.
 
@@ -1085,13 +1083,13 @@ Your childhood sweetheart was royalty, and the two of you stayed close throughou
 
 **Drawback:** Your royal [ward](../../Browse/complication/ward.md) can be a burden. Whenever you take a [respite](../../Browse/rule/resource/respite.md), roll a d10. On a 1, your [ward](../../Browse/complication/ward.md) contacts you and requires your help during the [respite](../../Browse/rule/resource/respite.md), requiring you to spend your time helping them instead of undertaking a [respite](../../Browse/rule/resource/respite.md) activity.
 
-#### Waterborn {data-scc="mcdm.heroes.v1/complication/waterborn"}
+#### Waterborn {data-scc="mcdm.heroes.v1/complication/waterborn" data-search-exclude=""}
 
 You nearly lost your life at sea, but then you heard the voice. Someone—or something—in the water called out to you, telling you to swim. The ocean was suddenly no longer your doom but your parent, granting you a fragment of its power. But for what purpose, you can't be sure.
 
 **Benefit:** You can automatically swim at full [speed](../../Browse/rule/character/speed.md) while moving, and you can breathe underwater. Additionally, you have the following ability.
 
-> ###### Rogue Wave
+> ###### Rogue Wave {data-search-exclude=""}
 >
 > *You summon a wave of water to batter your foe.*
 >
@@ -1109,7 +1107,7 @@ You nearly lost your life at sea, but then you heard the voice. Someone—or som
 
 **Drawback:** You have lightning weakness 5. Additionally, the ocean or a creature it sends to seek you can assign you a quest. If you don't do the ocean's bidding, it might temporarily deny you this complication's benefits—including being able to breathe underwater—at an inconvenient time.
 
-#### Wodewalker {data-scc="mcdm.heroes.v1/complication/wodewalker"}
+#### Wodewalker {data-scc="mcdm.heroes.v1/complication/wodewalker" data-search-exclude=""}
 
 You were dying in the wode, collapsing while starving and wounded. When you woke, you discovered that a group of green [elementalists](../../Browse/class/elementalist.md) had saved your life by infusing the regenerative bark of a tree to your body.
 
@@ -1117,7 +1115,7 @@ You were dying in the wode, collapsing while starving and wounded. When you woke
 
 **Drawback:** You have fire weakness 5.
 
-#### Wrathful Spirit {data-scc="mcdm.heroes.v1/complication/wrathful-spirit"}
+#### Wrathful Spirit {data-scc="mcdm.heroes.v1/complication/wrathful-spirit" data-search-exclude=""}
 
 You're quick to anger, never letting an insult go without slinging one right back. In combat, you fight as if possessed by a literal spirit of wrath. No matter the tactical circumstances, when someone injures you, you feel compelled to answer blood with blood.
 
@@ -1125,7 +1123,7 @@ You're quick to anger, never letting an insult go without slinging one right bac
 
 **Drawback:** In combat, whenever a creature makes a [strike](../../Browse/rule/combat/strike.md) against you and you are not [taunted](../../Browse/condition/taunted.md), you are [taunted](../../Browse/condition/taunted.md) by that creature until the end of your next [turn](../../Browse/rule/combat/turn.md). Additionally, whether in casual conversation or if you are involved in a negotiation, whenever a creature insults you, you must either spend a [Recovery](../../Browse/rule/health/recoveries.md) or be compelled to reply with an insult.
 
-#### Wrongly Imprisoned {data-scc="mcdm.heroes.v1/complication/wrongly-imprisoned"}
+#### Wrongly Imprisoned {data-scc="mcdm.heroes.v1/complication/wrongly-imprisoned" data-search-exclude=""}
 
 You spent many years imprisoned for a crime you didn't commit. During your long hours of solitary confinement, you honed your skills and recited the names of those who framed you. Someday, you will have your revenge.
 

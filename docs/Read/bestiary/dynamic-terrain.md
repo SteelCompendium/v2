@@ -1,8 +1,6 @@
 ---
 printing: "1.01"
 printing_book: "Draw Steel: Monsters"
-search:
-  exclude: true
 name: Dynamic Terrain
 order: 2
 scc: mcdm.monsters.v1/chapter/dynamic-terrain
@@ -75,7 +73,7 @@ Some terrain objects have an Allied Awareness trait noting benefits and options 
 
 Environmental hazards represent natural elements that creatures (typically creatures defending a location) have channeled, cultivated, or otherwise placed to give them an edge in an encounter.
 
-###### Angry Beehive (Level 2 Hazard Hexer) {data-scc="mcdm.monsters.v1/dynamic-terrain.environmental-hazards/angry-beehive"}
+###### Angry Beehive (Level 2 Hazard Hexer) {data-scc="mcdm.monsters.v1/dynamic-terrain.environmental-hazards/angry-beehive" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="hexer">
@@ -107,7 +105,7 @@ Environmental hazards represent natural elements that creatures (typically creat
 </div>
 </address>
 
-###### Brambles (Level 1 Hazard Defender) {data-scc="mcdm.monsters.v1/dynamic-terrain.environmental-hazards/brambles"}
+###### Brambles (Level 1 Hazard Defender) {data-scc="mcdm.monsters.v1/dynamic-terrain.environmental-hazards/brambles" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="defender">
@@ -138,7 +136,7 @@ Environmental hazards represent natural elements that creatures (typically creat
 </div>
 </address>
 
-###### Corrosive Pool (Level 2 Hazard Hexer) {data-scc="mcdm.monsters.v1/dynamic-terrain.environmental-hazards/corrosive-pool"}
+###### Corrosive Pool (Level 2 Hazard Hexer) {data-scc="mcdm.monsters.v1/dynamic-terrain.environmental-hazards/corrosive-pool" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="hexer">
@@ -178,7 +176,7 @@ Environmental hazards represent natural elements that creatures (typically creat
 </div>
 </address>
 
-###### Frozen Pond (Level 1 Hazard Hexer) {data-scc="mcdm.monsters.v1/dynamic-terrain.environmental-hazards/frozen-pond"}
+###### Frozen Pond (Level 1 Hazard Hexer) {data-scc="mcdm.monsters.v1/dynamic-terrain.environmental-hazards/frozen-pond" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="hexer">
@@ -219,7 +217,7 @@ Environmental hazards represent natural elements that creatures (typically creat
 </div>
 </address>
 
-###### Lava (Level 3 Hazard Hexer) {data-scc="mcdm.monsters.v1/dynamic-terrain.environmental-hazards/lava"}
+###### Lava (Level 3 Hazard Hexer) {data-scc="mcdm.monsters.v1/dynamic-terrain.environmental-hazards/lava" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="hexer">
@@ -259,7 +257,7 @@ Environmental hazards represent natural elements that creatures (typically creat
 </div>
 </address>
 
-###### Quicksand (Level 3 Hazard Hexer) {data-scc="mcdm.monsters.v1/dynamic-terrain.environmental-hazards/quicksand"}
+###### Quicksand (Level 3 Hazard Hexer) {data-scc="mcdm.monsters.v1/dynamic-terrain.environmental-hazards/quicksand" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="hexer">
@@ -298,7 +296,7 @@ Environmental hazards represent natural elements that creatures (typically creat
 </div>
 </address>
 
-###### Toxic Plants (Level 2 Hazard Hexer) {data-scc="mcdm.monsters.v1/dynamic-terrain.environmental-hazards/toxic-plants"}
+###### Toxic Plants (Level 2 Hazard Hexer) {data-scc="mcdm.monsters.v1/dynamic-terrain.environmental-hazards/toxic-plants" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="hexer">
@@ -342,7 +340,7 @@ Environmental hazards represent natural elements that creatures (typically creat
 
 Fieldworks represent temporary military fortifications meant to give defenders an edge in an encounter.
 
-###### Archer's Stakes (Level 1 Fortification Defender) {data-scc="mcdm.monsters.v1/dynamic-terrain.fieldworks/archers-stakes"}
+###### Archer's Stakes (Level 1 Fortification Defender) {data-scc="mcdm.monsters.v1/dynamic-terrain.fieldworks/archers-stakes" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="defender">
@@ -387,7 +385,7 @@ Fieldworks represent temporary military fortifications meant to give defenders a
 </div>
 </address>
 
-###### Bear Trap (Level 1 Trap Ambusher) {data-scc="mcdm.monsters.v1/dynamic-terrain.fieldworks/bear-trap"}
+###### Bear Trap (Level 1 Trap Ambusher) {data-scc="mcdm.monsters.v1/dynamic-terrain.fieldworks/bear-trap" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="ambusher">
@@ -431,7 +429,7 @@ Fieldworks represent temporary military fortifications meant to give defenders a
 </div>
 </address>
 
-###### Flammable Oil (Level 1 Trap Ambusher) {data-scc="mcdm.monsters.v1/dynamic-terrain.fieldworks/flammable-oil"}
+###### Flammable Oil (Level 1 Trap Ambusher) {data-scc="mcdm.monsters.v1/dynamic-terrain.fieldworks/flammable-oil" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="ambusher">
@@ -467,7 +465,7 @@ Fieldworks represent temporary military fortifications meant to give defenders a
 </div>
 </address>
 
-###### Hidey-Hole (Level 1 Fortification Ambusher) {data-scc="mcdm.monsters.v1/dynamic-terrain.fieldworks/hidey-hole"}
+###### Hidey-Hole (Level 1 Fortification Ambusher) {data-scc="mcdm.monsters.v1/dynamic-terrain.fieldworks/hidey-hole" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="ambusher">
@@ -499,7 +497,7 @@ Fieldworks represent temporary military fortifications meant to give defenders a
 </div>
 </address>
 
-###### Pavise Shield (Level 1 Fortification Defender) {data-scc="mcdm.monsters.v1/dynamic-terrain.fieldworks/pavise-shield"}
+###### Pavise Shield (Level 1 Fortification Defender) {data-scc="mcdm.monsters.v1/dynamic-terrain.fieldworks/pavise-shield" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="defender">
@@ -527,7 +525,7 @@ Fieldworks represent temporary military fortifications meant to give defenders a
 </div>
 </address>
 
-###### Snare Trap (Level 1 Trap Ambusher) {data-scc="mcdm.monsters.v1/dynamic-terrain.fieldworks/snare-trap"}
+###### Snare Trap (Level 1 Trap Ambusher) {data-scc="mcdm.monsters.v1/dynamic-terrain.fieldworks/snare-trap" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="ambusher">
@@ -571,7 +569,7 @@ Fieldworks represent temporary military fortifications meant to give defenders a
 </div>
 </address>
 
-###### Spike Trap (Level 2 Trap Ambusher) {data-scc="mcdm.monsters.v1/dynamic-terrain.fieldworks/spike-trap"}
+###### Spike Trap (Level 2 Trap Ambusher) {data-scc="mcdm.monsters.v1/dynamic-terrain.fieldworks/spike-trap" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="ambusher">
@@ -616,7 +614,7 @@ Fieldworks represent temporary military fortifications meant to give defenders a
 
 Mechanisms represent any number of intricate devices that can complicate a battle. Unlike more straightforward traps, a mechanism is often linked to another triggering mechanism that activates it.
 
-###### Column of Blades (Level 3 Fortification Defender) {data-scc="mcdm.monsters.v1/dynamic-terrain.mechanisms/column-of-blades"}
+###### Column of Blades (Level 3 Fortification Defender) {data-scc="mcdm.monsters.v1/dynamic-terrain.mechanisms/column-of-blades" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="defender">
@@ -669,7 +667,7 @@ Mechanisms represent any number of intricate devices that can complicate a battl
 </div>
 </address>
 
-###### Dart Trap (Level 1 Trap Ambusher) {data-scc="mcdm.monsters.v1/dynamic-terrain.mechanisms/dart-trap"}
+###### Dart Trap (Level 1 Trap Ambusher) {data-scc="mcdm.monsters.v1/dynamic-terrain.mechanisms/dart-trap" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="ambusher">
@@ -715,7 +713,7 @@ Mechanisms represent any number of intricate devices that can complicate a battl
 </div>
 </address>
 
-###### Pillar (Level 2 Hazard Hexer) {data-scc="mcdm.monsters.v1/dynamic-terrain.mechanisms/pillar"}
+###### Pillar (Level 2 Hazard Hexer) {data-scc="mcdm.monsters.v1/dynamic-terrain.mechanisms/pillar" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="hexer">
@@ -756,7 +754,7 @@ Mechanisms represent any number of intricate devices that can complicate a battl
 </div>
 </address>
 
-###### Portcullis (Level 3 Trap Ambusher) {data-scc="mcdm.monsters.v1/dynamic-terrain.mechanisms/portcullis"}
+###### Portcullis (Level 3 Trap Ambusher) {data-scc="mcdm.monsters.v1/dynamic-terrain.mechanisms/portcullis" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="ambusher">
@@ -798,7 +796,7 @@ Mechanisms represent any number of intricate devices that can complicate a battl
 </div>
 </address>
 
-###### Pressure Plate (Level 1 Trigger Support) {data-scc="mcdm.monsters.v1/dynamic-terrain.mechanisms/pressure-plate"}
+###### Pressure Plate (Level 1 Trigger Support) {data-scc="mcdm.monsters.v1/dynamic-terrain.mechanisms/pressure-plate" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="support">
@@ -836,7 +834,7 @@ Mechanisms represent any number of intricate devices that can complicate a battl
 </div>
 </address>
 
-###### Pulley (Level 1 Trigger Support) {data-scc="mcdm.monsters.v1/dynamic-terrain.mechanisms/pulley"}
+###### Pulley (Level 1 Trigger Support) {data-scc="mcdm.monsters.v1/dynamic-terrain.mechanisms/pulley" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="support">
@@ -872,7 +870,7 @@ Mechanisms represent any number of intricate devices that can complicate a battl
 </div>
 </address>
 
-###### Ram (Level 2 Trap Ambusher) {data-scc="mcdm.monsters.v1/dynamic-terrain.mechanisms/ram"}
+###### Ram (Level 2 Trap Ambusher) {data-scc="mcdm.monsters.v1/dynamic-terrain.mechanisms/ram" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="ambusher">
@@ -923,7 +921,7 @@ Mechanisms represent any number of intricate devices that can complicate a battl
 </div>
 </address>
 
-###### Switch (Level 1 Trigger Support) {data-scc="mcdm.monsters.v1/dynamic-terrain.mechanisms/switch"}
+###### Switch (Level 1 Trigger Support) {data-scc="mcdm.monsters.v1/dynamic-terrain.mechanisms/switch" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="support">
@@ -960,7 +958,7 @@ Mechanisms represent any number of intricate devices that can complicate a battl
 
 Power fixtures are especially potent fortifications for solo creatures and smaller strike forces. The more of these terrain objects that occupy the field of battle, the worse things get for the attacking side.
 
-###### Holy Idol (Level 5 Relic Support) {data-scc="mcdm.monsters.v1/dynamic-terrain.power-fixtures/holy-idol"}
+###### Holy Idol (Level 5 Relic Support) {data-scc="mcdm.monsters.v1/dynamic-terrain.power-fixtures/holy-idol" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="support">
@@ -986,7 +984,7 @@ Power fixtures are especially potent fortifications for solo creatures and small
 </div>
 </address>
 
-###### Psionic Shard (Level 5 Fortification Defender) {data-scc="mcdm.monsters.v1/dynamic-terrain.power-fixtures/psionic-shard"}
+###### Psionic Shard (Level 5 Fortification Defender) {data-scc="mcdm.monsters.v1/dynamic-terrain.power-fixtures/psionic-shard" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="defender">
@@ -1018,7 +1016,7 @@ Power fixtures are especially potent fortifications for solo creatures and small
 </div>
 </address>
 
-###### Tree of Might (Level 5 Hazard Hexer) {data-scc="mcdm.monsters.v1/dynamic-terrain.power-fixtures/tree-of-might"}
+###### Tree of Might (Level 5 Hazard Hexer) {data-scc="mcdm.monsters.v1/dynamic-terrain.power-fixtures/tree-of-might" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="hexer">
@@ -1059,7 +1057,7 @@ Rather than siege engines taking actions on their own, a creature [adjacent](../
 
 Multiple [minions](../../Browse/rule/organization/minion.md) in a [squad](../../Browse/rule/monster/squad.md) can activate different aspects of a siege engine using adjacent creature main actions.
 
-###### Arrow Launcher (Level 2 Siege Engine Artillery) {data-scc="mcdm.monsters.v1/dynamic-terrain.siege-engines/arrow-launcher"}
+###### Arrow Launcher (Level 2 Siege Engine Artillery) {data-scc="mcdm.monsters.v1/dynamic-terrain.siege-engines/arrow-launcher" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="artillery">
@@ -1113,7 +1111,7 @@ Multiple [minions](../../Browse/rule/organization/minion.md) in a [squad](../../
 </div>
 </address>
 
-###### Boiling Oil Cauldron (Level 3 Fortification Defender) {data-scc="mcdm.monsters.v1/dynamic-terrain.siege-engines/boiling-oil-cauldron"}
+###### Boiling Oil Cauldron (Level 3 Fortification Defender) {data-scc="mcdm.monsters.v1/dynamic-terrain.siege-engines/boiling-oil-cauldron" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="defender">
@@ -1147,7 +1145,7 @@ Multiple [minions](../../Browse/rule/organization/minion.md) in a [squad](../../
 </div>
 </address>
 
-###### Catapult (Level 3 Siege Engine Artillery) {data-scc="mcdm.monsters.v1/dynamic-terrain.siege-engines/catapult"}
+###### Catapult (Level 3 Siege Engine Artillery) {data-scc="mcdm.monsters.v1/dynamic-terrain.siege-engines/catapult" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="artillery">
@@ -1194,7 +1192,7 @@ Multiple [minions](../../Browse/rule/organization/minion.md) in a [squad](../../
 </div>
 </address>
 
-###### Exploding Mill Wheel (Level 3 Siege Engine Artillery) {data-scc="mcdm.monsters.v1/dynamic-terrain.siege-engines/exploding-mill-wheel"}
+###### Exploding Mill Wheel (Level 3 Siege Engine Artillery) {data-scc="mcdm.monsters.v1/dynamic-terrain.siege-engines/exploding-mill-wheel" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="artillery">
@@ -1235,7 +1233,7 @@ Multiple [minions](../../Browse/rule/organization/minion.md) in a [squad](../../
 </div>
 </address>
 
-###### Field Ballista (Level 2 Siege Engine Artillery) {data-scc="mcdm.monsters.v1/dynamic-terrain.siege-engines/field-ballista"}
+###### Field Ballista (Level 2 Siege Engine Artillery) {data-scc="mcdm.monsters.v1/dynamic-terrain.siege-engines/field-ballista" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="artillery">
@@ -1297,7 +1295,7 @@ Multiple [minions](../../Browse/rule/organization/minion.md) in a [squad](../../
 </div>
 </address>
 
-###### Iron Dragon (Level 4 Siege Engine Artillery) {data-scc="mcdm.monsters.v1/dynamic-terrain.siege-engines/iron-dragon"}
+###### Iron Dragon (Level 4 Siege Engine Artillery) {data-scc="mcdm.monsters.v1/dynamic-terrain.siege-engines/iron-dragon" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="artillery">
@@ -1339,7 +1337,7 @@ Multiple [minions](../../Browse/rule/organization/minion.md) in a [squad](../../
 </div>
 </address>
 
-###### Watchtower (Level 2 Fortification Defender) {data-scc="mcdm.monsters.v1/dynamic-terrain.siege-engines/watchtower"}
+###### Watchtower (Level 2 Fortification Defender) {data-scc="mcdm.monsters.v1/dynamic-terrain.siege-engines/watchtower" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="defender">
@@ -1386,7 +1384,7 @@ Infused with magic or psionics, these powerful and esoteric terrain objects can 
 >
 > Supernatural objects are unique in having effects that target or affect enemies and allies. Although supernatural objects don't (necessarily) have awareness or sapience, their presence in an encounter aligns them clearly with or against the heroes. Unless the Director determines otherwise, the heroes are usually the enemies of a supernatural object.
 
-###### The Black Obelisk (Level 3 Relic Controller) {data-scc="mcdm.monsters.v1/dynamic-terrain.supernatural-objects/the-black-obelisk"}
+###### The Black Obelisk (Level 3 Relic Controller) {data-scc="mcdm.monsters.v1/dynamic-terrain.supernatural-objects/the-black-obelisk" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="controller">
@@ -1422,7 +1420,7 @@ Infused with magic or psionics, these powerful and esoteric terrain objects can 
 </div>
 </address>
 
-###### The Chronal Hypercube (Level 3 Relic Controller) {data-scc="mcdm.monsters.v1/dynamic-terrain.supernatural-objects/the-chronal-hypercube"}
+###### The Chronal Hypercube (Level 3 Relic Controller) {data-scc="mcdm.monsters.v1/dynamic-terrain.supernatural-objects/the-chronal-hypercube" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="controller">
@@ -1453,7 +1451,7 @@ Infused with magic or psionics, these powerful and esoteric terrain objects can 
 </div>
 </address>
 
-###### The Throne of A'An (Level 4 Relic Controller) {data-scc="mcdm.monsters.v1/dynamic-terrain.supernatural-objects/the-throne-of-aan"}
+###### The Throne of A'An (Level 4 Relic Controller) {data-scc="mcdm.monsters.v1/dynamic-terrain.supernatural-objects/the-throne-of-aan" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <div class="fb-wrap" data-role="controller">

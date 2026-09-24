@@ -946,7 +946,7 @@ As a 3rd-level [troubadour](troubadour.md), you gain the following features.
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While this performance is active, each target who starts their <a href="../../rule/combat/turn/">turn</a> in the area doesn&#39;t take a <a href="../../rule/dice/bane/">bane</a> on <a href="../../rule/combat/strike/">strikes</a> against creatures with <a href="../../rule/combat/concealment/">concealment</a>. Once during their <a href="../../rule/combat/turn/">turn</a>, they can search for hidden creatures as a <a href="../../rule/combat/free-maneuver/">free maneuver</a> (see Hide and Sneak in Chapter 9: <a href="../../../Read/heroes/tests/">Tests</a>).</p></div>
+<div class="sc-ability__section-body"><p>While this performance is active, each target who starts their <a href="../../rule/combat/turn/">turn</a> in the area doesn&#39;t take a <a href="../../rule/dice/bane/">bane</a> on <a href="../../rule/combat/strike/">strikes</a> against creatures with <a href="../../rule/combat/concealment/">concealment</a>. Once during their <a href="../../rule/combat/turn/">turn</a>, they can search for hidden creatures as a <a href="../../rule/combat/free-maneuver/">free maneuver</a> (see <a href="../../rule/test/hide-and-sneak/">Hide and Sneak</a> in Chapter 9: <a href="../../../Read/heroes/tests/">Tests</a>).</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="none" data-conditions="bleeding">

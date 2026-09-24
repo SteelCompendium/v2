@@ -1,8 +1,6 @@
 ---
 printing: "1.01b"
 printing_book: "Draw Steel: Heroes"
-search:
-  exclude: true
 name: Kits
 order: 6
 scc: mcdm.heroes.v1/chapter/kits
@@ -153,15 +151,15 @@ This section details each kit, whose [bonus](../../Browse/rule/dice/bonuses-and-
 >
 > Improvised weapons can be used with weapon abilities you gain from your class. For instance, many [melee](../../Browse/rule/combat/melee.md)-focused heroes choose a kit that maximizes their [melee](../../Browse/rule/combat/melee.md) capabilities, then make [ranged](../../Browse/rule/combat/ranged.md) [free strikes](../../Browse/feature/common/main-actions/free-strike.md) with improvised weapons. However, you can't use improvised weapons with weapon abilities gained from your kit, and you add no special [bonus](../../Browse/rule/dice/bonuses-and-penalties.md)es from your kit to a weapon ability used with an improvised weapon.
 
-#### Arcane Archer {data-scc="mcdm.heroes.v1/kit/arcane-archer"}
+#### Arcane Archer {data-scc="mcdm.heroes.v1/kit/arcane-archer" data-search-exclude=""}
 
 The [Arcane Archer](../../Browse/kit/arcane-archer.md) kit allows you to combine magic and [ranged](../../Browse/rule/combat/ranged.md) weapon [strikes](../../Browse/rule/combat/strike.md). Your lack of armor keeps you mobile, and your magic makes your arrows explode to devastate your foes.
 
-##### Equipment
+##### Equipment {data-search-exclude=""}
 
 You wear no armor and wield a bow.
 
-##### Kit Bonuses
+##### Kit Bonuses {data-search-exclude=""}
 
 **[Speed](../../Browse/rule/character/speed.md) [Bonus](../../Browse/rule/dice/bonuses-and-penalties.md):** +1
 
@@ -171,9 +169,9 @@ You wear no armor and wield a bow.
 
 **Disengage [Bonus](../../Browse/rule/dice/bonuses-and-penalties.md):** +1
 
-##### Signature Ability
+##### Signature Ability {data-search-exclude=""}
 
-###### Exploding Arrow {data-scc="mcdm.heroes.v1/feature.ability.arcane-archer/exploding-arrow"}
+###### Exploding Arrow {data-scc="mcdm.heroes.v1/feature.ability.arcane-archer/exploding-arrow" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <article class="sc-ability sc-fil" data-action="main">
@@ -199,15 +197,15 @@ You wear no armor and wield a bow.
 </article>
 </address>
 
-#### Battlemind {data-scc="mcdm.heroes.v1/kit/battlemind"}
+#### Battlemind {data-scc="mcdm.heroes.v1/kit/battlemind" data-search-exclude=""}
 
 Who says lightly armored heroes can't also be hard to move? You just need to employ some psionics! The [Battlemind](../../Browse/kit/battlemind.md) kit harnesses the power of your mind to make you harder to move—and to make your foes easier to push around.
 
-##### Equipment
+##### Equipment {data-search-exclude=""}
 
 You wear light armor and wield a medium weapon.
 
-##### Kit Bonuses
+##### Kit Bonuses {data-search-exclude=""}
 
 **[Stamina](../../Browse/rule/health/stamina.md) [Bonus](../../Browse/rule/dice/bonuses-and-penalties.md):** +3 per [echelon](../../Browse/rule/general/echelon.md)
 
@@ -217,9 +215,9 @@ You wear light armor and wield a medium weapon.
 
 **[Melee](../../Browse/rule/combat/melee.md) Damage [Bonus](../../Browse/rule/dice/bonuses-and-penalties.md):** +2/+2/+2
 
-##### Signature Ability
+##### Signature Ability {data-search-exclude=""}
 
-###### Unmooring {data-scc="mcdm.heroes.v1/feature.ability.battlemind/unmooring"}
+###### Unmooring {data-scc="mcdm.heroes.v1/feature.ability.battlemind/unmooring" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <article class="sc-ability sc-fil" data-action="main">
@@ -245,15 +243,15 @@ You wear light armor and wield a medium weapon.
 </article>
 </address>
 
-#### Cloak and Dagger {data-scc="mcdm.heroes.v1/kit/cloak-and-dagger"}
+#### Cloak and Dagger {data-scc="mcdm.heroes.v1/kit/cloak-and-dagger" data-search-exclude=""}
 
 Providing throwable light weapons and light armor easily concealed by a cloak to confuse your enemies, the [Cloak and Dagger](../../Browse/kit/cloak-and-dagger.md) kit makes you more mobile while increasing the effectiveness of your short-range strikes.
 
-##### Equipment
+##### Equipment {data-search-exclude=""}
 
 You wear light armor and wield one or two light weapons.
 
-##### Kit Bonuses
+##### Kit Bonuses {data-search-exclude=""}
 
 **[Stamina](../../Browse/rule/health/stamina.md) [Bonus](../../Browse/rule/dice/bonuses-and-penalties.md):** +3 per [echelon](../../Browse/rule/general/echelon.md)
 
@@ -267,9 +265,9 @@ You wear light armor and wield one or two light weapons.
 
 **Disengage [Bonus](../../Browse/rule/dice/bonuses-and-penalties.md):** +1
 
-##### Signature Ability
+##### Signature Ability {data-search-exclude=""}
 
-###### Fade {data-scc="mcdm.heroes.v1/feature.ability.cloak-and-dagger/fade"}
+###### Fade {data-scc="mcdm.heroes.v1/feature.ability.cloak-and-dagger/fade" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <article class="sc-ability sc-fil" data-action="main">
@@ -291,15 +289,15 @@ You wear light armor and wield one or two light weapons.
 </article>
 </address>
 
-#### Dual Wielder {data-scc="mcdm.heroes.v1/kit/dual-wielder"}
+#### Dual Wielder {data-scc="mcdm.heroes.v1/kit/dual-wielder" data-search-exclude=""}
 
 The [Dual Wielder](../../Browse/kit/dual-wielder.md) kit is for folks who want to excel at using two weapons at the same time. Your fighting style maximizes the power of each weapon you have in hand, making you a whirling dealer of death.
 
-##### Equipment
+##### Equipment {data-search-exclude=""}
 
 You wear medium armor and wield a light weapon and a medium weapon.
 
-##### Kit Bonuses
+##### Kit Bonuses {data-search-exclude=""}
 
 **[Stamina](../../Browse/rule/health/stamina.md) [Bonus](../../Browse/rule/dice/bonuses-and-penalties.md):** +6 per [echelon](../../Browse/rule/general/echelon.md)
 
@@ -309,9 +307,9 @@ You wear medium armor and wield a light weapon and a medium weapon.
 
 **Disengage [Bonus](../../Browse/rule/dice/bonuses-and-penalties.md):** +1
 
-##### Signature Ability
+##### Signature Ability {data-search-exclude=""}
 
-###### Double Strike {data-scc="mcdm.heroes.v1/feature.ability.dual-wielder/double-strike"}
+###### Double Strike {data-scc="mcdm.heroes.v1/feature.ability.dual-wielder/double-strike" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <article class="sc-ability sc-fil" data-action="main">
@@ -337,15 +335,15 @@ You wear medium armor and wield a light weapon and a medium weapon.
 </article>
 </address>
 
-#### Guisarmier {data-scc="mcdm.heroes.v1/kit/guisarmier"}
+#### Guisarmier {data-scc="mcdm.heroes.v1/kit/guisarmier" data-search-exclude=""}
 
 The [Guisarmier](../../Browse/kit/guisarmier.md) kit is for those who want to use a polearm for extended reach while remaining protected by sturdy armor. This is the kit that allows you to become the ultimate halberd, longspear, or glaive fighter.
 
-##### Equipment
+##### Equipment {data-search-exclude=""}
 
 You wear medium armor and wield a polearm.
 
-##### Kit Bonuses
+##### Kit Bonuses {data-search-exclude=""}
 
 **[Stamina](../../Browse/rule/health/stamina.md) [Bonus](../../Browse/rule/dice/bonuses-and-penalties.md):** +6 per [echelon](../../Browse/rule/general/echelon.md)
 
@@ -355,9 +353,9 @@ You wear medium armor and wield a polearm.
 
 **[Melee](../../Browse/rule/combat/melee.md) [Distance](../../Browse/rule/combat/distance.md) [Bonus](../../Browse/rule/dice/bonuses-and-penalties.md):** +1
 
-##### Signature Ability
+##### Signature Ability {data-search-exclude=""}
 
-###### Forward Thrust, Backward Smash {data-scc="mcdm.heroes.v1/feature.ability.guisarmier/forward-thrust-backward-smash"}
+###### Forward Thrust, Backward Smash {data-scc="mcdm.heroes.v1/feature.ability.guisarmier/forward-thrust-backward-smash" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <article class="sc-ability sc-fil" data-action="main">
@@ -379,15 +377,15 @@ You wear medium armor and wield a polearm.
 </article>
 </address>
 
-#### Martial Artist {data-scc="mcdm.heroes.v1/kit/martial-artist"}
+#### Martial Artist {data-scc="mcdm.heroes.v1/kit/martial-artist" data-search-exclude=""}
 
 If you want to be fast in a fight, then [Martial Artist](../../Browse/kit/martial-artist.md) is the kit for you. Unencumbered by weapons or armor, this fighting style rewards quick, focused unarmed [strikes](../../Browse/rule/combat/strike.md) against opponents, and allows you to be the ultimate skirmisher.
 
-##### Equipment
+##### Equipment {data-search-exclude=""}
 
 You wear no armor and wield only your unarmed [strikes](../../Browse/rule/combat/strike.md).
 
-##### Kit Bonuses
+##### Kit Bonuses {data-search-exclude=""}
 
 **[Stamina](../../Browse/rule/health/stamina.md) [Bonus](../../Browse/rule/dice/bonuses-and-penalties.md):** +3 per [echelon](../../Browse/rule/general/echelon.md)
 
@@ -397,9 +395,9 @@ You wear no armor and wield only your unarmed [strikes](../../Browse/rule/combat
 
 **Disengage [Bonus](../../Browse/rule/dice/bonuses-and-penalties.md):** +1
 
-##### Signature Ability
+##### Signature Ability {data-search-exclude=""}
 
-###### Battle Grace {data-scc="mcdm.heroes.v1/feature.ability.martial-artist/battle-grace"}
+###### Battle Grace {data-scc="mcdm.heroes.v1/feature.ability.martial-artist/battle-grace" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <article class="sc-ability sc-fil" data-action="main">
@@ -425,15 +423,15 @@ You wear no armor and wield only your unarmed [strikes](../../Browse/rule/combat
 </article>
 </address>
 
-#### Mountain {data-scc="mcdm.heroes.v1/kit/mountain"}
+#### Mountain {data-scc="mcdm.heroes.v1/kit/mountain" data-search-exclude=""}
 
 The [Mountain](../../Browse/kit/mountain.md) kit does exactly what it says on the tin. You don heavy armor and raise a heavy weapon to stand strong against your foes, quickly demolishing them when it's your turn to strike.
 
-##### Equipment
+##### Equipment {data-search-exclude=""}
 
 You wear heavy armor and wield a heavy weapon.
 
-##### Kit Bonuses
+##### Kit Bonuses {data-search-exclude=""}
 
 **[Stamina](../../Browse/rule/health/stamina.md) [Bonus](../../Browse/rule/dice/bonuses-and-penalties.md):** +9 per [echelon](../../Browse/rule/general/echelon.md)
 
@@ -441,9 +439,9 @@ You wear heavy armor and wield a heavy weapon.
 
 **[Melee](../../Browse/rule/combat/melee.md) Damage [Bonus](../../Browse/rule/dice/bonuses-and-penalties.md):** +0/+0/+4
 
-##### Signature Ability
+##### Signature Ability {data-search-exclude=""}
 
-###### Pain for Pain {data-scc="mcdm.heroes.v1/feature.ability.mountain/pain-for-pain"}
+###### Pain for Pain {data-scc="mcdm.heroes.v1/feature.ability.mountain/pain-for-pain" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <article class="sc-ability sc-fil" data-action="main">
@@ -469,15 +467,15 @@ You wear heavy armor and wield a heavy weapon.
 </article>
 </address>
 
-#### Panther {data-scc="mcdm.heroes.v1/kit/panther"}
+#### Panther {data-scc="mcdm.heroes.v1/kit/panther" data-search-exclude=""}
 
 If you want a good balance of protection, [speed](../../Browse/rule/character/speed.md), and damage, the [Panther](../../Browse/kit/panther.md) kit is for you. This kit increases your [Stamina](../../Browse/rule/health/stamina.md) not by wearing armor, but through the focused battle preparation of body and mind, letting you be fast and mobile while swinging a heavy weapon at your foes.
 
-##### Equipment
+##### Equipment {data-search-exclude=""}
 
 You wear no armor and wield a heavy weapon.
 
-##### Kit Bonuses
+##### Kit Bonuses {data-search-exclude=""}
 
 **[Stamina](../../Browse/rule/health/stamina.md) [Bonus](../../Browse/rule/dice/bonuses-and-penalties.md):** +6 per [echelon](../../Browse/rule/general/echelon.md)
 
@@ -487,9 +485,9 @@ You wear no armor and wield a heavy weapon.
 
 **[Melee](../../Browse/rule/combat/melee.md) Damage [Bonus](../../Browse/rule/dice/bonuses-and-penalties.md):** +0/+0/+4
 
-##### Signature Ability
+##### Signature Ability {data-search-exclude=""}
 
-###### Devastating Rush {data-scc="mcdm.heroes.v1/feature.ability.panther/devastating-rush"}
+###### Devastating Rush {data-scc="mcdm.heroes.v1/feature.ability.panther/devastating-rush" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <article class="sc-ability sc-fil" data-action="main">
@@ -515,15 +513,15 @@ You wear no armor and wield a heavy weapon.
 </article>
 </address>
 
-#### Pugilist {data-scc="mcdm.heroes.v1/kit/pugilist"}
+#### Pugilist {data-scc="mcdm.heroes.v1/kit/pugilist" data-search-exclude=""}
 
 Meant for brawlers and boxers, the [Pugilist](../../Browse/kit/pugilist.md) kit gives you access to a [melee](../../Browse/rule/combat/melee.md) fighting style that grants a boost to [Stamina](../../Browse/rule/health/stamina.md) and damage while allowing you to float like a butterfly. If you want to be a tough, strong hero who doles out punishment with your fists, then this kit is for you.
 
-##### Equipment
+##### Equipment {data-search-exclude=""}
 
 You wear no armor and wield only your unarmed [strikes](../../Browse/rule/combat/strike.md).
 
-##### Kit Bonuses
+##### Kit Bonuses {data-search-exclude=""}
 
 **[Stamina](../../Browse/rule/health/stamina.md) [Bonus](../../Browse/rule/dice/bonuses-and-penalties.md):** +6 per [echelon](../../Browse/rule/general/echelon.md)
 
@@ -533,9 +531,9 @@ You wear no armor and wield only your unarmed [strikes](../../Browse/rule/combat
 
 **[Melee](../../Browse/rule/combat/melee.md) Damage [Bonus](../../Browse/rule/dice/bonuses-and-penalties.md):** +1/+1/+1
 
-##### Signature Ability
+##### Signature Ability {data-search-exclude=""}
 
-###### Let's Dance {data-scc="mcdm.heroes.v1/feature.ability.pugilist/lets-dance"}
+###### Let's Dance {data-scc="mcdm.heroes.v1/feature.ability.pugilist/lets-dance" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <article class="sc-ability sc-fil" data-action="main">
@@ -561,15 +559,15 @@ You wear no armor and wield only your unarmed [strikes](../../Browse/rule/combat
 </article>
 </address>
 
-#### Raider {data-scc="mcdm.heroes.v1/kit/raider"}
+#### Raider {data-scc="mcdm.heroes.v1/kit/raider" data-search-exclude=""}
 
 The [Raider](../../Browse/kit/raider.md) kit keeps you protected while granting you full mobility, providing a boost to [speed](../../Browse/rule/character/speed.md) and [distance](../../Browse/rule/combat/distance.md) that lets you run around the battlefield like a Viking warrior.
 
-##### Equipment
+##### Equipment {data-search-exclude=""}
 
 You wear light armor and wield a shield and a light weapon.
 
-##### Kit Bonuses
+##### Kit Bonuses {data-search-exclude=""}
 
 **[Stamina](../../Browse/rule/health/stamina.md) [Bonus](../../Browse/rule/dice/bonuses-and-penalties.md):** +6 per [echelon](../../Browse/rule/general/echelon.md)
 
@@ -583,9 +581,9 @@ You wear light armor and wield a shield and a light weapon.
 
 **Disengage [Bonus](../../Browse/rule/dice/bonuses-and-penalties.md):** +1
 
-##### Signature Ability
+##### Signature Ability {data-search-exclude=""}
 
-###### Raider's Awe {data-scc="mcdm.heroes.v1/feature.ability.raider/raiders-awe"}
+###### Raider's Awe {data-scc="mcdm.heroes.v1/feature.ability.raider/raiders-awe" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <article class="sc-ability sc-fil" data-action="main">
@@ -611,15 +609,15 @@ You wear light armor and wield a shield and a light weapon.
 </article>
 </address>
 
-#### Ranger {data-scc="mcdm.heroes.v1/kit/ranger"}
+#### Ranger {data-scc="mcdm.heroes.v1/kit/ranger" data-search-exclude=""}
 
 The [Ranger](../../Browse/kit/ranger.md) kit outfits you with medium armor and weapons for every challenge, letting you easily switch between [melee](../../Browse/rule/combat/melee.md) and [ranged](../../Browse/rule/combat/ranged.md) combat. This kit provides a good balance of [bonus](../../Browse/rule/dice/bonuses-and-penalties.md)es to defense and offense to create a hero who is a jack-of-all-trades.
 
-##### Equipment
+##### Equipment {data-search-exclude=""}
 
 You wear medium armor and wield a bow and a medium weapon.
 
-##### Kit Bonuses
+##### Kit Bonuses {data-search-exclude=""}
 
 **[Stamina](../../Browse/rule/health/stamina.md) [Bonus](../../Browse/rule/dice/bonuses-and-penalties.md):** +6 per [echelon](../../Browse/rule/general/echelon.md)
 
@@ -633,9 +631,9 @@ You wear medium armor and wield a bow and a medium weapon.
 
 **Disengage [Bonus](../../Browse/rule/dice/bonuses-and-penalties.md):** +1
 
-##### Signature Ability
+##### Signature Ability {data-search-exclude=""}
 
-###### Hamstring Shot {data-scc="mcdm.heroes.v1/feature.ability.ranger/hamstring-shot"}
+###### Hamstring Shot {data-scc="mcdm.heroes.v1/feature.ability.ranger/hamstring-shot" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <article class="sc-ability sc-fil" data-action="main" data-conditions="slowed">
@@ -657,15 +655,15 @@ You wear medium armor and wield a bow and a medium weapon.
 </article>
 </address>
 
-#### Rapid-Fire {data-scc="mcdm.heroes.v1/kit/rapid-fire"}
+#### Rapid-Fire {data-scc="mcdm.heroes.v1/kit/rapid-fire" data-search-exclude=""}
 
 The Rapid-Fire kit is for archers who want to deal maximum damage by shooting as many arrows as possible into nearby enemies. With this kit, your fighting technique focuses on peppering foes before they can get close enough to counterattack.
 
-##### Equipment
+##### Equipment {data-search-exclude=""}
 
 You wear light armor and wield a bow.
 
-##### Kit Bonuses
+##### Kit Bonuses {data-search-exclude=""}
 
 **[Stamina](../../Browse/rule/health/stamina.md) [Bonus](../../Browse/rule/dice/bonuses-and-penalties.md):** +3 per [echelon](../../Browse/rule/general/echelon.md)
 
@@ -677,9 +675,9 @@ You wear light armor and wield a bow.
 
 **Disengage [Bonus](../../Browse/rule/dice/bonuses-and-penalties.md):** +1
 
-##### Signature Ability
+##### Signature Ability {data-search-exclude=""}
 
-###### Two Shot {data-scc="mcdm.heroes.v1/feature.ability.rapid-fire/two-shot"}
+###### Two Shot {data-scc="mcdm.heroes.v1/feature.ability.rapid-fire/two-shot" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <article class="sc-ability sc-fil" data-action="main">
@@ -701,15 +699,15 @@ You wear light armor and wield a bow.
 </article>
 </address>
 
-#### Retiarius {data-scc="mcdm.heroes.v1/kit/retiarius"}
+#### Retiarius {data-scc="mcdm.heroes.v1/kit/retiarius" data-search-exclude=""}
 
 The [retiarius](../../Browse/kit/retiarius.md) is often depicted as a lightly armored warrior with a net in one hand and a trident in the other, and this kit gives you the equipment and fighting technique to make that happen. Tie up your foe with a net and then poke them to death!
 
-##### Equipment
+##### Equipment {data-search-exclude=""}
 
 You wear light armor and wield several ensnaring weapons and a polearm.
 
-##### Kit Bonuses
+##### Kit Bonuses {data-search-exclude=""}
 
 **[Stamina](../../Browse/rule/health/stamina.md) [Bonus](../../Browse/rule/dice/bonuses-and-penalties.md):** +3 per [echelon](../../Browse/rule/general/echelon.md)
 
@@ -721,9 +719,9 @@ You wear light armor and wield several ensnaring weapons and a polearm.
 
 **Disengage [Bonus](../../Browse/rule/dice/bonuses-and-penalties.md):** +1
 
-##### Signature Ability
+##### Signature Ability {data-search-exclude=""}
 
-###### Net and Stab {data-scc="mcdm.heroes.v1/feature.ability.retiarius/net-and-stab"}
+###### Net and Stab {data-scc="mcdm.heroes.v1/feature.ability.retiarius/net-and-stab" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <article class="sc-ability sc-fil" data-action="main" data-conditions="restrained slowed">
@@ -745,15 +743,15 @@ You wear light armor and wield several ensnaring weapons and a polearm.
 </article>
 </address>
 
-#### Shining Armor {data-scc="mcdm.heroes.v1/kit/shining-armor"}
+#### Shining Armor {data-scc="mcdm.heroes.v1/kit/shining-armor" data-search-exclude=""}
 
 The [Shining Armor](../../Browse/kit/shining-armor.md) kit provides the most protection a kit can afford, providing you with the sword, shield, and armor necessary to play the prototypical knight.
 
-##### Equipment
+##### Equipment {data-search-exclude=""}
 
 You wear heavy armor and wield a shield and a medium weapon.
 
-##### Kit Bonuses
+##### Kit Bonuses {data-search-exclude=""}
 
 **[Stamina](../../Browse/rule/health/stamina.md) [Bonus](../../Browse/rule/dice/bonuses-and-penalties.md):** +12 per [echelon](../../Browse/rule/general/echelon.md)
 
@@ -761,9 +759,9 @@ You wear heavy armor and wield a shield and a medium weapon.
 
 **[Melee](../../Browse/rule/combat/melee.md) Damage [Bonus](../../Browse/rule/dice/bonuses-and-penalties.md):** +2/+2/+2
 
-##### Signature Ability
+##### Signature Ability {data-search-exclude=""}
 
-###### Protective Attack {data-scc="mcdm.heroes.v1/feature.ability.shining-armor/protective-attack"}
+###### Protective Attack {data-scc="mcdm.heroes.v1/feature.ability.shining-armor/protective-attack" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <article class="sc-ability sc-fil" data-action="main" data-conditions="taunted">
@@ -789,15 +787,15 @@ You wear heavy armor and wield a shield and a medium weapon.
 </article>
 </address>
 
-#### Sniper {data-scc="mcdm.heroes.v1/kit/sniper"}
+#### Sniper {data-scc="mcdm.heroes.v1/kit/sniper" data-search-exclude=""}
 
 The [Sniper](../../Browse/kit/sniper.md) kit gives you the tools and techniques to take down enemies from afar. This kit can help you become the archer who lurks behind trees or down tunnels, picking off enemies with a bow or crossbow as they approach.
 
-##### Equipment
+##### Equipment {data-search-exclude=""}
 
 You wear no armor and wield a bow.
 
-##### Kit Bonuses
+##### Kit Bonuses {data-search-exclude=""}
 
 **[Speed](../../Browse/rule/character/speed.md) [Bonus](../../Browse/rule/dice/bonuses-and-penalties.md):** +1
 
@@ -807,9 +805,9 @@ You wear no armor and wield a bow.
 
 **Disengage [Bonus](../../Browse/rule/dice/bonuses-and-penalties.md):** +1
 
-##### Signature Ability
+##### Signature Ability {data-search-exclude=""}
 
-###### Patient Shot {data-scc="mcdm.heroes.v1/feature.ability.sniper/patient-shot"}
+###### Patient Shot {data-scc="mcdm.heroes.v1/feature.ability.sniper/patient-shot" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <article class="sc-ability sc-fil" data-action="main">
@@ -835,15 +833,15 @@ You wear no armor and wield a bow.
 </article>
 </address>
 
-#### Spellsword {data-scc="mcdm.heroes.v1/kit/spellsword"}
+#### Spellsword {data-scc="mcdm.heroes.v1/kit/spellsword" data-search-exclude=""}
 
 The [Spellsword](../../Browse/kit/spellsword.md) kit combines [melee](../../Browse/rule/combat/melee.md) [strikes](../../Browse/rule/combat/strike.md) and a little bit of magic, letting you create a warrior who doesn't have to choose between the incantation and the blade.
 
-##### Equipment
+##### Equipment {data-search-exclude=""}
 
 You wear light armor and wield a shield and a medium weapon.
 
-##### Kit Bonuses
+##### Kit Bonuses {data-search-exclude=""}
 
 **[Stamina](../../Browse/rule/health/stamina.md) [Bonus](../../Browse/rule/dice/bonuses-and-penalties.md):** +6 per [echelon](../../Browse/rule/general/echelon.md)
 
@@ -853,9 +851,9 @@ You wear light armor and wield a shield and a medium weapon.
 
 **[Melee](../../Browse/rule/combat/melee.md) Damage [Bonus](../../Browse/rule/dice/bonuses-and-penalties.md):** +2/+2/+2
 
-##### Signature Ability
+##### Signature Ability {data-search-exclude=""}
 
-###### Leaping Lightning {data-scc="mcdm.heroes.v1/feature.ability.spellsword/leaping-lightning"}
+###### Leaping Lightning {data-scc="mcdm.heroes.v1/feature.ability.spellsword/leaping-lightning" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <article class="sc-ability sc-fil" data-action="main">
@@ -881,15 +879,15 @@ You wear light armor and wield a shield and a medium weapon.
 </article>
 </address>
 
-#### Stick and Robe {data-scc="mcdm.heroes.v1/kit/stick-and-robe"}
+#### Stick and Robe {data-scc="mcdm.heroes.v1/kit/stick-and-robe" data-search-exclude=""}
 
 Armed with a simple reach weapon, often a quarterstaff, a character using the [Stick and Robe](../../Browse/kit/stick-and-robe.md) kit is highly mobile thanks to their light armor. This allows your hero to make maximum use of their weapon's length.
 
-##### Equipment
+##### Equipment {data-search-exclude=""}
 
 You wear light armor and wield a polearm.
 
-##### Kit Bonuses
+##### Kit Bonuses {data-search-exclude=""}
 
 **[Stamina](../../Browse/rule/health/stamina.md) [Bonus](../../Browse/rule/dice/bonuses-and-penalties.md):** +3 per [echelon](../../Browse/rule/general/echelon.md)
 
@@ -901,9 +899,9 @@ You wear light armor and wield a polearm.
 
 **Disengage [Bonus](../../Browse/rule/dice/bonuses-and-penalties.md):** +1
 
-##### Signature Ability
+##### Signature Ability {data-search-exclude=""}
 
-###### Where I Want You {data-scc="mcdm.heroes.v1/feature.ability.stick-and-robe/where-i-want-you"}
+###### Where I Want You {data-scc="mcdm.heroes.v1/feature.ability.stick-and-robe/where-i-want-you" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <article class="sc-ability sc-fil" data-action="main">
@@ -925,15 +923,15 @@ You wear light armor and wield a polearm.
 </article>
 </address>
 
-#### Swashbuckler {data-scc="mcdm.heroes.v1/kit/swashbuckler"}
+#### Swashbuckler {data-scc="mcdm.heroes.v1/kit/swashbuckler" data-search-exclude=""}
 
 If you want to be mobile and deal a lot of damage with [melee](../../Browse/rule/combat/melee.md) [strikes](../../Browse/rule/combat/strike.md), then you should reach for the [Swashbuckler](../../Browse/kit/swashbuckler.md) kit. This is a great kit for heroes who want to be master duelists.
 
-##### Equipment
+##### Equipment {data-search-exclude=""}
 
 You wear light armor and wield a medium weapon.
 
-##### Kit Bonuses
+##### Kit Bonuses {data-search-exclude=""}
 
 **[Stamina](../../Browse/rule/health/stamina.md) [Bonus](../../Browse/rule/dice/bonuses-and-penalties.md):** +3 per [echelon](../../Browse/rule/general/echelon.md)
 
@@ -943,9 +941,9 @@ You wear light armor and wield a medium weapon.
 
 **Disengage [Bonus](../../Browse/rule/dice/bonuses-and-penalties.md):** +1
 
-##### Signature Ability
+##### Signature Ability {data-search-exclude=""}
 
-###### Fancy Footwork {data-scc="mcdm.heroes.v1/feature.ability.swashbuckler/fancy-footwork"}
+###### Fancy Footwork {data-scc="mcdm.heroes.v1/feature.ability.swashbuckler/fancy-footwork" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <article class="sc-ability sc-fil" data-action="main">
@@ -971,15 +969,15 @@ You wear light armor and wield a medium weapon.
 </article>
 </address>
 
-#### Sword and Board {data-scc="mcdm.heroes.v1/kit/sword-and-board"}
+#### Sword and Board {data-scc="mcdm.heroes.v1/kit/sword-and-board" data-search-exclude=""}
 
 The [Sword and Board](../../Browse/kit/sword-and-board.md) kit doesn't just give you a shield—it makes the shield part of your offensive arsenal. With a medium weapon in one hand and a block of steel or solid oak in the other, you protect yourself while you control the battlefield.
 
-##### Equipment
+##### Equipment {data-search-exclude=""}
 
 You wear medium armor and wield a shield and a medium weapon.
 
-##### Kit Bonuses
+##### Kit Bonuses {data-search-exclude=""}
 
 **[Stamina](../../Browse/rule/health/stamina.md) [Bonus](../../Browse/rule/dice/bonuses-and-penalties.md):** +9 per [echelon](../../Browse/rule/general/echelon.md)
 
@@ -989,9 +987,9 @@ You wear medium armor and wield a shield and a medium weapon.
 
 **Disengage [Bonus](../../Browse/rule/dice/bonuses-and-penalties.md):** +1
 
-##### Signature Ability
+##### Signature Ability {data-search-exclude=""}
 
-###### Shield Bash {data-scc="mcdm.heroes.v1/feature.ability.sword-and-board/shield-bash"}
+###### Shield Bash {data-scc="mcdm.heroes.v1/feature.ability.sword-and-board/shield-bash" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <article class="sc-ability sc-fil" data-action="main" data-conditions="prone">
@@ -1013,15 +1011,15 @@ You wear medium armor and wield a shield and a medium weapon.
 </article>
 </address>
 
-#### Warrior Priest {data-scc="mcdm.heroes.v1/kit/warrior-priest"}
+#### Warrior Priest {data-scc="mcdm.heroes.v1/kit/warrior-priest" data-search-exclude=""}
 
 The [Warrior Priest](../../Browse/kit/warrior-priest.md) kit imbues the power of the gods into your weapon, making it a smiting instrument. You wade into the fray without fear, thanks to the power of the divine... and the heavy armor you wear.
 
-##### Equipment
+##### Equipment {data-search-exclude=""}
 
 You wear heavy armor and wield a light weapon.
 
-##### Kit Bonuses
+##### Kit Bonuses {data-search-exclude=""}
 
 **[Stamina](../../Browse/rule/health/stamina.md) [Bonus](../../Browse/rule/dice/bonuses-and-penalties.md):** +9 per [echelon](../../Browse/rule/general/echelon.md)
 
@@ -1031,9 +1029,9 @@ You wear heavy armor and wield a light weapon.
 
 **[Melee](../../Browse/rule/combat/melee.md) Damage [Bonus](../../Browse/rule/dice/bonuses-and-penalties.md):** +1/+1/+1
 
-##### Signature Ability
+##### Signature Ability {data-search-exclude=""}
 
-###### Weakening Brand {data-scc="mcdm.heroes.v1/feature.ability.warrior-priest/weakening-brand"}
+###### Weakening Brand {data-scc="mcdm.heroes.v1/feature.ability.warrior-priest/weakening-brand" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <article class="sc-ability sc-fil" data-action="main">
@@ -1059,15 +1057,15 @@ You wear heavy armor and wield a light weapon.
 </article>
 </address>
 
-#### Whirlwind {data-scc="mcdm.heroes.v1/kit/whirlwind"}
+#### Whirlwind {data-scc="mcdm.heroes.v1/kit/whirlwind" data-search-exclude=""}
 
 The [Whirlwind](../../Browse/kit/whirlwind.md) kit makes effective use of whips, granting you mobility, damage, and reach. If you want to be a fast-moving warrior who lashes foes with a chain or whip, then this is the kit for you.
 
-##### Equipment
+##### Equipment {data-search-exclude=""}
 
 You wear no armor and wield a whip.
 
-##### Kit Bonuses
+##### Kit Bonuses {data-search-exclude=""}
 
 **[Speed](../../Browse/rule/character/speed.md) [Bonus](../../Browse/rule/dice/bonuses-and-penalties.md):** +3
 
@@ -1077,9 +1075,9 @@ You wear no armor and wield a whip.
 
 **Disengage [Bonus](../../Browse/rule/dice/bonuses-and-penalties.md):** +1
 
-##### Signature Ability
+##### Signature Ability {data-search-exclude=""}
 
-###### Extension of My Arm {data-scc="mcdm.heroes.v1/feature.ability.whirlwind/extension-of-my-arm"}
+###### Extension of My Arm {data-scc="mcdm.heroes.v1/feature.ability.whirlwind/extension-of-my-arm" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
 <article class="sc-ability sc-fil" data-action="main">
