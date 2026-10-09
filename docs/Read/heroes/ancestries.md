@@ -1983,7 +1983,7 @@ Lady Filliamo shrugged. "I'm a knight of the church. Jurisdiction's for the city
 ### Revenant Traits {data-scc="mcdm.heroes.v1/feature.trait.revenant/revenant-traits" data-search-exclude=""}
 
 <address class="sc-embed" data-search-exclude="">
-<section class="sc-trait sc-trait--crest sc-trait--section" data-action="trait" data-sub="2">
+<section class="sc-trait sc-trait--crest sc-trait--section" data-action="trait" data-sub="3">
 <header class="sc-head"><div class="sc-head__stack"><span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-head__col sc-head__col--left"><div class="sc-head__slot sc-head__left-eyebrow sc-head__slot--line">Trait</div><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Revenant Traits</h3><div class="sc-head__slot sc-head__left-deck sc-head__slot--line">Revenant</div></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
@@ -2000,13 +2000,13 @@ Lady Filliamo shrugged. "I'm a knight of the church. Jurisdiction's for the city
 <div class="sc-trait__body">
 <p>Your undead body grants you immunity to cold, corruption, lightning, and poison damage equal to your level, but you have fire weakness 5. You can&#39;t suffocate, and you don&#39;t need to eat or drink to stay alive.</p>
 <p>Additionally, when your <a href="../../../Browse/rule/health/stamina/">Stamina</a> reaches the negative of your <a href="../../../Browse/rule/health/winded/">winded</a> value, you become inert instead of <a href="../../../Browse/rule/health/dying/">dying</a>. You fall <a href="../../../Browse/condition/prone/">prone</a> and can&#39;t stand. You continue to observe your surroundings, but you can&#39;t speak, take main actions, maneuvers, move actions, or <a href="../../../Browse/rule/combat/triggered-action/">triggered actions</a>. While inert this way, if you take any fire damage, your body is destroyed and you die. Otherwise, after 12 hours, you regain <a href="../../../Browse/rule/health/stamina/">Stamina</a> equal to your <a href="../../../Browse/rule/health/recoveries/">recovery value</a>.</p>
-<div class="sc-trait__nest">
+</div>
+</section>
 <section class="sc-trait" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Purchased Revenant Traits</h3></div></div><div class="sc-head__rail sc-head__col--right"></div></header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have 2 ancestry points to spend on the following traits, or 3 ancestry points if your <a href="../../../Browse/rule/character/size/">size</a> is 1S. (<em>Quick Build:</em> Bloodless, plus Undead Influence if <a href="../../../Browse/rule/character/size/">size</a> 1S.)</p>
-</div>
-</section>
+<div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
 <header class="sc-head"><div class="sc-head__stack"><div class="sc-head__col sc-head__col--left"><h3 class="sc-head__slot sc-head__left-primary sc-head__slot--line">Bloodless</h3></div></div><div class="sc-head__rail sc-head__col--right"><div class="sc-head__slot sc-head__right-primary sc-head__slot--mini">2 Points</div></div></header>
 <div class="sc-trait__body">

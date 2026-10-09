@@ -23,3 +23,14 @@ If a hero wants to halt hostilities to negotiate with the other side, they can u
 ## Starting Stats
 
 An [NPC](../general/npc.md)'s starting negotiation stats depend on their attitude toward the heroes, as shown on the Negotiation Starting Attitudes table, and can be adjusted by the Director as they see fit. A naturally irascible [NPC](../general/npc.md) might have lower [patience](patience.md), while a hostile [NPC](../general/npc.md) with a greater-than-expected stake in the negotiation topic might have a higher-than-typical [interest](interest.md).
+
+#### Negotiation Starting Attitudes Table
+
+| Attitude   | Description                                                                                              | [Interest](interest.md) | [Patience](patience.md) |
+|------------|----------------------------------------------------------------------------------------------------------|----------|----------|
+| Hostile    | Openly opposed to the heroes. Barely willing to listen.                                                  | 1        | 2        |
+| Suspicious | Doubts the heroes' motives but is willing to listen.                                                     | 2        | 2        |
+| Neutral    | Doesn't feel one way or the other. Would probably rather be somewhere else, but doesn't want to be rude. | 2        | 3        |
+| Open       | Willing to listen, willing to help, as long as the heroes aren't asking too much.                        | 3        | 3        |
+| Friendly   | The heroes seem like the [NPC](../general/npc.md)'s people. The [NPC](../general/npc.md) is willing to give them the benefit of the doubt.         | 3        | 4        |
+| Trusting   | The [NPC](../general/npc.md) has reason to take the heroes at their word and will help if the characters don't screw this up. | 3        | 5        |
